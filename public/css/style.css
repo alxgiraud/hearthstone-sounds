@@ -1,0 +1,46 @@
+#main-container {
+    margin-top: 10%;
+}
+
+#search-bar {
+    margin: 20px 0;
+}
+
+#search-bar button {
+    margin-right: 5px;
+}
+
+.player-container {
+    min-height: 303px;
+}
+
+#image-card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.player {
+    margin-top: 3%;
+}
+
+.row-player {
+    margin-top: 5px;
+}
+
+.spinner {
+    margin-top: 40px;
+    text-align: center;
+}
+
+@media (max-width: 450px) {
+    .hidden-xxs {
+        display: none !important;
+    }
+}
+
+@media (max-width: 580px) {
+    .hidden-language {
+        display: none !important;
+    }
+}

@@ -1,0 +1,78 @@
+<div class="container" id="main-container">
+    <div class="alert alert-danger" role="alert" ng-show="error">
+        {{ error }}
+    </div>
+
+    <!-- Search bar with random and language buttons -->
+    <div class="row" id="search-bar">
+        <div class="col-xs-6 col-md-7">
+            <input type="text" ng-model="selectedMinion" placeholder="Search the sounds..." uib-typeahead="minion as minion.name for minion in minions | filter:{name:$viewValue} | limitTo:10" class="form-control" typeahead-show-hint="true" typeahead-min-length="0" typeahead-editable="false" typeahead-on-select="onSelectMinion($model)">
+        </div>
+        <div class="col-xs-6 col-md-5">
+            <button type="button" class="btn btn-default pull-left" ng-click="onClickRandom()" ng-disabled="loaderSound">
+                <i class="fa fa-random" aria-hidden="true"></i> <span class="hidden-xs">Random</span>
+            </button>
+
+            <div class="btn-group" uib-dropdown>
+                <button type="button" class="btn btn-default" uib-dropdown-toggle ng-disabled="loaderSound">
+                    <img ng-src="../img/flag-{{ selectedLanguage.abv }}.png" alt="flag country" /> <span class="hidden-language">{{ selectedLanguage.label }}</span> <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" uib-dropdown-menu role="menu" aria-labelledby="single-button">
+                    <li role="menuitem" ng-repeat="language in languages">
+                        <a href ng-click="onSelectLanguage(language)"> <img ng-src="../img/flag-{{ language.abv }}.png" /> {{ language.label }}</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Result search -->
+    <div class="well well-lg player-container" ng-show="loaderSound !== undefined">
+        <div ng-show="loaderSound === true" class="spinner">
+            <i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>
+            <span class="sr-only">Loading...</span>
+        </div>
+
+        <div ng-show="loaderSound === false">
+            <div class="row">
+                <!-- Image card -->
+                <div class="col-xs-6">
+                    <img class="img-responsive" alt="Responsive image" id="image-card" ng-src="http://wow.zamimg.com/images/hearthstone/cards/{{ pathPicsLanguage }}/medium/{{ selectedMinion.image }}.png" alt="image card" />
+                </div>
+                
+                <!-- Sound players and downloads -->
+                <div class="col-xs-6">
+                    <div class="row player">
+                        <div ng-repeat="sound in sounds" class="row row-player">
+                            <div class="col-md-2">
+                                {{ sound.event }}
+                            </div>
+                            <div class="col-md-10">
+                                <button ng-click="audio[sound.id].play()" class="btn btn-default">
+                                    <i class="fa fa-play" aria-hidden="true"></i> <span class="hidden-xs">Play</span>
+                                </button>
+                                <button ng-click="stop(sound.id)" class="btn btn-danger player-button">
+                                    <i class="fa fa-stop" aria-hidden="true"></i> <span class="hidden-xs">Stop</span>
+                                </button>
+                                <div class="btn-group" uib-dropdown>
+                                    <button type="button" class="btn btn-primary" uib-dropdown-toggle>
+                                        <i class="fa fa-download" aria-hidden="true"></i> <span class="hidden-xxs">Download</span>
+                                    </button>
+
+                                    <ul class="dropdown-menu" uib-dropdown-menu role="menu" aria-labelledby="single-button">
+                                        <li role="menuitem" ng-repeat="source in sound.sources">
+                                            <a ng-href="{{ source.src }}" download>{{ source.extension }}</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+</div>
