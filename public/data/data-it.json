@@ -15,7 +15,7 @@
         "collectible": 1,
         "name": "Edwin VanCleef",
         "description": "Combo: ottiene +2/+2 per ogni carta giocata precedentemente in questo turno.",
-        "popularity": 2159
+        "popularity": 2198
     },
     {
         "id": 391,
@@ -32,7 +32,7 @@
         "collectible": 1,
         "name": "Lama della Perdizione",
         "description": "Grido di Battaglia: infligge 1 danno. Combo: infligge 2 danni.",
-        "popularity": 1607
+        "popularity": 1611
     },
     {
         "id": 999,
@@ -48,7 +48,7 @@
         "collectible": 1,
         "name": "Incursore Velerosse",
         "description": "Grido di Battaglia: ottiene un incremento all'Attacco pari all'Attacco della tua Arma.",
-        "popularity": 3421
+        "popularity": 3440
     },
     {
         "id": 749,
@@ -65,7 +65,7 @@
         "collectible": 1,
         "name": "Thalnos",
         "description": "+1 Danni Magici. Rantolo di Morte: pesca una carta.",
-        "popularity": 10323
+        "popularity": 10378
     },
     {
         "id": 179,
@@ -80,7 +80,7 @@
         "faction": 3,
         "collectible": 1,
         "name": "Fuoco Fatuo",
-        "popularity": 1054
+        "popularity": 1060
     },
     {
         "id": 1009,
@@ -97,7 +97,7 @@
         "collectible": 1,
         "name": "Capitano Cantaguerra",
         "description": "I tuoi servitori con Carica hanno +1 Attacco.",
-        "popularity": 2874
+        "popularity": 2871
     },
     {
         "id": 635,
@@ -113,7 +113,7 @@
         "collectible": 1,
         "name": "Guardiano di Sen'jin",
         "description": "Provocazione",
-        "popularity": 13564
+        "popularity": 13595
     },
     {
         "id": 830,
@@ -144,7 +144,7 @@
         "collectible": 1,
         "name": "Costruttrice di Draghi",
         "description": "Grido di Battaglia: evoca un Minidrago Meccanico 2/1.",
-        "popularity": 1841
+        "popularity": 1845
     },
     {
         "id": 700,
@@ -160,7 +160,7 @@
         "collectible": 1,
         "name": "Custode Mogu'shan",
         "description": "Provocazione",
-        "popularity": 2246
+        "popularity": 2241
     },
     {
         "id": 443,
@@ -176,7 +176,7 @@
         "race": 20,
         "name": "Granchio Affamato",
         "description": "Grido di Battaglia: distrugge un Murloc e ottiene +2/+2.",
-        "popularity": 713
+        "popularity": 716
     },
     {
         "id": 1091,
@@ -191,7 +191,7 @@
         "collectible": 1,
         "name": "Depistaggio",
         "description": "Segreto: quando un personaggio attacca il tuo eroe, attacca invece un altro personaggio casuale.",
-        "popularity": 1480
+        "popularity": 1481
     },
     {
         "id": 1133,
@@ -208,7 +208,7 @@
         "collectible": 1,
         "name": "Assassino Paziente",
         "description": "Furtività. Distrugge qualsiasi servitore danneggiato da questo servitore.",
-        "popularity": 393
+        "popularity": 389
     },
     {
         "id": 1029,
@@ -223,7 +223,7 @@
         "collectible": 1,
         "name": "Insegnante Violacea",
         "description": "Quando lanci una Magia, evoca un Apprendista Violaceo 1/1.",
-        "popularity": 3407
+        "popularity": 3426
     },
     {
         "id": 538,
@@ -240,7 +240,7 @@
         "collectible": 1,
         "name": "Fabbro d'Arathi",
         "description": "Grido di Battaglia: equipaggia un'Arma 2/2.",
-        "popularity": 2311
+        "popularity": 2323
     },
     {
         "id": 1659,
@@ -255,7 +255,7 @@
         "health": 3,
         "name": "Accolito del Dolore",
         "description": "Quando subisce danni, pesca una carta.",
-        "popularity": 11700
+        "popularity": 11841
     },
     {
         "id": 841,
@@ -270,7 +270,7 @@
         "collectible": 1,
         "name": "Esplosione Sacra",
         "description": "Infligge 2 danni ai nemici. Rigenera 2 Salute ai tuoi personaggi.",
-        "popularity": 9402
+        "popularity": 9458
     },
     {
         "id": 1026,
@@ -284,7 +284,7 @@
         "collectible": 1,
         "name": "Urlo di Comando",
         "description": "Per questo turno, i tuoi servitori non possono essere portati al di sotto di 1 Salute. Pesca una carta.",
-        "popularity": 1018
+        "popularity": 1016
     },
     {
         "id": 774,
@@ -301,7 +301,7 @@
         "attack": 2,
         "name": "Elementale Indomito",
         "description": "Ottiene +1/+1 quando giochi una carta con Sovraccarico.",
-        "popularity": 2947
+        "popularity": 2954
     },
     {
         "id": 70,
@@ -316,7 +316,7 @@
         "collectible": 1,
         "name": "Benedizione: Vigore",
         "description": "+3 Attacco a un servitore.",
-        "popularity": 2949
+        "popularity": 2967
     },
     {
         "id": 943,
@@ -331,7 +331,7 @@
         "collectible": 1,
         "name": "Benedizione dei Re",
         "description": "+4/+4 a un servitore.",
-        "popularity": 5470
+        "popularity": 5478
     },
     {
         "id": 77,
@@ -346,7 +346,7 @@
         "collectible": 1,
         "name": "Metamorfosi",
         "description": "Trasforma un servitore in una Pecora 1/1.",
-        "popularity": 7869
+        "popularity": 7906
     },
     {
         "id": 348,
@@ -362,7 +362,7 @@
         "collectible": 1,
         "name": "Nano Ferroscuro",
         "description": "Grido di Battaglia: +2 Attacco a un servitore per questo turno.",
-        "popularity": 6744
+        "popularity": 6754
     },
     {
         "id": 344,
@@ -377,7 +377,7 @@
         "collectible": 1,
         "name": "Carica",
         "description": "+2 Attacco e Carica a un tuo servitore.",
-        "popularity": 1179
+        "popularity": 1187
     },
     {
         "id": 1371,
@@ -393,7 +393,7 @@
         "race": 20,
         "name": "Kodo Impetuoso",
         "description": "Grido di Battaglia: distrugge un servitore nemico casuale con Attacco pari a 2 o inferiore.",
-        "popularity": 3677
+        "popularity": 3703
     },
     {
         "id": 854,
@@ -408,7 +408,7 @@
         "collectible": 1,
         "name": "Umiltà",
         "description": "Imposta l'Attacco di un servitore a 1.",
-        "popularity": 1793
+        "popularity": 1810
     },
     {
         "id": 526,
@@ -424,7 +424,7 @@
         "collectible": 1,
         "name": "Gruul",
         "description": "Alla fine di ogni turno, ottiene +1/+1.",
-        "popularity": 787
+        "popularity": 789
     },
     {
         "id": 213,
@@ -455,7 +455,7 @@
         "collectible": 1,
         "name": "Infiltrato Worgen",
         "description": "Furtività",
-        "popularity": 3041
+        "popularity": 3057
     },
     {
         "id": 662,
@@ -470,7 +470,7 @@
         "collectible": 1,
         "name": "Dardo di Gelo",
         "description": "Infligge 3 danni e Congela.",
-        "popularity": 11887
+        "popularity": 11932
     },
     {
         "id": 1008,
@@ -488,7 +488,7 @@
         "collectible": 1,
         "name": "Totem del Fuoco",
         "description": "I servitori adiacenti hanno +2 Attacco.",
-        "popularity": 6799
+        "popularity": 6864
     },
     {
         "id": 345,
@@ -503,7 +503,7 @@
         "collectible": 1,
         "name": "Assassinio",
         "description": "Distrugge un servitore nemico.",
-        "popularity": 2723
+        "popularity": 2725
     },
     {
         "id": 157,
@@ -519,7 +519,7 @@
         "collectible": 1,
         "name": "Campione dell'Arena",
         "description": "Provocazione",
-        "popularity": 3195
+        "popularity": 3201
     },
     {
         "id": 1109,
@@ -535,7 +535,7 @@
         "collectible": 1,
         "name": "Maestro di Spade Ferito",
         "description": "Grido di Battaglia: infligge 4 danni a SE STESSO.",
-        "popularity": 4451
+        "popularity": 4462
     },
     {
         "id": 1100,
@@ -550,7 +550,7 @@
         "collectible": 1,
         "name": "Risucchio d'Anima",
         "description": "Distrugge un servitore. Rigenera 3 Salute al tuo eroe.",
-        "popularity": 4026
+        "popularity": 4049
     },
     {
         "id": 594,
@@ -565,7 +565,7 @@
         "collectible": 1,
         "name": "Mano Celestiale",
         "description": "Rigenera 8 Salute. Pesca 3 carte.",
-        "popularity": 3844
+        "popularity": 3852
     },
     {
         "id": 34,
@@ -581,7 +581,7 @@
         "collectible": 1,
         "name": "Guardia di Lunargenta",
         "description": "Scudo Divino",
-        "popularity": 1650
+        "popularity": 1651
     },
     {
         "id": 1099,
@@ -596,7 +596,7 @@
         "collectible": 1,
         "name": "Visione Mentale",
         "description": "Mette nella tua mano una copia di una carta casuale dalla mano dell'avversario.",
-        "popularity": 1921
+        "popularity": 1923
     },
     {
         "id": 1687,
@@ -611,7 +611,7 @@
         "health": 5,
         "race": 20,
         "name": "Segugio del Nucleo",
-        "popularity": 1419
+        "popularity": 1423
     },
     {
         "id": 510,
@@ -628,7 +628,7 @@
         "collectible": 1,
         "name": "Oracolo Scagliasalda",
         "description": "TUTTI gli altri Murloc hanno +1 Attacco.",
-        "popularity": 2307
+        "popularity": 2312
     },
     {
         "id": 629,
@@ -643,7 +643,7 @@
         "collectible": 1,
         "name": "Tempesta di Fulmini",
         "description": "Infligge da 2 a 3 danni ai servitori nemici. Sovraccarico: (2)",
-        "popularity": 6436
+        "popularity": 6497
     },
     {
         "id": 797,
@@ -660,7 +660,7 @@
         "collectible": 1,
         "name": "Pozzo di Luce",
         "description": "All'inizio del tuo turno, rigenera 3 Salute a un tuo personaggio danneggiato.",
-        "popularity": 2162
+        "popularity": 2167
     },
     {
         "id": 453,
@@ -677,7 +677,7 @@
         "collectible": 1,
         "name": "Veggente Lucefredda",
         "description": "Grido di Battaglia: +2 Salute a TUTTI gli altri Murloc.",
-        "popularity": 1893
+        "popularity": 1900
     },
     {
         "id": 810,
@@ -694,7 +694,7 @@
         "collectible": 1,
         "name": "Urloatroce",
         "description": "Attaccare un servitore costa 1 punto Attacco invece che 1 Integrità.",
-        "popularity": 2283
+        "popularity": 2330
     },
     {
         "id": 818,
@@ -709,7 +709,7 @@
         "collectible": 1,
         "name": "Sguardo Lontano",
         "description": "Pesca una carta. La carta pescata costa (3) in meno.",
-        "popularity": 489
+        "popularity": 491
     },
     {
         "id": 90,
@@ -724,7 +724,7 @@
         "health": 5,
         "collectible": 1,
         "name": "Yeti di Ventofreddo",
-        "popularity": 10089
+        "popularity": 10119
     },
     {
         "id": 467,
@@ -739,7 +739,7 @@
         "cost": 0,
         "name": "Fuoco Lunare",
         "description": "Infligge 1 |4(danno,danni).",
-        "popularity": 872
+        "popularity": 877
     },
     {
         "id": 1064,
@@ -754,7 +754,7 @@
         "collectible": 1,
         "name": "Vortice di Lame",
         "description": "Distrugge la tua Arma e infligge danni pari al suo attacco ai servitori nemici.",
-        "popularity": 4859
+        "popularity": 4839
     },
     {
         "id": 1366,
@@ -768,7 +768,7 @@
         "classs": 5,
         "name": "Dissoluzione di Massa",
         "description": "Silenzia i servitori nemici. Pesca una carta.",
-        "popularity": 1375
+        "popularity": 1379
     },
     {
         "id": 801,
@@ -784,7 +784,7 @@
         "collectible": 1,
         "name": "Alchimista Folle",
         "description": "Grido di Battaglia: scambia Attacco e Salute di un servitore.",
-        "popularity": 1666
+        "popularity": 1674
     },
     {
         "id": 220,
@@ -799,7 +799,7 @@
         "collectible": 1,
         "name": "Follia d'Ombra",
         "description": "Ottieni il controllo di un servitore nemico con Attacco pari a 3 o inferiore fino alla fine del turno.",
-        "popularity": 3230
+        "popularity": 3238
     },
     {
         "id": 756,
@@ -814,7 +814,7 @@
         "collectible": 1,
         "name": "Eguaglianza",
         "description": "Imposta la Salute di TUTTI i servitori a 1.",
-        "popularity": 6254
+        "popularity": 6286
     },
     {
         "id": 437,
@@ -828,7 +828,7 @@
         "classs": 3,
         "name": "Famiglio Animale",
         "description": "Evoca una Bestia casuale fra Misha, Leokk e Huffer.",
-        "popularity": 7535
+        "popularity": 7573
     },
     {
         "id": 86,
@@ -842,7 +842,7 @@
         "collectible": 1,
         "name": "Pioggia di Stelle",
         "description": "Scegli: infligge 5 danni a un servitore o 2 danni ai servitori nemici.",
-        "popularity": 3037
+        "popularity": 3044
     },
     {
         "id": 430,
@@ -857,7 +857,7 @@
         "collectible": 1,
         "name": "Cono di Freddo",
         "description": "Infligge 1 |4(danno,danni) a un servitore e a quelli adiacenti e li Congela.",
-        "popularity": 3056
+        "popularity": 3064
     },
     {
         "id": 767,
@@ -872,7 +872,7 @@
         "collectible": 1,
         "name": "Folgore della Terra",
         "description": "Silenzia un servitore e gli infligge 1 |4(danno,danni).",
-        "popularity": 5978
+        "popularity": 5981
     },
     {
         "id": 890,
@@ -890,7 +890,7 @@
         "collectible": 1,
         "name": "Tirion Fordring",
         "description": "Scudo Divino. Provocazione. Rantolo di Morte: equipaggia una Brandicenere 5/3.",
-        "popularity": 4712
+        "popularity": 4736
     },
     {
         "id": 1182,
@@ -907,7 +907,7 @@
         "race": 20,
         "name": "Grizzly Peloduro",
         "description": "Provocazione",
-        "popularity": 5572
+        "popularity": 5594
     },
     {
         "id": 708,
@@ -922,7 +922,7 @@
         "collectible": 1,
         "name": "Colpo alla Testa",
         "description": "Infligge 2 danni all'eroe nemico. Combo: torna nella tua mano alla fine del turno.",
-        "popularity": 834
+        "popularity": 837
     },
     {
         "id": 877,
@@ -937,7 +937,7 @@
         "collectible": 1,
         "name": "Tiro Arcano",
         "description": "Infligge 2 danni.",
-        "popularity": 3138
+        "popularity": 3159
     },
     {
         "id": 1221,
@@ -954,7 +954,7 @@
         "race": 15,
         "name": "Terrore del Vuoto",
         "description": "Grido di Battaglia: distrugge i servitori adiacenti e ne ottiene Attacco e Salute.",
-        "popularity": 2141
+        "popularity": 2137
     },
     {
         "id": 1092,
@@ -969,7 +969,7 @@
         "collectible": 1,
         "name": "Spira Letale",
         "description": "Infligge 1 |4(danno,danni) a un servitore. Se muore, pesca una carta.",
-        "popularity": 6400
+        "popularity": 6431
     },
     {
         "id": 785,
@@ -984,7 +984,7 @@
         "collectible": 1,
         "name": "Esecuzione",
         "description": "Distrugge un servitore nemico danneggiato.",
-        "popularity": 6847
+        "popularity": 6951
     },
     {
         "id": 1171,
@@ -999,7 +999,7 @@
         "collectible": 1,
         "name": "Brama di Sangue",
         "description": "+3 Attacco ai tuoi servitori per questo turno.",
-        "popularity": 3597
+        "popularity": 3636
     },
     {
         "id": 287,
@@ -1015,7 +1015,7 @@
         "collectible": 1,
         "name": "Sequestratore",
         "description": "Combo: fa tornare un servitore nella mano di chi lo controlla.",
-        "popularity": 251
+        "popularity": 252
     },
     {
         "id": 736,
@@ -1033,7 +1033,7 @@
         "collectible": 1,
         "name": "Vecchio Occhiobuio",
         "description": "Carica. Ha +1 Attacco per ogni altro Murloc sul campo.",
-        "popularity": 2089
+        "popularity": 2086
     },
     {
         "id": 1796,
@@ -1064,7 +1064,7 @@
         "collectible": 1,
         "name": "Pugnalata alle Spalle",
         "description": "Infligge 2 danni a un servitore non danneggiato.",
-        "popularity": 6996
+        "popularity": 7058
     },
     {
         "id": 1063,
@@ -1081,7 +1081,7 @@
         "collectible": 1,
         "name": "Condottiero Murloc",
         "description": "TUTTI gli altri Murloc hanno +2/+1.",
-        "popularity": 2126
+        "popularity": 2135
     },
     {
         "id": 365,
@@ -1096,7 +1096,7 @@
         "collectible": 1,
         "name": "Passo nell'Ombra",
         "description": "Fa tornare un tuo servitore nella tua mano. Costa (2) in meno.",
-        "popularity": 3046
+        "popularity": 3057
     },
     {
         "id": 404,
@@ -1111,7 +1111,7 @@
         "collectible": 1,
         "name": "Spirito Ancestrale",
         "description": "Fornisce \"Rantolo di Morte: rievoca questo servitore\" a un servitore.",
-        "popularity": 1393
+        "popularity": 1394
     },
     {
         "id": 763,
@@ -1127,7 +1127,7 @@
         "collectible": 1,
         "name": "Difensore di Argus",
         "description": "Grido di Battaglia: +1/+1 e Provocazione ai servitori adiacenti.",
-        "popularity": 21484
+        "popularity": 21548
     },
     {
         "id": 421,
@@ -1143,7 +1143,7 @@
         "durability": 4,
         "collectible": 1,
         "name": "Lama dell'Assassino",
-        "popularity": 2834
+        "popularity": 2838
     },
     {
         "id": 1657,
@@ -1158,7 +1158,7 @@
         "health": 2,
         "name": "Esperto di Caccia",
         "description": "Grido di Battaglia: distrugge un servitore con Attacco pari a 7 o superiore.",
-        "popularity": 13129
+        "popularity": 13101
     },
     {
         "id": 1167,
@@ -1175,7 +1175,7 @@
         "collectible": 1,
         "name": "Pacificatore Aldor",
         "description": "Grido di Battaglia: imposta l'Attacco di un servitore nemico a 1.",
-        "popularity": 5989
+        "popularity": 6021
     },
     {
         "id": 457,
@@ -1190,7 +1190,7 @@
         "collectible": 1,
         "name": "Tormenta",
         "description": "Infligge 2 danni ai servitori nemici e li Congela.",
-        "popularity": 4996
+        "popularity": 5009
     },
     {
         "id": 1243,
@@ -1204,7 +1204,7 @@
         "classs": 3,
         "name": "Sguinzaglia i Segugi",
         "description": "Evoca un Segugio 1/1 con Carica per ogni servitore nemico sul campo.",
-        "popularity": 6751
+        "popularity": 6780
     },
     {
         "id": 461,
@@ -1219,7 +1219,7 @@
         "collectible": 1,
         "name": "Tramortimento",
         "description": "Fa tornare un servitore nemico nella mano dell'avversario.",
-        "popularity": 4893
+        "popularity": 4944
     },
     {
         "id": 308,
@@ -1235,7 +1235,7 @@
         "collectible": 1,
         "name": "Gnoma Inventrice",
         "description": "Grido di Battaglia: pesca una carta.",
-        "popularity": 5402
+        "popularity": 5419
     },
     {
         "id": 8,
@@ -1250,7 +1250,7 @@
         "collectible": 1,
         "name": "Controllo Mentale",
         "description": "Prendi il controllo di un servitore nemico.",
-        "popularity": 5170
+        "popularity": 5180
     },
     {
         "id": 134,
@@ -1281,7 +1281,7 @@
         "cost": 1,
         "name": "Lancia di Ghiaccio",
         "description": "Congela un personaggio. Se è già Congelato, infligge 4 danni.",
-        "popularity": 3670
+        "popularity": 3683
     },
     {
         "id": 906,
@@ -1297,7 +1297,7 @@
         "collectible": 1,
         "name": "Melma delle Paludi",
         "description": "Grido di Battaglia: distrugge l'Arma dell'avversario.",
-        "popularity": 11391
+        "popularity": 11452
     },
     {
         "id": 1522,
@@ -1328,7 +1328,7 @@
         "race": 20,
         "name": "Altocrine delle Savane",
         "description": "Rantolo di Morte: evoca due Iene 2/2.",
-        "popularity": 4883
+        "popularity": 4899
     },
     {
         "id": 985,
@@ -1345,7 +1345,7 @@
         "race": 20,
         "name": "Metalupo Alfa",
         "description": "I servitori adiacenti hanno +1 Attacco.",
-        "popularity": 6762
+        "popularity": 6819
     },
     {
         "id": 1373,
@@ -1375,7 +1375,7 @@
         "collectible": 1,
         "name": "Sergente Violento",
         "description": "Grido di Battaglia: +2 Attacco a un servitore per questo turno.",
-        "popularity": 9846
+        "popularity": 9916
     },
     {
         "id": 1721,
@@ -1391,7 +1391,7 @@
         "elite": 1,
         "name": "Sylvanas Ventolesto",
         "description": "Rantolo di Morte: prendi il controllo di un servitore nemico casuale.",
-        "popularity": 13182
+        "popularity": 13355
     },
     {
         "id": 285,
@@ -1408,7 +1408,7 @@
         "collectible": 1,
         "name": "Comandante Crudele",
         "description": "Grido di Battaglia: infligge 1 danno a un servitore ma gli fornisce +2 Attacco.",
-        "popularity": 5436
+        "popularity": 5459
     },
     {
         "id": 505,
@@ -1423,7 +1423,7 @@
         "collectible": 1,
         "name": "Dardo Fulminante",
         "description": "Infligge 3 danni. Sovraccarico: (1)",
-        "popularity": 4989
+        "popularity": 5035
     },
     {
         "id": 601,
@@ -1440,7 +1440,7 @@
         "collectible": 1,
         "name": "Custode del Bosco",
         "description": "Scegli: infligge 2 danni o Silenzia un servitore.",
-        "popularity": 7105
+        "popularity": 7091
     },
     {
         "id": 292,
@@ -1455,7 +1455,7 @@
         "collectible": 1,
         "name": "Tiro Multiplo",
         "description": "Infligge 3 danni a due servitori nemici casuali.",
-        "popularity": 2732
+        "popularity": 2740
     },
     {
         "id": 37,
@@ -1471,7 +1471,7 @@
         "collectible": 1,
         "name": "Evocatrice Minuta",
         "description": "Il primo servitore che giochi ogni turno costa (1) in meno.",
-        "popularity": 1136
+        "popularity": 1137
     },
     {
         "id": 754,
@@ -1487,7 +1487,7 @@
         "collectible": 1,
         "name": "Spezzamagie",
         "description": "Grido di Battaglia: Silenzia un servitore.",
-        "popularity": 7261
+        "popularity": 7314
     },
     {
         "id": 459,
@@ -1502,7 +1502,7 @@
         "collectible": 1,
         "name": "Veleno Mortale",
         "description": "+2 Attacco alla tua Arma.",
-        "popularity": 6668
+        "popularity": 6711
     },
     {
         "id": 667,
@@ -1517,7 +1517,7 @@
         "collectible": 1,
         "name": "Ventaglio di Lame",
         "description": "Infligge 1 |4(danno,danni) ai servitori nemici. Pesca una carta.",
-        "popularity": 4677
+        "popularity": 4730
     },
     {
         "id": 866,
@@ -1533,7 +1533,7 @@
         "collectible": 1,
         "name": "Portascudi",
         "description": "Provocazione",
-        "popularity": 3076
+        "popularity": 3068
     },
     {
         "id": 860,
@@ -1548,7 +1548,7 @@
         "collectible": 1,
         "name": "Percepisci Demoni",
         "description": "Pesca due Demoni casuali dal tuo mazzo.",
-        "popularity": 994
+        "popularity": 996
     },
     {
         "id": 1023,
@@ -1563,7 +1563,7 @@
         "collectible": 1,
         "name": "Scudo Saldo",
         "description": "Fornisce 5 Armatura. Pesca una carta.",
-        "popularity": 4920
+        "popularity": 4972
     },
     {
         "id": 920,
@@ -1579,7 +1579,7 @@
         "collectible": 1,
         "name": "Antico del Sapere",
         "description": "Scegli: pesca una carta o rigenera 5 Salute.",
-        "popularity": 5404
+        "popularity": 5388
     },
     {
         "id": 1370,
@@ -1594,7 +1594,7 @@
         "health": 7,
         "race": 20,
         "name": "Tartarabbia dell'Oasi",
-        "popularity": 1658
+        "popularity": 1663
     },
     {
         "id": 41,
@@ -1610,7 +1610,7 @@
         "collectible": 1,
         "name": "Grunt dei Lupi Bianchi",
         "description": "Provocazione",
-        "popularity": 1821
+        "popularity": 1820
     },
     {
         "id": 1014,
@@ -1625,7 +1625,7 @@
         "collectible": 1,
         "name": "Piromante Selvaggio",
         "description": "Dopo che hai lanciato una Magia, infligge 1 danno a TUTTI i servitori.",
-        "popularity": 6866
+        "popularity": 6947
     },
     {
         "id": 257,
@@ -1641,7 +1641,7 @@
         "collectible": 1,
         "name": "Cacciatrice Lamaspina",
         "description": "Grido di Battaglia: evoca un Cinghiale 1/1.",
-        "popularity": 2915
+        "popularity": 2922
     },
     {
         "id": 859,
@@ -1656,7 +1656,7 @@
         "collectible": 1,
         "name": "Distorsione Fatua",
         "description": "Distrugge TUTTI i servitori.",
-        "popularity": 968
+        "popularity": 984
     },
     {
         "id": 436,
@@ -1674,7 +1674,7 @@
         "race": 24,
         "name": "Malygos",
         "description": "+5 Danni Magici",
-        "popularity": 2547
+        "popularity": 2560
     },
     {
         "id": 855,
@@ -1690,7 +1690,7 @@
         "collectible": 1,
         "name": "Millhouse Manalampo",
         "description": "Grido di Battaglia: nel turno successivo, le Magie dell'avversario costano (0).",
-        "popularity": 509
+        "popularity": 508
     },
     {
         "id": 376,
@@ -1705,7 +1705,7 @@
         "collectible": 1,
         "name": "Fuoco Interiore",
         "description": "L'Attacco di un servitore diventa pari alla sua Salute.",
-        "popularity": 2898
+        "popularity": 2903
     },
     {
         "id": 381,
@@ -1720,7 +1720,7 @@
         "collectible": 1,
         "name": "Anima della Foresta",
         "description": "Fornisce \"Rantolo di Morte: evoca un Treant 2/2\" ai tuoi servitori.",
-        "popularity": 1074
+        "popularity": 1072
     },
     {
         "id": 997,
@@ -1736,7 +1736,7 @@
         "collectible": 1,
         "name": "Corsaro Velerosse",
         "description": "Grido di Battaglia: rimuove 1 Integrità dall'Arma dell'avversario.",
-        "popularity": 936
+        "popularity": 938
     },
     {
         "id": 570,
@@ -1753,7 +1753,7 @@
         "collectible": 1,
         "name": "Meccanista Granfavilla",
         "description": "Grido di Battaglia: trasforma un altro servitore casuale in un Gigantosauro 5/5 o in uno Scoiattolo 1/1.",
-        "popularity": 2084
+        "popularity": 2086
     },
     {
         "id": 192,
@@ -1768,7 +1768,7 @@
         "collectible": 1,
         "name": "Blocco di Ghiaccio",
         "description": "Segreto: quando il tuo eroe subisce danni fatali, li previene e diventa Immune per quel turno.",
-        "popularity": 3364
+        "popularity": 3369
     },
     {
         "id": 75,
@@ -1783,7 +1783,7 @@
         "collectible": 1,
         "name": "Rissa",
         "description": "Distrugge TUTTI i servitori tranne uno scelto casualmente.",
-        "popularity": 3417
+        "popularity": 3467
     },
     {
         "id": 196,
@@ -1797,7 +1797,7 @@
         "collectible": 1,
         "name": "Sparizione",
         "description": "Fa tornare TUTTI i servitori nella mano di chi li controlla.",
-        "popularity": 973
+        "popularity": 972
     },
     {
         "id": 1693,
@@ -1814,7 +1814,7 @@
         "race": 20,
         "name": "Re Mukla",
         "description": "Grido di Battaglia: fornisce due Banane all'avversario.",
-        "popularity": 1501
+        "popularity": 1502
     },
     {
         "id": 912,
@@ -1831,7 +1831,7 @@
         "collectible": 1,
         "name": "Harrison Jones",
         "description": "Grido di Battaglia: distrugge l'Arma dell'avversario e pesca un numero di carte pari alla sua Integrità.",
-        "popularity": 3493
+        "popularity": 3549
     },
     {
         "id": 712,
@@ -1862,7 +1862,7 @@
         "collectible": 1,
         "name": "Dragone di Mana",
         "description": "Ottiene +1 Attacco quando lanci una Magia.",
-        "popularity": 6829
+        "popularity": 6862
     },
     {
         "id": 481,
@@ -1877,7 +1877,7 @@
         "collectible": 1,
         "name": "Ferocia",
         "description": "Infligge danni pari all'Attacco del tuo eroe a un servitore.",
-        "popularity": 333
+        "popularity": 334
     },
     {
         "id": 811,
@@ -1893,7 +1893,7 @@
         "collectible": 1,
         "name": "Maestra del Culto",
         "description": "Quando uno degli altri tuoi servitori muore, pesca una carta.",
-        "popularity": 3525
+        "popularity": 3537
     },
     {
         "id": 61,
@@ -1909,7 +1909,7 @@
         "collectible": 1,
         "name": "Fabbro Astioso",
         "description": "Rabbia: la tua Arma ha +2 Attacco.",
-        "popularity": 1863
+        "popularity": 1864
     },
     {
         "id": 608,
@@ -1925,7 +1925,7 @@
         "collectible": 1,
         "name": "Chierica Sole Infranto",
         "description": "Grido di Battaglia: +1/+1 a un tuo servitore.",
-        "popularity": 11032
+        "popularity": 11057
     },
     {
         "id": 462,
@@ -1940,7 +1940,7 @@
         "collectible": 1,
         "name": "Occhio per Occhio",
         "description": "Segreto: quando il tuo eroe subisce danni, infligge gli stessi danni all'eroe nemico.",
-        "popularity": 544
+        "popularity": 545
     },
     {
         "id": 825,
@@ -1957,7 +1957,7 @@
         "collectible": 1,
         "name": "Draco di Zaffiro",
         "description": "+1 Danni Magici. Grido di Battaglia: pesca una carta.",
-        "popularity": 21496
+        "popularity": 21650
     },
     {
         "id": 993,
@@ -1973,7 +1973,7 @@
         "collectible": 1,
         "name": "Gigante di Montagna",
         "description": "Costa (1) in meno per ogni altra carta nella tua mano.",
-        "popularity": 3075
+        "popularity": 3085
     },
     {
         "id": 28,
@@ -1989,7 +1989,7 @@
         "classs": 1,
         "name": "Élite Kor'kron",
         "description": "Carica",
-        "popularity": 3170
+        "popularity": 3207
     },
     {
         "id": 921,
@@ -2006,7 +2006,7 @@
         "race": 20,
         "name": "Pantera della Giungla",
         "description": "Furtività",
-        "popularity": 2419
+        "popularity": 2421
     },
     {
         "id": 336,
@@ -2023,7 +2023,7 @@
         "collectible": 1,
         "name": "Barone Geddon",
         "description": "Alla fine del tuo turno, infligge 2 danni a TUTTI gli altri personaggi.",
-        "popularity": 2007
+        "popularity": 2028
     },
     {
         "id": 783,
@@ -2041,7 +2041,7 @@
         "collectible": 1,
         "name": "Signore delle Fosse",
         "description": "Grido di Battaglia: infligge 5 danni al tuo eroe.",
-        "popularity": 504
+        "popularity": 505
     },
     {
         "id": 401,
@@ -2057,7 +2057,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "Ascia Ardente",
-        "popularity": 7710
+        "popularity": 7814
     },
     {
         "id": 545,
@@ -2072,7 +2072,7 @@
         "collectible": 1,
         "name": "Detonazione Mentale",
         "description": "Infligge 5 danni all'eroe nemico.",
-        "popularity": 2202
+        "popularity": 2207
     },
     {
         "id": 606,
@@ -2090,7 +2090,7 @@
         "collectible": 1,
         "name": "Lupo della Foresta",
         "description": "Le altre tue Bestie hanno +1 Attacco.",
-        "popularity": 4024
+        "popularity": 4033
     },
     {
         "id": 456,
@@ -2107,7 +2107,7 @@
         "collectible": 1,
         "name": "Capitano Pelleverde",
         "description": "Grido di Battaglia: +1/+1 alla tua Arma.",
-        "popularity": 1270
+        "popularity": 1283
     },
     {
         "id": 389,
@@ -2123,7 +2123,7 @@
         "collectible": 1,
         "name": "Arciera Elfica",
         "description": "Grido di Battaglia: infligge 1 danno.",
-        "popularity": 3806
+        "popularity": 3805
     },
     {
         "id": 351,
@@ -2138,7 +2138,7 @@
         "collectible": 1,
         "name": "Fabbro di Spade",
         "description": "Alla fine del tuo turno, +1 Attacco a un altro tuo servitore casuale.",
-        "popularity": 1448
+        "popularity": 1447
     },
     {
         "id": 338,
@@ -2156,7 +2156,7 @@
         "collectible": 1,
         "name": "Grommash Malogrido",
         "description": "Carica. Rabbia: +6 Attacco.",
-        "popularity": 3780
+        "popularity": 3832
     },
     {
         "id": 211,
@@ -2172,7 +2172,7 @@
         "collectible": 1,
         "name": "Gigante di Mare",
         "description": "Costa (1) in meno per ogni servitore sul campo.",
-        "popularity": 2317
+        "popularity": 2354
     },
     {
         "id": 631,
@@ -2190,7 +2190,7 @@
         "collectible": 1,
         "name": "Demone Guardiano",
         "description": "Carica. Grido di Battaglia: scarta 2 carte casuali.",
-        "popularity": 4268
+        "popularity": 4273
     },
     {
         "id": 32,
@@ -2207,7 +2207,7 @@
         "collectible": 1,
         "name": "Al'Akir",
         "description": "Furia del Vento. Carica. Scudo Divino. Provocazione",
-        "popularity": 1929
+        "popularity": 1935
     },
     {
         "id": 654,
@@ -2224,7 +2224,7 @@
         "collectible": 1,
         "name": "Berserker Rabbioso",
         "description": "Ottiene +1 Attacco quando un servitore subisce danni.",
-        "popularity": 3813
+        "popularity": 3844
     },
     {
         "id": 503,
@@ -2239,7 +2239,7 @@
         "collectible": 1,
         "name": "Potere della Natura",
         "description": "Scegli: +1/+1 ai tuoi servitori o evoca una Pantera 3/2.",
-        "popularity": 2982
+        "popularity": 2996
     },
     {
         "id": 950,
@@ -2254,7 +2254,7 @@
         "collectible": 1,
         "name": "Fuoco Infernale",
         "description": "Infligge 3 danni a TUTTI i personaggi.",
-        "popularity": 5123
+        "popularity": 5143
     },
     {
         "id": 525,
@@ -2270,7 +2270,7 @@
         "collectible": 1,
         "name": "Arcimago",
         "description": "+1 Danni Magici",
-        "popularity": 2030
+        "popularity": 2035
     },
     {
         "id": 445,
@@ -2286,7 +2286,7 @@
         "collectible": 1,
         "name": "Cavalcarazzi Folle",
         "description": "Carica",
-        "popularity": 1854
+        "popularity": 1855
     },
     {
         "id": 613,
@@ -2301,7 +2301,7 @@
         "collectible": 1,
         "name": "Parola del Potere: Scudo",
         "description": "+2 Salute a un servitore. Pesca una carta.",
-        "popularity": 9399
+        "popularity": 9474
     },
     {
         "id": 555,
@@ -2316,7 +2316,7 @@
         "collectible": 1,
         "name": "Intelletto Arcano",
         "description": "Pesca 2 carte.",
-        "popularity": 8657
+        "popularity": 8699
     },
     {
         "id": 95,
@@ -2331,7 +2331,7 @@
         "collectible": 1,
         "name": "Nutrizione",
         "description": "Scegli: fornisce 2 Cristalli di Mana o pesca 3 carte.",
-        "popularity": 2232
+        "popularity": 2271
     },
     {
         "id": 1688,
@@ -2347,7 +2347,7 @@
         "race": 20,
         "name": "Gallina Arrabbiata",
         "description": "Rabbia: +5 Attacco.",
-        "popularity": 788
+        "popularity": 792
     },
     {
         "id": 145,
@@ -2362,7 +2362,7 @@
         "collectible": 1,
         "name": "Giochi Mentali",
         "description": "Mette sul campo una copia di un servitore casuale dal mazzo dell'avversario.",
-        "popularity": 857
+        "popularity": 858
     },
     {
         "id": 559,
@@ -2379,7 +2379,7 @@
         "collectible": 1,
         "name": "Leeroy Jenkins",
         "description": "Carica. Grido di Battaglia: evoca due Draghetti 1/1 sotto il controllo dell'avversario.",
-        "popularity": 7550
+        "popularity": 7609
     },
     {
         "id": 768,
@@ -2395,7 +2395,7 @@
         "collectible": 1,
         "name": "Berserker Gurubashi",
         "description": "Quando subisce danni, ottiene +3 Attacco.",
-        "popularity": 4345
+        "popularity": 4359
     },
     {
         "id": 178,
@@ -2412,7 +2412,7 @@
         "collectible": 1,
         "name": "Oratore del Vento",
         "description": "Grido di Battaglia: fornisce Furia del Vento a un tuo servitore.",
-        "popularity": 1503
+        "popularity": 1506
     },
     {
         "id": 886,
@@ -2429,7 +2429,7 @@
         "health": 5,
         "name": "Prole della Luce",
         "description": "L'Attacco di questo servitore è sempre pari alla sua Salute.",
-        "popularity": 2376
+        "popularity": 2380
     },
     {
         "id": 512,
@@ -2445,7 +2445,7 @@
         "collectible": 1,
         "name": "Elementale del Gelo",
         "description": "Grido di Battaglia: Congela un personaggio.",
-        "popularity": 1815
+        "popularity": 1817
     },
     {
         "id": 30,
@@ -2460,7 +2460,7 @@
         "collectible": 1,
         "name": "Furto del Pensiero",
         "description": "Copia 2 carte del mazzo dell'avversario e le mette nella tua mano.",
-        "popularity": 5139
+        "popularity": 5147
     },
     {
         "id": 1281,
@@ -2477,7 +2477,7 @@
         "race": 20,
         "name": "Iena Rovistatrice",
         "description": "Ottiene +2/+1 quando muore una tua Bestia.",
-        "popularity": 3049
+        "popularity": 3058
     },
     {
         "id": 1117,
@@ -2494,7 +2494,7 @@
         "collectible": 1,
         "name": "Agente dell'IR:7",
         "description": "Combo: infligge 2 danni.",
-        "popularity": 5654
+        "popularity": 5702
     },
     {
         "id": 9,
@@ -2512,7 +2512,7 @@
         "collectible": 1,
         "name": "Profeta Velen",
         "description": "Raddoppia i danni e le cure delle tue Magie e del Potere Eroe.",
-        "popularity": 1508
+        "popularity": 1513
     },
     {
         "id": 974,
@@ -2527,7 +2527,7 @@
         "collectible": 1,
         "name": "Fuoco dell'Anima",
         "description": "Infligge 4 danni. Scarta una carta casuale.",
-        "popularity": 5713
+        "popularity": 5723
     },
     {
         "id": 995,
@@ -2543,7 +2543,7 @@
         "collectible": 1,
         "name": "Magus Ogre",
         "description": "+1 Danni Magici",
-        "popularity": 2809
+        "popularity": 2816
     },
     {
         "id": 475,
@@ -2560,7 +2560,7 @@
         "collectible": 1,
         "name": "Murloc Invocamaree",
         "description": "Ottiene +1 Attacco quando viene evocato un Murloc.",
-        "popularity": 2211
+        "popularity": 2220
     },
     {
         "id": 493,
@@ -2575,7 +2575,7 @@
         "collectible": 1,
         "name": "Forza della Natura",
         "description": "Evoca tre Treant 2/2.",
-        "popularity": 4341
+        "popularity": 4323
     },
     {
         "id": 1186,
@@ -2593,7 +2593,7 @@
         "race": 24,
         "name": "Ysera",
         "description": "Alla fine del tuo turno, mette un Sogno nella tua mano.",
-        "popularity": 6491
+        "popularity": 6516
     },
     {
         "id": 748,
@@ -2610,7 +2610,7 @@
         "collectible": 1,
         "name": "Maga del Kirin Tor",
         "description": "Grido di Battaglia: il prossimo Segreto che giochi in questo turno costa (0).",
-        "popularity": 1918
+        "popularity": 1925
     },
     {
         "id": 765,
@@ -2642,7 +2642,7 @@
         "collectible": 1,
         "name": "Signore dei Lupi Bianchi",
         "description": "Grido di Battaglia: ottiene +1/+1 per ogni altro servitore che controlli.",
-        "popularity": 3771
+        "popularity": 3783
     },
     {
         "id": 614,
@@ -2659,7 +2659,7 @@
         "collectible": 1,
         "name": "Novizia Occultista",
         "description": "Le tue Magie costano (1) in meno.",
-        "popularity": 5306
+        "popularity": 5330
     },
     {
         "id": 1365,
@@ -2673,7 +2673,7 @@
         "classs": 5,
         "name": "Fuoco Sacro",
         "description": "Infligge 5 danni. Rigenera 5 Salute al tuo eroe.",
-        "popularity": 3985
+        "popularity": 3990
     },
     {
         "id": 715,
@@ -2689,7 +2689,7 @@
         "collectible": 1,
         "name": "Presenza di Mana",
         "description": "TUTTI i servitori costano (1) in più.",
-        "popularity": 447
+        "popularity": 449
     },
     {
         "id": 757,
@@ -2705,7 +2705,7 @@
         "collectible": 1,
         "name": "Guardiana d'Argento",
         "description": "Scudo Divino",
-        "popularity": 9214
+        "popularity": 9310
     },
     {
         "id": 605,
@@ -2721,7 +2721,7 @@
         "collectible": 1,
         "name": "Guardiano Antico",
         "description": "Non può attaccare.",
-        "popularity": 3857
+        "popularity": 3856
     },
     {
         "id": 284,
@@ -2737,7 +2737,7 @@
         "collectible": 1,
         "name": "Ingegnera Novizia",
         "description": "Grido di Battaglia: pesca una carta.",
-        "popularity": 7448
+        "popularity": 7461
     },
     {
         "id": 648,
@@ -2754,7 +2754,7 @@
         "collectible": 1,
         "name": "Cinghiale Scagliadura",
         "description": "Carica",
-        "popularity": 2769
+        "popularity": 2773
     },
     {
         "id": 149,
@@ -2769,7 +2769,7 @@
         "collectible": 1,
         "name": "Guarigione Ancestrale",
         "description": "Rigenera la Salute di un servitore al massimo e gli fornisce Provocazione.",
-        "popularity": 984
+        "popularity": 986
     },
     {
         "id": 304,
@@ -2785,7 +2785,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "Mietimorte d'Arcanite",
-        "popularity": 3162
+        "popularity": 3193
     },
     {
         "id": 1155,
@@ -2801,7 +2801,7 @@
         "collectible": 1,
         "name": "Worgen Furente",
         "description": "Rabbia: Furia del Vento e +1 Attacco.",
-        "popularity": 4292
+        "popularity": 4306
     },
     {
         "id": 1651,
@@ -2816,7 +2816,7 @@
         "health": 3,
         "name": "Veggente della Terra",
         "description": "Grido di Battaglia: rigenera 3 Salute.",
-        "popularity": 9021
+        "popularity": 9097
     },
     {
         "id": 363,
@@ -2834,7 +2834,7 @@
         "collectible": 1,
         "name": "Onyxia",
         "description": "Grido di Battaglia: evoca Draghetti 1/1 fino a riempire il tuo lato del campo.",
-        "popularity": 1034
+        "popularity": 1040
     },
     {
         "id": 573,
@@ -2849,7 +2849,7 @@
         "collectible": 1,
         "name": "Stilettata",
         "description": "Infligge 1 |4(danno,danni). Pesca una carta.",
-        "popularity": 3147
+        "popularity": 3174
     },
     {
         "id": 755,
@@ -2865,7 +2865,7 @@
         "collectible": 1,
         "name": "Cavaliere del Sangue",
         "description": "Grido di Battaglia: TUTTI i servitori perdono Scudo Divino. Ottiene +3/+3 per ogni Scudo Divino dissolto.",
-        "popularity": 2319
+        "popularity": 2326
     },
     {
         "id": 279,
@@ -2880,7 +2880,7 @@
         "collectible": 1,
         "name": "Punizione Sacra",
         "description": "Infligge 2 danni.",
-        "popularity": 4897
+        "popularity": 4904
     },
     {
         "id": 435,
@@ -2895,7 +2895,7 @@
         "collectible": 1,
         "name": "Ira Sacra",
         "description": "Pesca una carta e infligge danni pari al suo costo.",
-        "popularity": 455
+        "popularity": 457
     },
     {
         "id": 339,
@@ -2911,7 +2911,7 @@
         "collectible": 1,
         "name": "Fuciliere Nano",
         "description": "Grido di Battaglia: infligge 1 danno.",
-        "popularity": 1068
+        "popularity": 1067
     },
     {
         "id": 739,
@@ -2928,7 +2928,7 @@
         "collectible": 1,
         "name": "Murloc Branchiazzurra",
         "description": "Carica",
-        "popularity": 4741
+        "popularity": 4749
     },
     {
         "id": 400,
@@ -2943,7 +2943,7 @@
         "collectible": 1,
         "name": "Furia Battagliera",
         "description": "Pesca una carta per ogni tuo personaggio danneggiato.",
-        "popularity": 2248
+        "popularity": 2295
     },
     {
         "id": 670,
@@ -2959,7 +2959,7 @@
         "collectible": 1,
         "name": "Lamascura",
         "description": "Grido di Battaglia: infligge 3 danni all'eroe nemico.",
-        "popularity": 1689
+        "popularity": 1686
     },
     {
         "id": 415,
@@ -2975,7 +2975,7 @@
         "collectible": 1,
         "name": "Giovane Birraio",
         "description": "Grido di Battaglia: fa tornare un tuo servitore nella tua mano.",
-        "popularity": 3477
+        "popularity": 3476
     },
     {
         "id": 1656,
@@ -2991,7 +2991,7 @@
         "elite": 1,
         "name": "Cavaliere Nero",
         "description": "Grido di Battaglia: distrugge un servitore nemico con Provocazione.",
-        "popularity": 5948
+        "popularity": 5968
     },
     {
         "id": 1142,
@@ -3006,7 +3006,7 @@
         "collectible": 1,
         "name": "Fuoco Demoniaco",
         "description": "Infligge 2 danni a un servitore. Se è un tuo Demone, gli fornisce invece +2/+2.",
-        "popularity": 2096
+        "popularity": 2095
     },
     {
         "id": 140,
@@ -3021,7 +3021,7 @@
         "collectible": 1,
         "name": "Redenzione",
         "description": "Segreto: quando un tuo servitore muore, ritorna in vita con 1 Salute.",
-        "popularity": 2192
+        "popularity": 2188
     },
     {
         "id": 777,
@@ -3039,7 +3039,7 @@
         "collectible": 1,
         "name": "Sire Jaraxxus",
         "description": "Grido di Battaglia: distrugge il tuo eroe e lo sostituisce con Sire Jaraxxus.",
-        "popularity": 3315
+        "popularity": 3323
     },
     {
         "id": 268,
@@ -3054,7 +3054,7 @@
         "collectible": 1,
         "name": "Sangue Freddo",
         "description": "+2 Attacco a un servitore. Combo: +4 Attacco.",
-        "popularity": 3459
+        "popularity": 3488
     },
     {
         "id": 1655,
@@ -3069,7 +3069,7 @@
         "health": 2,
         "name": "Custode della Luce",
         "description": "Ottiene +2 Attacco quando un personaggio viene curato.",
-        "popularity": 1384
+        "popularity": 1386
     },
     {
         "id": 1634,
@@ -3084,7 +3084,7 @@
         "health": 1,
         "name": "Giovane Vestale",
         "description": "Alla fine del tuo turno, +1 Salute a un altro tuo servitore casuale.",
-        "popularity": 2802
+        "popularity": 2804
     },
     {
         "id": 1658,
@@ -3100,7 +3100,7 @@
         "race": 17,
         "name": "Allarm-Bot",
         "description": "All'inizio del tuo turno, scambia questo servitore con un altro a caso nella tua mano.",
-        "popularity": 761
+        "popularity": 762
     },
     {
         "id": 791,
@@ -3116,7 +3116,7 @@
         "collectible": 1,
         "name": "Avventuriero Risoluto",
         "description": "Ottiene +1/+1 quando giochi una carta.",
-        "popularity": 2605
+        "popularity": 2606
     },
     {
         "id": 12,
@@ -3132,7 +3132,7 @@
         "collectible": 1,
         "name": "Manadipendente",
         "description": "Ottiene +2 Attacco per questo turno quando lanci una Magia.",
-        "popularity": 1005
+        "popularity": 1009
     },
     {
         "id": 281,
@@ -3148,7 +3148,7 @@
         "collectible": 1,
         "name": "Ufficiale d'Argento",
         "description": "Carica. Scudo Divino.",
-        "popularity": 10201
+        "popularity": 10204
     },
     {
         "id": 672,
@@ -3164,7 +3164,7 @@
         "collectible": 1,
         "name": "Coboldo Geomante",
         "description": "+1 Danni Magici",
-        "popularity": 4147
+        "popularity": 4156
     },
     {
         "id": 36,
@@ -3182,7 +3182,7 @@
         "collectible": 1,
         "name": "Cenarius",
         "description": "Scegli: +2/+2 agli altri tuoi servitori o evoca due Treant 2/2 con Provocazione.",
-        "popularity": 2270
+        "popularity": 2281
     },
     {
         "id": 45,
@@ -3213,7 +3213,7 @@
         "collectible": 1,
         "name": "Trappola Esplosiva",
         "description": "Segreto: quando il tuo eroe viene attaccato, infligge 2 danni ai nemici.",
-        "popularity": 5506
+        "popularity": 5522
     },
     {
         "id": 640,
@@ -3229,7 +3229,7 @@
         "collectible": 1,
         "name": "Boccalarga",
         "description": "Alla fine del tuo turno, evoca uno Gnoll 2/2 con Provocazione.",
-        "popularity": 1794
+        "popularity": 1795
     },
     {
         "id": 1124,
@@ -3244,7 +3244,7 @@
         "collectible": 1,
         "name": "Crescita Rigogliosa",
         "description": "Fornisce 1 Cristallo di Mana vuoto.",
-        "popularity": 4785
+        "popularity": 4819
     },
     {
         "id": 630,
@@ -3259,7 +3259,7 @@
         "collectible": 1,
         "name": "Scatto",
         "description": "Pesca 4 carte.",
-        "popularity": 2719
+        "popularity": 2714
     },
     {
         "id": 887,
@@ -3275,7 +3275,7 @@
         "classs": 4,
         "name": "Maestra di Inganni",
         "description": "Grido di Battaglia: fornisce Furtività a un tuo servitore fino al tuo turno successivo.",
-        "popularity": 501
+        "popularity": 488
     },
     {
         "id": 692,
@@ -3292,7 +3292,7 @@
         "collectible": 1,
         "name": "Druido dell'Unghia",
         "description": "Scegli: ottiene Carica o +2 Salute e Provocazione.",
-        "popularity": 7239
+        "popularity": 7274
     },
     {
         "id": 237,
@@ -3309,7 +3309,7 @@
         "collectible": 1,
         "name": "Vestale Auchenai",
         "description": "Le tue carte e i tuoi poteri che rigenerano Salute infliggono danni.",
-        "popularity": 4646
+        "popularity": 4688
     },
     {
         "id": 903,
@@ -3324,7 +3324,7 @@
         "collectible": 1,
         "name": "Ira Bestiale",
         "description": "Immune e +2 Attacco a una tua Bestia per questo turno.",
-        "popularity": 574
+        "popularity": 575
     },
     {
         "id": 239,
@@ -3339,7 +3339,7 @@
         "collectible": 1,
         "name": "Arma Roccia Dura",
         "description": "+3 Attacco a un tuo personaggio per questo turno.",
-        "popularity": 6659
+        "popularity": 6731
     },
     {
         "id": 1241,
@@ -3356,7 +3356,7 @@
         "race": 20,
         "name": "Condor Affamato",
         "description": "Quando viene evocata una Bestia sotto il tuo controllo, pesca una carta.",
-        "popularity": 3924
+        "popularity": 3929
     },
     {
         "id": 1084,
@@ -3371,7 +3371,7 @@
         "collectible": 1,
         "name": "Immagine Speculare",
         "description": "Evoca due servitori 0/2 con Provocazione.",
-        "popularity": 5765
+        "popularity": 5785
     },
     {
         "id": 982,
@@ -3386,7 +3386,7 @@
         "collectible": 1,
         "name": "Corruzione",
         "description": "Seleziona un servitore nemico. All'inizio del tuo turno, viene distrutto.",
-        "popularity": 891
+        "popularity": 890
     },
     {
         "id": 1158,
@@ -3401,7 +3401,7 @@
         "collectible": 1,
         "name": "Preparazione",
         "description": "La prossima Magia che lanci in questo turno costa (3) in meno.",
-        "popularity": 3434
+        "popularity": 3464
     },
     {
         "id": 420,
@@ -3418,7 +3418,7 @@
         "collectible": 1,
         "name": "Cairne",
         "description": "Rantolo di Morte: evoca Baine 4/5.",
-        "popularity": 6131
+        "popularity": 6183
     },
     {
         "id": 804,
@@ -3433,7 +3433,7 @@
         "collectible": 1,
         "name": "Assalto Mortale",
         "description": "Infligge 4 danni. Se il tuo eroe ha Salute pari a 12 o inferiore, infligge 6 danni.",
-        "popularity": 1336
+        "popularity": 1345
     },
     {
         "id": 896,
@@ -3448,7 +3448,7 @@
         "collectible": 1,
         "name": "Bengala",
         "description": "TUTTI i servitori perdono Furtività. Distrugge i Segreti nemici. Pesca una carta.",
-        "popularity": 2349
+        "popularity": 2347
     },
     {
         "id": 69,
@@ -3481,7 +3481,7 @@
         "collectible": 1,
         "name": "Guardiano dei Re",
         "description": "Grido di Battaglia: rigenera 6 Salute al tuo eroe.",
-        "popularity": 4166
+        "popularity": 4173
     },
     {
         "id": 186,
@@ -3497,7 +3497,7 @@
         "collectible": 1,
         "name": "Mastro Birraio",
         "description": "Grido di Battaglia: fa tornare un tuo servitore nella tua mano.",
-        "popularity": 1790
+        "popularity": 1789
     },
     {
         "id": 641,
@@ -3514,7 +3514,7 @@
         "race": 20,
         "name": "Dragofalco Giovane",
         "description": "Furia del Vento",
-        "popularity": 1109
+        "popularity": 1110
     },
     {
         "id": 971,
@@ -3529,7 +3529,7 @@
         "collectible": 1,
         "name": "Folgore del Gelo",
         "description": "Infligge 1 |4(danno,danni) a un nemico e lo Congela.",
-        "popularity": 703
+        "popularity": 701
     },
     {
         "id": 773,
@@ -3544,7 +3544,7 @@
         "collectible": 1,
         "name": "Tocco Curativo",
         "description": "Rigenera 8 Salute.",
-        "popularity": 2141
+        "popularity": 2142
     },
     {
         "id": 1122,
@@ -3560,7 +3560,7 @@
         "collectible": 1,
         "name": "Mercenario Goblin",
         "description": "I tuoi servitori costano (3) in più.",
-        "popularity": 2114
+        "popularity": 2118
     },
     {
         "id": 163,
@@ -3589,7 +3589,7 @@
         "collectible": 1,
         "name": "Anatema della Rovina",
         "description": "Infligge 2 danni. Se il bersaglio muore, evoca un Demone casuale.",
-        "popularity": 1079
+        "popularity": 1085
     },
     {
         "id": 440,
@@ -3605,7 +3605,7 @@
         "collectible": 1,
         "name": "Abominio",
         "description": "Provocazione. Rantolo di Morte: infligge 2 danni a TUTTI i personaggi.",
-        "popularity": 2382
+        "popularity": 2386
     },
     {
         "id": 397,
@@ -3621,7 +3621,7 @@
         "collectible": 1,
         "name": "Ghoul Mangiacarne",
         "description": "Ottiene +1 Attacco quando un servitore muore.",
-        "popularity": 2148
+        "popularity": 2150
     },
     {
         "id": 251,
@@ -3637,7 +3637,7 @@
         "collectible": 1,
         "name": "Razziatore di Bottini",
         "description": "Rantolo di Morte: pesca una carta.",
-        "popularity": 11219
+        "popularity": 11286
     },
     {
         "id": 282,
@@ -3670,7 +3670,7 @@
         "race": 20,
         "name": "La Bestia",
         "description": "Rantolo di Morte: evoca Finkle Cascorotto 3/3 sotto il controllo dell'avversario.",
-        "popularity": 719
+        "popularity": 720
     },
     {
         "id": 1090,
@@ -3688,7 +3688,7 @@
         "collectible": 1,
         "name": "Imp delle Fiamme",
         "description": "Grido di Battaglia: infligge 3 danni al tuo eroe.",
-        "popularity": 5097
+        "popularity": 5137
     },
     {
         "id": 519,
@@ -3703,7 +3703,7 @@
         "collectible": 1,
         "name": "Trappola Congelante",
         "description": "Segreto: quando un servitore nemico attacca, ritorna nella mano di chi lo controlla e costa (2) in più.",
-        "popularity": 3751
+        "popularity": 3757
     },
     {
         "id": 724,
@@ -3720,7 +3720,7 @@
         "race": 23,
         "name": "Tagliagole Acquanera",
         "description": "Ha Carica finché hai un'Arma equipaggiata.",
-        "popularity": 2809
+        "popularity": 2833
     },
     {
         "id": 216,
@@ -3736,7 +3736,7 @@
         "collectible": 1,
         "race": 20,
         "name": "Raptor Codarossa",
-        "popularity": 3023
+        "popularity": 3037
     },
     {
         "id": 940,
@@ -3751,7 +3751,7 @@
         "collectible": 1,
         "name": "Fendente",
         "description": "Infligge 2 danni a due servitori nemici casuali.",
-        "popularity": 2190
+        "popularity": 2195
     },
     {
         "id": 602,
@@ -3767,7 +3767,7 @@
         "collectible": 1,
         "name": "Aberrazione delle Paludi",
         "description": "Provocazione",
-        "popularity": 2298
+        "popularity": 2304
     },
     {
         "id": 823,
@@ -3782,7 +3782,7 @@
         "collectible": 1,
         "name": "Fuoco Stellare",
         "description": "Infligge 5 danni. Pesca una carta.",
-        "popularity": 2502
+        "popularity": 2507
     },
     {
         "id": 922,
@@ -3798,7 +3798,7 @@
         "collectible": 1,
         "name": "Fante di Borgodoro",
         "description": "Provocazione",
-        "popularity": 2281
+        "popularity": 2284
     },
     {
         "id": 374,
@@ -3815,7 +3815,7 @@
         "collectible": 1,
         "name": "Ragnaros",
         "description": "Non può attaccare. Alla fine del tuo turno, infligge 8 danni a un nemico casuale.",
-        "popularity": 11375
+        "popularity": 11450
     },
     {
         "id": 1108,
@@ -3830,7 +3830,7 @@
         "collectible": 1,
         "name": "Furia",
         "description": "+3/+3 a un servitore danneggiato.",
-        "popularity": 1377
+        "popularity": 1386
     },
     {
         "id": 567,
@@ -3863,7 +3863,7 @@
         "quality": 1,
         "name": "Tigre di Rovotorto",
         "description": "Furtività",
-        "popularity": 2928
+        "popularity": 2932
     },
     {
         "id": 1362,
@@ -3877,7 +3877,7 @@
         "classs": 5,
         "name": "Circolo di Guarigione",
         "description": "Rigenera 4 Salute a TUTTI i servitori.",
-        "popularity": 4988
+        "popularity": 5035
     },
     {
         "id": 455,
@@ -3892,7 +3892,7 @@
         "collectible": 1,
         "name": "Trappola di Serpi",
         "description": "Segreto: quando un tuo servitore viene attaccato, evoca tre Serpi 1/1.",
-        "popularity": 2160
+        "popularity": 2164
     },
     {
         "id": 272,
@@ -3909,7 +3909,7 @@
         "collectible": 1,
         "name": "Cabalista dell'Ombra",
         "description": "Grido di Battaglia: prendi il controllo di un servitore nemico con Attacco pari a 2 o inferiore.",
-        "popularity": 4134
+        "popularity": 4184
     },
     {
         "id": 511,
@@ -3924,7 +3924,7 @@
         "collectible": 1,
         "name": "Potenziamento",
         "description": "Se possiedi un'Arma, le fornisce +1/+1. Altrimenti, equipaggia un'Arma 1/3.",
-        "popularity": 1128
+        "popularity": 1148
     },
     {
         "id": 546,
@@ -3939,7 +3939,7 @@
         "collectible": 1,
         "name": "Colpo di Scudo",
         "description": "Infligge 1 danno a un servitore per ogni punto Armatura del tuo eroe.",
-        "popularity": 3414
+        "popularity": 3464
     },
     {
         "id": 51,
@@ -3954,7 +3954,7 @@
         "collectible": 1,
         "name": "Furia del Vento",
         "description": "Fornisce Furia del Vento a un servitore.",
-        "popularity": 1453
+        "popularity": 1454
     },
     {
         "id": 1147,
@@ -3971,7 +3971,7 @@
         "collectible": 1,
         "name": "Nat Pagle",
         "description": "All'inizio del tuo turno, hai una probabilità del 50% di pescare una carta aggiuntiva.",
-        "popularity": 2691
+        "popularity": 2690
     },
     {
         "id": 1003,
@@ -3988,7 +3988,7 @@
         "collectible": 1,
         "name": "Maestro dei Segugi",
         "description": "Grido di Battaglia: +2/+2 e Provocazione a una tua Bestia.",
-        "popularity": 4789
+        "popularity": 4815
     },
     {
         "id": 395,
@@ -4005,7 +4005,7 @@
         "collectible": 1,
         "name": "Elementale dell'Acqua",
         "description": "Congela i personaggi che danneggia.",
-        "popularity": 5542
+        "popularity": 5574
     },
     {
         "id": 1662,
@@ -4021,7 +4021,7 @@
         "classs": 3,
         "name": "Arco del Falco",
         "description": "Ottiene +1 Integrità quando viene rivelato un tuo Segreto.",
-        "popularity": 5308
+        "popularity": 5330
     },
     {
         "id": 1080,
@@ -4039,7 +4039,7 @@
         "collectible": 1,
         "name": "Arcimago Antonidas",
         "description": "Quando lanci una Magia, mette nella tua mano una Palla di Fuoco.",
-        "popularity": 3818
+        "popularity": 3831
     },
     {
         "id": 296,
@@ -4054,7 +4054,7 @@
         "collectible": 1,
         "name": "Ordine di Morte",
         "description": "Infligge 3 danni. Se controlli una Bestia, infligge 5 danni.",
-        "popularity": 7235
+        "popularity": 7267
     },
     {
         "id": 513,
@@ -4072,7 +4072,7 @@
         "race": 21,
         "name": "Totem del Mana",
         "description": "Alla fine del tuo turno, pesca una carta.",
-        "popularity": 4149
+        "popularity": 4193
     },
     {
         "id": 919,
@@ -4087,7 +4087,7 @@
         "collectible": 1,
         "name": "Risucchio di Vita",
         "description": "Infligge 2 danni. Rigenera 2 Salute al tuo eroe.",
-        "popularity": 1765
+        "popularity": 1771
     },
     {
         "id": 138,
@@ -4102,7 +4102,7 @@
         "collectible": 1,
         "name": "Vate della Rovina",
         "description": "All'inizio del tuo turno, distrugge TUTTI i servitori.",
-        "popularity": 2924
+        "popularity": 3002
     },
     {
         "id": 582,
@@ -4118,7 +4118,7 @@
         "collectible": 1,
         "name": "Guaritrice Scagliascura",
         "description": "Grido di Battaglia: rigenera 2 Salute ai tuoi personaggi.",
-        "popularity": 3542
+        "popularity": 3560
     },
     {
         "id": 1368,
@@ -4132,7 +4132,7 @@
         "classs": 5,
         "name": "Forma d'Ombra",
         "description": "Il tuo Potere Eroe diventa \"Infligge 2 danni\". Se già in Forma d'Ombra, diventa \"Infligge 3 danni\".",
-        "popularity": 811
+        "popularity": 810
     },
     {
         "id": 587,
@@ -4147,7 +4147,7 @@
         "collectible": 1,
         "name": "Esplosione Gelida",
         "description": "Congela i servitori nemici.",
-        "popularity": 3768
+        "popularity": 3781
     },
     {
         "id": 195,
@@ -4162,7 +4162,7 @@
         "collectible": 1,
         "name": "Entità Speculare",
         "description": "Segreto: dopo che l'avversario gioca un servitore, ne evoca una copia sotto il tuo controllo.",
-        "popularity": 4168
+        "popularity": 4163
     },
     {
         "id": 113,
@@ -4177,7 +4177,7 @@
         "collectible": 1,
         "name": "Controincantesimo",
         "description": "Segreto: quando l'avversario lancia una Magia, questa subisce Contrasto.",
-        "popularity": 2601
+        "popularity": 2595
     },
     {
         "id": 1653,
@@ -4191,7 +4191,7 @@
         "attack": 5,
         "health": 1,
         "name": "Furia di Magma",
-        "popularity": 389
+        "popularity": 388
     },
     {
         "id": 289,
@@ -4207,7 +4207,7 @@
         "collectible": 1,
         "name": "Cavalcalupi",
         "description": "Carica",
-        "popularity": 5039
+        "popularity": 5051
     },
     {
         "id": 858,
@@ -4239,7 +4239,7 @@
         "collectible": 1,
         "name": "Rabbia Interiore",
         "description": "Infligge 1 |4(danno,danni) a un servitore ma gli fornisce +2 Attacco.",
-        "popularity": 2938
+        "popularity": 2965
     },
     {
         "id": 1007,
@@ -4254,7 +4254,7 @@
         "collectible": 1,
         "name": "Assalto Eroico",
         "description": "+4 Attacco al tuo eroe per questo turno.",
-        "popularity": 1890
+        "popularity": 1907
     },
     {
         "id": 352,
@@ -4271,7 +4271,7 @@
         "collectible": 1,
         "name": "Martelfato",
         "description": "Furia del Vento. Sovraccarico: (2)",
-        "popularity": 2658
+        "popularity": 2723
     },
     {
         "id": 1047,
@@ -4286,7 +4286,7 @@
         "collectible": 1,
         "name": "Tracciamento",
         "description": "Guarda le prime tre carte del tuo mazzo. Pescane una e scarta le altre.",
-        "popularity": 2810
+        "popularity": 2814
     },
     {
         "id": 315,
@@ -4301,7 +4301,7 @@
         "collectible": 1,
         "name": "Palla di Fuoco",
         "description": "Infligge 6 danni.",
-        "popularity": 11696
+        "popularity": 11740
     },
     {
         "id": 1140,
@@ -4317,7 +4317,7 @@
         "collectible": 1,
         "name": "Scorta Goblin",
         "description": "Provocazione",
-        "popularity": 1891
+        "popularity": 1897
     },
     {
         "id": 642,
@@ -4333,7 +4333,7 @@
         "collectible": 1,
         "name": "Crociata Scarlatta",
         "description": "Scudo Divino",
-        "popularity": 3846
+        "popularity": 3851
     },
     {
         "id": 132,
@@ -4349,7 +4349,7 @@
         "collectible": 1,
         "name": "Taumaturgo Vudù",
         "description": "Grido di Battaglia: rigenera 2 Salute.",
-        "popularity": 2796
+        "popularity": 2804
     },
     {
         "id": 914,
@@ -4364,7 +4364,7 @@
         "collectible": 1,
         "name": "Dardo d'Ombra",
         "description": "Infligge 4 danni a un servitore.",
-        "popularity": 2821
+        "popularity": 2856
     },
     {
         "id": 1737,
@@ -4381,7 +4381,7 @@
         "elite": 0,
         "name": "Arcanista Etereo",
         "description": "Ottiene +2/+2 se controlli un Segreto alla fine del tuo turno.",
-        "popularity": 1187
+        "popularity": 1188
     },
     {
         "id": 621,
@@ -4396,7 +4396,7 @@
         "collectible": 1,
         "name": "Barriera di Ghiaccio",
         "description": "Segreto: fornisce 8 Armatura quando il tuo eroe viene attaccato.",
-        "popularity": 3265
+        "popularity": 3277
     },
     {
         "id": 846,
@@ -4411,7 +4411,7 @@
         "collectible": 1,
         "name": "Potere Travolgente",
         "description": "+4/+4 a un tuo servitore fino alla fine del turno. Poi muore in modo orribile.",
-        "popularity": 5863
+        "popularity": 5906
     },
     {
         "id": 592,
@@ -4429,7 +4429,7 @@
         "collectible": 1,
         "name": "Succube",
         "description": "Grido di Battaglia: scarta una carta casuale.",
-        "popularity": 835
+        "popularity": 836
     },
     {
         "id": 1098,
@@ -4461,7 +4461,7 @@
         "collectible": 1,
         "name": "Tiro Mortale",
         "description": "Distrugge un servitore nemico casuale.",
-        "popularity": 3109
+        "popularity": 3123
     },
     {
         "id": 1050,
@@ -4476,7 +4476,7 @@
         "collectible": 1,
         "name": "Sfregio",
         "description": "+2 Attacco al tuo eroe per questo turno e 2 Armatura.",
-        "popularity": 2995
+        "popularity": 2999
     },
     {
         "id": 394,
@@ -4491,7 +4491,7 @@
         "collectible": 1,
         "name": "Tiro Esplosivo",
         "description": "Infligge 5 danni a un servitore e 2 danni ai servitori adiacenti.",
-        "popularity": 1856
+        "popularity": 1857
     },
     {
         "id": 1174,
@@ -4506,7 +4506,7 @@
         "collectible": 1,
         "name": "Ira Vendicatrice",
         "description": "Infligge 8 danni suddivisi casualmente tra i nemici.",
-        "popularity": 2883
+        "popularity": 2885
     },
     {
         "id": 1022,
@@ -4523,7 +4523,7 @@
         "collectible": 1,
         "name": "Protettore d'Argento",
         "description": "Grido di Battaglia: fornisce Scudo Divino a un tuo servitore.",
-        "popularity": 4636
+        "popularity": 4652
     },
     {
         "id": 517,
@@ -4557,7 +4557,7 @@
         "classs": 5,
         "name": "Chierica della Contea",
         "description": "Quando un servitore danneggiato viene curato, pesca una carta.",
-        "popularity": 9164
+        "popularity": 9233
     },
     {
         "id": 658,
@@ -4573,7 +4573,7 @@
         "collectible": 1,
         "name": "Gnomo Contaminato",
         "description": "Rantolo di Morte: infligge 2 danni all'eroe nemico.",
-        "popularity": 11554
+        "popularity": 11527
     },
     {
         "id": 189,
@@ -4590,7 +4590,7 @@
         "collectible": 1,
         "name": "Elementale del Fuoco",
         "description": "Grido di Battaglia: infligge 3 danni.",
-        "popularity": 6316
+        "popularity": 6350
     },
     {
         "id": 814,
@@ -4605,7 +4605,7 @@
         "collectible": 1,
         "name": "Colpo da Cecchino",
         "description": "Segreto: dopo che l'avversario gioca un servitore, questo subisce 4 danni.",
-        "popularity": 1526
+        "popularity": 1532
     },
     {
         "id": 680,
@@ -4621,7 +4621,7 @@
         "collectible": 1,
         "name": "Bucaniere Acquanera",
         "description": "Gli altri tuoi Pirati hanno +1/+1.",
-        "popularity": 747
+        "popularity": 757
     },
     {
         "id": 577,
@@ -4653,7 +4653,7 @@
         "collectible": 1,
         "name": "Capo dei Defias",
         "description": "Combo: evoca un Bandito dei Defias 2/1.",
-        "popularity": 2584
+        "popularity": 2588
     },
     {
         "id": 778,
@@ -4670,7 +4670,7 @@
         "race": 17,
         "name": "Golem Mietitore",
         "description": "Rantolo di Morte: evoca un Golem Danneggiato 2/1.",
-        "popularity": 16724
+        "popularity": 16743
     },
     {
         "id": 1144,
@@ -4706,7 +4706,7 @@
         "collectible": 1,
         "name": "Ramingo Cho",
         "description": "Quando un giocatore lancia una Magia, l'avversario ottiene in mano una copia della carta.",
-        "popularity": 883
+        "popularity": 878
     },
     {
         "id": 141,
@@ -4721,7 +4721,7 @@
         "collectible": 1,
         "name": "Marchio del Cacciatore",
         "description": "Imposta la Salute di un servitore a 1.",
-        "popularity": 5214
+        "popularity": 5245
     },
     {
         "id": 175,
@@ -4737,7 +4737,7 @@
         "collectible": 1,
         "name": "Mago di Dalaran",
         "description": "+1 Danni Magici",
-        "popularity": 1732
+        "popularity": 1733
     },
     {
         "id": 1037,
@@ -4754,7 +4754,7 @@
         "collectible": 1,
         "name": "Draco del Crepuscolo",
         "description": "Grido di Battaglia: ottiene +1 Salute per ogni altra carta nella tua mano.",
-        "popularity": 5027
+        "popularity": 5045
     },
     {
         "id": 1016,
@@ -4771,7 +4771,7 @@
         "collectible": 1,
         "name": "Oracolo Lucefredda",
         "description": "Grido di Battaglia: ogni giocatore pesca 2 carte.",
-        "popularity": 3867
+        "popularity": 3881
     },
     {
         "id": 1372,
@@ -4786,7 +4786,7 @@
         "collectible": 1,
         "name": "Gigante di Magma",
         "description": "Costa (1) in meno per ogni danno subito dal tuo eroe.",
-        "popularity": 4837
+        "popularity": 4826
     },
     {
         "id": 147,
@@ -4801,7 +4801,7 @@
         "collectible": 1,
         "name": "Ombrofuoco",
         "description": "Distrugge un tuo servitore e infligge danni pari al suo Attacco ai servitori nemici.",
-        "popularity": 4433
+        "popularity": 4454
     },
     {
         "id": 564,
@@ -4816,7 +4816,7 @@
         "collectible": 1,
         "name": "Missili Arcani",
         "description": "Infligge 3 danni suddivisi casualmente tra i nemici.",
-        "popularity": 5935
+        "popularity": 5966
     },
     {
         "id": 1035,
@@ -4833,7 +4833,7 @@
         "collectible": 1,
         "name": "Antico della Guerra",
         "description": "Scegli: ottiene +5 Salute e Provocazione o +5 Attacco.",
-        "popularity": 2947
+        "popularity": 2972
     },
     {
         "id": 753,
@@ -4849,7 +4849,7 @@
         "collectible": 1,
         "name": "Campione di Roccavento",
         "description": "Gli altri tuoi servitori hanno +1/+1.",
-        "popularity": 6327
+        "popularity": 6354
     },
     {
         "id": 64,
@@ -4864,7 +4864,7 @@
         "collectible": 1,
         "name": "Spazzata",
         "description": "Infligge 4 danni a un nemico e 1 |4(danno,danni) agli altri nemici.",
-        "popularity": 8934
+        "popularity": 8978
     },
     {
         "id": 766,
@@ -4879,7 +4879,7 @@
         "collectible": 1,
         "name": "Maleficio",
         "description": "Trasforma un servitore in una Rana 0/1 con Provocazione.",
-        "popularity": 7379
+        "popularity": 7444
     },
     {
         "id": 466,
@@ -4895,7 +4895,7 @@
         "collectible": 1,
         "name": "Golem Arcano",
         "description": "Grido di Battaglia: fornisce 1 Cristallo di Mana all'avversario.",
-        "popularity": 4191
+        "popularity": 4172
     },
     {
         "id": 469,
@@ -4913,7 +4913,7 @@
         "collectible": 1,
         "name": "Imp del Sangue",
         "description": "Furtività. Alla fine del tuo turno, +1 Salute a un altro tuo servitore casuale.",
-        "popularity": 2279
+        "popularity": 2287
     },
     {
         "id": 1087,
@@ -4928,7 +4928,7 @@
         "collectible": 1,
         "description": "Infligge 10 danni.",
         "name": "Pirosfera",
-        "popularity": 3631
+        "popularity": 3637
     },
     {
         "id": 191,
@@ -4944,7 +4944,7 @@
         "collectible": 1,
         "race": 14,
         "name": "Murloc Incursore",
-        "popularity": 1934
+        "popularity": 1937
     },
     {
         "id": 366,
@@ -4959,7 +4959,7 @@
         "collectible": 1,
         "name": "Flettimagie",
         "description": "Segreto: quando un nemico lancia una Magia su un servitore, evoca un Difensore 1/3 come bersaglio.",
-        "popularity": 891
+        "popularity": 888
     },
     {
         "id": 609,
@@ -4975,7 +4975,7 @@
         "race": 24,
         "name": "Drago Fatato",
         "description": "Non può essere il bersaglio di Magie o Poteri Eroe.",
-        "popularity": 6514
+        "popularity": 6517
     },
     {
         "id": 710,
@@ -4990,7 +4990,7 @@
         "collectible": 1,
         "name": "Assalto Funesto",
         "description": "Infligge 3 danni all'eroe nemico.",
-        "popularity": 1349
+        "popularity": 1363
     },
     {
         "id": 447,
@@ -5005,7 +5005,7 @@
         "collectible": 1,
         "name": "Esplosione Arcana",
         "description": "Infligge 1 |4(danno,danni) ai servitori nemici.",
-        "popularity": 2694
+        "popularity": 2699
     },
     {
         "id": 1367,
@@ -5019,7 +5019,7 @@
         "classs": 5,
         "name": "Parola d'Ombra: Dolore",
         "description": "Distrugge un servitore con Attacco pari a 3 o inferiore.",
-        "popularity": 7585
+        "popularity": 7658
     },
     {
         "id": 584,
@@ -5034,7 +5034,7 @@
         "collectible": 1,
         "name": "Nobile Sacrificio",
         "description": "Segreto: quando un nemico attacca, evoca un Difensore 2/1 come bersaglio.",
-        "popularity": 2856
+        "popularity": 2858
     },
     {
         "id": 1019,
@@ -5052,7 +5052,7 @@
         "collectible": 1,
         "name": "Infernale del Terrore",
         "description": "Grido di Battaglia: infligge 1 danno a TUTTI gli altri personaggi.",
-        "popularity": 1644
+        "popularity": 1649
     },
     {
         "id": 233,
@@ -5067,7 +5067,7 @@
         "collectible": 1,
         "name": "Naturalizzazione",
         "description": "Distrugge un servitore. L'avversario pesca 2 carte.",
-        "popularity": 1476
+        "popularity": 1479
     },
     {
         "id": 836,
@@ -5082,7 +5082,7 @@
         "collectible": 1,
         "name": "Ira Silvana",
         "description": "Scegli: infligge 3 danni a un servitore o infligge 1 |4(danno,danni) a un servitore e pesca una carta.",
-        "popularity": 7754
+        "popularity": 7799
     },
     {
         "id": 158,
@@ -5114,7 +5114,7 @@
         "collectible": 1,
         "name": "Banditore di Meccania",
         "description": "Quando lanci una Magia, pesca una carta.",
-        "popularity": 5202
+        "popularity": 5245
     },
     {
         "id": 990,
@@ -5129,7 +5129,7 @@
         "collectible": 1,
         "name": "Copertura",
         "description": "Fornisce Furtività ai tuoi servitori fino al tuo turno successivo.",
-        "popularity": 1940
+        "popularity": 1969
     },
     {
         "id": 878,
@@ -5145,7 +5145,7 @@
         "collectible": 1,
         "name": "Corsaro del Terrore",
         "description": "Provocazione. Costa (1) in meno per ogni punto Attacco della tua Arma.",
-        "popularity": 2488
+        "popularity": 2500
     },
     {
         "id": 299,
@@ -5160,7 +5160,7 @@
         "collectible": 1,
         "name": "Fulmine Biforcuto",
         "description": "Infligge 2 danni a due servitori nemici casuali. Sovraccarico: (2)",
-        "popularity": 1919
+        "popularity": 1922
     },
     {
         "id": 727,
@@ -5175,7 +5175,7 @@
         "collectible": 1,
         "name": "Imposizione: Protezione",
         "description": "Fornisce Scudo Divino a un servitore.",
-        "popularity": 1920
+        "popularity": 1923
     },
     {
         "id": 286,
@@ -5208,7 +5208,7 @@
         "race": 24,
         "name": "Nozdormu",
         "description": "I giocatori hanno solo 15 secondi per completare il proprio turno.",
-        "popularity": 480
+        "popularity": 482
     },
     {
         "id": 1361,
@@ -5222,7 +5222,7 @@
         "classs": 5,
         "name": "Spirito Divino",
         "description": "Raddoppia la Salute di un servitore.",
-        "popularity": 3395
+        "popularity": 3401
     },
     {
         "id": 596,
@@ -5239,7 +5239,7 @@
         "collectible": 1,
         "name": "Fabbro d'Armature",
         "description": "Quando un tuo servitore subisce danni, fornisce 1 Armatura.",
-        "popularity": 4323
+        "popularity": 4371
     },
     {
         "id": 976,
@@ -5256,7 +5256,7 @@
         "collectible": 1,
         "name": "Murloc Cacciamaree",
         "description": "Grido di Battaglia: evoca un Murloc Esploratore 1/1.",
-        "popularity": 3683
+        "popularity": 3696
     },
     {
         "id": 699,
@@ -5274,7 +5274,7 @@
         "collectible": 1,
         "name": "Rinoceronte Furioso",
         "description": "Le tue Bestie hanno Carica.",
-        "popularity": 2334
+        "popularity": 2342
     },
     {
         "id": 969,
@@ -5291,7 +5291,7 @@
         "attack": 0,
         "name": "Portale d'Evocazione",
         "description": "I tuoi servitori costano (2) in meno, ma non meno di (1).",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 250,
@@ -5306,7 +5306,7 @@
         "collectible": 1,
         "name": "Martello dell'Ira",
         "description": "Infligge 3 danni. Pesca una carta.",
-        "popularity": 4397
+        "popularity": 4403
     },
     {
         "id": 622,
@@ -5322,7 +5322,7 @@
         "collectible": 1,
         "name": "Cavaliere di Roccavento",
         "description": "Carica",
-        "popularity": 1789
+        "popularity": 1790
     },
     {
         "id": 762,
@@ -5338,7 +5338,7 @@
         "collectible": 1,
         "name": "Bombarolo Pazzo",
         "description": "Grido di Battaglia: infligge 3 danni suddivisi casualmente tra TUTTI gli altri personaggi.",
-        "popularity": 2684
+        "popularity": 2687
     },
     {
         "id": 476,
@@ -5353,7 +5353,7 @@
         "collectible": 1,
         "name": "Consacrazione",
         "description": "Infligge 2 danni ai nemici.",
-        "popularity": 9426
+        "popularity": 9457
     },
     {
         "id": 1073,
@@ -5368,7 +5368,7 @@
         "collectible": 1,
         "name": "Lanciatore di Coltelli",
         "description": "Dopo che viene evocato un servitore sotto il tuo controllo, infligge 1 danno a un nemico casuale.",
-        "popularity": 15494
+        "popularity": 15505
     },
     {
         "id": 383,
@@ -5399,7 +5399,7 @@
         "collectible": 1,
         "name": "Getto di Lava",
         "description": "Infligge 5 danni. Sovraccarico: (2)",
-        "popularity": 2171
+        "popularity": 2189
     },
     {
         "id": 734,
@@ -5415,7 +5415,7 @@
         "collectible": 1,
         "name": "Tecnocontrollore",
         "description": "Grido di Battaglia: se l'avversario ha quattro o più servitori, prendi il controllo di un servitore casuale.",
-        "popularity": 3845
+        "popularity": 3851
     },
     {
         "id": 1686,
@@ -5429,7 +5429,7 @@
         "attack": 6,
         "health": 7,
         "name": "Ogre Rocciadura",
-        "popularity": 4410
+        "popularity": 4426
     },
     {
         "id": 424,
@@ -5445,7 +5445,7 @@
         "collectible": 1,
         "name": "Sacerdotessa di Elune",
         "description": "Grido di Battaglia: rigenera 4 Salute al tuo eroe.",
-        "popularity": 999
+        "popularity": 1000
     },
     {
         "id": 915,
@@ -5461,7 +5461,7 @@
         "collectible": 1,
         "name": "Mago Anziano",
         "description": "Grido di Battaglia: +1 Danni Magici ai servitori adiacenti.",
-        "popularity": 962
+        "popularity": 963
     },
     {
         "id": 151,
@@ -5476,7 +5476,7 @@
         "collectible": 1,
         "name": "Marchio della Natura",
         "description": "Scegli: +4 Attacco a un servitore o +4 Salute e Provocazione a un servitore.",
-        "popularity": 1469
+        "popularity": 1471
     },
     {
         "id": 1363,
@@ -5490,7 +5490,7 @@
         "classs": 5,
         "name": "Parola d'Ombra: Morte",
         "description": "Distrugge un servitore con Attacco pari a 5 o superiore.",
-        "popularity": 9341
+        "popularity": 9418
     },
     {
         "id": 290,
@@ -5507,7 +5507,7 @@
         "race": 20,
         "name": "Gufo Beccoforte",
         "description": "Grido di Battaglia: Silenzia un servitore.",
-        "popularity": 17161
+        "popularity": 17094
     },
     {
         "id": 904,
@@ -5522,7 +5522,7 @@
         "collectible": 1,
         "name": "Sventramento",
         "description": "Infligge 2 danni. Combo: infligge 4 danni.",
-        "popularity": 6956
+        "popularity": 7006
     },
     {
         "id": 232,
@@ -5553,7 +5553,7 @@
         "collectible": 1,
         "name": "Campionessa del Sole",
         "description": "Provocazione. Scudo Divino.",
-        "popularity": 6663
+        "popularity": 6672
     },
     {
         "id": 1074,
@@ -5568,7 +5568,7 @@
         "collectible": 1,
         "name": "Contusione",
         "description": "Infligge 2 danni a un servitore. Se sopravvive, pesca una carta.",
-        "popularity": 3533
+        "popularity": 3607
     },
     {
         "id": 643,
@@ -5585,7 +5585,7 @@
         "collectible": 1,
         "name": "Spada della Giustizia",
         "description": "Dopo che viene evocato un servitore sotto il tuo controllo, gli fornisce +1/+1, ma perde 1 Integrità.",
-        "popularity": 2568
+        "popularity": 2567
     },
     {
         "id": 636,
@@ -5600,7 +5600,7 @@
         "collectible": 1,
         "name": "Turbine",
         "description": "Infligge 1 |4(danno,danni) a TUTTI i servitori.",
-        "popularity": 4468
+        "popularity": 4510
     },
     {
         "id": 556,
@@ -5618,7 +5618,7 @@
         "race": 15,
         "name": "Illidan Grantempesta",
         "description": "Quando giochi una carta, evoca una Fiamma di Azzinoth 2/1.",
-        "popularity": 1359
+        "popularity": 1360
     },
     {
         "id": 581,
@@ -5636,7 +5636,7 @@
         "collectible": 1,
         "name": "Alexstrasza",
         "description": "Grido di Battaglia: imposta la Salute restante di un eroe a 15.",
-        "popularity": 6502
+        "popularity": 6532
     },
     {
         "id": 1189,
@@ -5651,7 +5651,7 @@
         "collectible": 1,
         "name": "Silenzio",
         "description": "Silenzia un servitore.",
-        "popularity": 1993
+        "popularity": 1997
     },
     {
         "id": 48,
@@ -5669,7 +5669,7 @@
         "collectible": 1,
         "name": "Ombra del Vuoto",
         "description": "Provocazione",
-        "popularity": 6586
+        "popularity": 6625
     },
     {
         "id": 1004,
@@ -5684,7 +5684,7 @@
         "collectible": 1,
         "name": "Colonna di Fuoco",
         "description": "Infligge 4 danni ai servitori nemici.",
-        "popularity": 9538
+        "popularity": 9582
     },
     {
         "id": 1369,
@@ -5699,7 +5699,7 @@
         "health": 3,
         "race": 20,
         "name": "Crocolisco di Fiume",
-        "popularity": 3030
+        "popularity": 3039
     },
     {
         "id": 960,
@@ -5716,7 +5716,7 @@
         "collectible": 1,
         "name": "Ascia dei Forgiatuono",
         "description": "Sovraccarico: (1)",
-        "popularity": 2809
+        "popularity": 2812
     },
     {
         "id": 1364,
@@ -5732,7 +5732,7 @@
         "health": 6,
         "name": "Protettore del Tempio",
         "description": "Grido di Battaglia: +3 Salute a un tuo servitore.",
-        "popularity": 2127
+        "popularity": 2126
     },
     {
         "id": 926,
@@ -5748,7 +5748,7 @@
         "collectible": 1,
         "name": "Signora degli Imp",
         "description": "Alla fine del tuo turno, subisce 1 danno ed evoca un Imp 1/1.",
-        "popularity": 2528
+        "popularity": 2529
     },
     {
         "id": 742,
@@ -5763,7 +5763,7 @@
         "collectible": 1,
         "name": "Ruggito Selvaggio",
         "description": "+2 Attacco ai tuoi personaggi per questo turno.",
-        "popularity": 5595
+        "popularity": 5596
     },
     {
         "id": 254,
@@ -5778,7 +5778,7 @@
         "collectible": 1,
         "name": "Innervazione",
         "description": "Fornisce 2 Cristalli di Mana solo per questo turno.",
-        "popularity": 8437
+        "popularity": 8477
     },
     {
         "id": 1141,
@@ -5795,7 +5795,7 @@
         "collectible": 1,
         "name": "Elementale della Terra",
         "description": "Provocazione. Sovraccarico: (3)",
-        "popularity": 1640
+        "popularity": 1647
     },
     {
         "id": 531,
@@ -5811,7 +5811,7 @@
         "collectible": 1,
         "name": "Senzavolto Mutante",
         "description": "Grido di Battaglia: seleziona un servitore. Il Senzavolto Mutante diventa una sua copia.",
-        "popularity": 9140
+        "popularity": 9148
     },
     {
         "id": 679,
@@ -5826,7 +5826,7 @@
         "collectible": 1,
         "name": "Favore Divino",
         "description": "Pesca delle carte finché non ne hai lo stesso numero dell'avversario.",
-        "popularity": 2714
+        "popularity": 2735
     },
     {
         "id": 979,
@@ -5843,7 +5843,7 @@
         "race": 17,
         "name": "Demolitore",
         "description": "All'inizio del tuo turno, infligge 2 danni a un nemico casuale.",
-        "popularity": 1906
+        "popularity": 1902
     },
     {
         "id": 891,
@@ -5859,7 +5859,7 @@
         "collectible": 1,
         "name": "Guardia Furia del Sole",
         "description": "Grido di Battaglia: fornisce Provocazione ai servitori adiacenti.",
-        "popularity": 7578
+        "popularity": 7582
     },
     {
         "id": 618,
@@ -5876,7 +5876,7 @@
         "collectible": 1,
         "name": "Diavolo di Sabbia",
         "description": "Furia del Vento. Sovraccarico: (2)",
-        "popularity": 443
+        "popularity": 445
     },
     {
         "id": 291,
@@ -5891,7 +5891,7 @@
         "collectible": 1,
         "name": "Luce Sacra",
         "description": "Rigenera 6 Salute.",
-        "popularity": 2035
+        "popularity": 2036
     },
     {
         "id": 238,
@@ -5906,7 +5906,7 @@
         "collectible": 1,
         "name": "Lupi Spirituali",
         "description": "Evoca due Lupi Spirituali 2/3 con Provocazione. Sovraccarico: (2)",
-        "popularity": 5619
+        "popularity": 5690
     },
     {
         "id": 1401,
@@ -5921,7 +5921,7 @@
         "health": 2,
         "name": "Capoincursione",
         "description": "Gli altri tuoi servitori hanno +1 Attacco.",
-        "popularity": 3123
+        "popularity": 3130
     },
     {
         "id": 790,
@@ -5937,7 +5937,7 @@
         "collectible": 1,
         "name": "Berserker Amani",
         "description": "Rabbia: +3 Attacco.",
-        "popularity": 5115
+        "popularity": 5124
     },
     {
         "id": 205,
@@ -5954,7 +5954,7 @@
         "collectible": 1,
         "name": "Treant Legnoferreo",
         "description": "Provocazione",
-        "popularity": 2201
+        "popularity": 2204
     },
     {
         "id": 834,
@@ -5971,7 +5971,7 @@
         "collectible": 1,
         "name": "Alamorte",
         "description": "Grido di Battaglia: distrugge TUTTI gli altri servitori e scarta le carte nella tua mano.",
-        "popularity": 1383
+        "popularity": 1389
     },
     {
         "id": 413,
@@ -5987,7 +5987,7 @@
         "collectible": 1,
         "name": "Commando Piccatonante",
         "description": "Grido di Battaglia: infligge 2 danni.",
-        "popularity": 1665
+        "popularity": 1668
     },
     {
         "id": 67,
@@ -6004,7 +6004,7 @@
         "race": 20,
         "name": "Patriarca Mantoargenteo",
         "description": "Provocazione",
-        "popularity": 1382
+        "popularity": 1381
     },
     {
         "id": 311,
@@ -6021,7 +6021,7 @@
         "collectible": 1,
         "name": "Arco del Gladiatore",
         "description": "Il tuo eroe è Immune quando attacca.",
-        "popularity": 910
+        "popularity": 911
     },
     {
         "id": 1754,
@@ -6053,7 +6053,7 @@
         "classs": 5,
         "name": "Cultista Oscuro",
         "description": "Rantolo di Morte: +3 Salute a un tuo servitore casuale.",
-        "popularity": 2741
+        "popularity": 2740
     },
     {
         "id": 1783,
@@ -6068,7 +6068,7 @@
         "health": 2,
         "name": "Scienziato Pazzo",
         "description": "Rantolo di Morte: mette in gioco un Segreto dal tuo mazzo.",
-        "popularity": 6741
+        "popularity": 6697
     },
     {
         "id": 1805,
@@ -6084,7 +6084,7 @@
         "classs": 1,
         "name": "Morso della Morte",
         "description": "Rantolo di Morte: infligge 1 danno a TUTTI i servitori.",
-        "popularity": 3840
+        "popularity": 3823
     },
     {
         "id": 1799,
@@ -6099,7 +6099,7 @@
         "health": 5,
         "name": "Anima Lamentosa",
         "description": "Grido di Battaglia: Silenzia gli altri tuoi servitori.",
-        "popularity": 340
+        "popularity": 339
     },
     {
         "id": 1791,
@@ -6116,7 +6116,7 @@
         "race": 20,
         "name": "Maexxna",
         "description": "Distrugge qualsiasi servitore danneggiato da questo servitore.",
-        "popularity": 1363
+        "popularity": 1361
     },
     {
         "id": 1810,
@@ -6164,7 +6164,7 @@
         "race": 15,
         "name": "Invocatore del Vuoto",
         "description": "Rantolo di Morte: mette sul campo un Demone casuale dalla tua mano.",
-        "popularity": 2105
+        "popularity": 2098
     },
     {
         "id": 1915,
@@ -6180,7 +6180,7 @@
         "elite": 1,
         "name": "Barone Fieramorte",
         "description": "I tuoi servitori attivano due volte il proprio Rantolo di Morte.",
-        "popularity": 1998
+        "popularity": 1995
     },
     {
         "id": 1802,
@@ -6208,7 +6208,7 @@
         "classs": 8,
         "name": "Duplicazione",
         "description": "Segreto: quando un tuo servitore muore, ne ottieni due copie in mano.",
-        "popularity": 2429
+        "popularity": 2417
     },
     {
         "id": 1786,
@@ -6223,7 +6223,7 @@
         "health": 2,
         "name": "Uovo di Nerubiano",
         "description": "Rantolo di Morte: evoca un Nerubiano 4/4.",
-        "popularity": 5727
+        "popularity": 5702
     },
     {
         "id": 1794,
@@ -6239,7 +6239,7 @@
         "elite": 1,
         "name": "Kel'Thuzad",
         "description": "Alla fine di ogni turno, evoca i tuoi servitori morti durante quel turno.",
-        "popularity": 3867
+        "popularity": 3865
     },
     {
         "id": 1793,
@@ -6254,7 +6254,7 @@
         "health": 5,
         "name": "Sputafango",
         "description": "Provocazione. Rantolo di Morte: evoca una Melma 1/2 con Provocazione.",
-        "popularity": 16212
+        "popularity": 16150
     },
     {
         "id": 1790,
@@ -6269,7 +6269,7 @@
         "health": 8,
         "name": "Signore della Morte",
         "description": "Provocazione. Rantolo di Morte: l'avversario mette sul campo un servitore casuale dal suo mazzo.",
-        "popularity": 3262
+        "popularity": 3257
     },
     {
         "id": 1804,
@@ -6283,7 +6283,7 @@
         "classs": 2,
         "name": "Ritorsione",
         "description": "Segreto: quando un tuo servitore muore, fornisce +3/+2 a un tuo servitore casuale.",
-        "popularity": 1825
+        "popularity": 1817
     },
     {
         "id": 1753,
@@ -6298,7 +6298,7 @@
         "health": 3,
         "name": "Masticatore Zombi",
         "description": "Rantolo di Morte: rigenera 5 Salute all'eroe nemico.",
-        "popularity": 6557
+        "popularity": 6523
     },
     {
         "id": 1800,
@@ -6330,7 +6330,7 @@
         "race": 20,
         "description": "Rantolo di Morte: mette nella tua mano una Bestia casuale.",
         "name": "Tessitela",
-        "popularity": 2847
+        "popularity": 2840
     },
     {
         "id": 1858,
@@ -6345,7 +6345,7 @@
         "health": 2,
         "name": "Melma Echeggiante",
         "description": "Grido di Battaglia: alla fine del turno, evoca una copia esatta di questo servitore.",
-        "popularity": 1347
+        "popularity": 1340
     },
     {
         "id": 1781,
@@ -6361,7 +6361,7 @@
         "race": 20,
         "name": "Ragno Infestato",
         "description": "Rantolo di Morte: evoca due Ragni Spettrali 1/1.",
-        "popularity": 10464
+        "popularity": 10415
     },
     {
         "id": 1789,
@@ -6376,7 +6376,7 @@
         "health": 6,
         "name": "Comandante Spettrale",
         "description": "Non può essere il bersaglio di Magie o Poteri Eroe.",
-        "popularity": 1556
+        "popularity": 1559
     },
     {
         "id": 1797,
@@ -6407,7 +6407,7 @@
         "health": 2,
         "name": "Ombra di Naxxramas",
         "description": "Furtività. Ottiene +1/+1 all'inizio del tuo turno.",
-        "popularity": 2588
+        "popularity": 2576
     },
     {
         "id": 1808,
@@ -6422,7 +6422,7 @@
         "health": 3,
         "name": "Ghoul Instabile",
         "description": "Provocazione. Rantolo di Morte: infligge 1 danno a TUTTI i servitori.",
-        "popularity": 2531
+        "popularity": 2525
     },
     {
         "id": 1809,
@@ -6436,7 +6436,7 @@
         "classs": 7,
         "name": "Reincarnazione",
         "description": "Distrugge un servitore e lo riporta in vita con la Salute al massimo.",
-        "popularity": 973
+        "popularity": 970
     },
     {
         "id": 1913,
@@ -6451,7 +6451,7 @@
         "health": 4,
         "name": "Spade Danzanti",
         "description": "Rantolo di Morte: l'avversario pesca una carta.",
-        "popularity": 1028
+        "popularity": 1026
     },
     {
         "id": 1927,
@@ -6465,7 +6465,7 @@
         "classs": 8,
         "name": "Sputafiamme",
         "description": "Infligge 4 danni a un servitore nemico casuale.",
-        "popularity": 2340
+        "popularity": 2332
     },
     {
         "id": 1928,
@@ -6482,7 +6482,7 @@
         "race": 17,
         "name": "Sbuffaneve",
         "description": "Congela i personaggi che danneggia.",
-        "popularity": 2162
+        "popularity": 2153
     },
     {
         "id": 1929,
@@ -6496,7 +6496,7 @@
         "classs": 8,
         "name": "Portale Instabile",
         "description": "Mette nella tua mano un servitore casuale. Costa (3) in meno.",
-        "popularity": 2726
+        "popularity": 2716
     },
     {
         "id": 1934,
@@ -6512,7 +6512,7 @@
         "collectible": 1,
         "name": "Tecnomago Goblin",
         "description": "Grido di Battaglia: se controlli un Robot, infligge 4 danni suddivisi casualmente tra i nemici.",
-        "popularity": 1621
+        "popularity": 1614
     },
     {
         "id": 1941,
@@ -6526,7 +6526,7 @@
         "collectible": 1,
         "name": "Eco di Medivh",
         "description": "Mette una copia di ogni servitore che controlli nella tua mano.",
-        "popularity": 1011
+        "popularity": 1010
     },
     {
         "id": 1940,
@@ -6542,7 +6542,7 @@
         "race": 17,
         "name": "Roboevocatore",
         "description": "I tuoi Robot costano (1) in meno.",
-        "popularity": 3895
+        "popularity": 3883
     },
     {
         "id": 1939,
@@ -6574,7 +6574,7 @@
         "collectible": 1,
         "name": "Bomba Fotonica",
         "description": "Infligge danni a TUTTI i servitori pari al loro attacco.",
-        "popularity": 1630
+        "popularity": 1623
     },
     {
         "id": 1937,
@@ -6590,7 +6590,7 @@
         "collectible": 1,
         "name": "Ombromante Torva",
         "description": "Grido di Battaglia: infligge 3 danni a entrambi gli eroi.",
-        "popularity": 180
+        "popularity": 179
     },
     {
         "id": 1935,
@@ -6604,7 +6604,7 @@
         "collectible": 1,
         "name": "Prescelto da Velen",
         "description": "+2/+4 e +1 Danni Magici a un servitore.",
-        "popularity": 2619
+        "popularity": 2615
     },
     {
         "id": 1936,
@@ -6620,7 +6620,7 @@
         "collectible": 1,
         "name": "Mastro Riduttore",
         "description": "Grido di Battaglia: -2 Attacco a un servitore per questo turno.",
-        "popularity": 1573
+        "popularity": 1568
     },
     {
         "id": 1933,
@@ -6634,7 +6634,7 @@
         "collectible": 1,
         "name": "Luce dei Naaru",
         "description": "Rigenera 3 Salute. Se il bersaglio è ancora danneggiato, evoca una Custode della Luce.",
-        "popularity": 1589
+        "popularity": 1584
     },
     {
         "id": 1932,
@@ -6649,7 +6649,7 @@
         "collectible": 1,
         "name": "Tecnoingegnere",
         "description": "Ha +2 Attacco finché controlli un Robot.",
-        "popularity": 2449
+        "popularity": 2440
     },
     {
         "id": 1931,
@@ -6666,7 +6666,7 @@
         "elite": 1,
         "name": "Vol'jin",
         "description": "Grido di Battaglia: scambia la sua Salute con quella di un servitore.",
-        "popularity": 1142
+        "popularity": 1134
     },
     {
         "id": 2093,
@@ -6680,7 +6680,7 @@
         "classs": 9,
         "name": "Bomba Oscura",
         "description": "Infligge 3 danni.",
-        "popularity": 2954
+        "popularity": 2936
     },
     {
         "id": 1982,
@@ -6696,7 +6696,7 @@
         "race": 17,
         "name": "Vilrazziatore",
         "description": "Quando l'avversario gioca una carta, scarta le prime 3 carte del tuo mazzo.",
-        "popularity": 589
+        "popularity": 584
     },
     {
         "id": 1992,
@@ -6713,7 +6713,7 @@
         "race": 17,
         "name": "Sensei di Ferro",
         "description": "Alla fine del tuo turno, +2/+2 a un altro tuo Robot casuale.",
-        "popularity": 425
+        "popularity": 424
     },
     {
         "id": 2094,
@@ -6727,7 +6727,7 @@
         "classs": 3,
         "name": "Richiamo Famiglio",
         "description": "Pesca una carta. Se è una Bestia, costa (4) in meno.",
-        "popularity": 221
+        "popularity": 220
     },
     {
         "id": 2172,
@@ -6744,7 +6744,7 @@
         "race": 15,
         "name": "Signora del Dolore",
         "description": "Quando infligge danni, rigenera Salute al tuo eroe pari ai danni inflitti.",
-        "popularity": 668
+        "popularity": 667
     },
     {
         "id": 1985,
@@ -6758,7 +6758,7 @@
         "cost": 5,
         "name": "Cuore Demoniaco",
         "description": "Infligge 5 danni a un servitore. Se è un tuo Demone, gli fornisce invece +5/+5.",
-        "popularity": 469
+        "popularity": 470
     },
     {
         "id": 1997,
@@ -6775,7 +6775,7 @@
         "race": 17,
         "name": "Vilcannone",
         "description": "Alla fine del tuo turno, infligge 2 danni a un servitore non Robot casuale.",
-        "popularity": 173
+        "popularity": 174
     },
     {
         "id": 1986,
@@ -6793,7 +6793,7 @@
         "race": 15,
         "name": "Mal'Ganis",
         "description": "Gli altri tuoi Demoni hanno +2/+2. Il tuo eroe è Immune.",
-        "popularity": 1449
+        "popularity": 1443
     },
     {
         "id": 2095,
@@ -6807,7 +6807,7 @@
         "classs": 4,
         "name": "Tecnofluidificatore",
         "description": "+3 Attacco alla tua Arma. Combo: inoltre, +3 Attacco a un tuo servitore casuale.",
-        "popularity": 1982
+        "popularity": 1973
     },
     {
         "id": 1988,
@@ -6824,7 +6824,7 @@
         "race": 17,
         "name": "Robobarbiere Goblin",
         "description": "Grido di Battaglia: +1 Attacco alla tua Arma.",
-        "popularity": 1001
+        "popularity": 1000
     },
     {
         "id": 1989,
@@ -6902,7 +6902,7 @@
         "cost": 4,
         "name": "Richiamo Ancestrale",
         "description": "Mette sul campo un servitore casuale dalla mano di ogni giocatore.",
-        "popularity": 210
+        "popularity": 209
     },
     {
         "id": 2096,
@@ -6920,7 +6920,7 @@
         "elite": 0,
         "name": "Orsetto Anodizzato",
         "description": "Provocazione. Scegli: +1 Attacco o +1 Salute.",
-        "popularity": 520
+        "popularity": 521
     },
     {
         "id": 1995,
@@ -6950,7 +6950,7 @@
         "classs": 11,
         "name": "Driade dei Boschi",
         "description": "Scegli: fornisce 1 Cristallo di Mana a ogni giocatore o ogni giocatore pesca una carta.",
-        "popularity": 500
+        "popularity": 502
     },
     {
         "id": 2001,
@@ -6964,7 +6964,7 @@
         "classs": 11,
         "name": "Albero della Vita",
         "description": "Rigenera la Salute di TUTTI i personaggi al massimo.",
-        "popularity": 311
+        "popularity": 313
     },
     {
         "id": 2002,
@@ -6981,7 +6981,7 @@
         "race": 17,
         "name": "Gattorso Robot",
         "description": "Quando subisce danni, mette nella tua mano un Gadget.",
-        "popularity": 265
+        "popularity": 264
     },
     {
         "id": 2003,
@@ -6999,7 +6999,7 @@
         "race": 20,
         "name": "Malorne",
         "description": "Rantolo di Morte: torna nel tuo mazzo.",
-        "popularity": 302
+        "popularity": 301
     },
     {
         "id": 2004,
@@ -7015,7 +7015,7 @@
         "durability": 2,
         "name": "Mazza Protonica",
         "description": "Rantolo di Morte: +2/+2 a un tuo Robot casuale.",
-        "popularity": 835
+        "popularity": 832
     },
     {
         "id": 2005,
@@ -7032,7 +7032,7 @@
         "race": 17,
         "name": "Folgoratic Rotante",
         "description": "Furia del Vento",
-        "popularity": 950
+        "popularity": 947
     },
     {
         "id": 2006,
@@ -7046,7 +7046,7 @@
         "classs": 7,
         "name": "Crepitio",
         "description": "Infligge da 3 a 6 danni. Sovraccarico: (1)",
-        "popularity": 1889
+        "popularity": 1877
     },
     {
         "id": 2007,
@@ -7080,7 +7080,7 @@
         "race": 14,
         "name": "Murloc Cavalcaspiriti",
         "description": "Quando un altro tuo Murloc muore, pesca una carta. Sovraccarico: (1)",
-        "popularity": 263
+        "popularity": 261
     },
     {
         "id": 2009,
@@ -7094,7 +7094,7 @@
         "classs": 11,
         "name": "Sussurri Fatui",
         "description": "Scegli: evoca cinque Fuochi Fatui o +5/+5 e Provocazione a un servitore.",
-        "popularity": 197
+        "popularity": 196
     },
     {
         "id": 2010,
@@ -7111,7 +7111,7 @@
         "health": 7,
         "name": "Neptulon",
         "description": "Grido di Battaglia: mette nella tua mano quattro Murloc casuali. Sovraccarico: (3)",
-        "popularity": 689
+        "popularity": 684
     },
     {
         "id": 2011,
@@ -7127,7 +7127,7 @@
         "durability": 2,
         "name": "Sparalame",
         "description": "Grido di Battaglia: +1 Attacco a un tuo servitore casuale.",
-        "popularity": 1653
+        "popularity": 1646
     },
     {
         "id": 2012,
@@ -7142,7 +7142,7 @@
         "attack": 3,
         "health": 4,
         "name": "Carroragno",
-        "popularity": 3440
+        "popularity": 3434
     },
     {
         "id": 2013,
@@ -7156,7 +7156,7 @@
         "classs": 9,
         "name": "Imp-losione",
         "description": "Infligge da 2 a 4 danni a un servitore. Evoca un Imp 1/1 per ogni danno inflitto.",
-        "popularity": 2555
+        "popularity": 2531
     },
     {
         "id": 2014,
@@ -7204,7 +7204,7 @@
         "health": 3,
         "name": "Belva Zannaferrea",
         "description": "Grido di Battaglia: +2 Attacco agli altri tuoi Robot.",
-        "popularity": 120
+        "popularity": 119
     },
     {
         "id": 2017,
@@ -7222,7 +7222,7 @@
         "race": 20,
         "name": "Gahz'rilla",
         "description": "Quando subisce danni, il suo Attacco raddoppia.",
-        "popularity": 269
+        "popularity": 270
     },
     {
         "id": 2018,
@@ -7236,7 +7236,7 @@
         "classs": 1,
         "name": "Lama Rimbalzante",
         "description": "Infligge 1 |4(danno,danni) a un servitore casuale. Continua fin quando un servitore non muore.",
-        "popularity": 305
+        "popularity": 304
     },
     {
         "id": 2022,
@@ -7269,7 +7269,7 @@
         "race": 17,
         "name": "Robot da Guerra",
         "description": "Rabbia: +1 Attacco.",
-        "popularity": 319
+        "popularity": 318
     },
     {
         "id": 2020,
@@ -7299,7 +7299,7 @@
         "health": 5,
         "name": "Signora dello Scudo",
         "description": "Grido di Battaglia: fornisce 5 Armatura.",
-        "popularity": 1712
+        "popularity": 1705
     },
     {
         "id": 2023,
@@ -7316,7 +7316,7 @@
         "race": 17,
         "name": "Piegalamiere",
         "description": "Grido di Battaglia: +2/+2 a un tuo Robot.",
-        "popularity": 209
+        "popularity": 208
     },
     {
         "id": 2024,
@@ -7350,7 +7350,7 @@
         "faction": 3,
         "name": "Tecnica Ala Nera",
         "description": "Grido di Battaglia: ottiene +1/+1 se hai un Drago in mano. ",
-        "popularity": 1462
+        "popularity": 1486
     },
     {
         "id": 2025,
@@ -7381,7 +7381,7 @@
         "race": 17,
         "name": "Minibot Scudato",
         "description": "Scudo Divino",
-        "popularity": 3741
+        "popularity": 3723
     },
     {
         "id": 2027,
@@ -7397,7 +7397,7 @@
         "durability": 3,
         "name": "Meccanomazza",
         "description": "Grido di Battaglia: fornisce Scudo Divino e Provocazione a un tuo servitore casuale.",
-        "popularity": 1694
+        "popularity": 1677
     },
     {
         "id": 2028,
@@ -7413,7 +7413,7 @@
         "health": 5,
         "name": "Quartiermastro",
         "description": "Grido di Battaglia: +2/+2 alle tue Reclute Mano d'Argento.",
-        "popularity": 1738
+        "popularity": 1731
     },
     {
         "id": 2029,
@@ -7427,7 +7427,7 @@
         "classs": 2,
         "name": "Adunata Militare",
         "description": "Evoca tre Reclute Mano d'Argento 1/1. Equipaggia un'Arma 1/4.",
-        "popularity": 3527
+        "popularity": 3509
     },
     {
         "id": 2030,
@@ -7461,7 +7461,7 @@
         "health": 7,
         "name": "Bolvar Domadraghi",
         "description": "Finché resta nella tua mano, ottiene +1 Attacco quando un tuo servitore muore.",
-        "popularity": 354
+        "popularity": 355
     },
     {
         "id": 2032,
@@ -7476,7 +7476,7 @@
         "health": 2,
         "race": 14,
         "name": "Pestapaludi",
-        "popularity": 733
+        "popularity": 732
     },
     {
         "id": 2033,
@@ -7491,7 +7491,7 @@
         "health": 4,
         "name": "Bruto Ogre",
         "description": "Probabilità del 50% di attaccare il nemico sbagliato.",
-        "popularity": 868
+        "popularity": 872
     },
     {
         "id": 2034,
@@ -7522,7 +7522,7 @@
         "health": 3,
         "name": "Trogg Scheggiadura",
         "description": "Ottiene +1 Attacco quando l'avversario lancia una Magia.",
-        "popularity": 541
+        "popularity": 542
     },
     {
         "id": 2306,
@@ -7554,7 +7554,7 @@
         "elite": 1,
         "name": "Thaurissan",
         "description": "Alla fine del tuo turno, il costo delle carte nella tua mano si riduce di (1).",
-        "popularity": 7843
+        "popularity": 7915
     },
     {
         "id": 2036,
@@ -7569,7 +7569,7 @@
         "health": 5,
         "name": "Trogg Faucisalde",
         "description": "Ottiene +2 Attacco quando l'avversario lancia una Magia.",
-        "popularity": 554
+        "popularity": 555
     },
     {
         "id": 2045,
@@ -7586,7 +7586,7 @@
         "classs": 9,
         "name": "Golem dell'Anima",
         "description": "Alla fine di ogni turno, distruggi questo servitore se è l'unico che controlli.",
-        "popularity": 190
+        "popularity": 189
     },
     {
         "id": 2037,
@@ -7602,7 +7602,7 @@
         "race": 17,
         "name": "Curabot Antico",
         "description": "Grido di Battaglia: rigenera 8 Salute al tuo eroe.",
-        "popularity": 8520
+        "popularity": 8473
     },
     {
         "id": 2038,
@@ -7649,7 +7649,7 @@
         "classs": 5,
         "name": "Sanitarizzatore",
         "description": "Quando viene curato un personaggio, infligge 1 danno a un nemico casuale.",
-        "popularity": 621
+        "popularity": 620
     },
     {
         "id": 2041,
@@ -7678,7 +7678,7 @@
         "health": 3,
         "name": "Mistica di Kezan",
         "description": "Grido di Battaglia: prendi il controllo di un Segreto casuale dell'avversario.",
-        "popularity": 1673
+        "popularity": 1664
     },
     {
         "id": 2043,
@@ -7709,7 +7709,7 @@
         "race": 17,
         "name": "Pecora Esplosiva",
         "description": "Rantolo di Morte: infligge 2 danni a TUTTI i servitori.",
-        "popularity": 1445
+        "popularity": 1440
     },
     {
         "id": 2046,
@@ -7725,7 +7725,7 @@
         "race": 17,
         "name": "Yeti Meccanico",
         "description": "Rantolo di Morte: ogni giocatore ottiene un Gadget.",
-        "popularity": 3235
+        "popularity": 3232
     },
     {
         "id": 2047,
@@ -7741,7 +7741,7 @@
         "race": 17,
         "name": "Supercarro MAX",
         "description": "Scudo Divino",
-        "popularity": 917
+        "popularity": 915
     },
     {
         "id": 2048,
@@ -7757,7 +7757,7 @@
         "classs": 11,
         "name": "Druido della Zanna",
         "description": "Grido di Battaglia: si trasforma in un servitore 7/7 se controlli una Bestia.",
-        "popularity": 314
+        "popularity": 312
     },
     {
         "id": 2049,
@@ -7772,7 +7772,7 @@
         "health": 3,
         "name": "Inseguitore Branclin",
         "description": "Furtività",
-        "popularity": 558
+        "popularity": 560
     },
     {
         "id": 2050,
@@ -7788,7 +7788,7 @@
         "race": 17,
         "name": "Gnomo Meccanico",
         "description": "Rantolo di Morte: mette nella tua mano un Gadget.",
-        "popularity": 3985
+        "popularity": 3968
     },
     {
         "id": 2051,
@@ -7805,7 +7805,7 @@
         "classs": 5,
         "name": "Riparabot Migliorato",
         "description": "Grido di Battaglia: +4 Salute a un tuo Robot.",
-        "popularity": 225
+        "popularity": 224
     },
     {
         "id": 2052,
@@ -7821,7 +7821,7 @@
         "health": 4,
         "name": "Macchina Volante",
         "description": "Furia del Vento",
-        "popularity": 325
+        "popularity": 326
     },
     {
         "id": 2053,
@@ -7837,7 +7837,7 @@
         "race": 17,
         "name": "Fastidiobot",
         "description": "Provocazione. Scudo Divino.",
-        "popularity": 5513
+        "popularity": 5493
     },
     {
         "id": 2054,
@@ -7870,7 +7870,7 @@
         "health": 3,
         "name": "Cecchino Spargifumo",
         "description": "Il tuo Potere Eroe può essere usato sui servitori.",
-        "popularity": 318
+        "popularity": 319
     },
     {
         "id": 2056,
@@ -7901,7 +7901,7 @@
         "health": 4,
         "name": "Illuminatrice",
         "description": "Se controlli un Segreto alla fine del tuo turno, rigenera 4 Salute al tuo eroe.",
-        "popularity": 450
+        "popularity": 446
     },
     {
         "id": 2058,
@@ -7963,7 +7963,7 @@
         "race": 17,
         "name": "Manichino a Molla",
         "description": "Provocazione",
-        "popularity": 535
+        "popularity": 534
     },
     {
         "id": 2062,
@@ -7979,7 +7979,7 @@
         "race": 17,
         "name": "Alfred",
         "description": "Alla fine del turno di ogni giocatore, questo pesca fin quando non ha 3 carte.",
-        "popularity": 1082
+        "popularity": 1080
     },
     {
         "id": 2063,
@@ -8010,7 +8010,7 @@
         "race": 17,
         "name": "Segatronchi Pilotato",
         "description": "Rantolo di Morte: evoca un servitore casuale da 2 Mana.",
-        "popularity": 12742
+        "popularity": 12670
     },
     {
         "id": 2065,
@@ -8025,7 +8025,7 @@
         "health": 3,
         "name": "Piccola Esorcista",
         "description": "Provocazione. Grido di Battaglia: ottiene +1/+1 per ogni servitore nemico con Rantolo di Morte.",
-        "popularity": 322
+        "popularity": 323
     },
     {
         "id": 2066,
@@ -8040,7 +8040,7 @@
         "health": 4,
         "name": "Fante di Gnomeregan",
         "description": "Carica. Provocazione.",
-        "popularity": 342
+        "popularity": 341
     },
     {
         "id": 2067,
@@ -8055,7 +8055,7 @@
         "health": 3,
         "name": "Lanciatore di Bombe",
         "description": "Grido di Battaglia: infligge 4 danni a un servitore nemico casuale.",
-        "popularity": 985
+        "popularity": 984
     },
     {
         "id": 2068,
@@ -8072,7 +8072,7 @@
         "race": 15,
         "name": "Osservatore",
         "description": "Ottiene +2/+2 quando il tuo eroe subisce danni nel tuo turno.",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 2069,
@@ -8103,7 +8103,7 @@
         "health": 3,
         "name": "Gnomo Aggiustatutto",
         "description": "Grido di Battaglia: ottiene +1/+1 e mette nella tua mano un Gadget se controlli un Robot.",
-        "popularity": 2915
+        "popularity": 2907
     },
     {
         "id": 2071,
@@ -8119,7 +8119,7 @@
         "race": 17,
         "name": "Micro-Macchina",
         "description": "All'inizio di ogni turno, ottiene +1 Attacco.",
-        "popularity": 1723
+        "popularity": 1722
     },
     {
         "id": 2072,
@@ -8134,7 +8134,7 @@
         "health": 3,
         "name": "Hobgoblin",
         "description": "Quando giochi un servitore con 1 Attacco, gli fornisce +2/+2.",
-        "popularity": 558
+        "popularity": 556
     },
     {
         "id": 2073,
@@ -8150,7 +8150,7 @@
         "race": 17,
         "name": "Supergolem Pilotato",
         "description": "Rantolo di Morte: evoca un servitore casuale da 4 Mana.",
-        "popularity": 1769
+        "popularity": 1771
     },
     {
         "id": 2074,
@@ -8166,7 +8166,7 @@
         "race": 17,
         "name": "Riciclobot",
         "description": "Ottiene +2/+2 quando un tuo Robot muore.",
-        "popularity": 242
+        "popularity": 241
     },
     {
         "id": 2082,
@@ -8183,7 +8183,7 @@
         "race": 17,
         "name": "Segatronchi di Sneed",
         "description": "Rantolo di Morte: evoca un servitore Leggendario casuale.",
-        "popularity": 1666
+        "popularity": 1668
     },
     {
         "id": 2086,
@@ -8199,7 +8199,7 @@
         "health": 6,
         "name": "Troggzor Terrestrator",
         "description": "Quando l'avversario lancia una Magia, evoca un Trogg Faucisalde.",
-        "popularity": 543
+        "popularity": 545
     },
     {
         "id": 2075,
@@ -8215,7 +8215,7 @@
         "race": 17,
         "name": "Potenziabot",
         "description": "Grido di Battaglia: fornisce casualmente agli altri tuoi servitori Furia del Vento, Provocazione o Scudo Divino.",
-        "popularity": 1325
+        "popularity": 1321
     },
     {
         "id": 2076,
@@ -8230,7 +8230,7 @@
         "health": 2,
         "name": "Trasmutatore",
         "description": "Grido di Battaglia: trasforma un tuo servitore in un servitore casuale con lo stesso costo.",
-        "popularity": 702
+        "popularity": 703
     },
     {
         "id": 2077,
@@ -8245,7 +8245,7 @@
         "attack": 4,
         "name": "Minimago",
         "description": "Furtività. +1 Danni Magici.",
-        "popularity": 127
+        "popularity": 129
     },
     {
         "id": 2078,
@@ -8261,7 +8261,7 @@
         "health": 7,
         "name": "Dott. Boom",
         "description": "Grido di Battaglia: evoca due Robobombe 1/1. ATTENZIONE: le Robobombe possono esplodere.",
-        "popularity": 13101
+        "popularity": 13011
     },
     {
         "id": 2079,
@@ -8311,7 +8311,7 @@
         "race": 17,
         "name": "Mietinemici 4000",
         "description": "Danneggia anche i servitori adiacenti a quello attaccato.",
-        "popularity": 438
+        "popularity": 439
     },
     {
         "id": 2083,
@@ -8327,7 +8327,7 @@
         "health": 7,
         "name": "Toshley",
         "description": "Grido di Battaglia e Rantolo di Morte: mette nella tua mano un Gadget.",
-        "popularity": 484
+        "popularity": 483
     },
     {
         "id": 2084,
@@ -8344,7 +8344,7 @@
         "race": 17,
         "name": "Mekgeniere Termospin",
         "description": "Quando un servitore nemico muore, evoca uno Gnomo Contaminato.",
-        "popularity": 230
+        "popularity": 231
     },
     {
         "id": 2085,
@@ -8360,7 +8360,7 @@
         "health": 6,
         "name": "Sparachiodi",
         "description": "Quando lanci una Magia da 1 Mana, mette nella tua mano un Robot casuale.",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2087,
@@ -8409,7 +8409,7 @@
         "race": 17,
         "name": "Gigante Meccanico",
         "description": "Costa (1) in meno per ogni carta nella mano dell'avversario.",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2234,
@@ -8425,7 +8425,7 @@
         "classs": 8,
         "name": "Miniabiuratrice",
         "description": "I servitori adiacenti non possono essere il bersaglio di Magie o Poteri Eroe.",
-        "popularity": 106
+        "popularity": 104
     },
     {
         "id": 2249,
@@ -8442,7 +8442,7 @@
         "race": 17,
         "name": "Spargicenere",
         "description": "+1 Danni Magici",
-        "popularity": 361
+        "popularity": 362
     },
     {
         "id": 2279,
@@ -8457,7 +8457,7 @@
         "health": 3,
         "name": "Cliente Torvo",
         "description": "Quando subisce danni e sopravvive, evoca un altro Cliente Torvo.",
-        "popularity": 1457
+        "popularity": 1480
     },
     {
         "id": 2274,
@@ -8471,7 +8471,7 @@
         "classs": 2,
         "name": "Veglia Solenne",
         "description": "Pesca 2 carte. Costa (1) in meno per ogni servitore morto in questo turno.",
-        "popularity": 507
+        "popularity": 530
     },
     {
         "id": 2275,
@@ -8487,7 +8487,7 @@
         "classs": 8,
         "name": "Destafiamme",
         "description": "Dopo che hai lanciato una Magia, infligge 2 danni suddivisi casualmente tra i nemici.",
-        "popularity": 1553
+        "popularity": 1576
     },
     {
         "id": 2284,
@@ -8501,7 +8501,7 @@
         "classs": 8,
         "name": "Soffio del Drago",
         "description": "Infligge 4 danni. Costa (1) in meno per ogni servitore morto in questo turno.",
-        "popularity": 277
+        "popularity": 279
     },
     {
         "id": 2286,
@@ -8518,7 +8518,7 @@
         "race": 24,
         "name": "Draghetto Oscuro",
         "description": "Grido di Battaglia: ottiene +2 Salute se hai un Drago in mano.",
-        "popularity": 739
+        "popularity": 749
     },
     {
         "id": 2301,
@@ -8532,7 +8532,7 @@
         "classs": 9,
         "name": "Ira Demoniaca",
         "description": "Infligge 2 danni a TUTTI i servitori non Demoni.",
-        "popularity": 564
+        "popularity": 581
     },
     {
         "id": 2288,
@@ -8549,7 +8549,7 @@
         "race": 15,
         "name": "Capobanda Imp",
         "description": "Quando subisce danni, evoca un Imp 1/1.",
-        "popularity": 1937
+        "popularity": 1979
     },
     {
         "id": 2304,
@@ -8563,7 +8563,7 @@
         "classs": 4,
         "name": "Alleati Segreti",
         "description": "Seleziona un servitore. Ne mette tre copie nel tuo mazzo.",
-        "popularity": 614
+        "popularity": 613
     },
     {
         "id": 2291,
@@ -8579,7 +8579,7 @@
         "classs": 4,
         "name": "Ferroscuro Furtivo",
         "description": "Grido di Battaglia: infligge 2 danni ai servitori nemici non danneggiati.",
-        "popularity": 330
+        "popularity": 357
     },
     {
         "id": 2295,
@@ -8595,7 +8595,7 @@
         "health": 8,
         "name": "Treant Vulcanico",
         "description": "Provocazione. Costa (1) in meno per ogni servitore morto in questo turno.",
-        "popularity": 208
+        "popularity": 209
     },
     {
         "id": 2292,
@@ -8611,7 +8611,7 @@
         "classs": 11,
         "name": "Druida delle Fiamme",
         "description": "Scegli: si trasforma in un servitore 5/2 o in un servitore 2/5.",
-        "popularity": 388
+        "popularity": 400
     },
     {
         "id": 2289,
@@ -8625,7 +8625,7 @@
         "classs": 7,
         "name": "Folgore di Lava",
         "description": "Infligge 2 danni. Sblocca i Cristalli di Mana in Sovraccarico.",
-        "popularity": 764
+        "popularity": 767
     },
     {
         "id": 2290,
@@ -8641,7 +8641,7 @@
         "classs": 7,
         "name": "Distruttore del Fuoco",
         "description": "Grido di Battaglia: ottiene da 1 a 4 Attacco. Sovraccarico: (1)",
-        "popularity": 661
+        "popularity": 662
     },
     {
         "id": 2260,
@@ -8655,7 +8655,7 @@
         "classs": 3,
         "name": "Tiro Rapido",
         "description": "Infligge 3 danni. Se la tua mano è vuota, pesca una carta.",
-        "popularity": 1662
+        "popularity": 1684
     },
     {
         "id": 2263,
@@ -8686,7 +8686,7 @@
         "cost": 2,
         "name": "Rivincita",
         "description": "Infligge 1 |4(danno,danni) a TUTTI i servitori. Se il tuo eroe ha Salute pari a 12 o inferiore, i danni inflitti sono 3.",
-        "popularity": 461
+        "popularity": 486
     },
     {
         "id": 2297,
@@ -8702,7 +8702,7 @@
         "classs": 1,
         "name": "Lanciatore d'Asce",
         "description": "Quando subisce danni, infligge 2 danni all'eroe nemico.",
-        "popularity": 229
+        "popularity": 230
     },
     {
         "id": 2298,
@@ -8716,7 +8716,7 @@
         "classs": 5,
         "name": "Resurrezione",
         "description": "Evoca un tuo servitore casuale morto in questa partita.",
-        "popularity": 505
+        "popularity": 508
     },
     {
         "id": 2299,
@@ -8733,7 +8733,7 @@
         "race": 24,
         "name": "Consorte del Drago",
         "description": "Grido di Battaglia: il prossimo Drago che giochi costa (2) in meno.",
-        "popularity": 543
+        "popularity": 548
     },
     {
         "id": 2278,
@@ -8748,7 +8748,7 @@
         "health": 2,
         "name": "Uovo di Drago",
         "description": "Quando subisce danni, evoca un Draghetto 2/1.",
-        "popularity": 488
+        "popularity": 490
     },
     {
         "id": 2257,
@@ -8764,7 +8764,7 @@
         "race": 24,
         "name": "Distruttore Draconide",
         "description": "Grido di Battaglia: ottiene +3/+3 se l'eroe avversario ha Salute pari a 15 o inferiore.",
-        "popularity": 599
+        "popularity": 603
     },
     {
         "id": 2258,
@@ -8780,7 +8780,7 @@
         "race": 24,
         "name": "Draco Vulcanico",
         "description": "Costa (1) in meno per ogni servitore morto in questo turno.",
-        "popularity": 616
+        "popularity": 618
     },
     {
         "id": 2283,
@@ -8812,7 +8812,7 @@
         "elite": 1,
         "name": "Executus",
         "description": "Rantolo di Morte: sostituisce il tuo eroe con Ragnaros il Signore del Fuoco.",
-        "popularity": 296
+        "popularity": 297
     },
     {
         "id": 2308,
@@ -8828,7 +8828,7 @@
         "health": 4,
         "name": "Rend Manonera",
         "description": "Grido di Battaglia: distrugge un servitore Leggendario se hai un Drago in mano.",
-        "popularity": 456
+        "popularity": 461
     },
     {
         "id": 2261,
@@ -8845,7 +8845,7 @@
         "race": 24,
         "name": "Nefarian",
         "description": "Grido di Battaglia: mette nella tua mano 2 Magie casuali della classe dell'avversario.",
-        "popularity": 1344
+        "popularity": 1360
     },
     {
         "id": 2280,
@@ -8862,7 +8862,7 @@
         "race": 24,
         "name": "Cromaggus",
         "description": "Quando peschi una carta, ne mette una copia nella tua mano.",
-        "popularity": 1590
+        "popularity": 1600
     },
     {
         "id": 2409,
@@ -8878,7 +8878,7 @@
         "faction": 3,
         "name": "Corruttore Ala Nera",
         "description": "Grido di Battaglia: infligge 3 danni se hai un Drago in mano.",
-        "popularity": 1849
+        "popularity": 1867
     },
     {
         "id": 847,
@@ -8895,7 +8895,7 @@
         "collectible": 1,
         "name": "Spadone di Verargento",
         "description": "Quando il tuo eroe attacca, rigenera 2 Salute.",
-        "popularity": 9183
+        "popularity": 9219
     },
     {
         "id": 530,
@@ -8942,7 +8942,7 @@
         "elite": 1,
         "name": "Loatheb",
         "description": "Grido di Battaglia: nel turno successivo, le Magie dell'avversario costano (5) in più.",
-        "popularity": 12757
+        "popularity": 12672
     },
     {
         "id": 2539,
@@ -8956,7 +8956,7 @@
         "classs": 8,
         "name": "Lancia di Fuoco",
         "description": "Infligge 8 danni a un servitore.",
-        "popularity": 186
+        "popularity": 189
     },
     {
         "id": 2541,
@@ -8970,7 +8970,7 @@
         "classs": 8,
         "name": "Effige",
         "description": "Segreto: quando un tuo servitore muore, evoca un servitore casuale con lo stesso costo.",
-        "popularity": 522
+        "popularity": 524
     },
     {
         "id": 2545,
@@ -8986,7 +8986,7 @@
         "classs": 8,
         "name": "Eroina Caduta",
         "description": "Il tuo Potere Eroe infligge 1 danno aggiuntivo.",
-        "popularity": 293
+        "popularity": 294
     },
     {
         "id": 2572,
@@ -9000,7 +9000,7 @@
         "classs": 8,
         "name": "Detonazione Arcana",
         "description": "Infligge 2 danni a un servitore. Raddoppia il bonus fornito da Danni Magici.",
-        "popularity": 425
+        "popularity": 446
     },
     {
         "id": 2542,
@@ -9014,7 +9014,7 @@
         "classs": 8,
         "name": "Metamorfosi: Cinghiale",
         "description": "Trasforma un servitore in un Cinghiale 4/2 con Carica.",
-        "popularity": 163
+        "popularity": 162
     },
     {
         "id": 2549,
@@ -9030,7 +9030,7 @@
         "classs": 8,
         "name": "Recluta di Dalaran",
         "description": "Ispirazione: ottiene +1 Danni Magici.",
-        "popularity": 171
+        "popularity": 172
     },
     {
         "id": 2571,
@@ -9046,7 +9046,7 @@
         "health": 4,
         "name": "Sparamagie",
         "description": "Grido di Battaglia: mette nella mano di ogni giocatore una Magia casuale.",
-        "popularity": 368
+        "popularity": 380
     },
     {
         "id": 2544,
@@ -9063,7 +9063,7 @@
         "race": 24,
         "name": "Draco di Ibernia",
         "description": "Puoi usare il tuo Potere Eroe quante volte desideri.",
-        "popularity": 175
+        "popularity": 176
     },
     {
         "id": 2546,
@@ -9080,7 +9080,7 @@
         "elite": 1,
         "name": "Rhonin",
         "description": "Rantolo di Morte: mette nella tua mano tre Missili Arcani.",
-        "popularity": 326
+        "popularity": 325
     },
     {
         "id": 2552,
@@ -9096,7 +9096,7 @@
         "health": 3,
         "name": "Mandriano Irascibile",
         "description": "Grido di Battaglia: se controlli una Bestia, evoca una Bestia casuale.",
-        "popularity": 395
+        "popularity": 410
     },
     {
         "id": 2555,
@@ -9112,7 +9112,7 @@
         "classs": 5,
         "name": "Campionessa Sacra",
         "description": "Ottiene +2 Attacco quando un personaggio viene curato.",
-        "popularity": 466
+        "popularity": 469
     },
     {
         "id": 2551,
@@ -9128,7 +9128,7 @@
         "classs": 5,
         "name": "Figlio delle Ombre",
         "description": "Ispirazione: infligge 4 danni a entrambi gli eroi.",
-        "popularity": 114
+        "popularity": 113
     },
     {
         "id": 2568,
@@ -9142,7 +9142,7 @@
         "classs": 5,
         "name": "Parola del Potere: Gloria",
         "description": "Seleziona un servitore. Quando attacca, rigenera 4 Salute al tuo eroe.",
-        "popularity": 188
+        "popularity": 190
     },
     {
         "id": 2566,
@@ -9158,7 +9158,7 @@
         "classs": 5,
         "name": "Spirito d'Ombra",
         "description": "Quando peschi una carta, il suo costo si riduce di (1).",
-        "popularity": 87
+        "popularity": 88
     },
     {
         "id": 2563,
@@ -9172,7 +9172,7 @@
         "classs": 5,
         "name": "Conversione",
         "description": "Mette una copia di un servitore nemico sul campo nella tua mano.",
-        "popularity": 113
+        "popularity": 112
     },
     {
         "id": 2564,
@@ -9202,7 +9202,7 @@
         "race": 24,
         "name": "Guardia del Crepuscolo",
         "description": "Grido di Battaglia: ottiene +1 Attacco e Provocazione se hai un Drago in mano.",
-        "popularity": 1203
+        "popularity": 1221
     },
     {
         "id": 2556,
@@ -9219,7 +9219,7 @@
         "elite": 1,
         "name": "Espiatrice Paletress",
         "description": "Ispirazione: evoca un servitore Leggendario casuale.",
-        "popularity": 295
+        "popularity": 297
     },
     {
         "id": 2822,
@@ -9252,7 +9252,7 @@
         "classs": 9,
         "race": 15,
         "name": "Demone della Rovina",
-        "popularity": 103
+        "popularity": 105
     },
     {
         "id": 2777,
@@ -9269,7 +9269,7 @@
         "race": 15,
         "name": "Cavaliere del Male",
         "description": "Ottiene +1/+1 quando scarti una carta.",
-        "popularity": 51
+        "popularity": 54
     },
     {
         "id": 2628,
@@ -9283,7 +9283,7 @@
         "classs": 9,
         "name": "Pugno di Jaraxxus",
         "description": "Quando giochi o scarti questa carta, infligge 4 danni a un nemico casuale.",
-        "popularity": 90
+        "popularity": 91
     },
     {
         "id": 2537,
@@ -9345,7 +9345,7 @@
         "race": 15,
         "name": "Guardia dell'Ira",
         "description": "Quando subisce danni, infligge gli stessi danni al tuo eroe.",
-        "popularity": 162
+        "popularity": 163
     },
     {
         "id": 2621,
@@ -9378,7 +9378,7 @@
         "classs": 4,
         "name": "Cavaliere Shandaren",
         "description": "Combo: ottiene +3 Attacco.",
-        "popularity": 100
+        "popularity": 101
     },
     {
         "id": 2715,
@@ -9395,7 +9395,7 @@
         "race": 23,
         "name": "Bucaniere",
         "description": "Fornisce +1 Attacco alle Armi che equipaggi.",
-        "popularity": 317
+        "popularity": 319
     },
     {
         "id": 2767,
@@ -9411,7 +9411,7 @@
         "classs": 4,
         "name": "Valoroso dei Reietti",
         "description": "Combo: infligge 1 danno.",
-        "popularity": 114
+        "popularity": 117
     },
     {
         "id": 2766,
@@ -9427,7 +9427,7 @@
         "classs": 4,
         "name": "Tagliaborse",
         "description": "Quando attacca un eroe, mette nella tua mano una Moneta.",
-        "popularity": 116
+        "popularity": 113
     },
     {
         "id": 2768,
@@ -9457,7 +9457,7 @@
         "classs": 4,
         "name": "Furto",
         "description": "Mette nella tua mano due carte casuali della classe dell'avversario.",
-        "popularity": 203
+        "popularity": 202
     },
     {
         "id": 2763,
@@ -9473,7 +9473,7 @@
         "durability": 3,
         "name": "Lama Avvelenata",
         "description": "Il tuo Potere Eroe fornisce +1 Attacco a quest'Arma invece di sostituirla.",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 2587,
@@ -9487,7 +9487,7 @@
         "classs": 4,
         "name": "Attacco Sotterraneo",
         "description": "Mette tre Imboscate nel mazzo dell'avversario. Quando una viene pescata, evoca un Nerubiano 4/4.",
-        "popularity": 170
+        "popularity": 174
     },
     {
         "id": 2586,
@@ -9504,7 +9504,7 @@
         "elite": 1,
         "name": "Anub'arak",
         "description": "Rantolo di Morte: torna nella tua mano ed evoca un Nerubiano 4/4.",
-        "popularity": 120
+        "popularity": 115
     },
     {
         "id": 2792,
@@ -9518,7 +9518,7 @@
         "collectible": 1,
         "name": "Radici Viventi",
         "description": "Scegli: infligge 2 danni o evoca due Arboscelli 1/1.",
-        "popularity": 1074
+        "popularity": 1108
     },
     {
         "id": 2782,
@@ -9534,7 +9534,7 @@
         "classs": 11,
         "name": "Recluta di Darnassus",
         "description": "Grido di Battaglia: fornisce 1 Cristallo di Mana vuoto. Rantolo di Morte: distrugge un tuo Cristallo di Mana.",
-        "popularity": 1075
+        "popularity": 1079
     },
     {
         "id": 2780,
@@ -9551,7 +9551,7 @@
         "race": 20,
         "name": "Bestia Selvaggia",
         "description": "Ispirazione: +2 Attacco al tuo eroe per questo turno.",
-        "popularity": 473
+        "popularity": 478
     },
     {
         "id": 2786,
@@ -9567,7 +9567,7 @@
         "classs": 11,
         "name": "Calcaselve",
         "description": "Grido di Battaglia: +3 Salute a una tua Bestia.",
-        "popularity": 150
+        "popularity": 152
     },
     {
         "id": 2788,
@@ -9599,7 +9599,7 @@
         "classs": 11,
         "name": "Druida della Fauce",
         "description": "Scegli: si trasforma e ottiene Carica o +1/+1 e Furtività.",
-        "popularity": 442
+        "popularity": 453
     },
     {
         "id": 2785,
@@ -9627,7 +9627,7 @@
         "classs": 11,
         "name": "Concimazione",
         "description": "Distrugge un servitore. Mette nella mano dell'avversario un servitore casuale.",
-        "popularity": 135
+        "popularity": 150
     },
     {
         "id": 2796,
@@ -9660,7 +9660,7 @@
         "classs": 7,
         "name": "Totemista Tuskarr",
         "description": "Grido di Battaglia: evoca un Totem casuale.",
-        "popularity": 917
+        "popularity": 976
     },
     {
         "id": 2613,
@@ -9676,7 +9676,7 @@
         "classs": 7,
         "name": "Intagliatrice di Totem",
         "description": "Grido di Battaglia: ottiene +1/+1 per ogni Totem che controlli.",
-        "popularity": 232
+        "popularity": 234
     },
     {
         "id": 2612,
@@ -9690,7 +9690,7 @@
         "classs": 7,
         "name": "Ondata di Cura",
         "description": "Rigenera 7 Salute. Rigenera 14 Salute se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 437
+        "popularity": 439
     },
     {
         "id": 2615,
@@ -9706,7 +9706,7 @@
         "classs": 7,
         "name": "Valoroso dei Tauren",
         "description": "Ispirazione: +2 Attacco ai tuoi Totem.",
-        "popularity": 526
+        "popularity": 538
     },
     {
         "id": 2617,
@@ -9736,7 +9736,7 @@
         "classs": 7,
         "name": "Scarica Elementale",
         "description": "Infligge da 4 a 5 danni a TUTTI i servitori. Sovraccarico: (5)",
-        "popularity": 323
+        "popularity": 336
     },
     {
         "id": 2610,
@@ -9753,7 +9753,7 @@
         "race": 21,
         "name": "Golem Totemico",
         "description": "Sovraccarico: (1)",
-        "popularity": 1190
+        "popularity": 1266
     },
     {
         "id": 2514,
@@ -9767,7 +9767,7 @@
         "classs": 7,
         "name": "Sapere Ancestrale",
         "description": "Pesca 2 carte. Sovraccarico: (2)",
-        "popularity": 628
+        "popularity": 668
     },
     {
         "id": 2618,
@@ -9784,7 +9784,7 @@
         "elite": 1,
         "name": "Evocanebbie",
         "description": "Grido di Battaglia: +1/+1 a tutti i servitori nella tua mano e nel tuo mazzo.",
-        "popularity": 216
+        "popularity": 217
     },
     {
         "id": 2582,
@@ -9798,7 +9798,7 @@
         "classs": 5,
         "name": "Cura Rapida",
         "description": "Rigenera 5 Salute.",
-        "popularity": 576
+        "popularity": 619
     },
     {
         "id": 2638,
@@ -9812,7 +9812,7 @@
         "classs": 3,
         "name": "Tiro Dirompente",
         "description": "Infligge 2 danni a un servitore e a quelli adiacenti.",
-        "popularity": 233
+        "popularity": 236
     },
     {
         "id": 2639,
@@ -9845,7 +9845,7 @@
         "race": 20,
         "name": "Elekk Reale",
         "description": "Grido di Battaglia: mostra un servitore per mazzo. Se il tuo costa di più, lo mette nella tua mano.",
-        "popularity": 544
+        "popularity": 561
     },
     {
         "id": 2642,
@@ -9861,7 +9861,7 @@
         "classs": 3,
         "name": "Arciera Ribelle",
         "description": "Ispirazione: se la tua mano è vuota, infligge 2 danni all'eroe nemico.",
-        "popularity": 62
+        "popularity": 63
     },
     {
         "id": 2641,
@@ -9875,7 +9875,7 @@
         "classs": 3,
         "name": "Trappola per Orsi",
         "description": "Segreto: dopo che il tuo eroe viene attaccato, evoca un Orso 3/3 con Provocazione.",
-        "popularity": 663
+        "popularity": 673
     },
     {
         "id": 2484,
@@ -9889,7 +9889,7 @@
         "classs": 3,
         "name": "Pronto al Tiro",
         "description": "Quando lanci una Magia in questo turno, mette nella tua mano una carta casuale del Cacciatore.",
-        "popularity": 137
+        "popularity": 142
     },
     {
         "id": 2483,
@@ -9903,7 +9903,7 @@
         "classs": 3,
         "name": "Sacca di Ragni",
         "description": "Evoca tre Tessitela 1/1.",
-        "popularity": 156
+        "popularity": 157
     },
     {
         "id": 2633,
@@ -9921,7 +9921,7 @@
         "health": 2,
         "name": "Acidalingua",
         "description": "Qualsiasi altro servitore che subisce danni viene distrutto.",
-        "popularity": 41
+        "popularity": 43
     },
     {
         "id": 2634,
@@ -9953,7 +9953,7 @@
         "classs": 1,
         "name": "Urto",
         "description": "Infligge 3 danni. Fornisce 3 Armatura.",
-        "popularity": 892
+        "popularity": 932
     },
     {
         "id": 2756,
@@ -9969,7 +9969,7 @@
         "durability": 2,
         "name": "Protettrice del Re",
         "description": "Grido di Battaglia: ottiene +1 Integrità se controlli un servitore con Provocazione.",
-        "popularity": 116
+        "popularity": 121
     },
     {
         "id": 2711,
@@ -10001,7 +10001,7 @@
         "classs": 1,
         "name": "Magnatauro Alfa",
         "description": "Danneggia anche i servitori adiacenti a quello attaccato.",
-        "popularity": 11
+        "popularity": 10
     },
     {
         "id": 2754,
@@ -10015,7 +10015,7 @@
         "cost": 2,
         "name": "Sostegno",
         "description": "+2/+2 ai tuoi servitori con Provocazione.",
-        "popularity": 179
+        "popularity": 178
     },
     {
         "id": 2733,
@@ -10031,7 +10031,7 @@
         "classs": 1,
         "name": "Compagno d'Armi",
         "description": "Provocazione. Grido di Battaglia: fornisce Provocazione a un servitore.",
-        "popularity": 190
+        "popularity": 191
     },
     {
         "id": 2757,
@@ -10048,7 +10048,7 @@
         "elite": 1,
         "name": "Gran Capitano Kragg",
         "description": "Carrrica. Costa (1) in meno per ogni Pirata che controlli.",
-        "popularity": 132
+        "popularity": 138
     },
     {
         "id": 2758,
@@ -10064,7 +10064,7 @@
         "classs": 1,
         "name": "Paladina di Alexstrasza",
         "description": "Grido di Battaglia: ottiene +1 Attacco e Carica se hai un Drago in mano.",
-        "popularity": 174
+        "popularity": 175
     },
     {
         "id": 2760,
@@ -10081,7 +10081,7 @@
         "elite": 1,
         "name": "Varian Wrynn",
         "description": "Grido di Battaglia: pesca 3 carte e mette sul campo ogni servitore pescato.",
-        "popularity": 302
+        "popularity": 306
     },
     {
         "id": 2648,
@@ -10095,7 +10095,7 @@
         "classs": 2,
         "name": "Spirito Competitivo",
         "description": "Segreto: all'inizio del tuo turno, +1/+1 ai tuoi servitori.",
-        "popularity": 908
+        "popularity": 902
     },
     {
         "id": 2717,
@@ -10109,7 +10109,7 @@
         "classs": 2,
         "name": "Sigillo dei Campioni",
         "description": "+3 Attacco e Scudo Divino a un servitore.",
-        "popularity": 398
+        "popularity": 408
     },
     {
         "id": 2515,
@@ -10125,7 +10125,7 @@
         "classs": 2,
         "name": "Addestratore di Cavalli",
         "description": "Le tue Reclute Mano d'Argento hanno +1 Attacco.",
-        "popularity": 317
+        "popularity": 319
     },
     {
         "id": 2655,
@@ -10142,7 +10142,7 @@
         "race": 14,
         "name": "Cavaliere Murloc",
         "description": "Ispirazione: evoca un Murloc casuale.",
-        "popularity": 981
+        "popularity": 986
     },
     {
         "id": 2720,
@@ -10158,7 +10158,7 @@
         "durability": 2,
         "name": "Lancia d'Argento",
         "description": "Grido di Battaglia: ottiene +1 Integrità se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 107
+        "popularity": 108
     },
     {
         "id": 2654,
@@ -10172,7 +10172,7 @@
         "classs": 2,
         "name": "Ingresso al Colosseo",
         "description": "Distrugge TUTTI i servitori tranne quello con l'Attacco più alto di ogni giocatore.",
-        "popularity": 90
+        "popularity": 93
     },
     {
         "id": 2726,
@@ -10188,7 +10188,7 @@
         "classs": 2,
         "name": "Sfidante Misterioso",
         "description": "Grido di Battaglia: mette in gioco un Segreto di ogni tipo dal tuo mazzo.",
-        "popularity": 753
+        "popularity": 748
     },
     {
         "id": 2517,
@@ -10203,7 +10203,7 @@
         "health": 3,
         "name": "Condottiero",
         "description": "Puoi usare il Potere Eroe due volte per turno.",
-        "popularity": 363
+        "popularity": 357
     },
     {
         "id": 2727,
@@ -10220,7 +10220,7 @@
         "elite": 1,
         "name": "Eadric il Puro",
         "description": "Grido di Battaglia: imposta l'Attacco dei servitori nemici a 1.",
-        "popularity": 138
+        "popularity": 142
     },
     {
         "id": 2486,
@@ -10235,7 +10235,7 @@
         "health": 2,
         "name": "Scudiero Novizio",
         "description": "Ispirazione: ottiene +1 Attacco.",
-        "popularity": 247
+        "popularity": 251
     },
     {
         "id": 2533,
@@ -10250,7 +10250,7 @@
         "health": 3,
         "name": "Cavaliere di Dragofalco",
         "description": "Ispirazione: ottiene Furia del Vento per questo turno.",
-        "popularity": 155
+        "popularity": 156
     },
     {
         "id": 2577,
@@ -10265,7 +10265,7 @@
         "health": 2,
         "name": "Portalance",
         "description": "Grido di Battaglia: +2 Attacco a un tuo servitore.",
-        "popularity": 231
+        "popularity": 234
     },
     {
         "id": 2488,
@@ -10280,7 +10280,7 @@
         "health": 6,
         "name": "Ancella del Lago",
         "description": "Il tuo Potere Eroe costa (1).",
-        "popularity": 401
+        "popularity": 402
     },
     {
         "id": 2576,
@@ -10295,7 +10295,7 @@
         "health": 3,
         "name": "Sabotatore",
         "description": "Grido di Battaglia: nel turno successivo, il Potere Eroe dell'avversario costa (5) in più.",
-        "popularity": 150
+        "popularity": 153
     },
     {
         "id": 2490,
@@ -10310,7 +10310,7 @@
         "health": 1,
         "name": "Cavaliere d'Argento",
         "description": "Carica. Scudo Divino.",
-        "popularity": 1071
+        "popularity": 1110
     },
     {
         "id": 2491,
@@ -10340,7 +10340,7 @@
         "health": 2,
         "name": "Guardia d'Ossa",
         "description": "Ispirazione: ottiene +1 Salute.",
-        "popularity": 265
+        "popularity": 269
     },
     {
         "id": 2497,
@@ -10356,7 +10356,7 @@
         "race": 20,
         "name": "Campione di Mukla",
         "description": "Ispirazione: +1/+1 agli altri tuoi servitori.",
-        "popularity": 619
+        "popularity": 626
     },
     {
         "id": 2575,
@@ -10371,7 +10371,7 @@
         "health": 8,
         "name": "Medico del Torneo",
         "description": "Ispirazione: rigenera 2 Salute al tuo eroe.",
-        "popularity": 397
+        "popularity": 403
     },
     {
         "id": 2594,
@@ -10385,7 +10385,7 @@
         "attack": 5,
         "health": 2,
         "name": "Furia di Ghiaccio",
-        "popularity": 40
+        "popularity": 39
     },
     {
         "id": 2532,
@@ -10400,7 +10400,7 @@
         "health": 6,
         "name": "Neboldo del Gelo",
         "description": "+1 Danni Magici",
-        "popularity": 84
+        "popularity": 85
     },
     {
         "id": 2580,
@@ -10415,7 +10415,7 @@
         "health": 3,
         "name": "Mangiafuoco Draenei",
         "description": "Grido di Battaglia: infligge 1 danno a un nemico casuale.",
-        "popularity": 491
+        "popularity": 599
     },
     {
         "id": 2579,
@@ -10430,7 +10430,7 @@
         "health": 2,
         "name": "Cavaliere Silente",
         "description": "Furtività. Scudo Divino.",
-        "popularity": 150
+        "popularity": 151
     },
     {
         "id": 2500,
@@ -10446,7 +10446,7 @@
         "race": 17,
         "name": "Cavaliere a Molla",
         "description": "Grido di Battaglia: +1/+1 a un tuo Robot.",
-        "popularity": 294
+        "popularity": 291
     },
     {
         "id": 2499,
@@ -10461,7 +10461,7 @@
         "health": 1,
         "name": "Spettatore del Torneo",
         "description": "Provocazione",
-        "popularity": 97
+        "popularity": 98
     },
     {
         "id": 2573,
@@ -10491,7 +10491,7 @@
         "health": 5,
         "name": "Cavalcakodo",
         "description": "Ispirazione: evoca un Kodo da Guerra 3/5.",
-        "popularity": 236
+        "popularity": 237
     },
     {
         "id": 2503,
@@ -10506,7 +10506,7 @@
         "health": 3,
         "name": "Decana Mano d'Argento",
         "description": "Ispirazione: evoca una Recluta Mano d'Argento 1/1.",
-        "popularity": 487
+        "popularity": 484
     },
     {
         "id": 2521,
@@ -10520,7 +10520,7 @@
         "attack": 5,
         "health": 6,
         "name": "Gladiatrice della Fossa",
-        "popularity": 162
+        "popularity": 164
     },
     {
         "id": 2522,
@@ -10566,7 +10566,7 @@
         "classs": 2,
         "name": "Giostrante Tuskarr",
         "description": "Grido di Battaglia: rigenera 7 Salute al tuo eroe se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 300
+        "popularity": 301
     },
     {
         "id": 2502,
@@ -10581,7 +10581,7 @@
         "health": 4,
         "name": "Kvaldir Ferito",
         "description": "Grido di Battaglia: infligge 3 danni a SE STESSO.",
-        "popularity": 197
+        "popularity": 203
     },
     {
         "id": 2259,
@@ -10612,7 +10612,7 @@
         "race": 20,
         "name": "Destriero Corazzato",
         "description": "Grido di Battaglia: ottiene Carica se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 132
+        "popularity": 133
     },
     {
         "id": 2505,
@@ -10657,7 +10657,7 @@
         "health": 5,
         "name": "Mercante di Rinfreschi",
         "description": "Grido di Battaglia: rigenera 4 Salute a entrambi gli eroi.",
-        "popularity": 379
+        "popularity": 389
     },
     {
         "id": 2507,
@@ -10672,7 +10672,7 @@
         "health": 6,
         "name": "Maestro Giostrante",
         "description": "Grido di Battaglia: ottiene Provocazione e Scudo Divino se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 223
+        "popularity": 227
     },
     {
         "id": 2509,
@@ -10687,7 +10687,7 @@
         "health": 4,
         "name": "Reclutatore",
         "description": "Ispirazione: mette nella tua mano uno Scudiero 2/2.",
-        "popularity": 42
+        "popularity": 43
     },
     {
         "id": 2752,
@@ -10702,7 +10702,7 @@
         "health": 4,
         "name": "Vessatore Crudele",
         "description": "Provocazione",
-        "popularity": 295
+        "popularity": 291
     },
     {
         "id": 2581,
@@ -10733,7 +10733,7 @@
         "classs": 5,
         "name": "Agente dei Draghi",
         "description": "Grido di Battaglia: ottiene +1 Attacco e Provocazione se hai un Drago in mano.",
-        "popularity": 589
+        "popularity": 602
     },
     {
         "id": 2493,
@@ -10748,7 +10748,7 @@
         "health": 2,
         "name": "Gran Cerimoniera",
         "description": "Grido di Battaglia: ottiene +2/+2 se controlli un servitore con Danni Magici.",
-        "popularity": 54
+        "popularity": 53
     },
     {
         "id": 2510,
@@ -10763,7 +10763,7 @@
         "health": 5,
         "name": "Gran Crociata",
         "description": "Grido di Battaglia: mette nella tua mano una carta casuale del Paladino.",
-        "popularity": 130
+        "popularity": 132
     },
     {
         "id": 2511,
@@ -10778,7 +10778,7 @@
         "health": 4,
         "name": "Incursore Kvaldir",
         "description": "Ispirazione: ottiene +2/+2.",
-        "popularity": 333
+        "popularity": 336
     },
     {
         "id": 2512,
@@ -10793,7 +10793,7 @@
         "health": 8,
         "name": "Gigante del Gelo",
         "description": "Costa (1) in meno per ogni uso del tuo Potere Eroe in questa partita.",
-        "popularity": 276
+        "popularity": 277
     },
     {
         "id": 2518,
@@ -10808,7 +10808,7 @@
         "health": 4,
         "name": "Favorito della Folla",
         "description": "Ottiene +1/+1 quando giochi una carta con Grido di Battaglia.",
-        "popularity": 70
+        "popularity": 69
     },
     {
         "id": 2724,
@@ -10824,7 +10824,7 @@
         "elite": 1,
         "name": "Gormok l'Impalatore",
         "description": "Grido di Battaglia: se controlli almeno altri quattro servitori, infligge 4 danni.",
-        "popularity": 316
+        "popularity": 339
     },
     {
         "id": 2682,
@@ -10841,7 +10841,7 @@
         "race": 24,
         "name": "Faucigelide",
         "description": "Provocazione. Rantolo di Morte: infligge 3 danni a TUTTI i servitori se hai un Drago in mano.",
-        "popularity": 627
+        "popularity": 643
     },
     {
         "id": 2595,
@@ -10857,7 +10857,7 @@
         "elite": 1,
         "name": "Bolf Scudosaldo",
         "description": "Subisce i danni al posto dell'eroe.",
-        "popularity": 89
+        "popularity": 92
     },
     {
         "id": 2725,
@@ -10873,7 +10873,7 @@
         "elite": 1,
         "name": "Urlogelido",
         "description": "Carica. Non può attaccare gli eroi.",
-        "popularity": 82
+        "popularity": 85
     },
     {
         "id": 2683,
@@ -10889,7 +10889,7 @@
         "elite": 1,
         "name": "Eroe del Nexus Saraad",
         "description": "Ispirazione: mette nella tua mano una Magia casuale.",
-        "popularity": 519
+        "popularity": 520
     },
     {
         "id": 2681,
@@ -10905,7 +10905,7 @@
         "elite": 1,
         "name": "Cavaliere Scheletrico",
         "description": "Rantolo di Morte: torna nella tua mano se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 47
+        "popularity": 48
     },
     {
         "id": 2748,
@@ -10921,7 +10921,7 @@
         "elite": 1,
         "name": "Fjola Irabianca",
         "description": "Ottiene Scudo Divino quando è il bersaglio di una tua Magia.",
-        "popularity": 171
+        "popularity": 170
     },
     {
         "id": 2723,
@@ -10969,7 +10969,7 @@
         "elite": 1,
         "name": "Giustiziera Cuorsincero",
         "description": "Grido di Battaglia: sostituisce il tuo Potere Eroe originale con uno più potente.",
-        "popularity": 1886
+        "popularity": 1967
     },
     {
         "id": 2818,
@@ -10984,7 +10984,7 @@
         "health": 2,
         "name": "Giostrante di Meccania",
         "description": "Grido di Battaglia: ottiene +1/+1 se, mostrando un servitore per mazzo, il tuo costa di più.",
-        "popularity": 302
+        "popularity": 309
     },
     {
         "id": 13879,
@@ -10999,7 +10999,7 @@
         "race": 14,
         "collectible": 1,
         "name": "Murlocchino",
-        "popularity": 278
+        "popularity": 283
     },
     {
         "id": 2874,
@@ -11013,7 +11013,7 @@
         "collectible": 1,
         "name": "Torcia Abbandonata",
         "description": "Infligge 3 danni. Mette nel tuo mazzo una Torcia Divampante che infligge 6 danni.",
-        "popularity": 643
+        "popularity": 679
     },
     {
         "id": 2875,
@@ -11029,7 +11029,7 @@
         "health": 3,
         "name": "Evocatore Etereo",
         "description": "Grido di Battaglia: Rinvieni una Magia.",
-        "popularity": 455
+        "popularity": 480
     },
     {
         "id": 2878,
@@ -11045,7 +11045,7 @@
         "collectible": 1,
         "name": "Curatore del Museo",
         "description": "Grido di Battaglia: Rinvieni una carta con Rantolo di Morte.",
-        "popularity": 378
+        "popularity": 403
     },
     {
         "id": 2879,
@@ -11059,7 +11059,7 @@
         "collectible": 1,
         "name": "Maledizione di Rafaam",
         "description": "Mette nella mano dell'avversario una Maledizione. Finché resta nella sua mano, gli infligge 2 danni all'inizio del suo turno.",
-        "popularity": 46
+        "popularity": 47
     },
     {
         "id": 2881,
@@ -11075,7 +11075,7 @@
         "health": 7,
         "name": "Protettore d'Ossidiana",
         "description": "Alla fine del tuo turno, evoca uno Scarabeo 1/1 con Provocazione.",
-        "popularity": 86
+        "popularity": 89
     },
     {
         "id": 2882,
@@ -11092,7 +11092,7 @@
         "race": 20,
         "name": "Serpente della Fossa",
         "description": "Distrugge qualsiasi servitore danneggiato da questo servitore.",
-        "popularity": 66
+        "popularity": 67
     },
     {
         "id": 2883,
@@ -11108,7 +11108,7 @@
         "elite": 1,
         "name": "Reno Jackson",
         "description": "Grido di Battaglia: se il tuo mazzo ha attualmente una sola copia per carta, cura completamente il tuo eroe.",
-        "popularity": 1290
+        "popularity": 1337
     },
     {
         "id": 2884,
@@ -11124,7 +11124,7 @@
         "health": 4,
         "name": "Predatore di Tombe",
         "description": "Rantolo di Morte: mette nella tua mano una Moneta.",
-        "popularity": 332
+        "popularity": 381
     },
     {
         "id": 2888,
@@ -11140,7 +11140,7 @@
         "attack": 2,
         "name": "Elementale Instabile",
         "description": "Dopo che giochi un servitore con Grido di Battaglia, infligge 2 danni a un nemico casuale.",
-        "popularity": 106
+        "popularity": 107
     },
     {
         "id": 2889,
@@ -11156,7 +11156,7 @@
         "collectible": 1,
         "name": "Guardiana di Uldaman",
         "description": "Grido di Battaglia: imposta l'Attacco e la Salute di un servitore a 3.",
-        "popularity": 743
+        "popularity": 778
     },
     {
         "id": 2890,
@@ -11172,7 +11172,7 @@
         "collectible": 1,
         "name": "Trogg delle Gallerie",
         "description": "Quando attivi Sovraccarico, ottiene +1 Attacco per ogni Cristallo di Mana bloccato.",
-        "popularity": 596
+        "popularity": 672
     },
     {
         "id": 2891,
@@ -11188,7 +11188,7 @@
         "health": 4,
         "name": "Raptor Riesumato",
         "description": "Grido di Battaglia: seleziona un tuo servitore. Il Raptor Riesumato copia il suo Rantolo di Morte.",
-        "popularity": 297
+        "popularity": 316
     },
     {
         "id": 2892,
@@ -11236,7 +11236,7 @@
         "race": 20,
         "name": "Scimmia Feroce",
         "description": "Provocazione",
-        "popularity": 276
+        "popularity": 292
     },
     {
         "id": 2895,
@@ -11252,7 +11252,7 @@
         "collectible": 1,
         "name": "Losco Venditore",
         "description": "Grido di Battaglia: Rinvieni una carta da 1 Mana.",
-        "popularity": 963
+        "popularity": 1008
     },
     {
         "id": 2898,
@@ -11266,7 +11266,7 @@
         "collectible": 1,
         "name": "Alba dei Murloc Viventi",
         "description": "Evoca sette Murloc morti in questa partita.",
-        "popularity": 262
+        "popularity": 264
     },
     {
         "id": 2899,
@@ -11296,7 +11296,7 @@
         "race": 20,
         "name": "Scarabeo Ingioiellato",
         "description": "Grido di Battaglia: Rinvieni una carta da 3 Mana.",
-        "popularity": 858
+        "popularity": 872
     },
     {
         "id": 2910,
@@ -11311,7 +11311,7 @@
         "health": 5,
         "name": "Strega di Mare Naga",
         "description": "Le tue carte costano (5).",
-        "popularity": 70
+        "popularity": 72
     },
     {
         "id": 2911,
@@ -11327,7 +11327,7 @@
         "race": 17,
         "name": "Gorillabot A-3",
         "description": "Grido di Battaglia: se controlli un altro Robot, Rinvieni un Robot.",
-        "popularity": 199
+        "popularity": 194
     },
     {
         "id": 2918,
@@ -11343,7 +11343,7 @@
         "race": 20,
         "name": "Rospo Gigante",
         "description": "Rantolo di Morte: infligge 1 danno a un nemico casuale.",
-        "popularity": 250
+        "popularity": 284
     },
     {
         "id": 2919,
@@ -11359,7 +11359,7 @@
         "race": 20,
         "name": "Ragno delle Tombe",
         "description": "Grido di Battaglia: Rinvieni una Bestia.",
-        "popularity": 336
+        "popularity": 329
     },
     {
         "id": 2922,
@@ -11376,7 +11376,7 @@
         "race": 20,
         "name": "Raptor Cavalcabile",
         "description": "Rantolo di Morte: evoca un servitore casuale da 1 Mana.",
-        "popularity": 298
+        "popularity": 305
     },
     {
         "id": 2923,
@@ -11393,7 +11393,7 @@
         "classs": 11,
         "name": "Lunagufo Silvano",
         "description": "+2 Danni Magici a ogni giocatore.",
-        "popularity": 29
+        "popularity": 30
     },
     {
         "id": 2925,
@@ -11408,7 +11408,7 @@
         "health": 6,
         "name": "Djinn degli Zefiri",
         "description": "Dopo che hai lanciato una Magia su un altro tuo servitore, viene lanciata anche sul Djinn degli Zefiri.",
-        "popularity": 117
+        "popularity": 118
     },
     {
         "id": 2933,
@@ -11423,7 +11423,7 @@
         "health": 4,
         "name": "Sentinella Anubisath",
         "description": "Rantolo di Morte: +3/+3 a un tuo servitore casuale.",
-        "popularity": 154
+        "popularity": 160
     },
     {
         "id": 2945,
@@ -11438,7 +11438,7 @@
         "health": 8,
         "name": "Gigantosauro Fossile",
         "description": "Grido di Battaglia: ottiene Provocazione se controlli una Bestia.",
-        "popularity": 52
+        "popularity": 51
     },
     {
         "id": 2948,
@@ -11455,7 +11455,7 @@
         "race": 14,
         "name": "Ser Pinnus Mrrgglton",
         "description": "Grido di Battaglia: Rinvieni un nuovo Potere Eroe di base.",
-        "popularity": 1031
+        "popularity": 1086
     },
     {
         "id": 2949,
@@ -11471,7 +11471,7 @@
         "health": 4,
         "name": "Brann Barbabronzea",
         "description": "Le tue carte attivano due volte il proprio Grido di Battaglia.",
-        "popularity": 1653
+        "popularity": 1752
     },
     {
         "id": 2951,
@@ -11487,7 +11487,7 @@
         "health": 5,
         "name": "Elise Cercastelle",
         "description": "Grido di Battaglia: mette la Mappa per la Scimmia Dorata nel tuo mazzo.",
-        "popularity": 610
+        "popularity": 638
     },
     {
         "id": 2958,
@@ -11502,7 +11502,7 @@
         "health": 6,
         "name": "Pietra d'Evocazione",
         "description": "Quando lanci una Magia, evoca un servitore casuale con lo stesso costo.",
-        "popularity": 281
+        "popularity": 291
     },
     {
         "id": 2961,
@@ -11517,7 +11517,7 @@
         "health": 6,
         "name": "Pigmei Barcollanti",
         "description": "Rantolo di Morte: evoca tre Pigmei 2/2.",
-        "popularity": 70
+        "popularity": 73
     },
     {
         "id": 2964,
@@ -11533,7 +11533,7 @@
         "health": 8,
         "name": "Arciladro Rafaam",
         "description": "Grido di Battaglia: Rinvieni un potente manufatto.",
-        "popularity": 278
+        "popularity": 291
     },
     {
         "id": 3015,
@@ -11547,7 +11547,7 @@
         "classs": 5,
         "name": "Tumulazione",
         "description": "Seleziona un servitore nemico e spostalo nel tuo mazzo.",
-        "popularity": 673
+        "popularity": 742
     },
     {
         "id": 3001,
@@ -11561,7 +11561,7 @@
         "classs": 3,
         "name": "Cappello da Viaggio",
         "description": "+1/+1 e \"Rantolo di Morte: mette un Cappello da Viaggio nella tua mano\" a un servitore.",
-        "popularity": 116
+        "popularity": 115
     },
     {
         "id": 9107,
@@ -11591,7 +11591,7 @@
         "health": 4,
         "name": "Ombra Antica",
         "description": "Grido di Battaglia: mette un'Antica Maledizione nel tuo mazzo. Quando viene pescata, infligge 7 danni al tuo eroe.",
-        "popularity": 66
+        "popularity": 65
     },
     {
         "id": 2999,
@@ -11605,7 +11605,7 @@
         "classs": 5,
         "name": "Male Dissepolto",
         "description": "Infligge 3 danni a TUTTI i servitori. Metti questa carta nel mazzo dell'avversario.",
-        "popularity": 248
+        "popularity": 299
     },
     {
         "id": 3007,
@@ -11619,7 +11619,7 @@
         "classs": 7,
         "name": "Alta Marea",
         "description": "+2/+2 ai tuoi servitori. Costa (1) in meno per ogni Murloc che controlli.",
-        "popularity": 97
+        "popularity": 95
     },
     {
         "id": 13335,
@@ -11633,7 +11633,7 @@
         "classs": 11,
         "name": "Idolo del Corvo",
         "description": "Scegli: Rinvieni un servitore o Rinvieni una Magia.",
-        "popularity": 219
+        "popularity": 242
     },
     {
         "id": 13334,
@@ -11649,7 +11649,7 @@
         "classs": 9,
         "name": "Cacciatrice di Reliquie",
         "description": "Grido di Battaglia: ottiene +4/+4 se controlli altri sei servitori.",
-        "popularity": 85
+        "popularity": 86
     },
     {
         "id": 35025,
@@ -11665,7 +11665,7 @@
         "classs": 1,
         "name": "Lama Maledetta",
         "description": "Raddoppia tutti i danni subiti dal tuo eroe.",
-        "popularity": 48
+        "popularity": 50
     },
     {
         "id": 36111,
@@ -11681,7 +11681,7 @@
         "classs": 8,
         "name": "Armatura Fantasma",
         "description": "Il tuo eroe può subire al massimo 1 danno alla volta.",
-        "popularity": 117
+        "popularity": 115
     },
     {
         "id": 38227,
@@ -11698,7 +11698,7 @@
         "race": 14,
         "name": "Inquisitore Pinnavile",
         "description": "Grido di Battaglia: il tuo Potere Eroe diventa \"Evoca un Murloc 1/1\".",
-        "popularity": 30
+        "popularity": 40
     },
     {
         "id": 38262,
@@ -11712,7 +11712,7 @@
         "classs": 7,
         "name": "Fusione Primordiale",
         "description": "+1/+1 a un servitore per ogni Totem che controlli.",
-        "popularity": 11
+        "popularity": 19
     },
     {
         "id": 38263,
@@ -11728,7 +11728,7 @@
         "classs": 7,
         "name": "Senzavolto Ardente",
         "description": "Sovraccarico: (2)",
-        "popularity": 155
+        "popularity": 230
     },
     {
         "id": 38265,
@@ -11744,7 +11744,7 @@
         "classs": 7,
         "name": "Sentinella Eterna",
         "description": "Grido di Battaglia: sblocca i Cristalli di Mana in Sovraccarico.",
-        "popularity": 137
+        "popularity": 185
     },
     {
         "id": 38266,
@@ -11758,7 +11758,7 @@
         "classs": 7,
         "name": "Evoluzione",
         "description": "Trasforma i tuoi servitori in servitori casuali che costano (1) in più.",
-        "popularity": 68
+        "popularity": 82
     },
     {
         "id": 38267,
@@ -11774,7 +11774,7 @@
         "classs": 7,
         "name": "Cosa dal Profondo",
         "description": "Provocazione. Costa (1) in meno per ogni Totem che hai evocato in questa partita.",
-        "popularity": 125
+        "popularity": 186
     },
     {
         "id": 38270,
@@ -11790,7 +11790,7 @@
         "classs": 7,
         "name": "Martello del Crepuscolo",
         "description": "Rantolo di Morte: evoca un Elementale 4/2.",
-        "popularity": 42
+        "popularity": 49
     },
     {
         "id": 38279,
@@ -11821,7 +11821,7 @@
         "health": 5,
         "name": "Brulicatore Silitide",
         "description": "Può attaccare solo se il tuo eroe ha attaccato in questo turno.",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38312,
@@ -11837,7 +11837,7 @@
         "elite": 1,
         "name": "Y'shaarj",
         "description": "Alla fine del tuo turno, mette sul campo un servitore casuale dal tuo mazzo.",
-        "popularity": 36
+        "popularity": 41
     },
     {
         "id": 38318,
@@ -11854,7 +11854,7 @@
         "elite": 1,
         "name": "Fandral Elmocervo",
         "description": "Le tue carte con Scegli attivano entrambi gli effetti.",
-        "popularity": 116
+        "popularity": 143
     },
     {
         "id": 38329,
@@ -11868,7 +11868,7 @@
         "classs": 3,
         "name": "Infestazione",
         "description": "Fornisce \"Rantolo di Morte: mette nella tua mano una Bestia casuale.\" ai tuoi servitori.",
-        "popularity": 38
+        "popularity": 45
     },
     {
         "id": 38334,
@@ -11882,7 +11882,7 @@
         "classs": 11,
         "name": "Rabbia Ferina",
         "description": "Scegli: +4 attacco al tuo eroe per questo turno o fornisce 8 Armatura.",
-        "popularity": 50
+        "popularity": 58
     },
     {
         "id": 38337,
@@ -11896,7 +11896,7 @@
         "classs": 11,
         "name": "Marchio di Y'shaarj",
         "description": "+2/+2 a un servitore. Se è una Bestia, pesca una carta.",
-        "popularity": 45
+        "popularity": 60
     },
     {
         "id": 38340,
@@ -11912,7 +11912,7 @@
         "classs": 11,
         "name": "Antico Proibito",
         "description": "Grido di Battaglia: consuma tutto il tuo Mana e ottiene +1/+1 per ogni Mana così speso.",
-        "popularity": 15
+        "popularity": 20
     },
     {
         "id": 38377,
@@ -11926,7 +11926,7 @@
         "classs": 3,
         "name": "A Caccia",
         "description": "Infligge 1 |4(danno,danni). Evoca un Mastino 1/1.",
-        "popularity": 36
+        "popularity": 53
     },
     {
         "id": 38391,
@@ -11942,7 +11942,7 @@
         "classs": 4,
         "name": "Cultista delle Lame",
         "description": "Combo: ottiene +1/+1.",
-        "popularity": 28
+        "popularity": 30
     },
     {
         "id": 38393,
@@ -11956,7 +11956,7 @@
         "classs": 4,
         "name": "Viaggio Sotterraneo",
         "description": "Rinvieni una carta con Rantolo di Morte.",
-        "popularity": 83
+        "popularity": 104
     },
     {
         "id": 38395,
@@ -11970,7 +11970,7 @@
         "classs": 4,
         "name": "Tè al Cardo",
         "description": "Pesca una carta. Ne mette due copie aggiuntive nella tua mano.",
-        "popularity": 22
+        "popularity": 24
     },
     {
         "id": 38403,
@@ -11987,7 +11987,7 @@
         "elite": 1,
         "name": "Xaril",
         "description": "Grido di Battaglia e Rantolo di Morte: mette nella tua mano una Tossina casuale.",
-        "popularity": 124
+        "popularity": 172
     },
     {
         "id": 38407,
@@ -12001,7 +12001,7 @@
         "classs": 8,
         "name": "Frantumazione",
         "description": "Distrugge un servitore Congelato.",
-        "popularity": 30
+        "popularity": 34
     },
     {
         "id": 38408,
@@ -12032,7 +12032,7 @@
         "classs": 8,
         "name": "Piromante del Crepuscolo",
         "description": "Grido di Battaglia: infligge 1 danno ai servitori nemici.",
-        "popularity": 27
+        "popularity": 30
     },
     {
         "id": 38412,
@@ -12048,7 +12048,7 @@
         "classs": 8,
         "name": "Evocaghiacci Folle",
         "description": "Dopo che hai lanciato una Magia, Congela un nemico casuale.",
-        "popularity": 22
+        "popularity": 26
     },
     {
         "id": 38413,
@@ -12062,7 +12062,7 @@
         "classs": 8,
         "name": "Fiamma Proibita",
         "description": "Consuma tutto il tuo Mana e infligge danni a un servitore pari al Mana così speso.",
-        "popularity": 40
+        "popularity": 55
     },
     {
         "id": 38414,
@@ -12092,7 +12092,7 @@
         "classs": 8,
         "name": "Tomo del Cabalista",
         "description": "Mette nella tua mano 3 Magie casuali del Mago.",
-        "popularity": 92
+        "popularity": 120
     },
     {
         "id": 38426,
@@ -12106,7 +12106,7 @@
         "classs": 5,
         "name": "Parola del Potere: Tentacoli",
         "description": "+2/+6 a un servitore.",
-        "popularity": 10
+        "popularity": 14
     },
     {
         "id": 38429,
@@ -12122,7 +12122,7 @@
         "classs": 5,
         "name": "Guaritrice del Crepuscolo",
         "description": "Grido di Battaglia: se il tuo C'thun ha almeno 10 Attacco, rigenera 10 Salute al tuo eroe.",
-        "popularity": 76
+        "popularity": 94
     },
     {
         "id": 38433,
@@ -12136,7 +12136,7 @@
         "classs": 5,
         "name": "Parola d'Ombra: Orrore",
         "description": "Distrugge TUTTI i servitori con Attacco pari a 2 o inferiore.",
-        "popularity": 31
+        "popularity": 34
     },
     {
         "id": 38434,
@@ -12150,7 +12150,7 @@
         "classs": 5,
         "name": "Forma Proibita",
         "description": "Consuma tutto il tuo Mana ed evoca un servitore casuale con costo pari al Mana così speso.",
-        "popularity": 54
+        "popularity": 71
     },
     {
         "id": 38436,
@@ -12165,7 +12165,7 @@
         "health": 6,
         "name": "Oratore Oscuro",
         "description": "Grido di Battaglia: scambia le statistiche con quelle di un tuo servitore.",
-        "popularity": 4
+        "popularity": 6
     },
     {
         "id": 38439,
@@ -12179,7 +12179,7 @@
         "classs": 5,
         "name": "Abbraccio dell'Ombra",
         "description": "Per questo turno, le tue carte e i tuoi poteri che rigenerano Salute infliggono danni.",
-        "popularity": 29
+        "popularity": 48
     },
     {
         "id": 38447,
@@ -12195,7 +12195,7 @@
         "classs": 9,
         "name": "Studiosa di Borgoscuro",
         "description": "Grido di Battaglia: scarta una carta casuale. Rantolo di Morte: pesca una carta.",
-        "popularity": 5
+        "popularity": 10
     },
     {
         "id": 38452,
@@ -12211,7 +12211,7 @@
         "collectible": 1,
         "name": "Ministro di Borgoscuro",
         "description": "Ottiene +1 Attacco dopo che viene evocato un servitore sotto il tuo controllo.",
-        "popularity": 73
+        "popularity": 115
     },
     {
         "id": 38454,
@@ -12225,7 +12225,7 @@
         "classs": 9,
         "name": "Rituale Proibito",
         "description": "Consuma tutto il tuo Mana ed evoca un numero di Tentacoli 1/1 pari al Mana così speso.",
-        "popularity": 86
+        "popularity": 136
     },
     {
         "id": 38456,
@@ -12239,7 +12239,7 @@
         "classs": 9,
         "name": "Follia Incontrollata",
         "description": "Infligge 9 danni suddivisi casualmente tra TUTTI i personaggi.",
-        "popularity": 18
+        "popularity": 17
     },
     {
         "id": 38461,
@@ -12253,7 +12253,7 @@
         "classs": 9,
         "name": "Abiura",
         "description": "Sostituisce il tuo Potere Eroe e le tue carte da Stregone con quelli di un'altra classe. Queste carte costano (1) in meno.",
-        "popularity": 16
+        "popularity": 22
     },
     {
         "id": 38463,
@@ -12270,7 +12270,7 @@
         "classs": 8,
         "name": "Anomalus",
         "description": "Rantolo di Morte: infligge 8 danni a TUTTI i servitori.",
-        "popularity": 8
+        "popularity": 7
     },
     {
         "id": 38464,
@@ -12287,7 +12287,7 @@
         "classs": 9,
         "name": "Cho'gall",
         "description": "Grido di Battaglia: la prossima Magia che lanci in questo turno costa Salute invece di Mana.",
-        "popularity": 14
+        "popularity": 19
     },
     {
         "id": 38468,
@@ -12304,7 +12304,7 @@
         "race": 20,
         "name": "Mukla Tiranno",
         "description": "Grido di Battaglia: mette nella tua mano 2 Banane.",
-        "popularity": 18
+        "popularity": 20
     },
     {
         "id": 38475,
@@ -12320,7 +12320,7 @@
         "health": 1,
         "name": "Mutaforma Zerus",
         "description": "Finché resta nella tua mano, si trasforma in un servitore casuale all'inizio di ogni turno.",
-        "popularity": 90
+        "popularity": 97
     },
     {
         "id": 38488,
@@ -12336,7 +12336,7 @@
         "elite": 1,
         "name": "Imperatore Vek'lor",
         "description": "Provocazione. Grido di Battaglia: se il tuo C'thun ha almeno 10 Attacco, evoca l'Imperatore Vek'nilash.",
-        "popularity": 359
+        "popularity": 451
     },
     {
         "id": 38496,
@@ -12352,7 +12352,7 @@
         "elite": 1,
         "name": "N'zoth",
         "description": "Grido di Battaglia: evoca i tuoi servitori con Rantolo di Morte morti in questa partita.",
-        "popularity": 244
+        "popularity": 335
     },
     {
         "id": 38505,
@@ -12368,7 +12368,7 @@
         "elite": 1,
         "name": "Yogg-Saron",
         "description": "Grido di Battaglia: per ogni Magia che hai lanciato in questa partita, lancia una Magia casuale su bersagli casuali.",
-        "popularity": 134
+        "popularity": 188
     },
     {
         "id": 38517,
@@ -12383,7 +12383,7 @@
         "health": 4,
         "name": "Profeta Nerubiano",
         "description": "All'inizio del tuo turno, il costo di questa carta si riduce di (1).",
-        "popularity": 47
+        "popularity": 53
     },
     {
         "id": 38521,
@@ -12397,7 +12397,7 @@
         "attack": 10,
         "health": 10,
         "name": "Behemoth Senzavolto",
-        "popularity": 1
+        "popularity": 3
     },
     {
         "id": 38522,
@@ -12411,7 +12411,7 @@
         "attack": 6,
         "health": 10,
         "name": "Orrore Onirico",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38526,
@@ -12427,7 +12427,7 @@
         "race": 17,
         "name": "Psicobot",
         "description": "Provocazione. Scudo Divino.",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38528,
@@ -12443,7 +12443,7 @@
         "race": 17,
         "name": "Curabot Corrotto",
         "description": "Rantolo di Morte: rigenera 8 Salute all'eroe nemico.",
-        "popularity": 50
+        "popularity": 68
     },
     {
         "id": 38530,
@@ -12459,7 +12459,7 @@
         "classs": 1,
         "name": "Ghoul Famelico",
         "description": "Grido di Battaglia: infligge 1 danno a TUTTI gli altri servitori.",
-        "popularity": 81
+        "popularity": 179
     },
     {
         "id": 38531,
@@ -12474,7 +12474,7 @@
         "health": 5,
         "name": "Berserker Aberrante",
         "description": "Rabbia: +2 Attacco.",
-        "popularity": 15
+        "popularity": 16
     },
     {
         "id": 38532,
@@ -12505,7 +12505,7 @@
         "race": 20,
         "name": "Dragofalco Grottesco",
         "description": "Furia del Vento",
-        "popularity": 4
+        "popularity": 5
     },
     {
         "id": 38534,
@@ -12520,7 +12520,7 @@
         "health": 8,
         "name": "Orrore del Pantano",
         "description": "Provocazione",
-        "popularity": 22
+        "popularity": 36
     },
     {
         "id": 38538,
@@ -12536,7 +12536,7 @@
         "race": 14,
         "name": "Cacciamaree Pinnatorva",
         "description": "Grido di Battaglia: evoca una Fanghiglia 1/1 con Provocazione.",
-        "popularity": 96
+        "popularity": 141
     },
     {
         "id": 38541,
@@ -12551,7 +12551,7 @@
         "health": 1,
         "name": "Iniziato Zelante",
         "description": "Rantolo di Morte: +1/+1 a un tuo servitore casuale.",
-        "popularity": 26
+        "popularity": 27
     },
     {
         "id": 38545,
@@ -12567,7 +12567,7 @@
         "race": 14,
         "name": "Veggente Corrotto",
         "description": "Grido di Battaglia: infligge 2 danni a TUTTI i servitori non Murloc.",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38547,
@@ -12582,7 +12582,7 @@
         "health": 1,
         "name": "Discepolo di C'thun",
         "description": "Grido di Battaglia: infligge 2 danni. +2/+2 al tuo C'thun dovunque sia.",
-        "popularity": 415
+        "popularity": 526
     },
     {
         "id": 38567,
@@ -12597,7 +12597,7 @@
         "health": 9,
         "name": "Sangue dell'Antico",
         "description": "Alla fine del tuo turno, se ne controlli almeno due, formano l'Antico.",
-        "popularity": 6
+        "popularity": 7
     },
     {
         "id": 38569,
@@ -12612,7 +12612,7 @@
         "health": 1,
         "name": "Errante Senzavolto",
         "description": "Provocazione. Grido di Battaglia: copia Attacco e Salute di un tuo servitore.",
-        "popularity": 26
+        "popularity": 34
     },
     {
         "id": 38578,
@@ -12626,7 +12626,7 @@
         "classs": 4,
         "name": "Assalto dell'Ombra",
         "description": "Infligge 5 danni a un personaggio non danneggiato.",
-        "popularity": 96
+        "popularity": 153
     },
     {
         "id": 38584,
@@ -12643,7 +12643,7 @@
         "classs": 3,
         "name": "Pipistrello del Fuoco",
         "description": "Rantolo di Morte: infligge 1 danno a un nemico casuale.",
-        "popularity": 100
+        "popularity": 139
     },
     {
         "id": 38621,
@@ -12659,7 +12659,7 @@
         "classs": 11,
         "name": "Tessitore d'Ambra Klaxxi",
         "description": "Grido di Battaglia: ottiene +5 Salute se il tuo C'thun ha almeno 10 Attacco.",
-        "popularity": 150
+        "popularity": 175
     },
     {
         "id": 38655,
@@ -12673,7 +12673,7 @@
         "classs": 11,
         "name": "Fuochi Fatui degli Antichi",
         "description": "Scegli: evoca sette Fuochi Fatui o +2/+2 ai tuoi servitori.",
-        "popularity": 11
+        "popularity": 15
     },
     {
         "id": 38666,
@@ -12687,7 +12687,7 @@
         "cost": 0,
         "name": "Cura Proibita",
         "description": "Consuma tutto il tuo Mana e rigenera Salute pari al doppio del Mana così speso.",
-        "popularity": 77
+        "popularity": 112
     },
     {
         "id": 38669,
@@ -12702,7 +12702,7 @@
         "health": 7,
         "name": "Vate della Rovina Fedele",
         "description": "All'inizio del tuo turno, imposta l'Attacco di questo servitore a 7.",
-        "popularity": 9
+        "popularity": 10
     },
     {
         "id": 38718,
@@ -12718,7 +12718,7 @@
         "classs": 11,
         "name": "Custode della Palude",
         "description": "Scegli: evoca una Melma 2/2 o fornisce 1 Cristallo di Mana vuoto.",
-        "popularity": 160
+        "popularity": 194
     },
     {
         "id": 38724,
@@ -12732,7 +12732,7 @@
         "classs": 7,
         "name": "Schianto del Tuono",
         "description": "Infligge 4 danni a un servitore. Sovraccarico: (1)",
-        "popularity": 36
+        "popularity": 43
     },
     {
         "id": 38725,
@@ -12748,7 +12748,7 @@
         "classs": 8,
         "name": "Evocatore Senzavolto",
         "description": "Grido di Battaglia: evoca un servitore casuale da 3 Mana.",
-        "popularity": 96
+        "popularity": 127
     },
     {
         "id": 38722,
@@ -12765,7 +12765,7 @@
         "classs": 7,
         "name": "Hallazeal l'Asceso",
         "description": "Quando le tue Magie infliggono danni, rigenera Salute al tuo eroe pari ai danni inflitti.",
-        "popularity": 65
+        "popularity": 67
     },
     {
         "id": 38727,
@@ -12779,7 +12779,7 @@
         "classs": 3,
         "name": "Richiamo della Selva",
         "description": "Evoca Leokk, Huffer e Misha.",
-        "popularity": 100
+        "popularity": 133
     },
     {
         "id": 38734,
@@ -12796,7 +12796,7 @@
         "race": 20,
         "name": "Lupo Infestato",
         "description": "Rantolo di Morte: evoca due Ragni 1/1.",
-        "popularity": 104
+        "popularity": 133
     },
     {
         "id": 38738,
@@ -12812,7 +12812,7 @@
         "classs": 1,
         "name": "Combattente Tauren",
         "description": "Provocazione. Rabbia: +3 Attacco.",
-        "popularity": 80
+        "popularity": 154
     },
     {
         "id": 38739,
@@ -12829,7 +12829,7 @@
         "elite": 1,
         "name": "Malkorok",
         "description": "Grido di Battaglia: equipaggia un'Arma casuale.",
-        "popularity": 22
+        "popularity": 32
     },
     {
         "id": 38740,
@@ -12845,7 +12845,7 @@
         "classs": 2,
         "name": "Campionessa Altruista",
         "description": "Rantolo di Morte: fornisce Scudo Divino a un tuo servitore casuale.",
-        "popularity": 76
+        "popularity": 110
     },
     {
         "id": 38745,
@@ -12861,7 +12861,7 @@
         "classs": 2,
         "name": "Lama dell'Adunata",
         "description": "Grido di Battaglia: +1/+1 a i tuoi servitori con Scudo Divino.",
-        "popularity": 52
+        "popularity": 79
     },
     {
         "id": 38749,
@@ -12875,7 +12875,7 @@
         "classs": 2,
         "name": "Forza Divina",
         "description": "+1/+2 a un servitore.",
-        "popularity": 16
+        "popularity": 18
     },
     {
         "id": 38758,
@@ -12892,7 +12892,7 @@
         "elite": 1,
         "name": "Ragnaros Illuminato",
         "description": "Alla fine del tuo turno, rigenera 8 Salute a un tuo personaggio danneggiato.",
-        "popularity": 74
+        "popularity": 100
     },
     {
         "id": 38764,
@@ -12908,7 +12908,7 @@
         "classs": 5,
         "name": "Alchimista di Borgoscuro",
         "description": "Grido di Battaglia: rigenera 5 Salute.",
-        "popularity": 78
+        "popularity": 122
     },
     {
         "id": 38770,
@@ -12922,7 +12922,7 @@
         "classs": 9,
         "name": "ROVINA!",
         "description": "Distrugge TUTTI i servitori. Pesca una carta per ogni servitore morto.",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38774,
@@ -12938,7 +12938,7 @@
         "classs": 9,
         "name": "Paesano Posseduto",
         "description": "Rantolo di Morte: evoca una Bestia dell'Ombra 1/1.",
-        "popularity": 79
+        "popularity": 129
     },
     {
         "id": 38781,
@@ -12953,7 +12953,7 @@
         "health": 1,
         "name": "Worgen Corrotto",
         "description": "Furtività",
-        "popularity": 35
+        "popularity": 39
     },
     {
         "id": 38782,
@@ -12967,7 +12967,7 @@
         "attack": 1,
         "health": 5,
         "name": "Furia Am'gam",
-        "popularity": 2
+        "popularity": 3
     },
     {
         "id": 38784,
@@ -12982,7 +12982,7 @@
         "health": 3,
         "name": "Tauren Infestato",
         "description": "Provocazione. Rantolo di Morte: evoca una Melma 2/2.",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38792,
@@ -12997,7 +12997,7 @@
         "health": 4,
         "name": "Divoratore di Segreti",
         "description": "Grido di Battaglia: distrugge i Segreti dell'avversario. Ottiene +1/+1 per ogni Segreto distrutto.",
-        "popularity": 27
+        "popularity": 33
     },
     {
         "id": 38795,
@@ -13012,7 +13012,7 @@
         "health": 9,
         "name": "Invocatore della Rovina",
         "description": "Grido di Battaglia: +2/+2 al tuo C'thun dovunque sia. Se C'thun è morto, ritorna nel tuo mazzo.",
-        "popularity": 211
+        "popularity": 265
     },
     {
         "id": 38797,
@@ -13027,7 +13027,7 @@
         "health": 2,
         "name": "Prole di N'zoth",
         "description": "Rantolo di Morte: +1/+1 ai tuoi servitori.",
-        "popularity": 73
+        "popularity": 76
     },
     {
         "id": 38825,
@@ -13044,7 +13044,7 @@
         "race": 23,
         "name": "Capitan Calamaro",
         "description": "Rantolo di Morte: +2 Attacco alla tua Arma.",
-        "popularity": 50
+        "popularity": 57
     },
     {
         "id": 38832,
@@ -13060,7 +13060,7 @@
         "race": 24,
         "name": "Incubo a Scaglie",
         "description": "All'inizio del tuo turno, raddoppia l'Attacco di questo servitore.",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 38833,
@@ -13075,7 +13075,7 @@
         "health": 1,
         "name": "Evocatore del Crepuscolo",
         "description": "Rantolo di Morte: evoca un Distruttore Senzavolto 5/5.",
-        "popularity": 80
+        "popularity": 105
     },
     {
         "id": 38843,
@@ -13089,7 +13089,7 @@
         "classs": 2,
         "name": "Resistenza all'Oscurità",
         "description": "Evoca cinque Reclute Mano d'Argento 1/1.",
-        "popularity": 31
+        "popularity": 39
     },
     {
         "id": 38848,
@@ -13103,7 +13103,7 @@
         "classs": 1,
         "name": "Guerrieri di Sangue",
         "description": "Mette nella tua mano una copia di ogni tuo servitore danneggiato.",
-        "popularity": 29
+        "popularity": 32
     },
     {
         "id": 38857,
@@ -13119,7 +13119,7 @@
         "quality": 5,
         "name": "C'thun",
         "description": "Grido di Battaglia: infligge danni pari al proprio Attacco suddivisi casualmente tra i nemici.",
-        "popularity": 548
+        "popularity": 674
     },
     {
         "id": 38859,
@@ -13134,7 +13134,7 @@
         "health": 3,
         "name": "Invocatrice del Male",
         "description": "Grido di Battaglia: +2/+2 al tuo C'thun dovunque sia.",
-        "popularity": 480
+        "popularity": 588
     },
     {
         "id": 38861,
@@ -13150,7 +13150,7 @@
         "classs": 4,
         "name": "Assassino di C'thun",
         "description": "Grido di Battaglia: distrugge un servitore e aggiunge il suo Attacco e la sua Salute al tuo C'thun dovunque sia.",
-        "popularity": 51
+        "popularity": 58
     },
     {
         "id": 38863,
@@ -13165,7 +13165,7 @@
         "health": 2,
         "name": "Prescelta di C'thun",
         "description": "Scudo Divino. Grido di Battaglia: +2/+2 al tuo C'thun dovunque sia.",
-        "popularity": 337
+        "popularity": 436
     },
     {
         "id": 38864,
@@ -13180,7 +13180,7 @@
         "health": 4,
         "name": "Geomante del Crepuscolo",
         "description": "Provocazione. Grido di Battaglia: fornisce Provocazione al tuo C'thun dovunque sia.",
-        "popularity": 92
+        "popularity": 113
     },
     {
         "id": 38868,
@@ -13195,7 +13195,7 @@
         "health": 4,
         "name": "Anziano del Crepuscolo",
         "description": "Alla fine del tuo turno, +1/+1 al tuo C'thun dovunque sia.",
-        "popularity": 413
+        "popularity": 496
     },
     {
         "id": 38873,
@@ -13210,7 +13210,7 @@
         "health": 6,
         "name": "Messaggera Antica",
         "description": "All'inizio del tuo turno, mette nella tua mano un servitore casuale da 10 Mana dal tuo mazzo.",
-        "popularity": 42
+        "popularity": 40
     },
     {
         "id": 38876,
@@ -13226,7 +13226,7 @@
         "classs": 4,
         "name": "Maga d'Ombra",
         "description": "Grido di Battaglia: seleziona un tuo servitore. Ne mette una copia 1/1 nella tua mano che costa (1).",
-        "popularity": 88
+        "popularity": 108
     },
     {
         "id": 38875,
@@ -13258,7 +13258,7 @@
         "classs": 11,
         "name": "Arakkoa Oscuro",
         "description": "Provocazione. Grido di Battaglia: +3/+3 al tuo C'thun dovunque sia.",
-        "popularity": 169
+        "popularity": 203
     },
     {
         "id": 38888,
@@ -13273,7 +13273,7 @@
         "health": 4,
         "name": "Speziale del Culto",
         "description": "Grido di Battaglia: rigenera 2 Salute al tuo eroe per ogni servitore nemico sul campo.",
-        "popularity": 66
+        "popularity": 85
     },
     {
         "id": 38895,
@@ -13305,7 +13305,7 @@
         "classs": 1,
         "name": "Portascudi Antica",
         "description": "Grido di Battaglia: se il tuo C'thun ha almeno 10 Attacco, fornisce 10 Armatura.",
-        "popularity": 95
+        "popularity": 120
     },
     {
         "id": 38898,
@@ -13321,7 +13321,7 @@
         "collectible": 1,
         "name": "Usciera delle Anime",
         "description": "Quando un tuo servitore muore, +1/+1 al tuo C'thun dovunque sia.",
-        "popularity": 33
+        "popularity": 56
     },
     {
         "id": 38900,
@@ -13337,7 +13337,7 @@
         "classs": 8,
         "name": "Strega del Culto",
         "description": "+1 Danni Magici. Dopo che hai lanciato una Magia, +1/+1 al tuo C'thun dovunque sia.",
-        "popularity": 56
+        "popularity": 85
     },
     {
         "id": 38909,
@@ -13354,7 +13354,7 @@
         "race": 20,
         "name": "Verme della Sabbia",
         "description": "Quando attacca e distrugge un servitore, può attaccare nuovamente.",
-        "popularity": 14
+        "popularity": 15
     },
     {
         "id": 38910,
@@ -13372,7 +13372,7 @@
         "race": 20,
         "name": "Principessa Huhuran",
         "description": "Grido di Battaglia: attiva il Rantolo di Morte di un tuo servitore.",
-        "popularity": 88
+        "popularity": 105
     },
     {
         "id": 38911,
@@ -13388,7 +13388,7 @@
         "classs": 2,
         "name": "Custode di Borgoscuro",
         "description": "Quando viene evocato un servitore con 1 Salute sotto il tuo controllo, gli fornisce Scudo Divino.",
-        "popularity": 69
+        "popularity": 96
     },
     {
         "id": 38913,
@@ -13402,7 +13402,7 @@
         "classs": 2,
         "name": "Luce nell'Oscurità",
         "description": "Rinvieni un servitore. Gli fornisce +1/+1.",
-        "popularity": 23
+        "popularity": 29
     },
     {
         "id": 38914,
@@ -13419,7 +13419,7 @@
         "race": 23,
         "name": "Nostromo di N'zoth",
         "description": "Grido di Battaglia: equipaggia un Gancio Arrugginito 1/3.",
-        "popularity": 42
+        "popularity": 68
     },
     {
         "id": 38916,
@@ -13436,7 +13436,7 @@
         "race": 20,
         "name": "Grizzly Corrotto",
         "description": "Dopo che viene evocato un servitore sotto il tuo controllo, gli fornisce +1/+1.",
-        "popularity": 25
+        "popularity": 28
     },
     {
         "id": 38918,
@@ -13450,7 +13450,7 @@
         "classs": 1,
         "name": "Sangue e Icore",
         "description": "Infligge 1 |4(danno,danni) a un servitore. Se sopravvive, evoca una Melma 2/2.",
-        "popularity": 53
+        "popularity": 120
     },
     {
         "id": 38920,
@@ -13467,7 +13467,7 @@
         "race": 23,
         "name": "Cultista Velerosse",
         "description": "Grido di Battaglia: +1/+1 alla tua Arma se controlli un Pirata.",
-        "popularity": 38
+        "popularity": 59
     },
     {
         "id": 38922,
@@ -13501,7 +13501,7 @@
         "elite": 1,
         "name": "Alamorte Primordiale",
         "description": "Rantolo di Morte: mette sul campo tutti i Draghi nella tua mano.",
-        "popularity": 65
+        "popularity": 79
     },
     {
         "id": 38944,
@@ -13517,7 +13517,7 @@
         "elite": 1,
         "name": "Boccalarga Infestato",
         "description": "Quando subisce danni, evoca uno Gnoll 2/2 con Provocazione.",
-        "popularity": 30
+        "popularity": 45
     },
     {
         "id": 38957,
@@ -13548,7 +13548,7 @@
         "health": 6,
         "name": "Adoratore Folle",
         "description": "Provocazione. Quando subisce danni, +1/+1 al tuo C'thun dovunque sia.",
-        "popularity": 197
+        "popularity": 245
     },
     {
         "id": 38960,
@@ -13564,7 +13564,7 @@
         "race": 23,
         "name": "Pirata Acquanera",
         "description": "Le tue Armi costano (2) in meno.",
-        "popularity": 21
+        "popularity": 30
     },
     {
         "id": 38961,
@@ -13579,7 +13579,7 @@
         "health": 2,
         "name": "Razziatore Evoluto",
         "description": "Rantolo di Morte: pesca una carta.",
-        "popularity": 37
+        "popularity": 44
     },
     {
         "id": 38985,
@@ -13595,7 +13595,7 @@
         "classs": 3,
         "race": 20,
         "name": "Bruco Carogna",
-        "popularity": 14
+        "popularity": 27
     },
     {
         "id": 39002,
@@ -13625,7 +13625,7 @@
         "health": 4,
         "name": "Tentacolo Agitato",
         "description": "Provocazione",
-        "popularity": 13
+        "popularity": 19
     },
     {
         "id": 39008,
@@ -13641,7 +13641,7 @@
         "classs": 7,
         "name": "Maestro dell'Evoluzione",
         "description": "Grido di Battaglia: trasforma un tuo servitore in un servitore casuale che costa (1) in più.",
-        "popularity": 131
+        "popularity": 175
     },
     {
         "id": 39026,
@@ -13657,7 +13657,7 @@
         "classs": 4,
         "name": "Trafficante di Sepulcra",
         "description": "Rantolo di Morte: mette nella tua mano una carta casuale della classe dell'avversario.",
-        "popularity": 105
+        "popularity": 129
     },
     {
         "id": 39033,
@@ -13673,7 +13673,7 @@
         "classs": 5,
         "name": "Accolita Incappucciata",
         "description": "Quando un personaggio viene curato, +1/+1 al tuo C'thun dovunque sia.",
-        "popularity": 80
+        "popularity": 101
     },
     {
         "id": 39034,
@@ -13689,7 +13689,7 @@
         "classs": 5,
         "name": "Ombra Mutevole",
         "description": "Rantolo di Morte: copia una carta del mazzo dell'avversario e la mette nella tua mano.",
-        "popularity": 61
+        "popularity": 97
     },
     {
         "id": 39041,
@@ -13704,7 +13704,7 @@
         "health": 3,
         "name": "Orrore Ciclopico",
         "description": "Provocazione. Grido di Battaglia: ottiene +1 Salute per ogni servitore nemico sul campo.",
-        "popularity": 45
+        "popularity": 55
     },
     {
         "id": 39046,
@@ -13720,7 +13720,7 @@
         "health": 4,
         "name": "Nat Pescatore Oscuro",
         "description": "All'inizio del suo turno, l'avversario ha una probabilità del 50% di pescare una carta aggiuntiva.",
-        "popularity": 12
+        "popularity": 17
     },
     {
         "id": 39118,
@@ -13735,7 +13735,7 @@
         "health": 6,
         "name": "Cultista Skeram",
         "description": "Grido di Battaglia: +2/+2 al tuo C'thun dovunque sia.",
-        "popularity": 111
+        "popularity": 120
     },
     {
         "id": 39119,
@@ -13751,6 +13751,6 @@
         "health": 9,
         "name": "Soggoth",
         "description": "Provocazione. Non può essere il bersaglio di Magie o Poteri Eroe.",
-        "popularity": 26
+        "popularity": 33
     }
 ]

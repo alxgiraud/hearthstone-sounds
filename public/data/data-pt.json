@@ -15,7 +15,7 @@
         "collectible": 1,
         "name": "Edwin VanCleef",
         "description": "Combo: Receba +2/+2 para cada um dos cards jogados antes neste turno.",
-        "popularity": 2159
+        "popularity": 2198
     },
     {
         "id": 391,
@@ -32,7 +32,7 @@
         "collectible": 1,
         "name": "Lâmina da Perdição",
         "description": "Grito de Guerra: Cause 1 de dano. Combo: Em vez de 1, cause 2 de dano.",
-        "popularity": 1607
+        "popularity": 1611
     },
     {
         "id": 999,
@@ -48,7 +48,7 @@
         "collectible": 1,
         "name": "Saqueadora da Vela Sangrenta",
         "description": "Grito de Guerra: Ela recebe Ataque equivalente ao Ataque da sua arma.",
-        "popularity": 3421
+        "popularity": 3440
     },
     {
         "id": 749,
@@ -65,7 +65,7 @@
         "collectible": 1,
         "name": "Mago Sangrento Thalnos",
         "description": "+1 de Dano Mágico. Último Suspiro: Compre um card.",
-        "popularity": 10323
+        "popularity": 10378
     },
     {
         "id": 179,
@@ -80,7 +80,7 @@
         "faction": 3,
         "collectible": 1,
         "name": "Fogo-fátuo",
-        "popularity": 1054
+        "popularity": 1060
     },
     {
         "id": 1009,
@@ -97,7 +97,7 @@
         "collectible": 1,
         "name": "Capitã do Brado Guerreiro",
         "description": "Seus lacaios com Investida têm +1 de Ataque.",
-        "popularity": 2874
+        "popularity": 2871
     },
     {
         "id": 635,
@@ -113,7 +113,7 @@
         "collectible": 1,
         "name": "Mestre Escudeiro de Sen'jin",
         "description": "Provocar",
-        "popularity": 13564
+        "popularity": 13595
     },
     {
         "id": 830,
@@ -144,7 +144,7 @@
         "collectible": 1,
         "name": "Mecânica de Dragonete",
         "description": "Grito de Guerra: Evoque um Dragonete Mecânico 2/1.",
-        "popularity": 1841
+        "popularity": 1845
     },
     {
         "id": 700,
@@ -160,7 +160,7 @@
         "collectible": 1,
         "name": "Guardião Mogu'shan",
         "description": "Provocar",
-        "popularity": 2246
+        "popularity": 2241
     },
     {
         "id": 443,
@@ -176,7 +176,7 @@
         "race": 20,
         "name": "Caranguejo Faminto",
         "description": "Grito de Guerra: Destrua um murloc e receba +2/+2.",
-        "popularity": 713
+        "popularity": 716
     },
     {
         "id": 1091,
@@ -191,7 +191,7 @@
         "collectible": 1,
         "name": "Redirecionar",
         "description": "Segredo: Quando um personagem tentar atacar o seu herói, ele atacará outro personagem aleatório.",
-        "popularity": 1480
+        "popularity": 1481
     },
     {
         "id": 1133,
@@ -208,7 +208,7 @@
         "collectible": 1,
         "name": "Assassino Paciente",
         "description": "Furtividade. Destrua qualquer lacaio atingido por este lacaio.",
-        "popularity": 393
+        "popularity": 389
     },
     {
         "id": 1029,
@@ -223,7 +223,7 @@
         "collectible": 1,
         "name": "Professora Violeta",
         "description": "Sempre que lançar um feitiço, evoque um Aprendiz Violeta 1/1.",
-        "popularity": 3407
+        "popularity": 3426
     },
     {
         "id": 538,
@@ -240,7 +240,7 @@
         "collectible": 1,
         "name": "Armeira de Arathi",
         "description": "Grito de Guerra: Equipe uma arma 2/2.",
-        "popularity": 2311
+        "popularity": 2323
     },
     {
         "id": 1659,
@@ -255,7 +255,7 @@
         "health": 3,
         "name": "Acólito da Dor",
         "description": "Sempre que este lacaio receber dano, compre um card.",
-        "popularity": 11700
+        "popularity": 11841
     },
     {
         "id": 841,
@@ -270,7 +270,7 @@
         "collectible": 1,
         "name": "Nova Sagrada",
         "description": "Cause 2 de dano a todos os inimigos. Restaure 2 de Vida de todos os personagens aliados.",
-        "popularity": 9402
+        "popularity": 9458
     },
     {
         "id": 1026,
@@ -284,7 +284,7 @@
         "collectible": 1,
         "name": "Brado de Comando",
         "description": "A Vida de seus lacaios não pode ser reduzida a menos de 1 neste turno. Compre um card.",
-        "popularity": 1018
+        "popularity": 1016
     },
     {
         "id": 774,
@@ -301,7 +301,7 @@
         "attack": 2,
         "name": "Elemental Desvinculado",
         "description": "Sempre que você jogar um card com Sobrecarga, receba +1/+1.",
-        "popularity": 2947
+        "popularity": 2954
     },
     {
         "id": 70,
@@ -316,7 +316,7 @@
         "collectible": 1,
         "name": "Bênção do Poder",
         "description": "Conceda +3 de Ataque a um lacaio.",
-        "popularity": 2949
+        "popularity": 2967
     },
     {
         "id": 943,
@@ -331,7 +331,7 @@
         "collectible": 1,
         "name": "Bênção dos Reis",
         "description": "Conceda +4/+4 a um lacaio. (+4 de Ataque/+4 de Vida)",
-        "popularity": 5470
+        "popularity": 5478
     },
     {
         "id": 77,
@@ -346,7 +346,7 @@
         "collectible": 1,
         "name": "Polimorfia",
         "description": "Transforme um lacaio em uma Ovelha 1/1.",
-        "popularity": 7869
+        "popularity": 7906
     },
     {
         "id": 348,
@@ -362,7 +362,7 @@
         "collectible": 1,
         "name": "Anão Ferro Negro",
         "description": "Grito de Guerra: Conceda +2 de Ataque a um lacaio neste turno.",
-        "popularity": 6744
+        "popularity": 6754
     },
     {
         "id": 344,
@@ -377,7 +377,7 @@
         "collectible": 1,
         "name": "Investida",
         "description": "Conceda +2 de Ataque e Investida a um lacaio aliado.",
-        "popularity": 1179
+        "popularity": 1187
     },
     {
         "id": 1371,
@@ -393,7 +393,7 @@
         "race": 20,
         "name": "Kodo em Disparada",
         "description": "Grito de Guerra: Destrua um lacaio inimigo aleatório com 2 ou menos de Ataque.",
-        "popularity": 3677
+        "popularity": 3703
     },
     {
         "id": 854,
@@ -408,7 +408,7 @@
         "collectible": 1,
         "name": "Humildade",
         "description": "Mude o Ataque de um lacaio para 1.",
-        "popularity": 1793
+        "popularity": 1810
     },
     {
         "id": 526,
@@ -424,7 +424,7 @@
         "collectible": 1,
         "name": "Gruul",
         "description": "Ao fim de cada turno, receba +1/+1.",
-        "popularity": 787
+        "popularity": 789
     },
     {
         "id": 213,
@@ -455,7 +455,7 @@
         "collectible": 1,
         "name": "Infiltrador Worgen",
         "description": "Furtividade",
-        "popularity": 3041
+        "popularity": 3057
     },
     {
         "id": 662,
@@ -470,7 +470,7 @@
         "collectible": 1,
         "name": "Seta de Gelo",
         "description": "Cause 3 de dano a um personagem e Congele-o.",
-        "popularity": 11887
+        "popularity": 11936
     },
     {
         "id": 1008,
@@ -488,7 +488,7 @@
         "collectible": 1,
         "name": "Totem de Labaredas",
         "description": "Lacaios adjacentes têm +2 de Ataque.",
-        "popularity": 6799
+        "popularity": 6864
     },
     {
         "id": 345,
@@ -503,7 +503,7 @@
         "collectible": 1,
         "name": "Assassinar",
         "description": "Destrua um lacaio inimigo.",
-        "popularity": 2723
+        "popularity": 2725
     },
     {
         "id": 157,
@@ -519,7 +519,7 @@
         "collectible": 1,
         "name": "Lorde da Arena",
         "description": "Provocar",
-        "popularity": 3195
+        "popularity": 3201
     },
     {
         "id": 1109,
@@ -535,7 +535,7 @@
         "collectible": 1,
         "name": "Mestre de Espadas Ferido",
         "description": "Grito de Guerra: Cause 4 de dano a ELE MESMO.",
-        "popularity": 4451
+        "popularity": 4462
     },
     {
         "id": 1100,
@@ -550,7 +550,7 @@
         "collectible": 1,
         "name": "Sifão da Alma",
         "description": "Destrua um lacaio. Restaure 3 de Vida do seu herói.",
-        "popularity": 4026
+        "popularity": 4049
     },
     {
         "id": 594,
@@ -565,7 +565,7 @@
         "collectible": 1,
         "name": "Impor as Mãos",
         "description": "Restaure 8 de Vida. Compre 3 cards.",
-        "popularity": 3844
+        "popularity": 3852
     },
     {
         "id": 34,
@@ -581,7 +581,7 @@
         "collectible": 1,
         "name": "Guardião de Luaprata",
         "description": "Escudo Divino",
-        "popularity": 1650
+        "popularity": 1651
     },
     {
         "id": 1099,
@@ -596,7 +596,7 @@
         "collectible": 1,
         "name": "Visão da Mente",
         "description": "Coloque uma cópia de um card aleatório da mão do seu oponente na sua mão.",
-        "popularity": 1921
+        "popularity": 1923
     },
     {
         "id": 1687,
@@ -611,7 +611,7 @@
         "health": 5,
         "race": 20,
         "name": "Cão-magma",
-        "popularity": 1419
+        "popularity": 1423
     },
     {
         "id": 510,
@@ -628,7 +628,7 @@
         "collectible": 1,
         "name": "Oráculo Escamatroz",
         "description": "TODOS os outros Murlocs têm +1 de Ataque.",
-        "popularity": 2307
+        "popularity": 2312
     },
     {
         "id": 629,
@@ -643,7 +643,7 @@
         "collectible": 1,
         "name": "Tempestade de Raios",
         "description": "Cause 2-3 de dano a todos os lacaios inimigos. Sobrecarga: (2)",
-        "popularity": 6436
+        "popularity": 6497
     },
     {
         "id": 797,
@@ -660,7 +660,7 @@
         "collectible": 1,
         "name": "Fonte de Luz",
         "description": "No início do seu turno, restaure 3 de Vida de um personagem aliado ferido.",
-        "popularity": 2162
+        "popularity": 2167
     },
     {
         "id": 453,
@@ -677,7 +677,7 @@
         "collectible": 1,
         "name": "Vidente da Luz Fria",
         "description": "Grito de Guerra: Conceda +2 de Vida a TODOS os outros Murlocs.",
-        "popularity": 1893
+        "popularity": 1900
     },
     {
         "id": 810,
@@ -694,7 +694,7 @@
         "collectible": 1,
         "name": "Uivo Sangrento",
         "description": "Atacar um lacaio custa 1 de Ataque em vez de 1 de Durabilidade.",
-        "popularity": 2283
+        "popularity": 2330
     },
     {
         "id": 818,
@@ -709,7 +709,7 @@
         "collectible": 1,
         "name": "Visão Distante",
         "description": "Compre um card. Este card custa (3) a menos.",
-        "popularity": 489
+        "popularity": 491
     },
     {
         "id": 90,
@@ -724,7 +724,7 @@
         "health": 5,
         "collectible": 1,
         "name": "Yeti Ventogelante",
-        "popularity": 10089
+        "popularity": 10119
     },
     {
         "id": 467,
@@ -739,7 +739,7 @@
         "cost": 0,
         "name": "Fogo Lunar",
         "description": "Cause 1 de dano.",
-        "popularity": 872
+        "popularity": 877
     },
     {
         "id": 1064,
@@ -754,7 +754,7 @@
         "collectible": 1,
         "name": "Rajada de Lâminas",
         "description": "Destrua sua arma e cause o dano dela a todos os lacaios inimigos.",
-        "popularity": 4859
+        "popularity": 4839
     },
     {
         "id": 1366,
@@ -768,7 +768,7 @@
         "classs": 5,
         "name": "Dissipação em Massa",
         "description": "Silencie todos os lacaios inimigos. Compre um card.",
-        "popularity": 1375
+        "popularity": 1379
     },
     {
         "id": 801,
@@ -784,7 +784,7 @@
         "collectible": 1,
         "name": "Alquimista Enlouquecido",
         "description": "Grito de Guerra: Troque o Ataque pela Vida de um lacaio.",
-        "popularity": 1666
+        "popularity": 1674
     },
     {
         "id": 220,
@@ -799,7 +799,7 @@
         "collectible": 1,
         "name": "Insanidade Sombria",
         "description": "Assuma o controle de um lacaio inimigo com 3 ou menos de Ataque até o final do turno.",
-        "popularity": 3230
+        "popularity": 3238
     },
     {
         "id": 756,
@@ -814,7 +814,7 @@
         "collectible": 1,
         "name": "Igualdade",
         "description": "Mude a Vida de TODOS os lacaios para 1.",
-        "popularity": 6254
+        "popularity": 6286
     },
     {
         "id": 437,
@@ -828,7 +828,7 @@
         "classs": 3,
         "name": "Companheiro Animal",
         "description": "Evoque um Fera Companheira aleatória.",
-        "popularity": 7535
+        "popularity": 7573
     },
     {
         "id": 86,
@@ -842,7 +842,7 @@
         "collectible": 1,
         "name": "Chuva Estelar",
         "description": "Escolha Um - Cause 5 de dano a um lacaio ou 2 de dano a todos os lacaios inimigos.",
-        "popularity": 3037
+        "popularity": 3044
     },
     {
         "id": 430,
@@ -857,7 +857,7 @@
         "collectible": 1,
         "name": "Cone de Frio",
         "description": "Congele um lacaio e os lacaios vizinhos, causando-lhes 1 de dano.",
-        "popularity": 3056
+        "popularity": 3064
     },
     {
         "id": 767,
@@ -872,7 +872,7 @@
         "collectible": 1,
         "name": "Choque Terreno",
         "description": "Silencie um lacaio, e cause 1 de dano a ele.",
-        "popularity": 5978
+        "popularity": 5981
     },
     {
         "id": 890,
@@ -890,7 +890,7 @@
         "collectible": 1,
         "name": "Tirion Fordring",
         "description": "Escudo Divino. Provocar. Último Suspiro: Equipe uma Crematória 5/3.",
-        "popularity": 4712
+        "popularity": 4736
     },
     {
         "id": 1182,
@@ -907,7 +907,7 @@
         "race": 20,
         "name": "Veloférreo Cinzento",
         "description": "Provocar",
-        "popularity": 5572
+        "popularity": 5594
     },
     {
         "id": 708,
@@ -922,7 +922,7 @@
         "collectible": 1,
         "name": "Quebra-crânio",
         "description": "Cause 2 de dano ao herói inimigo. Combo: Devolva este card à sua mão no próximo turno.",
-        "popularity": 834
+        "popularity": 837
     },
     {
         "id": 877,
@@ -937,7 +937,7 @@
         "collectible": 1,
         "name": "Tiro Arcano",
         "description": "Cause 2 de dano.",
-        "popularity": 3138
+        "popularity": 3159
     },
     {
         "id": 1221,
@@ -954,7 +954,7 @@
         "race": 15,
         "name": "Terror do Caos",
         "description": "Grito de Guerra: Destrua os lacaios dos dois lados deste e receba o Ataque e a Vida deles.",
-        "popularity": 2141
+        "popularity": 2137
     },
     {
         "id": 1092,
@@ -969,7 +969,7 @@
         "collectible": 1,
         "name": "Espiral da Morte",
         "description": "Cause 1 de dano a um lacaio. Se ele morrer, compre um card.",
-        "popularity": 6400
+        "popularity": 6431
     },
     {
         "id": 785,
@@ -984,7 +984,7 @@
         "collectible": 1,
         "name": "Executar",
         "description": "Destrua um lacaio inimigo que tenha recebido dano.",
-        "popularity": 6847
+        "popularity": 6951
     },
     {
         "id": 1171,
@@ -999,7 +999,7 @@
         "collectible": 1,
         "name": "Sede de Sangue",
         "description": "Conceda +3 de Ataque aos seus lacaios neste turno.",
-        "popularity": 3597
+        "popularity": 3636
     },
     {
         "id": 287,
@@ -1015,7 +1015,7 @@
         "collectible": 1,
         "name": "Sequestrador",
         "description": "Combo: Devolva um lacaio à mão do dono.",
-        "popularity": 251
+        "popularity": 252
     },
     {
         "id": 736,
@@ -1033,7 +1033,7 @@
         "collectible": 1,
         "name": "Velho Olho-turvo",
         "description": "Investida. Ganha +1 de Ataque para cada um dos demais Murlocs no campo de batalha.",
-        "popularity": 2089
+        "popularity": 2086
     },
     {
         "id": 1796,
@@ -1064,7 +1064,7 @@
         "collectible": 1,
         "name": "Punhalada pelas Costas",
         "description": "Cause 2 de dano a um lacaio sem ferimentos.",
-        "popularity": 6996
+        "popularity": 7058
     },
     {
         "id": 1063,
@@ -1081,7 +1081,7 @@
         "collectible": 1,
         "name": "Líder Guerreiro Murloc",
         "description": "TODOS os outros Murlocs têm +2/+1.",
-        "popularity": 2126
+        "popularity": 2135
     },
     {
         "id": 365,
@@ -1096,7 +1096,7 @@
         "collectible": 1,
         "name": "Passo Furtivo",
         "description": "Devolva um lacaio aliado à sua mão. Ele custa (2) a menos.",
-        "popularity": 3046
+        "popularity": 3057
     },
     {
         "id": 404,
@@ -1111,7 +1111,7 @@
         "collectible": 1,
         "name": "Espírito Ancestral",
         "description": "Conceda a um lacaio: \"Último Suspiro: Evoque este lacaio novamente.\"",
-        "popularity": 1393
+        "popularity": 1394
     },
     {
         "id": 763,
@@ -1127,7 +1127,7 @@
         "collectible": 1,
         "name": "Defensor de Argus",
         "description": "Grito de Guerra: Conceda +1/+1 e Provocar aos lacaios adjacentes.",
-        "popularity": 21484
+        "popularity": 21548
     },
     {
         "id": 421,
@@ -1143,7 +1143,7 @@
         "durability": 4,
         "collectible": 1,
         "name": "Lâmina do Assassino",
-        "popularity": 2834
+        "popularity": 2838
     },
     {
         "id": 1657,
@@ -1158,7 +1158,7 @@
         "health": 2,
         "name": "Caçador Profissional",
         "description": "Grito de Guerra: Destrua um lacaio com 7 ou mais de Ataque.",
-        "popularity": 13129
+        "popularity": 13101
     },
     {
         "id": 1167,
@@ -1175,7 +1175,7 @@
         "collectible": 1,
         "name": "Pacificador Aldor",
         "description": "Grito de Guerra: Mude o Ataque de um lacaio inimigo para 1.",
-        "popularity": 5989
+        "popularity": 6021
     },
     {
         "id": 457,
@@ -1190,7 +1190,7 @@
         "collectible": 1,
         "name": "Nevasca",
         "description": "Cause 2 de dano a todos os lacaios inimigos e Congele-os.",
-        "popularity": 4996
+        "popularity": 5009
     },
     {
         "id": 1243,
@@ -1204,7 +1204,7 @@
         "classs": 3,
         "name": "Soltem os Cães",
         "description": "Para cada lacaio inimigo, evoque um Cão 1/1 com Investida.",
-        "popularity": 6751
+        "popularity": 6780
     },
     {
         "id": 461,
@@ -1219,7 +1219,7 @@
         "collectible": 1,
         "name": "Aturdir",
         "description": "Devolva um lacaio inimigo à mão do seu oponente.",
-        "popularity": 4893
+        "popularity": 4944
     },
     {
         "id": 308,
@@ -1235,7 +1235,7 @@
         "collectible": 1,
         "name": "Inventora Gnômica",
         "description": "Grito de Guerra: Compre um card.",
-        "popularity": 5402
+        "popularity": 5419
     },
     {
         "id": 8,
@@ -1250,7 +1250,7 @@
         "collectible": 1,
         "name": "Controle Mental",
         "description": "Assuma o controle de um lacaio inimigo.",
-        "popularity": 5170
+        "popularity": 5180
     },
     {
         "id": 134,
@@ -1281,7 +1281,7 @@
         "cost": 1,
         "name": "Lança de Gelo",
         "description": "Congele um personagem. Se ele já estiver Congelado, cause 4 de dano.",
-        "popularity": 3670
+        "popularity": 3683
     },
     {
         "id": 906,
@@ -1297,7 +1297,7 @@
         "collectible": 1,
         "name": "Gosma Ácida do Pântano",
         "description": "Grito de Guerra: Destrua a arma do seu oponente.",
-        "popularity": 11391
+        "popularity": 11452
     },
     {
         "id": 1522,
@@ -1328,7 +1328,7 @@
         "race": 20,
         "name": "Jubalta da Savana",
         "description": "Último Suspiro: Evoque duas Hienas 2/2.",
-        "popularity": 4883
+        "popularity": 4899
     },
     {
         "id": 985,
@@ -1345,7 +1345,7 @@
         "race": 20,
         "name": "Lobo Hediondo Alfa",
         "description": "Lacaios adjacentes têm +1 de Ataque.",
-        "popularity": 6762
+        "popularity": 6819
     },
     {
         "id": 1373,
@@ -1375,7 +1375,7 @@
         "collectible": 1,
         "name": "Sargento Abusivo",
         "description": "Grito de Guerra: Conceda +2 de Ataque a um lacaio neste turno.",
-        "popularity": 9846
+        "popularity": 9916
     },
     {
         "id": 1721,
@@ -1391,7 +1391,7 @@
         "elite": 1,
         "name": "Sylvana Correventos",
         "description": "Último Suspiro: Assuma o controle de um lacaio inimigo aleatório.",
-        "popularity": 13182
+        "popularity": 13355
     },
     {
         "id": 285,
@@ -1408,7 +1408,7 @@
         "collectible": 1,
         "name": "Capataz Cruel",
         "description": "Grito de Guerra: Cause 1 de dano a um lacaio e conceda-lhe +2 de Ataque.",
-        "popularity": 5436
+        "popularity": 5459
     },
     {
         "id": 505,
@@ -1423,7 +1423,7 @@
         "collectible": 1,
         "name": "Raio",
         "description": "Cause 3 de dano. Sobrecarga: (1)",
-        "popularity": 4989
+        "popularity": 5035
     },
     {
         "id": 601,
@@ -1440,7 +1440,7 @@
         "collectible": 1,
         "name": "Guardião do Bosque",
         "description": "Escolha Um - Cause 2 de dano; ou Silencie um lacaio.",
-        "popularity": 7105
+        "popularity": 7091
     },
     {
         "id": 292,
@@ -1455,7 +1455,7 @@
         "collectible": 1,
         "name": "Tiro Múltiplo",
         "description": "Cause 3 de dano a dois lacaios inimigos aleatórios.",
-        "popularity": 2732
+        "popularity": 2740
     },
     {
         "id": 37,
@@ -1471,7 +1471,7 @@
         "collectible": 1,
         "name": "Evocadora Diminuta",
         "description": "O primeiro lacaio que você joga a cada turno custa (1) a menos.",
-        "popularity": 1136
+        "popularity": 1137
     },
     {
         "id": 754,
@@ -1487,7 +1487,7 @@
         "collectible": 1,
         "name": "Quebra-feitiço",
         "description": "Grito de Guerra: Silencie um lacaio.",
-        "popularity": 7261
+        "popularity": 7314
     },
     {
         "id": 459,
@@ -1502,7 +1502,7 @@
         "collectible": 1,
         "name": "Veneno Mortal",
         "description": "Conceda +2 de Ataque à sua arma.",
-        "popularity": 6668
+        "popularity": 6711
     },
     {
         "id": 667,
@@ -1517,7 +1517,7 @@
         "collectible": 1,
         "name": "Leque de Facas",
         "description": "Cause 1 de dano a todos os lacaios inimigos. Compre um card.",
-        "popularity": 4677
+        "popularity": 4730
     },
     {
         "id": 866,
@@ -1533,7 +1533,7 @@
         "collectible": 1,
         "name": "Carrega-escudo",
         "description": "Provocar",
-        "popularity": 3076
+        "popularity": 3068
     },
     {
         "id": 860,
@@ -1548,7 +1548,7 @@
         "collectible": 1,
         "name": "Detectar Demônios",
         "description": "Coloque 2 Demônios aleatórios do seu deck na sua mão.",
-        "popularity": 994
+        "popularity": 996
     },
     {
         "id": 1023,
@@ -1563,7 +1563,7 @@
         "collectible": 1,
         "name": "Levantar Escudo",
         "description": "Receba 5 de Armadura. Compre um card.",
-        "popularity": 4920
+        "popularity": 4972
     },
     {
         "id": 920,
@@ -1579,7 +1579,7 @@
         "collectible": 1,
         "name": "Anciente da Tradição",
         "description": "Escolha um - Compre um card; ou Restaure 5 de Vida.",
-        "popularity": 5404
+        "popularity": 5388
     },
     {
         "id": 1370,
@@ -1594,7 +1594,7 @@
         "health": 7,
         "race": 20,
         "name": "Mordelisca do Oásis",
-        "popularity": 1658
+        "popularity": 1663
     },
     {
         "id": 41,
@@ -1610,7 +1610,7 @@
         "collectible": 1,
         "name": "Bruto Lobo do Gelo",
         "description": "Provocar",
-        "popularity": 1821
+        "popularity": 1820
     },
     {
         "id": 1014,
@@ -1625,7 +1625,7 @@
         "collectible": 1,
         "name": "Piromante Selvagem",
         "description": "Depois de lançar um feitiço, cause 1 de dano a TODOS os lacaios.",
-        "popularity": 6866
+        "popularity": 6947
     },
     {
         "id": 257,
@@ -1641,7 +1641,7 @@
         "collectible": 1,
         "name": "Caçadora do Urzal",
         "description": "Grito de Guerra: Evoque um Javali 1/1.",
-        "popularity": 2915
+        "popularity": 2922
     },
     {
         "id": 859,
@@ -1656,7 +1656,7 @@
         "collectible": 1,
         "name": "Espiral Etérea",
         "description": "Destrua todos os lacaios.",
-        "popularity": 968
+        "popularity": 984
     },
     {
         "id": 436,
@@ -1674,7 +1674,7 @@
         "race": 24,
         "name": "Malygos",
         "description": "+5 de Dano Mágico",
-        "popularity": 2547
+        "popularity": 2560
     },
     {
         "id": 855,
@@ -1690,7 +1690,7 @@
         "collectible": 1,
         "name": "Millhouse Manavento",
         "description": "Grito de Guerra: Feitiços inimigos custam (0) no próximo turno.",
-        "popularity": 509
+        "popularity": 508
     },
     {
         "id": 376,
@@ -1705,7 +1705,7 @@
         "collectible": 1,
         "name": "Fogo Interior",
         "description": "Mude o Ataque de um lacaio para ser igual à Vida dele.",
-        "popularity": 2898
+        "popularity": 2903
     },
     {
         "id": 381,
@@ -1720,7 +1720,7 @@
         "collectible": 1,
         "name": "Alma da Floresta",
         "description": "Conceda aos seus lacaios: Último Suspiro: Evoque um Arvoroso 2/2.",
-        "popularity": 1074
+        "popularity": 1072
     },
     {
         "id": 997,
@@ -1736,7 +1736,7 @@
         "collectible": 1,
         "name": "Corsário da Vela Sangrenta",
         "description": "Grito de Guerra: Remova 1 de Durabilidade da arma do seu oponente.",
-        "popularity": 936
+        "popularity": 938
     },
     {
         "id": 570,
@@ -1753,7 +1753,7 @@
         "collectible": 1,
         "name": "Mestre-faz-tudo Superchispa",
         "description": "Grito de Guerra: Transforme outro lacaio aleatório em um Demossauro 5/5 ou em um Esquilo 1/1.",
-        "popularity": 2084
+        "popularity": 2086
     },
     {
         "id": 192,
@@ -1768,7 +1768,7 @@
         "collectible": 1,
         "name": "Bloco de Gelo",
         "description": "Segredo: Quando seu herói receber dano fatal, ignore-o e fique Imune até o fim do turno.",
-        "popularity": 3364
+        "popularity": 3369
     },
     {
         "id": 75,
@@ -1783,7 +1783,7 @@
         "collectible": 1,
         "name": "Briga",
         "description": "Destrua todos os lacaios, menos um. (escolhido aleatoriamente)",
-        "popularity": 3417
+        "popularity": 3467
     },
     {
         "id": 196,
@@ -1797,7 +1797,7 @@
         "collectible": 1,
         "name": "Sumir",
         "description": "Devolva todos os lacaios à mão do dono.",
-        "popularity": 973
+        "popularity": 972
     },
     {
         "id": 1693,
@@ -1814,7 +1814,7 @@
         "race": 20,
         "name": "Rei Mukla",
         "description": "Grito de Guerra: Conceda 2 Bananas ao seu oponente.",
-        "popularity": 1501
+        "popularity": 1502
     },
     {
         "id": 912,
@@ -1831,7 +1831,7 @@
         "collectible": 1,
         "name": "Harrison Jones",
         "description": "Grito de Guerra: Destrua a arma de seu oponente e compre o mesmo número de cards que a durabilidade da arma.",
-        "popularity": 3493
+        "popularity": 3549
     },
     {
         "id": 712,
@@ -1862,7 +1862,7 @@
         "collectible": 1,
         "name": "Moreia de Mana",
         "description": "Sempre que você lançar um feitiço, receba +1 de Ataque.",
-        "popularity": 6829
+        "popularity": 6862
     },
     {
         "id": 481,
@@ -1877,7 +1877,7 @@
         "collectible": 1,
         "name": "Selvageria",
         "description": "Cause dano equivalente ao Ataque do seu herói a um lacaio.",
-        "popularity": 333
+        "popularity": 334
     },
     {
         "id": 811,
@@ -1893,7 +1893,7 @@
         "collectible": 1,
         "name": "Mestra do Culto",
         "description": "Sempre que um de seus outros lacaios morrer, compre um card.",
-        "popularity": 3525
+        "popularity": 3537
     },
     {
         "id": 61,
@@ -1909,7 +1909,7 @@
         "collectible": 1,
         "name": "Ferreira Rancorosa",
         "description": "Enfurecer: Sua arma tem +2 de Ataque.",
-        "popularity": 1863
+        "popularity": 1864
     },
     {
         "id": 608,
@@ -1925,7 +1925,7 @@
         "collectible": 1,
         "name": "Clériga do Sol Partido",
         "description": "Grito de Guerra: Conceda +1/+1 a um lacaio aliado.",
-        "popularity": 11032
+        "popularity": 11057
     },
     {
         "id": 462,
@@ -1940,7 +1940,7 @@
         "collectible": 1,
         "name": "Olho por Olho",
         "description": "Segredo: Quando o seu herói receber dano, cause a mesma quantidade de dano ao herói inimigo.",
-        "popularity": 544
+        "popularity": 545
     },
     {
         "id": 825,
@@ -1957,7 +1957,7 @@
         "collectible": 1,
         "name": "Draco Lazúli",
         "description": "+1 de Dano Mágico. Grito de Guerra: Compre um card.",
-        "popularity": 21496
+        "popularity": 21650
     },
     {
         "id": 993,
@@ -1973,7 +1973,7 @@
         "collectible": 1,
         "name": "Gigante da Montanha",
         "description": "Custa (1) a menos para cada um dos outros cards na sua mão.",
-        "popularity": 3075
+        "popularity": 3085
     },
     {
         "id": 28,
@@ -1989,7 +1989,7 @@
         "classs": 1,
         "name": "Elite Kor'kron",
         "description": "Investida",
-        "popularity": 3170
+        "popularity": 3207
     },
     {
         "id": 921,
@@ -2006,7 +2006,7 @@
         "race": 20,
         "name": "Pantera da Selva",
         "description": "Furtividade",
-        "popularity": 2419
+        "popularity": 2421
     },
     {
         "id": 336,
@@ -2023,7 +2023,7 @@
         "collectible": 1,
         "name": "Barão Geddon",
         "description": "No final do seu turno, cause 2 de dano a TODOS os outros personagens.",
-        "popularity": 2007
+        "popularity": 2028
     },
     {
         "id": 783,
@@ -2041,7 +2041,7 @@
         "collectible": 1,
         "name": "Lorde Abissal",
         "description": "Grito de Guerra: Cause 5 de dano ao seu herói.",
-        "popularity": 504
+        "popularity": 505
     },
     {
         "id": 401,
@@ -2057,7 +2057,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "Machado de Guerra Abrasador",
-        "popularity": 7710
+        "popularity": 7814
     },
     {
         "id": 545,
@@ -2072,7 +2072,7 @@
         "collectible": 1,
         "name": "Impacto Mental",
         "description": "Cause 5 de dano ao herói inimigo.",
-        "popularity": 2202
+        "popularity": 2207
     },
     {
         "id": 606,
@@ -2090,7 +2090,7 @@
         "collectible": 1,
         "name": "Lobo Silvestre",
         "description": "Suas outras Feras têm +1 de Ataque.",
-        "popularity": 4024
+        "popularity": 4033
     },
     {
         "id": 456,
@@ -2107,7 +2107,7 @@
         "collectible": 1,
         "name": "Capitão Peleverde",
         "description": "Grito de Guerra: Conceda +1/+1 à sua arma.",
-        "popularity": 1270
+        "popularity": 1283
     },
     {
         "id": 389,
@@ -2123,7 +2123,7 @@
         "collectible": 1,
         "name": "Arqueira Élfica",
         "description": "Grito de Guerra: Cause 1 de dano.",
-        "popularity": 3806
+        "popularity": 3805
     },
     {
         "id": 351,
@@ -2138,7 +2138,7 @@
         "collectible": 1,
         "name": "Mestre Armeiro",
         "description": "No final do seu turno, conceda +1 de Ataque a outro lacaio aliado aleatório.",
-        "popularity": 1448
+        "popularity": 1447
     },
     {
         "id": 338,
@@ -2156,7 +2156,7 @@
         "collectible": 1,
         "name": "Grommash Grito Infernal",
         "description": "Investida Enfurecer: +6 de Ataque.",
-        "popularity": 3780
+        "popularity": 3832
     },
     {
         "id": 211,
@@ -2172,7 +2172,7 @@
         "collectible": 1,
         "name": "Gigante do Mar",
         "description": "Custa (1) a menos para cada um dos outros lacaios no campo de batalha.",
-        "popularity": 2317
+        "popularity": 2354
     },
     {
         "id": 631,
@@ -2190,7 +2190,7 @@
         "collectible": 1,
         "name": "Demonarca",
         "description": "Investida. Grito de Guerra: Descarte dois cards aleatórios.",
-        "popularity": 4268
+        "popularity": 4273
     },
     {
         "id": 32,
@@ -2207,7 +2207,7 @@
         "collectible": 1,
         "name": "Al'Akir, o Senhor do Vento",
         "description": "Fúria dos Ventos, Investida, Escudo Divino, Provocar",
-        "popularity": 1929
+        "popularity": 1935
     },
     {
         "id": 654,
@@ -2224,7 +2224,7 @@
         "collectible": 1,
         "name": "Berserker Espumante",
         "description": "Sempre que um lacaio receber dano, receba +1 de Ataque.",
-        "popularity": 3813
+        "popularity": 3844
     },
     {
         "id": 503,
@@ -2239,7 +2239,7 @@
         "collectible": 1,
         "name": "Poder da Selva",
         "description": "Escolha Um - Conceda +1/+1 aos seus lacaios ou evoque uma Pantera 3/2.",
-        "popularity": 2982
+        "popularity": 2996
     },
     {
         "id": 950,
@@ -2254,7 +2254,7 @@
         "collectible": 1,
         "name": "Fogo do Inferno",
         "description": "Cause 3 de dano a TODOS os personagens.",
-        "popularity": 5123
+        "popularity": 5143
     },
     {
         "id": 525,
@@ -2270,7 +2270,7 @@
         "collectible": 1,
         "name": "Arquimago",
         "description": "+1 de Dano Mágico",
-        "popularity": 2030
+        "popularity": 2035
     },
     {
         "id": 445,
@@ -2286,7 +2286,7 @@
         "collectible": 1,
         "name": "Fogueteira Descuidada",
         "description": "Investida",
-        "popularity": 1854
+        "popularity": 1855
     },
     {
         "id": 613,
@@ -2301,7 +2301,7 @@
         "collectible": 1,
         "name": "Palavra de Poder: Escudo",
         "description": "Conceda +2 de Vida a um lacaio. Compre um card.",
-        "popularity": 9399
+        "popularity": 9474
     },
     {
         "id": 555,
@@ -2316,7 +2316,7 @@
         "collectible": 1,
         "name": "Intelecto Arcano",
         "description": "Compre 2 cards.",
-        "popularity": 8657
+        "popularity": 8699
     },
     {
         "id": 95,
@@ -2331,7 +2331,7 @@
         "collectible": 1,
         "name": "Nutrir",
         "description": "Escolha Um - Receba 2 Cristais de Mana; ou Compre 3 cards.",
-        "popularity": 2232
+        "popularity": 2271
     },
     {
         "id": 1688,
@@ -2347,7 +2347,7 @@
         "race": 20,
         "name": "Frango Nervoso",
         "description": "Enfurecer: +5 de Ataque.",
-        "popularity": 788
+        "popularity": 792
     },
     {
         "id": 145,
@@ -2362,7 +2362,7 @@
         "collectible": 1,
         "name": "Jogos Mentais",
         "description": "Coloque uma cópia de um lacaio aleatório do deck do oponente no campo de batalha.",
-        "popularity": 857
+        "popularity": 858
     },
     {
         "id": 559,
@@ -2379,7 +2379,7 @@
         "collectible": 1,
         "name": "Leeroy Jenkins",
         "description": "Investida. Grito de Guerra: Evoque dois Dragonetes 1/1 para o seu oponente.",
-        "popularity": 7550
+        "popularity": 7609
     },
     {
         "id": 768,
@@ -2395,7 +2395,7 @@
         "collectible": 1,
         "name": "Berserker Gurubashi",
         "description": "Sempre que este lacaio receber dano, ele recebe +3 de Ataque.",
-        "popularity": 4345
+        "popularity": 4359
     },
     {
         "id": 178,
@@ -2412,7 +2412,7 @@
         "collectible": 1,
         "name": "Voz dos Ventos",
         "description": "Grito de Guerra: Conceda Fúria dos Ventos a um lacaio aliado.",
-        "popularity": 1503
+        "popularity": 1506
     },
     {
         "id": 886,
@@ -2429,7 +2429,7 @@
         "health": 5,
         "name": "Cria da Luz",
         "description": "O Ataque deste lacaio é sempre igual à Vida dele.",
-        "popularity": 2376
+        "popularity": 2380
     },
     {
         "id": 512,
@@ -2445,7 +2445,7 @@
         "collectible": 1,
         "name": "Elemental de Gelo",
         "description": "Grito de Guerra: Congele um personagem.",
-        "popularity": 1815
+        "popularity": 1817
     },
     {
         "id": 30,
@@ -2460,7 +2460,7 @@
         "collectible": 1,
         "name": "Roubo de Pensamentos",
         "description": "Copie 2 cards do deck do oponente e ponha-os na sua mão.",
-        "popularity": 5139
+        "popularity": 5147
     },
     {
         "id": 1281,
@@ -2477,7 +2477,7 @@
         "race": 20,
         "name": "Hiena Carniceira",
         "description": "Sempre que uma Fera aliada morrer, receba +2/+1.",
-        "popularity": 3049
+        "popularity": 3058
     },
     {
         "id": 1117,
@@ -2494,7 +2494,7 @@
         "collectible": 1,
         "name": "Agente da AVIN",
         "description": "Combo: Cause 2 de dano.",
-        "popularity": 5654
+        "popularity": 5702
     },
     {
         "id": 9,
@@ -2512,7 +2512,7 @@
         "collectible": 1,
         "name": "Profeta Velen",
         "description": "Dobre o dano e a cura dos seus feitiços e Poder Heroico.",
-        "popularity": 1508
+        "popularity": 1513
     },
     {
         "id": 974,
@@ -2527,7 +2527,7 @@
         "collectible": 1,
         "name": "Fogo d'Alma",
         "description": "Cause 4 de dano. Descarte um card aleatório.",
-        "popularity": 5713
+        "popularity": 5723
     },
     {
         "id": 995,
@@ -2543,7 +2543,7 @@
         "collectible": 1,
         "name": "Ogro Mago",
         "description": "+1 de Dano Mágico",
-        "popularity": 2809
+        "popularity": 2816
     },
     {
         "id": 475,
@@ -2560,7 +2560,7 @@
         "collectible": 1,
         "name": "Chamaré Murloc",
         "description": "Sempre que um Murloc for evocado, receba +1 de Ataque.",
-        "popularity": 2211
+        "popularity": 2220
     },
     {
         "id": 493,
@@ -2575,7 +2575,7 @@
         "collectible": 1,
         "name": "Força da Natureza",
         "description": "Evoque três Arvorosos 2/2.",
-        "popularity": 4341
+        "popularity": 4323
     },
     {
         "id": 1186,
@@ -2593,7 +2593,7 @@
         "race": 24,
         "name": "Ysera",
         "description": "No final do seu turno, adicione um Card de Sonho à sua mão.",
-        "popularity": 6491
+        "popularity": 6516
     },
     {
         "id": 748,
@@ -2610,7 +2610,7 @@
         "collectible": 1,
         "name": "Maga do Kirin Tor",
         "description": "Grito de Guerra: O próximo Segredo que você lançar neste turno custará (0).",
-        "popularity": 1918
+        "popularity": 1925
     },
     {
         "id": 765,
@@ -2642,7 +2642,7 @@
         "collectible": 1,
         "name": "Senhor da Guerra Lobo do Gelo",
         "description": "Grito de Guerra: Receba +1/+1 para cada outro lacaio aliado no campo de batalha.",
-        "popularity": 3771
+        "popularity": 3783
     },
     {
         "id": 614,
@@ -2659,7 +2659,7 @@
         "collectible": 1,
         "name": "Aprendiz de Feiticeiro",
         "description": "Seus feitiços custam (1) a menos.",
-        "popularity": 5306
+        "popularity": 5330
     },
     {
         "id": 1365,
@@ -2673,7 +2673,7 @@
         "classs": 5,
         "name": "Fogo Sagrado",
         "description": "Cause 5 de dano. Restaure 5 de Vida do seu herói.",
-        "popularity": 3985
+        "popularity": 3990
     },
     {
         "id": 715,
@@ -2689,7 +2689,7 @@
         "collectible": 1,
         "name": "Aparição de Mana",
         "description": "TODOS os lacaios custam (1) a mais.",
-        "popularity": 447
+        "popularity": 449
     },
     {
         "id": 757,
@@ -2705,7 +2705,7 @@
         "collectible": 1,
         "name": "Escudeira Argêntea",
         "description": "Escudo Divino",
-        "popularity": 9214
+        "popularity": 9310
     },
     {
         "id": 605,
@@ -2721,7 +2721,7 @@
         "collectible": 1,
         "name": "Vigia Anciente",
         "description": "Não pode atacar.",
-        "popularity": 3857
+        "popularity": 3856
     },
     {
         "id": 284,
@@ -2737,7 +2737,7 @@
         "collectible": 1,
         "name": "Engenheira Novata",
         "description": "Grito de Guerra: Compre um card.",
-        "popularity": 7448
+        "popularity": 7461
     },
     {
         "id": 648,
@@ -2754,7 +2754,7 @@
         "collectible": 1,
         "name": "Javali Pedratusco",
         "description": "Investida",
-        "popularity": 2769
+        "popularity": 2773
     },
     {
         "id": 149,
@@ -2769,7 +2769,7 @@
         "collectible": 1,
         "name": "Cura Ancestral",
         "description": "Restaure toda a Vida de um lacaio e conceda Provocar a ele.",
-        "popularity": 984
+        "popularity": 986
     },
     {
         "id": 304,
@@ -2785,7 +2785,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "Retalhador de Arcanita",
-        "popularity": 3162
+        "popularity": 3193
     },
     {
         "id": 1155,
@@ -2801,7 +2801,7 @@
         "collectible": 1,
         "name": "Worgen Enfurecido",
         "description": "Enfurecer: Fúria dos Ventos e +1 de Ataque",
-        "popularity": 4292
+        "popularity": 4306
     },
     {
         "id": 1651,
@@ -2816,7 +2816,7 @@
         "health": 3,
         "name": "Clarividente Telúrico",
         "description": "Grito de Guerra: Restaure 3 de Vida.",
-        "popularity": 9021
+        "popularity": 9097
     },
     {
         "id": 363,
@@ -2834,7 +2834,7 @@
         "collectible": 1,
         "name": "Onyxia",
         "description": "Grito de Guerra: Evoque Dragonetes 1/1 até seu lado do campo de batalha estar cheio.",
-        "popularity": 1034
+        "popularity": 1040
     },
     {
         "id": 573,
@@ -2849,7 +2849,7 @@
         "collectible": 1,
         "name": "Estocada",
         "description": "Cause 1 de dano. Compre um card.",
-        "popularity": 3147
+        "popularity": 3174
     },
     {
         "id": 755,
@@ -2865,7 +2865,7 @@
         "collectible": 1,
         "name": "Cavaleiro Sangrento",
         "description": "Grito de Guerra: Todos os lacaios perdem Escudo Divino. Receba +3/+3 para cada Escudo perdido.",
-        "popularity": 2319
+        "popularity": 2326
     },
     {
         "id": 279,
@@ -2880,7 +2880,7 @@
         "collectible": 1,
         "name": "Punição Sagrada",
         "description": "Cause 2 de dano.",
-        "popularity": 4897
+        "popularity": 4904
     },
     {
         "id": 435,
@@ -2895,7 +2895,7 @@
         "collectible": 1,
         "name": "Ira Sagrada",
         "description": "Compre um card e cause dano equivalente ao custo dele.",
-        "popularity": 455
+        "popularity": 457
     },
     {
         "id": 339,
@@ -2911,7 +2911,7 @@
         "collectible": 1,
         "name": "Carabineiro de Altaforja",
         "description": "Grito de Guerra: Cause 1 de dano.",
-        "popularity": 1068
+        "popularity": 1067
     },
     {
         "id": 739,
@@ -2928,7 +2928,7 @@
         "collectible": 1,
         "name": "Guerreiro Guelrazul",
         "description": "Investida",
-        "popularity": 4741
+        "popularity": 4749
     },
     {
         "id": 400,
@@ -2943,7 +2943,7 @@
         "collectible": 1,
         "name": "Ira de Batalha",
         "description": "Compre um card para cada personagem aliado ferido.",
-        "popularity": 2248
+        "popularity": 2295
     },
     {
         "id": 670,
@@ -2959,7 +2959,7 @@
         "collectible": 1,
         "name": "Lâmina Soturna",
         "description": "Grito de Guerra: Cause 3 de dano ao herói inimigo.",
-        "popularity": 1689
+        "popularity": 1686
     },
     {
         "id": 415,
@@ -2975,7 +2975,7 @@
         "collectible": 1,
         "name": "Mestre Cervejeiro Jovem",
         "description": "Grito de Guerra: Devolva um lacaio aliado do campo de batalha à sua mão.",
-        "popularity": 3477
+        "popularity": 3476
     },
     {
         "id": 1656,
@@ -2991,7 +2991,7 @@
         "elite": 1,
         "name": "O Cavaleiro Negro",
         "description": "Grito de Guerra: Destrua um lacaio inimigo com Provocar.",
-        "popularity": 5948
+        "popularity": 5968
     },
     {
         "id": 1142,
@@ -3006,7 +3006,7 @@
         "collectible": 1,
         "name": "Fogo Demoníaco",
         "description": "Cause 2 de dano a um lacaio. Se for um Demônio aliado, em vez disso, conceda-lhe +2/+2.",
-        "popularity": 2096
+        "popularity": 2095
     },
     {
         "id": 140,
@@ -3021,7 +3021,7 @@
         "collectible": 1,
         "name": "Redenção",
         "description": "Segredo: Quando um de seus lacaios morrer, reviva-o com 1 de Vida.",
-        "popularity": 2192
+        "popularity": 2188
     },
     {
         "id": 777,
@@ -3039,7 +3039,7 @@
         "collectible": 1,
         "name": "Lorde Jaraxxus",
         "description": "Grito de Guerra: Destrua seu herói e substitua-o por Lorde Jaraxxus.",
-        "popularity": 3315
+        "popularity": 3323
     },
     {
         "id": 268,
@@ -3054,7 +3054,7 @@
         "collectible": 1,
         "name": "Sangue Frio",
         "description": "Conceda +2 de Ataque a um lacaio. Combo: +4 de Ataque em vez de +2.",
-        "popularity": 3459
+        "popularity": 3488
     },
     {
         "id": 1655,
@@ -3069,7 +3069,7 @@
         "health": 2,
         "name": "Guardiã da Luz",
         "description": "Sempre que um personagem for curado, receba +2 de Ataque.",
-        "popularity": 1384
+        "popularity": 1386
     },
     {
         "id": 1634,
@@ -3084,7 +3084,7 @@
         "health": 1,
         "name": "Sacerdotisa Jovem",
         "description": "No final do seu turno, conceda +1 de Vida a outro lacaio aliado aleatório.",
-        "popularity": 2802
+        "popularity": 2804
     },
     {
         "id": 1658,
@@ -3100,7 +3100,7 @@
         "race": 17,
         "name": "Alarmobô",
         "description": "No início do seu turno, troque este lacaio por um lacaio aleatório da sua mão.",
-        "popularity": 761
+        "popularity": 762
     },
     {
         "id": 791,
@@ -3116,7 +3116,7 @@
         "collectible": 1,
         "name": "Aventureiro em Missão",
         "description": "Sempre que você jogar um card, receba +1/+1.",
-        "popularity": 2605
+        "popularity": 2606
     },
     {
         "id": 12,
@@ -3132,7 +3132,7 @@
         "collectible": 1,
         "name": "Viciada em Mana",
         "description": "Sempre que você lançar um feitiço, receba +2 de Ataque no mesmo turno.",
-        "popularity": 1005
+        "popularity": 1009
     },
     {
         "id": 281,
@@ -3148,7 +3148,7 @@
         "collectible": 1,
         "name": "Comandante Argênteo",
         "description": "Investida Escudo Divino",
-        "popularity": 10201
+        "popularity": 10204
     },
     {
         "id": 672,
@@ -3164,7 +3164,7 @@
         "collectible": 1,
         "name": "Geomante Kobold",
         "description": "+1 de Dano Mágico",
-        "popularity": 4147
+        "popularity": 4156
     },
     {
         "id": 36,
@@ -3182,7 +3182,7 @@
         "collectible": 1,
         "name": "Cenarius",
         "description": "Escolha Um - Conceda +2/+2 aos seus outros lacaios ou evoque dois Arvorosos 2/2 com Provocar.",
-        "popularity": 2270
+        "popularity": 2281
     },
     {
         "id": 45,
@@ -3213,7 +3213,7 @@
         "collectible": 1,
         "name": "Armadilha Explosiva",
         "description": "Segredo: Quando seu herói for atacado, cause 2 de dano a todos os inimigos.",
-        "popularity": 5506
+        "popularity": 5522
     },
     {
         "id": 640,
@@ -3229,7 +3229,7 @@
         "collectible": 1,
         "name": "Hogger",
         "description": "No final do seu turno, evoque um Gnoll 2/2 com Provocar.",
-        "popularity": 1794
+        "popularity": 1795
     },
     {
         "id": 1124,
@@ -3244,7 +3244,7 @@
         "collectible": 1,
         "name": "Crescimento Silvestre",
         "description": "Receba um Cristal de Mana vazio.",
-        "popularity": 4785
+        "popularity": 4819
     },
     {
         "id": 630,
@@ -3259,7 +3259,7 @@
         "collectible": 1,
         "name": "Disparada",
         "description": "Compre 4 cards.",
-        "popularity": 2719
+        "popularity": 2714
     },
     {
         "id": 887,
@@ -3275,7 +3275,7 @@
         "classs": 4,
         "name": "Mestre dos Disfarces",
         "description": "Grito de Guerra: Conceda Furtividade a um lacaio aliado até o seu próximo turno.",
-        "popularity": 501
+        "popularity": 488
     },
     {
         "id": 692,
@@ -3292,7 +3292,7 @@
         "collectible": 1,
         "name": "Druida da Garra",
         "description": "Escolha Um - Investida; ou +2 de Vida e Provocar.",
-        "popularity": 7239
+        "popularity": 7274
     },
     {
         "id": 237,
@@ -3309,7 +3309,7 @@
         "collectible": 1,
         "name": "Sacerdalma Auchenai",
         "description": "Seus cards e poderes que restauram Vida agora deixam de restaurar e causam dano.",
-        "popularity": 4646
+        "popularity": 4688
     },
     {
         "id": 903,
@@ -3324,7 +3324,7 @@
         "collectible": 1,
         "name": "Ira Bestial",
         "description": "Conceda +2 de Ataque e Imunidade a uma Fera aliada neste turno.",
-        "popularity": 574
+        "popularity": 575
     },
     {
         "id": 239,
@@ -3339,7 +3339,7 @@
         "collectible": 1,
         "name": "Arma Trinca-pedra",
         "description": "Conceda +3 de Ataque a um aliado neste turno.",
-        "popularity": 6659
+        "popularity": 6731
     },
     {
         "id": 1241,
@@ -3356,7 +3356,7 @@
         "race": 20,
         "name": "Urubu Faminto",
         "description": "Sempre que você evocar uma Fera, compre um card.",
-        "popularity": 3924
+        "popularity": 3929
     },
     {
         "id": 1084,
@@ -3371,7 +3371,7 @@
         "collectible": 1,
         "name": "Imagem Espelhada",
         "description": "Evoque dois lacaios 0/2 com Provocar.",
-        "popularity": 5765
+        "popularity": 5785
     },
     {
         "id": 982,
@@ -3386,7 +3386,7 @@
         "collectible": 1,
         "name": "Corrupção",
         "description": "Escolha um lacaio inimigo. No início do seu turno, destrua-o.",
-        "popularity": 891
+        "popularity": 890
     },
     {
         "id": 1158,
@@ -3401,7 +3401,7 @@
         "collectible": 1,
         "name": "Preparação",
         "description": "O próximo feitiço que você lançar neste turno custará (3) a menos.",
-        "popularity": 3434
+        "popularity": 3464
     },
     {
         "id": 420,
@@ -3418,7 +3418,7 @@
         "collectible": 1,
         "name": "Caerne Casco Sangrento",
         "description": "Último Suspiro: Evoque Baine Casco Sangrento 4/5.",
-        "popularity": 6131
+        "popularity": 6183
     },
     {
         "id": 804,
@@ -3433,7 +3433,7 @@
         "collectible": 1,
         "name": "Golpe Mortal",
         "description": "Cause 4 de dano. Se você tiver 12 pontos de vida ou menos, cause 6 de dano em vez de 4.",
-        "popularity": 1336
+        "popularity": 1345
     },
     {
         "id": 896,
@@ -3448,7 +3448,7 @@
         "collectible": 1,
         "name": "Sinalizador",
         "description": "Todos os lacaios perdem Furtividade. Destrua todos os Segredos do inimigo. Compre um card.",
-        "popularity": 2349
+        "popularity": 2347
     },
     {
         "id": 69,
@@ -3481,7 +3481,7 @@
         "collectible": 1,
         "name": "Guardião dos Reis",
         "description": "Grito de Guerra: Restaure 6 de Vida do seu herói.",
-        "popularity": 4166
+        "popularity": 4173
     },
     {
         "id": 186,
@@ -3497,7 +3497,7 @@
         "collectible": 1,
         "name": "Mestre Cervejeiro Ancião",
         "description": "Grito de Guerra: Devolva um lacaio aliado do campo de batalha à sua mão.",
-        "popularity": 1790
+        "popularity": 1789
     },
     {
         "id": 641,
@@ -3514,7 +3514,7 @@
         "race": 20,
         "name": "Falcodrago Jovem",
         "description": "Fúria dos Ventos",
-        "popularity": 1109
+        "popularity": 1110
     },
     {
         "id": 971,
@@ -3529,7 +3529,7 @@
         "collectible": 1,
         "name": "Choque Gélido",
         "description": "Cause 1 de dano a um personagem inimigo e Congele-o.",
-        "popularity": 703
+        "popularity": 701
     },
     {
         "id": 773,
@@ -3544,7 +3544,7 @@
         "collectible": 1,
         "name": "Toque de Cura",
         "description": "Restaure 8 de Vida.",
-        "popularity": 2141
+        "popularity": 2142
     },
     {
         "id": 1122,
@@ -3560,7 +3560,7 @@
         "collectible": 1,
         "name": "Mercenário da Emp. S.A.",
         "description": "Seus lacaios custam (3) a mais.",
-        "popularity": 2114
+        "popularity": 2118
     },
     {
         "id": 163,
@@ -3589,7 +3589,7 @@
         "collectible": 1,
         "name": "Ruína do Destino",
         "description": "Cause 2 de dano a um personagem. Se ele morrer, evoque um Demônio aleatório.",
-        "popularity": 1079
+        "popularity": 1084
     },
     {
         "id": 440,
@@ -3605,7 +3605,7 @@
         "collectible": 1,
         "name": "Abominação",
         "description": "Provocar. Último Suspiro: Cause 2 de dano a TODOS os personagens.",
-        "popularity": 2382
+        "popularity": 2386
     },
     {
         "id": 397,
@@ -3621,7 +3621,7 @@
         "collectible": 1,
         "name": "Carniçal Devora-carne",
         "description": "Sempre que um lacaio morrer, receba +1 de Ataque.",
-        "popularity": 2148
+        "popularity": 2150
     },
     {
         "id": 251,
@@ -3637,7 +3637,7 @@
         "collectible": 1,
         "name": "Acumulador de Tesouros",
         "description": "Último Suspiro: Compre um card.",
-        "popularity": 11219
+        "popularity": 11286
     },
     {
         "id": 282,
@@ -3670,7 +3670,7 @@
         "race": 20,
         "name": "A Fera",
         "description": "Último Suspiro: Evoque um Jonas Tiragosto 3/3 para o seu oponente.",
-        "popularity": 719
+        "popularity": 720
     },
     {
         "id": 1090,
@@ -3688,7 +3688,7 @@
         "collectible": 1,
         "name": "Diabrete das Chamas",
         "description": "Grito de Guerra: Cause 3 de dano ao seu herói.",
-        "popularity": 5097
+        "popularity": 5137
     },
     {
         "id": 519,
@@ -3703,7 +3703,7 @@
         "collectible": 1,
         "name": "Armadilha Congelante",
         "description": "Segredo: Quando um lacaio inimigo atacar, devolva-o à mão do dono custando (2) a mais.",
-        "popularity": 3751
+        "popularity": 3757
     },
     {
         "id": 724,
@@ -3720,7 +3720,7 @@
         "race": 23,
         "name": "Marujo dos Mares do Sul",
         "description": "Tem Investida enquanto você tiver uma arma equipada.",
-        "popularity": 2809
+        "popularity": 2833
     },
     {
         "id": 216,
@@ -3736,7 +3736,7 @@
         "collectible": 1,
         "race": 20,
         "name": "Raptor Dinossangue",
-        "popularity": 3023
+        "popularity": 3037
     },
     {
         "id": 940,
@@ -3751,7 +3751,7 @@
         "collectible": 1,
         "name": "Cutilada",
         "description": "Cause 2 de dano a dois lacaios inimigos aleatórios.",
-        "popularity": 2190
+        "popularity": 2195
     },
     {
         "id": 602,
@@ -3767,7 +3767,7 @@
         "collectible": 1,
         "name": "Rastejante do Pântano",
         "description": "Provocar",
-        "popularity": 2298
+        "popularity": 2304
     },
     {
         "id": 823,
@@ -3782,7 +3782,7 @@
         "collectible": 1,
         "name": "Fogo Estelar",
         "description": "Cause 5 de dano. Compre um card.",
-        "popularity": 2502
+        "popularity": 2507
     },
     {
         "id": 922,
@@ -3798,7 +3798,7 @@
         "collectible": 1,
         "name": "Soldado de Vila d'Ouro",
         "description": "Provocar",
-        "popularity": 2281
+        "popularity": 2284
     },
     {
         "id": 374,
@@ -3815,7 +3815,7 @@
         "collectible": 1,
         "name": "Ragnaros, o Senhor do Fogo",
         "description": "Não pode atacar. No final do seu turno, cause 8 de dano a um inimigo aleatório.",
-        "popularity": 11375
+        "popularity": 11450
     },
     {
         "id": 1108,
@@ -3830,7 +3830,7 @@
         "collectible": 1,
         "name": "Alvoroço",
         "description": "Conceda +3/+3 a um lacaio ferido.",
-        "popularity": 1377
+        "popularity": 1386
     },
     {
         "id": 567,
@@ -3863,7 +3863,7 @@
         "quality": 1,
         "name": "Tigre-do-espinhaço",
         "description": "Furtividade",
-        "popularity": 2928
+        "popularity": 2932
     },
     {
         "id": 1362,
@@ -3877,7 +3877,7 @@
         "classs": 5,
         "name": "Círculo de Cura",
         "description": "Restaure 4 de Vida de TODOS os lacaios.",
-        "popularity": 4988
+        "popularity": 5035
     },
     {
         "id": 455,
@@ -3892,7 +3892,7 @@
         "collectible": 1,
         "name": "Armadilha de Cobra",
         "description": "Segredo: Quando um de seus lacaios for atacado, evoque três Cobras 1/1.",
-        "popularity": 2160
+        "popularity": 2164
     },
     {
         "id": 272,
@@ -3909,7 +3909,7 @@
         "collectible": 1,
         "name": "Sacerdotisa do Conluio",
         "description": "Grito de Guerra: Assuma o controle de um lacaio inimigo que tenha 2 ou menos de Ataque.",
-        "popularity": 4134
+        "popularity": 4184
     },
     {
         "id": 511,
@@ -3924,7 +3924,7 @@
         "collectible": 1,
         "name": "Aprimoramento!",
         "description": "Se você tiver uma arma, conceda-lhe +1/+1. Se não tiver, equipe uma arma 1/3.",
-        "popularity": 1128
+        "popularity": 1148
     },
     {
         "id": 546,
@@ -3939,7 +3939,7 @@
         "collectible": 1,
         "name": "Escudada",
         "description": "Cause 1 de dano a um lacaio para cada ponto de Armadura que você tiver.",
-        "popularity": 3414
+        "popularity": 3464
     },
     {
         "id": 51,
@@ -3954,7 +3954,7 @@
         "collectible": 1,
         "name": "Fúria dos Ventos",
         "description": "Conceda Fúria dos Ventos a um lacaio.",
-        "popularity": 1453
+        "popularity": 1454
     },
     {
         "id": 1147,
@@ -3971,7 +3971,7 @@
         "collectible": 1,
         "name": "Nat Pagle",
         "description": "No início do seu turno, você tem 50% de chance de comprar um card extra.",
-        "popularity": 2691
+        "popularity": 2690
     },
     {
         "id": 1003,
@@ -3988,7 +3988,7 @@
         "collectible": 1,
         "name": "Mestre de Matilha",
         "description": "Grito de Guerra: Conceda +2/+2 e Provocar a uma Fera aliada.",
-        "popularity": 4789
+        "popularity": 4815
     },
     {
         "id": 395,
@@ -4005,7 +4005,7 @@
         "collectible": 1,
         "name": "Elemental da Água",
         "description": "Congele qualquer personagem que receber dano deste lacaio.",
-        "popularity": 5542
+        "popularity": 5574
     },
     {
         "id": 1662,
@@ -4021,7 +4021,7 @@
         "classs": 3,
         "name": "Arco Hastáguia",
         "description": "Sempre que um Segredo aliado for revelado, receba +1 de Durabilidade.",
-        "popularity": 5308
+        "popularity": 5330
     },
     {
         "id": 1080,
@@ -4039,7 +4039,7 @@
         "collectible": 1,
         "name": "Arquimago Antônidas",
         "description": "Sempre que você lançar um feitiço, adicione um feitiço \"Bola de Fogo\" à sua mão.",
-        "popularity": 3818
+        "popularity": 3831
     },
     {
         "id": 296,
@@ -4054,7 +4054,7 @@
         "collectible": 1,
         "name": "Comando para Matar",
         "description": "Cause 3 de dano. Se você tiver uma Fera, cause 5 de dano em vez de 3.",
-        "popularity": 7235
+        "popularity": 7267
     },
     {
         "id": 513,
@@ -4072,7 +4072,7 @@
         "race": 21,
         "name": "Totem de Vagalhão de Mana",
         "description": "No final do seu turno, compre um card.",
-        "popularity": 4149
+        "popularity": 4193
     },
     {
         "id": 919,
@@ -4087,7 +4087,7 @@
         "collectible": 1,
         "name": "Drenar Vida",
         "description": "Cause 2 de dano. Restaure 2 de Vida do seu herói.",
-        "popularity": 1765
+        "popularity": 1771
     },
     {
         "id": 138,
@@ -4102,7 +4102,7 @@
         "collectible": 1,
         "name": "Agoureiro",
         "description": "No início do seu turno, destrua TODOS os lacaios.",
-        "popularity": 2924
+        "popularity": 3002
     },
     {
         "id": 582,
@@ -4118,7 +4118,7 @@
         "collectible": 1,
         "name": "Curadora Escamanegra",
         "description": "Grito de Guerra: Restaure 2 de Vida de todos os personagens aliados.",
-        "popularity": 3542
+        "popularity": 3560
     },
     {
         "id": 1368,
@@ -4132,7 +4132,7 @@
         "classs": 5,
         "name": "Forma de Sombra",
         "description": "Seu Poder Heroico se torna \"Cause 2 de dano\". Se você já estiver em Forma de Sombra: 3 de dano.",
-        "popularity": 811
+        "popularity": 810
     },
     {
         "id": 587,
@@ -4147,7 +4147,7 @@
         "collectible": 1,
         "name": "Nova Congelante",
         "description": "Congele todos os lacaios inimigos.",
-        "popularity": 3768
+        "popularity": 3781
     },
     {
         "id": 195,
@@ -4162,7 +4162,7 @@
         "collectible": 1,
         "name": "Entidade do Espelho",
         "description": "Segredo: Depois que seu oponente jogar um lacaio, evoque uma cópia dele.",
-        "popularity": 4168
+        "popularity": 4163
     },
     {
         "id": 113,
@@ -4177,7 +4177,7 @@
         "collectible": 1,
         "name": "Contrafeitiço",
         "description": "Segredo: Quando seu oponente lançar um feitiço, Anule-o.",
-        "popularity": 2601
+        "popularity": 2595
     },
     {
         "id": 1653,
@@ -4191,7 +4191,7 @@
         "attack": 5,
         "health": 1,
         "name": "Furiante de Magma",
-        "popularity": 389
+        "popularity": 388
     },
     {
         "id": 289,
@@ -4207,7 +4207,7 @@
         "collectible": 1,
         "name": "Cavalga-lobo",
         "description": "Investida",
-        "popularity": 5039
+        "popularity": 5051
     },
     {
         "id": 858,
@@ -4239,7 +4239,7 @@
         "collectible": 1,
         "name": "Raiva Interior",
         "description": "Cause 1 de dano a um lacaio e conceda-lhe +2 de Ataque.",
-        "popularity": 2938
+        "popularity": 2965
     },
     {
         "id": 1007,
@@ -4254,7 +4254,7 @@
         "collectible": 1,
         "name": "Golpe Heroico",
         "description": "Conceda +4 de Ataque ao seu herói neste turno.",
-        "popularity": 1890
+        "popularity": 1907
     },
     {
         "id": 352,
@@ -4271,7 +4271,7 @@
         "collectible": 1,
         "name": "Martelo da Perdição",
         "description": "Fúria dos Ventos, Sobrecarga: (2)",
-        "popularity": 2658
+        "popularity": 2723
     },
     {
         "id": 1047,
@@ -4286,7 +4286,7 @@
         "collectible": 1,
         "name": "Rastreamento",
         "description": "Olhe os três cards do topo do seu deck. Compre um e descarte os outros.",
-        "popularity": 2810
+        "popularity": 2814
     },
     {
         "id": 315,
@@ -4301,7 +4301,7 @@
         "collectible": 1,
         "name": "Bola de Fogo",
         "description": "Cause 6 de dano.",
-        "popularity": 11696
+        "popularity": 11740
     },
     {
         "id": 1140,
@@ -4317,7 +4317,7 @@
         "collectible": 1,
         "name": "Guarda da Angra do Butim",
         "description": "Provocar",
-        "popularity": 1891
+        "popularity": 1897
     },
     {
         "id": 642,
@@ -4333,7 +4333,7 @@
         "collectible": 1,
         "name": "Cruzada Escarlate",
         "description": "Escudo Divino",
-        "popularity": 3846
+        "popularity": 3851
     },
     {
         "id": 132,
@@ -4349,7 +4349,7 @@
         "collectible": 1,
         "name": "Mandingueiro Vodu",
         "description": "Grito de Guerra: Restaure 2 de Vida.",
-        "popularity": 2796
+        "popularity": 2804
     },
     {
         "id": 914,
@@ -4364,7 +4364,7 @@
         "collectible": 1,
         "name": "Seta Sombria",
         "description": "Cause 4 de dano a um lacaio.",
-        "popularity": 2821
+        "popularity": 2856
     },
     {
         "id": 1737,
@@ -4381,7 +4381,7 @@
         "elite": 0,
         "name": "Arcanista Etéreo",
         "description": "Se você controlar um Segredo no final do seu turno, receba +2/+2.",
-        "popularity": 1187
+        "popularity": 1188
     },
     {
         "id": 621,
@@ -4396,7 +4396,7 @@
         "collectible": 1,
         "name": "Barreira de Gelo",
         "description": "Segredo: Quando seu herói for atacado, receba 8 de Armadura.",
-        "popularity": 3265
+        "popularity": 3277
     },
     {
         "id": 846,
@@ -4411,7 +4411,7 @@
         "collectible": 1,
         "name": "Poder Esmagador",
         "description": "Conceda +4/+4 a um lacaio aliado até o final do turno. Depois, ele morre. Uma morte horrível.",
-        "popularity": 5863
+        "popularity": 5906
     },
     {
         "id": 592,
@@ -4429,7 +4429,7 @@
         "collectible": 1,
         "name": "Súcubo",
         "description": "Grito de Guerra: Descarte um card aleatório.",
-        "popularity": 835
+        "popularity": 836
     },
     {
         "id": 1098,
@@ -4461,7 +4461,7 @@
         "collectible": 1,
         "name": "Disparo Mortal",
         "description": "Destrua um lacaio inimigo aleatório.",
-        "popularity": 3109
+        "popularity": 3123
     },
     {
         "id": 1050,
@@ -4476,7 +4476,7 @@
         "collectible": 1,
         "name": "Garra",
         "description": "Conceda +2 de Ataque ao seu herói neste turno e 2 de Armadura.",
-        "popularity": 2995
+        "popularity": 2999
     },
     {
         "id": 394,
@@ -4491,7 +4491,7 @@
         "collectible": 1,
         "name": "Tiro Explosivo",
         "description": "Cause 5 de dano a um lacaio e 2 aos adjacentes.",
-        "popularity": 1856
+        "popularity": 1857
     },
     {
         "id": 1174,
@@ -4506,7 +4506,7 @@
         "collectible": 1,
         "name": "Ira Vingativa",
         "description": "Cause 8 de dano dividido aleatoriamente entre todos os inimigos.",
-        "popularity": 2883
+        "popularity": 2885
     },
     {
         "id": 1022,
@@ -4523,7 +4523,7 @@
         "collectible": 1,
         "name": "Protetor Argênteo",
         "description": "Grito de Guerra: Conceda Escudo Divino a um lacaio aliado.",
-        "popularity": 4636
+        "popularity": 4652
     },
     {
         "id": 517,
@@ -4557,7 +4557,7 @@
         "classs": 5,
         "name": "Clériga da Vila Norte",
         "description": "Sempre que um lacaio for curado, compre um card.",
-        "popularity": 9164
+        "popularity": 9233
     },
     {
         "id": 658,
@@ -4573,7 +4573,7 @@
         "collectible": 1,
         "name": "Gnomo Leproso",
         "description": "Último Suspiro: Cause 2 de dano ao herói inimigo.",
-        "popularity": 11554
+        "popularity": 11527
     },
     {
         "id": 189,
@@ -4590,7 +4590,7 @@
         "collectible": 1,
         "name": "Elemental do Fogo",
         "description": "Grito de Guerra: Cause 3 de dano.",
-        "popularity": 6316
+        "popularity": 6350
     },
     {
         "id": 814,
@@ -4605,7 +4605,7 @@
         "collectible": 1,
         "name": "Tiro de Tocaia ",
         "description": "Segredo: Depois que seu oponente jogar um lacaio, cause 4 de dano ao lacaio.",
-        "popularity": 1526
+        "popularity": 1532
     },
     {
         "id": 680,
@@ -4621,7 +4621,7 @@
         "collectible": 1,
         "name": "Capitão dos Mares do Sul",
         "description": "Seus outros Piratas têm +1/+1.",
-        "popularity": 747
+        "popularity": 757
     },
     {
         "id": 577,
@@ -4653,7 +4653,7 @@
         "collectible": 1,
         "name": "Líder Défias",
         "description": "Combo: Evoque um Bandido Défias 2/1.",
-        "popularity": 2584
+        "popularity": 2588
     },
     {
         "id": 778,
@@ -4670,7 +4670,7 @@
         "race": 17,
         "name": "Golem Colheiteiro",
         "description": "Último Suspiro: Evoque um Golem Danificado 2/1.",
-        "popularity": 16724
+        "popularity": 16743
     },
     {
         "id": 1144,
@@ -4706,7 +4706,7 @@
         "collectible": 1,
         "name": "Andarilho das Lendas Cho",
         "description": "Sempre que um jogador lançar um feitiço, coloque uma cópia dele na mão do outro jogador.",
-        "popularity": 883
+        "popularity": 878
     },
     {
         "id": 141,
@@ -4721,7 +4721,7 @@
         "collectible": 1,
         "name": "Marca do Caçador",
         "description": "Muda a Vida de um lacaio para 1.",
-        "popularity": 5214
+        "popularity": 5245
     },
     {
         "id": 175,
@@ -4737,7 +4737,7 @@
         "collectible": 1,
         "name": "Mago de Dalaran",
         "description": "+1 de Dano Mágico",
-        "popularity": 1732
+        "popularity": 1733
     },
     {
         "id": 1037,
@@ -4754,7 +4754,7 @@
         "collectible": 1,
         "name": "Draco do Crepúsculo",
         "description": "Grito de Guerra: Receba +1 de Vida para cada card na sua mão.",
-        "popularity": 5027
+        "popularity": 5045
     },
     {
         "id": 1016,
@@ -4771,7 +4771,7 @@
         "collectible": 1,
         "name": "Oráculo da Luz Fria",
         "description": "Grito de Guerra: Cada jogador compra 2 cards.",
-        "popularity": 3867
+        "popularity": 3881
     },
     {
         "id": 1372,
@@ -4786,7 +4786,7 @@
         "collectible": 1,
         "name": "Gigante Derretido",
         "description": "Custa (1) a menos para cada ponto de dano recebido pelo seu herói.",
-        "popularity": 4837
+        "popularity": 4826
     },
     {
         "id": 147,
@@ -4801,7 +4801,7 @@
         "collectible": 1,
         "name": "Chama Sombria",
         "description": "Destrua um lacaio aliado e cause o dano de ataque dele a todos os lacaios inimigos.",
-        "popularity": 4433
+        "popularity": 4454
     },
     {
         "id": 564,
@@ -4816,7 +4816,7 @@
         "collectible": 1,
         "name": "Mísseis Arcanos",
         "description": "Cause 3 de dano dividido aleatoriamente entre todos os inimigos.",
-        "popularity": 5935
+        "popularity": 5966
     },
     {
         "id": 1035,
@@ -4833,7 +4833,7 @@
         "collectible": 1,
         "name": "Anciente da Guerra",
         "description": "Escolha Um - +5 de Ataque; ou +5 de Vida e Provocar.",
-        "popularity": 2947
+        "popularity": 2972
     },
     {
         "id": 753,
@@ -4849,7 +4849,7 @@
         "collectible": 1,
         "name": "Campeão de Ventobravo",
         "description": "Seus outros lacaios têm +1/+1.",
-        "popularity": 6327
+        "popularity": 6354
     },
     {
         "id": 64,
@@ -4864,7 +4864,7 @@
         "collectible": 1,
         "name": "Patada",
         "description": "Cause 4 de dano a um inimigo e 1 de dano a todos os outros inimigos.",
-        "popularity": 8934
+        "popularity": 8978
     },
     {
         "id": 766,
@@ -4879,7 +4879,7 @@
         "collectible": 1,
         "name": "Bagata",
         "description": "Transforme um lacaio num Sapo 0/1 com Provocar.",
-        "popularity": 7379
+        "popularity": 7444
     },
     {
         "id": 466,
@@ -4895,7 +4895,7 @@
         "collectible": 1,
         "name": "Golem Arcano",
         "description": "Grito de Guerra: Conceda um Cristal de Mana ao seu oponente.",
-        "popularity": 4191
+        "popularity": 4172
     },
     {
         "id": 469,
@@ -4913,7 +4913,7 @@
         "collectible": 1,
         "name": "Diabrete de Sangue",
         "description": "Furtividade. No fim do seu turno, conceda +1 de Vida a outro lacaio aliado aleatório.",
-        "popularity": 2279
+        "popularity": 2287
     },
     {
         "id": 1087,
@@ -4928,7 +4928,7 @@
         "collectible": 1,
         "description": "Cause 10 de dano.",
         "name": "Ignimpacto",
-        "popularity": 3631
+        "popularity": 3637
     },
     {
         "id": 191,
@@ -4944,7 +4944,7 @@
         "collectible": 1,
         "race": 14,
         "name": "Murloc Saqueador",
-        "popularity": 1934
+        "popularity": 1937
     },
     {
         "id": 366,
@@ -4959,7 +4959,7 @@
         "collectible": 1,
         "name": "Dobradora de Feitiços",
         "description": "Segredo: Quando um inimigo lançar um feitiço em um lacaio, evoque um 1/3 para servir de alvo.",
-        "popularity": 891
+        "popularity": 888
     },
     {
         "id": 609,
@@ -4975,7 +4975,7 @@
         "race": 24,
         "name": "Dragoleta",
         "description": "Não pode ser alvo de feitiços nem de Poderes Heroicos.",
-        "popularity": 6514
+        "popularity": 6517
     },
     {
         "id": 710,
@@ -4990,7 +4990,7 @@
         "collectible": 1,
         "name": "Golpe Sinistro",
         "description": "Cause 3 de dano ao herói inimigo.",
-        "popularity": 1349
+        "popularity": 1363
     },
     {
         "id": 447,
@@ -5005,7 +5005,7 @@
         "collectible": 1,
         "name": "Explosão Arcana",
         "description": "Cause 1 de dano a todos os lacaios inimigos.",
-        "popularity": 2694
+        "popularity": 2699
     },
     {
         "id": 1367,
@@ -5019,7 +5019,7 @@
         "classs": 5,
         "name": "Palavra Sombria: Dor",
         "description": "Destrua um lacaio com 3 ou menos de Ataque.",
-        "popularity": 7585
+        "popularity": 7658
     },
     {
         "id": 584,
@@ -5034,7 +5034,7 @@
         "collectible": 1,
         "name": "Sacrifício Nobre",
         "description": "Segredo: Quando um inimigo atacar, evoque um Defensor 2/1 para ser o novo alvo.",
-        "popularity": 2856
+        "popularity": 2858
     },
     {
         "id": 1019,
@@ -5052,7 +5052,7 @@
         "collectible": 1,
         "name": "Infernal Medonho",
         "description": "Grito de Guerra: Cause 1 de dano a TODOS os personagens.",
-        "popularity": 1644
+        "popularity": 1649
     },
     {
         "id": 233,
@@ -5067,7 +5067,7 @@
         "collectible": 1,
         "name": "Naturalizar",
         "description": "Destrua um lacaio. Seu oponente compra dois cards.",
-        "popularity": 1476
+        "popularity": 1479
     },
     {
         "id": 836,
@@ -5082,7 +5082,7 @@
         "collectible": 1,
         "name": "Ira",
         "description": "Escolha Um - Cause 3 de dano a um lacaio; ou cause 1 de dano e compre um card.",
-        "popularity": 7754
+        "popularity": 7799
     },
     {
         "id": 158,
@@ -5114,7 +5114,7 @@
         "collectible": 1,
         "name": "Leiloeiro de Geringontzan",
         "description": "Sempre que lançar um feitiço, compre um card.",
-        "popularity": 5202
+        "popularity": 5245
     },
     {
         "id": 990,
@@ -5129,7 +5129,7 @@
         "collectible": 1,
         "name": "Ocultar",
         "description": "Conceda Furtividade aos seus lacaios até o seu próximo turno.",
-        "popularity": 1940
+        "popularity": 1969
     },
     {
         "id": 878,
@@ -5145,7 +5145,7 @@
         "collectible": 1,
         "name": "Corsário Terrível",
         "description": "Provocar. Custa (1) a menos por Ataque da sua arma.",
-        "popularity": 2488
+        "popularity": 2500
     },
     {
         "id": 299,
@@ -5160,7 +5160,7 @@
         "collectible": 1,
         "name": "Raio Bifurcado",
         "description": "Cause 2 de dano a 2 lacaios inimigos aleatórios. Sobrecarga: (2)",
-        "popularity": 1919
+        "popularity": 1922
     },
     {
         "id": 727,
@@ -5175,7 +5175,7 @@
         "collectible": 1,
         "name": "Mão da Proteção",
         "description": "Conceda Escudo Divino a um lacaio.",
-        "popularity": 1920
+        "popularity": 1923
     },
     {
         "id": 286,
@@ -5208,7 +5208,7 @@
         "race": 24,
         "name": "Nozdormu",
         "description": "Os jogadores só tem 15 segundos para terminarem seus turnos.",
-        "popularity": 480
+        "popularity": 482
     },
     {
         "id": 1361,
@@ -5222,7 +5222,7 @@
         "classs": 5,
         "name": "Espírito Divino",
         "description": "Dobre a Vida de um lacaio.",
-        "popularity": 3395
+        "popularity": 3401
     },
     {
         "id": 596,
@@ -5239,7 +5239,7 @@
         "collectible": 1,
         "name": "Ferreira de Armaduras",
         "description": "Sempre que um lacaio aliado receber dano, receba 1 de Armadura.",
-        "popularity": 4323
+        "popularity": 4371
     },
     {
         "id": 976,
@@ -5256,7 +5256,7 @@
         "collectible": 1,
         "name": "Murloc Caçamaré",
         "description": "Grito de Guerra: Evoque um Batedor Murloc 1/1.",
-        "popularity": 3683
+        "popularity": 3696
     },
     {
         "id": 699,
@@ -5274,7 +5274,7 @@
         "collectible": 1,
         "name": "Rinoceronte da Tundra",
         "description": "Suas Feras têm Investida.",
-        "popularity": 2334
+        "popularity": 2342
     },
     {
         "id": 969,
@@ -5291,7 +5291,7 @@
         "attack": 0,
         "name": "Portal de Evocação",
         "description": "Seus lacaios custam (2) a menos, mas nunca menos de (1).",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 250,
@@ -5306,7 +5306,7 @@
         "collectible": 1,
         "name": "Martelo da Ira",
         "description": "Cause 3 de dano. Compre um card.",
-        "popularity": 4397
+        "popularity": 4403
     },
     {
         "id": 622,
@@ -5322,7 +5322,7 @@
         "collectible": 1,
         "name": "Cavaleiro de Ventobravo",
         "description": "Investida",
-        "popularity": 1789
+        "popularity": 1790
     },
     {
         "id": 762,
@@ -5338,7 +5338,7 @@
         "collectible": 1,
         "name": "Bombardeiro Louco",
         "description": "Grito de Guerra: Cause 3 de dano divididos aleatoriamente entre todos os outros personagens.",
-        "popularity": 2684
+        "popularity": 2687
     },
     {
         "id": 476,
@@ -5353,7 +5353,7 @@
         "collectible": 1,
         "name": "Consagração",
         "description": "Cause 2 de dano a todos os inimigos.",
-        "popularity": 9426
+        "popularity": 9457
     },
     {
         "id": 1073,
@@ -5368,7 +5368,7 @@
         "collectible": 1,
         "name": "Malabarista de Facas",
         "description": "Depois de evocar um lacaio, cause 1 de dano a um inimigo aleatório.",
-        "popularity": 15494
+        "popularity": 15505
     },
     {
         "id": 383,
@@ -5399,7 +5399,7 @@
         "collectible": 1,
         "name": "Estouro de Lava",
         "description": "Cause 5 de dano. Sobrecarga: (2)",
-        "popularity": 2171
+        "popularity": 2189
     },
     {
         "id": 734,
@@ -5415,7 +5415,7 @@
         "collectible": 1,
         "name": "Técnico de Controle Mental",
         "description": "Grito de Guerra: Se seu oponente tem 4 ou mais lacaios, assuma o controle de um aleatoriamente.",
-        "popularity": 3845
+        "popularity": 3851
     },
     {
         "id": 1686,
@@ -5429,7 +5429,7 @@
         "attack": 6,
         "health": 7,
         "name": "Ogro Punho de Pedra",
-        "popularity": 4410
+        "popularity": 4426
     },
     {
         "id": 424,
@@ -5445,7 +5445,7 @@
         "collectible": 1,
         "name": "Sacerdotisa de Eluna",
         "description": "Grito de Guerra: Restaure 4 de Vida do seu herói.",
-        "popularity": 999
+        "popularity": 1000
     },
     {
         "id": 915,
@@ -5461,7 +5461,7 @@
         "collectible": 1,
         "name": "Mago Ancião",
         "description": "Grito de Guerra: Conceda +1 de Dano Mágico aos lacaios adjacentes.",
-        "popularity": 962
+        "popularity": 963
     },
     {
         "id": 151,
@@ -5476,7 +5476,7 @@
         "collectible": 1,
         "name": "Marca da Natureza",
         "description": "Escolha Um - Conceda +4 de Ataque a um lacaio; ou +4 de Vida e Provocar.",
-        "popularity": 1469
+        "popularity": 1471
     },
     {
         "id": 1363,
@@ -5490,7 +5490,7 @@
         "classs": 5,
         "name": "Palavra Sombria: Morte",
         "description": "Destrua um lacaio com 5 ou mais de Ataque.",
-        "popularity": 9341
+        "popularity": 9418
     },
     {
         "id": 290,
@@ -5507,7 +5507,7 @@
         "race": 20,
         "name": "Coruja Bico-de-ferro",
         "description": "Grito de Guerra: Silencie um lacaio.",
-        "popularity": 17161
+        "popularity": 17094
     },
     {
         "id": 904,
@@ -5522,7 +5522,7 @@
         "collectible": 1,
         "name": "Eviscerar",
         "description": "Cause 2 de dano. Combo: Em vez de 2, cause 4 de dano.",
-        "popularity": 6956
+        "popularity": 7006
     },
     {
         "id": 232,
@@ -5553,7 +5553,7 @@
         "collectible": 1,
         "name": "Andarilha do Sol",
         "description": "Provocar Escudo Divino",
-        "popularity": 6663
+        "popularity": 6672
     },
     {
         "id": 1074,
@@ -5568,7 +5568,7 @@
         "collectible": 1,
         "name": "Batida",
         "description": "Cause 2 de dano a um lacaio. Se ele sobreviver, compre um card.",
-        "popularity": 3533
+        "popularity": 3607
     },
     {
         "id": 643,
@@ -5585,7 +5585,7 @@
         "collectible": 1,
         "name": "Espada da Justiça",
         "description": "Depois que você evocar um lacaio, conceda-lhe +1/+1, e este item perderá 1 de Durabilidade.",
-        "popularity": 2568
+        "popularity": 2567
     },
     {
         "id": 636,
@@ -5600,7 +5600,7 @@
         "collectible": 1,
         "name": "Redemoinho",
         "description": "Cause 1 de dano a TODOS os lacaios.",
-        "popularity": 4468
+        "popularity": 4510
     },
     {
         "id": 556,
@@ -5618,7 +5618,7 @@
         "race": 15,
         "name": "Illidan Tempesfúria",
         "description": "Sempre que você jogar um card, evoque uma Labareda de Azzinoth 2/1.",
-        "popularity": 1359
+        "popularity": 1360
     },
     {
         "id": 581,
@@ -5636,7 +5636,7 @@
         "collectible": 1,
         "name": "Alexstrasza",
         "description": "Grito de Guerra: Defina a vida remanescente do herói para 15.",
-        "popularity": 6502
+        "popularity": 6532
     },
     {
         "id": 1189,
@@ -5651,7 +5651,7 @@
         "collectible": 1,
         "name": "Silêncio",
         "description": "Silencie um lacaio.",
-        "popularity": 1993
+        "popularity": 1997
     },
     {
         "id": 48,
@@ -5669,7 +5669,7 @@
         "collectible": 1,
         "name": "Emissário do Caos",
         "description": "Provocar",
-        "popularity": 6586
+        "popularity": 6625
     },
     {
         "id": 1004,
@@ -5684,7 +5684,7 @@
         "collectible": 1,
         "name": "Golpe Flamejante",
         "description": "Cause 4 de dano a todos os lacaios inimigos.",
-        "popularity": 9538
+        "popularity": 9582
     },
     {
         "id": 1369,
@@ -5699,7 +5699,7 @@
         "health": 3,
         "race": 20,
         "name": "Crocolisco do Rio",
-        "popularity": 3030
+        "popularity": 3039
     },
     {
         "id": 960,
@@ -5716,7 +5716,7 @@
         "collectible": 1,
         "name": "Machado Tempestuoso",
         "description": "Sobrecarga: (1)",
-        "popularity": 2809
+        "popularity": 2812
     },
     {
         "id": 1364,
@@ -5732,7 +5732,7 @@
         "health": 6,
         "name": "Impositor do Templo",
         "description": "Grito de Guerra: Conceda +3 de Vida a um lacaio aliado.",
-        "popularity": 2127
+        "popularity": 2126
     },
     {
         "id": 926,
@@ -5748,7 +5748,7 @@
         "collectible": 1,
         "name": "Diabrete Mestre",
         "description": "No final do seu turno, cause 1 de dano a este lacaio e evoque um Diabrete 1/1.",
-        "popularity": 2528
+        "popularity": 2529
     },
     {
         "id": 742,
@@ -5763,7 +5763,7 @@
         "collectible": 1,
         "name": "Rugido Selvagem",
         "description": "Conceda +2 de Ataque aos seus personagens neste turno.",
-        "popularity": 5595
+        "popularity": 5596
     },
     {
         "id": 254,
@@ -5778,7 +5778,7 @@
         "collectible": 1,
         "name": "Avivar",
         "description": "Receba 2 Cristais de Mana somente neste turno.",
-        "popularity": 8437
+        "popularity": 8477
     },
     {
         "id": 1141,
@@ -5795,7 +5795,7 @@
         "collectible": 1,
         "name": "Elemental da Terra",
         "description": "Provocar. Sobrecarga: (3)",
-        "popularity": 1640
+        "popularity": 1647
     },
     {
         "id": 531,
@@ -5811,7 +5811,7 @@
         "collectible": 1,
         "name": "Manipulador Sem-rosto",
         "description": "Grito de Guerra: Escolha um lacaio e torne-se uma cópia dele.",
-        "popularity": 9140
+        "popularity": 9148
     },
     {
         "id": 679,
@@ -5826,7 +5826,7 @@
         "collectible": 1,
         "name": "Favorecimento Divino",
         "description": "Compre cards até sua mão ficar tão cheia quanto a do oponente.",
-        "popularity": 2714
+        "popularity": 2735
     },
     {
         "id": 979,
@@ -5843,7 +5843,7 @@
         "race": 17,
         "name": "Demolidor",
         "description": "No início do seu turno, cause 2 de dano a um inimigo aleatório.",
-        "popularity": 1906
+        "popularity": 1902
     },
     {
         "id": 891,
@@ -5859,7 +5859,7 @@
         "collectible": 1,
         "name": "Protetora Solfúria",
         "description": "Grito de Guerra: Conceda Provocar aos lacaios adjacentes.",
-        "popularity": 7578
+        "popularity": 7582
     },
     {
         "id": 618,
@@ -5876,7 +5876,7 @@
         "collectible": 1,
         "name": "Redemoinho de Poeira",
         "description": "Fúria dos Ventos. Sobrecarga: (2)",
-        "popularity": 443
+        "popularity": 445
     },
     {
         "id": 291,
@@ -5891,7 +5891,7 @@
         "collectible": 1,
         "name": "Luz Sagrada",
         "description": "Restaure 6 de Vida.",
-        "popularity": 2035
+        "popularity": 2036
     },
     {
         "id": 238,
@@ -5906,7 +5906,7 @@
         "collectible": 1,
         "name": "Espírito Feral",
         "description": "Evoque dois Lobos Espirituais 2/3 com Provocar. Sobrecarga: (2)",
-        "popularity": 5619
+        "popularity": 5690
     },
     {
         "id": 1401,
@@ -5921,7 +5921,7 @@
         "health": 2,
         "name": "Líder do Raide",
         "description": "Seus outros lacaios têm +1 de Ataque.",
-        "popularity": 3123
+        "popularity": 3130
     },
     {
         "id": 790,
@@ -5937,7 +5937,7 @@
         "collectible": 1,
         "name": "Berserker Amani",
         "description": "Enfurecer: +3 de Ataque.",
-        "popularity": 5115
+        "popularity": 5124
     },
     {
         "id": 205,
@@ -5954,7 +5954,7 @@
         "collectible": 1,
         "name": "Protetor Cascaferro",
         "description": "Provocar",
-        "popularity": 2201
+        "popularity": 2204
     },
     {
         "id": 834,
@@ -5971,7 +5971,7 @@
         "collectible": 1,
         "name": "Asa da Morte",
         "description": "Grito de Guerra: Destrua todos os outros lacaios e descarte a sua mão.",
-        "popularity": 1383
+        "popularity": 1389
     },
     {
         "id": 413,
@@ -5987,7 +5987,7 @@
         "collectible": 1,
         "name": "Comando Lançatroz",
         "description": "Grito de Guerra: Cause 2 de dano.",
-        "popularity": 1665
+        "popularity": 1668
     },
     {
         "id": 67,
@@ -6004,7 +6004,7 @@
         "race": 20,
         "name": "Patriarca Costalva",
         "description": "Provocar",
-        "popularity": 1382
+        "popularity": 1381
     },
     {
         "id": 311,
@@ -6021,7 +6021,7 @@
         "collectible": 1,
         "name": "Arco Longo do Gladiador",
         "description": "Seu herói fica Imune enquanto ataca.",
-        "popularity": 910
+        "popularity": 911
     },
     {
         "id": 1754,
@@ -6053,7 +6053,7 @@
         "classs": 5,
         "name": "Sectário Sombrio",
         "description": "Último Suspiro: Conceda +3 de Vida a um lacaio aliado aleatório.",
-        "popularity": 2741
+        "popularity": 2740
     },
     {
         "id": 1783,
@@ -6068,7 +6068,7 @@
         "health": 2,
         "name": "Cientista Louco",
         "description": "Último Suspiro: Coloque um Segredo do seu deck no campo de batalha.",
-        "popularity": 6741
+        "popularity": 6697
     },
     {
         "id": 1805,
@@ -6084,7 +6084,7 @@
         "classs": 1,
         "name": "Mordida da Morte",
         "description": "Último Suspiro: Cause 1 de dano a todos os lacaios.",
-        "popularity": 3840
+        "popularity": 3823
     },
     {
         "id": 1799,
@@ -6099,7 +6099,7 @@
         "health": 5,
         "name": "Alma Ululante",
         "description": "Grito de Guerra: Silencie seus outros lacaios.",
-        "popularity": 340
+        "popularity": 339
     },
     {
         "id": 1791,
@@ -6116,7 +6116,7 @@
         "race": 20,
         "name": "Maexxna",
         "description": "Destrua qualquer lacaio atingido por este lacaio.",
-        "popularity": 1363
+        "popularity": 1361
     },
     {
         "id": 1810,
@@ -6164,7 +6164,7 @@
         "race": 15,
         "name": "Arauto do Caos",
         "description": "Último Suspiro: Coloque um Demônio aleatório da sua mão no campo de batalha.",
-        "popularity": 2105
+        "popularity": 2098
     },
     {
         "id": 1915,
@@ -6180,7 +6180,7 @@
         "elite": 1,
         "name": "Barão Rivendare",
         "description": "Seus lacaios ativam os Últimos Suspiros duas vezes.",
-        "popularity": 1998
+        "popularity": 1995
     },
     {
         "id": 1802,
@@ -6208,7 +6208,7 @@
         "classs": 8,
         "name": "Duplicar",
         "description": "Segredo: Quando um lacaio aliado morrer, coloque 2 cópias dele na sua mão.",
-        "popularity": 2429
+        "popularity": 2417
     },
     {
         "id": 1786,
@@ -6223,7 +6223,7 @@
         "health": 2,
         "name": "Ovo Nerubiano",
         "description": "Último Suspiro: Evoque um Nerubiano 4/4.",
-        "popularity": 5727
+        "popularity": 5702
     },
     {
         "id": 1794,
@@ -6239,7 +6239,7 @@
         "elite": 1,
         "name": "Kel'Thuzad",
         "description": "No final de cada turno, evoque todos os lacaios aliados que morreram neste turno.",
-        "popularity": 3867
+        "popularity": 3865
     },
     {
         "id": 1793,
@@ -6254,7 +6254,7 @@
         "health": 5,
         "name": "Arrota-Lodo",
         "description": "Provocar Último Suspiro: Evoque um Visgo 1/2 com Provocar.",
-        "popularity": 16212
+        "popularity": 16150
     },
     {
         "id": 1790,
@@ -6269,7 +6269,7 @@
         "health": 8,
         "name": "Necrolorde",
         "description": "Provocar. Último Suspiro: Seu oponente coloca um lacaio do próprio deck no campo de batalha.",
-        "popularity": 3262
+        "popularity": 3257
     },
     {
         "id": 1804,
@@ -6283,7 +6283,7 @@
         "classs": 2,
         "name": "Vingar",
         "description": "Segredo: Quando um de seus lacaios morrer, conceda +3/+2 a um lacaio aliado aleatório.",
-        "popularity": 1825
+        "popularity": 1817
     },
     {
         "id": 1753,
@@ -6298,7 +6298,7 @@
         "health": 3,
         "name": "Petisco Zumbi",
         "description": "Último Suspiro: Restaure 5 de Vida do Herói inimigo.",
-        "popularity": 6557
+        "popularity": 6522
     },
     {
         "id": 1800,
@@ -6330,7 +6330,7 @@
         "race": 20,
         "description": "Último Suspiro: Adicione um card de Fera aleatório à sua mão.",
         "name": "Teceteia",
-        "popularity": 2847
+        "popularity": 2840
     },
     {
         "id": 1858,
@@ -6345,7 +6345,7 @@
         "health": 2,
         "name": "Gosma Ecoante",
         "description": "Grito de Guerra: No final do turno, evoque uma cópia exata deste lacaio.",
-        "popularity": 1347
+        "popularity": 1340
     },
     {
         "id": 1781,
@@ -6361,7 +6361,7 @@
         "race": 20,
         "name": "Rastejante Assombrado",
         "description": "Último Suspiro: Evoque duas Aranhas Espectrais 1/1.",
-        "popularity": 10464
+        "popularity": 10415
     },
     {
         "id": 1789,
@@ -6376,7 +6376,7 @@
         "health": 6,
         "name": "Cavaleiro Espectral",
         "description": "Não pode ser alvo de feitiços nem de Poderes Heroicos.",
-        "popularity": 1556
+        "popularity": 1559
     },
     {
         "id": 1797,
@@ -6407,7 +6407,7 @@
         "health": 2,
         "name": "Vulto de Naxxramas",
         "description": "Furtividade. No início do seu turno, receba +1/+1.",
-        "popularity": 2588
+        "popularity": 2576
     },
     {
         "id": 1808,
@@ -6422,7 +6422,7 @@
         "health": 3,
         "name": "Carniçal Instável",
         "description": "Provocar. Último Suspiro: Cause 1 de dano a todos os lacaios.",
-        "popularity": 2531
+        "popularity": 2524
     },
     {
         "id": 1809,
@@ -6436,7 +6436,7 @@
         "classs": 7,
         "name": "Reencarnar",
         "description": "Destrua um lacaio, depois ressuscite-o com a Vida completa.",
-        "popularity": 973
+        "popularity": 970
     },
     {
         "id": 1913,
@@ -6451,7 +6451,7 @@
         "health": 4,
         "name": "Espadas Dançantes",
         "description": "Último Suspiro: Seu oponente compra um card.",
-        "popularity": 1028
+        "popularity": 1026
     },
     {
         "id": 1927,
@@ -6465,7 +6465,7 @@
         "classs": 8,
         "name": "Canhão de Chamas",
         "description": "Cause 4 de dano a um lacaio inimigo aleatório.",
-        "popularity": 2340
+        "popularity": 2332
     },
     {
         "id": 1928,
@@ -6482,7 +6482,7 @@
         "race": 17,
         "name": "Rompe-neve",
         "description": "Congele qualquer personagem atingido por este lacaio.",
-        "popularity": 2162
+        "popularity": 2153
     },
     {
         "id": 1929,
@@ -6496,7 +6496,7 @@
         "classs": 8,
         "name": "Portal Instável",
         "description": "Adicione um lacaio aleatório à sua mão. Ele custa (3) a menos.",
-        "popularity": 2726
+        "popularity": 2716
     },
     {
         "id": 1934,
@@ -6512,7 +6512,7 @@
         "collectible": 1,
         "name": "Mago Explosivo Goblin",
         "description": "Grito de Guerra: Se você tiver um Mecanoide, cause 4 de dano dividido aleatoriamente entre todos os inimigos.",
-        "popularity": 1621
+        "popularity": 1614
     },
     {
         "id": 1941,
@@ -6526,7 +6526,7 @@
         "collectible": 1,
         "name": "Eco de Medivh",
         "description": "Coloque uma cópia de cada lacaio aliado na sua mão.",
-        "popularity": 1011
+        "popularity": 1010
     },
     {
         "id": 1940,
@@ -6542,7 +6542,7 @@
         "race": 17,
         "name": "Mecano-traslador",
         "description": "Seus Mecanoides custam (1) a menos.",
-        "popularity": 3895
+        "popularity": 3883
     },
     {
         "id": 1939,
@@ -6574,7 +6574,7 @@
         "collectible": 1,
         "name": "Bomba Luminosa",
         "description": "Cause dano a todos os lacaios igual ao Ataque de cada um.",
-        "popularity": 1630
+        "popularity": 1623
     },
     {
         "id": 1937,
@@ -6590,7 +6590,7 @@
         "collectible": 1,
         "name": "Bombardeiro das Sombras",
         "description": "Grito de Guerra: Cause 3 de dano a cada herói.",
-        "popularity": 180
+        "popularity": 179
     },
     {
         "id": 1935,
@@ -6604,7 +6604,7 @@
         "collectible": 1,
         "name": "Escolhido de Velen",
         "description": "Conceda +2/+4 e +1 de Dano Mágico a um lacaio.",
-        "popularity": 2619
+        "popularity": 2615
     },
     {
         "id": 1936,
@@ -6620,7 +6620,7 @@
         "collectible": 1,
         "name": "Encolhista",
         "description": "Grito de Guerra: Conceda -2 de Ataque a um lacaio neste turno.",
-        "popularity": 1573
+        "popularity": 1568
     },
     {
         "id": 1933,
@@ -6634,7 +6634,7 @@
         "collectible": 1,
         "name": "Luz dos Naarus",
         "description": "Restaure 3 de Vida. Se o alvo ainda estiver ferido, evoque uma Guardiã da Luz.",
-        "popularity": 1589
+        "popularity": 1584
     },
     {
         "id": 1932,
@@ -6649,7 +6649,7 @@
         "collectible": 1,
         "name": "Mestre da Engrenagem",
         "description": "Ganha +2 de Ataque enquanto você tiver um Mecanoide.",
-        "popularity": 2449
+        "popularity": 2440
     },
     {
         "id": 1931,
@@ -6666,7 +6666,7 @@
         "elite": 1,
         "name": "Vol'jin",
         "description": "Grito de Guerra: Troque a Vida deste lacaio pela de outro.",
-        "popularity": 1142
+        "popularity": 1134
     },
     {
         "id": 2093,
@@ -6680,7 +6680,7 @@
         "classs": 9,
         "name": "Bomba Negra",
         "description": "Cause 3 de dano.",
-        "popularity": 2954
+        "popularity": 2936
     },
     {
         "id": 1982,
@@ -6696,7 +6696,7 @@
         "race": 17,
         "name": "Aníquilus",
         "description": "Sempre que seu oponente jogar um card, remova os três cards do topo do seu deck.",
-        "popularity": 589
+        "popularity": 584
     },
     {
         "id": 1992,
@@ -6713,7 +6713,7 @@
         "race": 17,
         "name": "Sensei de Ferro",
         "description": "No final do seu turno, conceda +2/+2 a outro Mecanoide aliado.",
-        "popularity": 425
+        "popularity": 424
     },
     {
         "id": 2094,
@@ -6727,7 +6727,7 @@
         "classs": 3,
         "name": "Chamar Ajudante",
         "description": "Compre um card. Se for uma Fera, ela custará (4) a menos.",
-        "popularity": 221
+        "popularity": 220
     },
     {
         "id": 2172,
@@ -6744,7 +6744,7 @@
         "race": 15,
         "name": "Senhora da Dor",
         "description": "Sempre que este lacaio causar dano, restaure a mesma quantidade de Vida do seu herói.",
-        "popularity": 668
+        "popularity": 667
     },
     {
         "id": 1985,
@@ -6758,7 +6758,7 @@
         "cost": 5,
         "name": "Coração Demoníaco",
         "description": "Cause 5 de dano a um lacaio. Se for um Demônio aliado, em vez disso, conceda-lhe +5/+5.",
-        "popularity": 469
+        "popularity": 470
     },
     {
         "id": 1997,
@@ -6775,7 +6775,7 @@
         "race": 17,
         "name": "Canhão Vil",
         "description": "No final do seu turno, cause 2 de dano a um lacaio não-Mecanoide.",
-        "popularity": 173
+        "popularity": 174
     },
     {
         "id": 1986,
@@ -6793,7 +6793,7 @@
         "race": 15,
         "name": "Mal'Ganis",
         "description": "Seus outros Demônios ganham +2/+2. Seu herói fica Imune.",
-        "popularity": 1449
+        "popularity": 1443
     },
     {
         "id": 2095,
@@ -6807,7 +6807,7 @@
         "classs": 4,
         "name": "Óleo de Arma do Faz-tudo",
         "description": "Conceda +3 de Ataque à sua arma. Combo: Conceda +3 de Ataque a um lacaio aliado aleatório.",
-        "popularity": 1982
+        "popularity": 1973
     },
     {
         "id": 1988,
@@ -6824,7 +6824,7 @@
         "race": 17,
         "name": "Autobarbeiro Goblínico",
         "description": "Grito de Guerra: Conceda +1 de Ataque à sua arma.",
-        "popularity": 1001
+        "popularity": 1000
     },
     {
         "id": 1989,
@@ -6902,7 +6902,7 @@
         "cost": 4,
         "name": "Chamado do Ancestral",
         "description": "Coloque um lacaio aleatório da mão de cada jogador no campo de batalha.",
-        "popularity": 210
+        "popularity": 209
     },
     {
         "id": 2096,
@@ -6920,7 +6920,7 @@
         "elite": 0,
         "name": "Robozinho Anodizado",
         "description": "Provocar. Escolha um - +1 de Ataque ou +1 de Vida.",
-        "popularity": 520
+        "popularity": 521
     },
     {
         "id": 1995,
@@ -6950,7 +6950,7 @@
         "classs": 11,
         "name": "Mantenedora do Bosque",
         "description": "Escolha Um - Conceda um Cristal de Mana a cada jogador; ou Cada jogador compra um card.",
-        "popularity": 500
+        "popularity": 502
     },
     {
         "id": 2001,
@@ -6964,7 +6964,7 @@
         "classs": 11,
         "name": "Árvore da Vida",
         "description": "Restaure toda a Vida de todos os personagens.",
-        "popularity": 311
+        "popularity": 313
     },
     {
         "id": 2002,
@@ -6981,7 +6981,7 @@
         "race": 17,
         "name": "Mecano-Urso-Felino",
         "description": "Sempre que este lacaio receber dano, adicione um card Peça Sobressalente à sua mão.",
-        "popularity": 265
+        "popularity": 264
     },
     {
         "id": 2003,
@@ -6999,7 +6999,7 @@
         "race": 20,
         "name": "Malorne",
         "description": "Último Suspiro: Coloque este lacaio no seu deck.",
-        "popularity": 302
+        "popularity": 301
     },
     {
         "id": 2004,
@@ -7015,7 +7015,7 @@
         "durability": 2,
         "name": "Maça do Poder",
         "description": "Último Suspiro: Conceda +2/+2 a um Mecanoide aliado aleatório.",
-        "popularity": 835
+        "popularity": 832
     },
     {
         "id": 2005,
@@ -7032,7 +7032,7 @@
         "race": 17,
         "name": "Fulminatron Giratório",
         "description": "Fúria dos Ventos",
-        "popularity": 950
+        "popularity": 947
     },
     {
         "id": 2006,
@@ -7046,7 +7046,7 @@
         "classs": 7,
         "name": "Estalar",
         "description": "Cause de 3 a 6 de dano. Sobrecarga: (1)",
-        "popularity": 1889
+        "popularity": 1877
     },
     {
         "id": 2007,
@@ -7080,7 +7080,7 @@
         "race": 14,
         "name": "Andarilho Espiritual Pinarena",
         "description": "Sempre que um Murloc aliado morrer, compre um card. Sobrecarga: (1)",
-        "popularity": 263
+        "popularity": 261
     },
     {
         "id": 2009,
@@ -7094,7 +7094,7 @@
         "classs": 11,
         "name": "Fogo Enfático",
         "description": "Escolha Um - Evoque 5 Fogos-fátuos ou Conceda +5/+5 e Provocar a um lacaio.",
-        "popularity": 197
+        "popularity": 196
     },
     {
         "id": 2010,
@@ -7111,7 +7111,7 @@
         "health": 7,
         "name": "Neptulon",
         "description": "Grito de Guerra: Adicione 4 Murlocs aleatórios à sua mão. Sobrecarga: (3)",
-        "popularity": 689
+        "popularity": 684
     },
     {
         "id": 2011,
@@ -7127,7 +7127,7 @@
         "durability": 2,
         "name": "Glaivezuca",
         "description": "Grito de Guerra: Conceda +1 de Ataque a um lacaio aliado aleatório.",
-        "popularity": 1653
+        "popularity": 1646
     },
     {
         "id": 2012,
@@ -7142,7 +7142,7 @@
         "attack": 3,
         "health": 4,
         "name": "Tanque Aranha",
-        "popularity": 3440
+        "popularity": 3434
     },
     {
         "id": 2013,
@@ -7156,7 +7156,7 @@
         "classs": 9,
         "name": "Implosão de Diabrete",
         "description": "Cause 2-4 de dano a um lacaio. Evoque um Diabrete 1/1 para cada ponto de dano causado.",
-        "popularity": 2555
+        "popularity": 2531
     },
     {
         "id": 2014,
@@ -7204,7 +7204,7 @@
         "health": 3,
         "name": "Saltador Metalodonte",
         "description": "Grito de Guerra: Conceda +2 de Ataque aos seus outros Mecanoides.",
-        "popularity": 120
+        "popularity": 119
     },
     {
         "id": 2017,
@@ -7222,7 +7222,7 @@
         "race": 20,
         "name": "Gahz'rilla",
         "description": "Sempre que este lacaio receber dano, dobre o Ataque dele.",
-        "popularity": 269
+        "popularity": 270
     },
     {
         "id": 2018,
@@ -7236,7 +7236,7 @@
         "classs": 1,
         "name": "Lâmina Quicante",
         "description": "Cause 1 de dano a um lacaio aleatório. Repita até um lacaio morrer.",
-        "popularity": 305
+        "popularity": 304
     },
     {
         "id": 2022,
@@ -7269,7 +7269,7 @@
         "race": 17,
         "name": "Guerrobô",
         "description": "Enfurecer: +1 de Ataque.",
-        "popularity": 319
+        "popularity": 318
     },
     {
         "id": 2020,
@@ -7299,7 +7299,7 @@
         "health": 5,
         "name": "Dama Escudeira",
         "description": "Grito de Guerra: Receba 5 de Armadura.",
-        "popularity": 1712
+        "popularity": 1705
     },
     {
         "id": 2023,
@@ -7316,7 +7316,7 @@
         "race": 17,
         "name": "Calhambeque Vai-no-tranco ",
         "description": "Grito de Guerra: Conceda +2/+2 a um Mecanoide aliado.",
-        "popularity": 209
+        "popularity": 208
     },
     {
         "id": 2024,
@@ -7350,7 +7350,7 @@
         "faction": 3,
         "name": "Técnica Asa Negra",
         "description": "Grito de Guerra: Se tiver um Dragão na mão, receba +1/+1. ",
-        "popularity": 1462
+        "popularity": 1486
     },
     {
         "id": 2025,
@@ -7381,7 +7381,7 @@
         "race": 17,
         "name": "Minirrobô Blindado",
         "description": "Escudo Divino",
-        "popularity": 3741
+        "popularity": 3723
     },
     {
         "id": 2027,
@@ -7397,7 +7397,7 @@
         "durability": 3,
         "name": "Engrenomalho",
         "description": "Grito de Guerra: Conceda Escudo Divino e Provocar a um lacaio aliado aleatório.",
-        "popularity": 1694
+        "popularity": 1677
     },
     {
         "id": 2028,
@@ -7413,7 +7413,7 @@
         "health": 5,
         "name": "Intendente",
         "description": "Grito de Guerra: Conceda +2/+2 aos seus Recrutas do Punho de Prata.",
-        "popularity": 1738
+        "popularity": 1731
     },
     {
         "id": 2029,
@@ -7427,7 +7427,7 @@
         "classs": 2,
         "name": "Preparação de Batalha",
         "description": "Evoque três Recrutas do Punho de Prata 1/1. Equipe uma Arma 1/4.",
-        "popularity": 3527
+        "popularity": 3509
     },
     {
         "id": 2030,
@@ -7461,7 +7461,7 @@
         "health": 7,
         "name": "Bolvar Fordragon",
         "description": "Sempre que um lacaio aliado morrer e este card estiver na sua mão, ganhe +1 de Ataque.",
-        "popularity": 354
+        "popularity": 355
     },
     {
         "id": 2032,
@@ -7476,7 +7476,7 @@
         "health": 2,
         "race": 14,
         "name": "Pisa-poças",
-        "popularity": 733
+        "popularity": 732
     },
     {
         "id": 2033,
@@ -7491,7 +7491,7 @@
         "health": 4,
         "name": "Brutamontes Ogro",
         "description": "50% de chance de atacar o inimigo errado.",
-        "popularity": 868
+        "popularity": 872
     },
     {
         "id": 2034,
@@ -7522,7 +7522,7 @@
         "health": 3,
         "name": "Trogg Lascapedra",
         "description": "Sempre que seu oponente lançar um feitiço, receba +1 de Ataque.",
-        "popularity": 541
+        "popularity": 542
     },
     {
         "id": 2306,
@@ -7554,7 +7554,7 @@
         "elite": 1,
         "name": "Imperador Thaurissan",
         "description": "No final do seu turno, reduza em (1) o custo dos cards na sua mão.",
-        "popularity": 7843
+        "popularity": 7915
     },
     {
         "id": 2036,
@@ -7569,7 +7569,7 @@
         "health": 5,
         "name": "Trogg Pedraqueixo Parrudo",
         "description": "Sempre que seu oponente lançar um feitiço, receba +2 de Ataque.",
-        "popularity": 554
+        "popularity": 555
     },
     {
         "id": 2045,
@@ -7586,7 +7586,7 @@
         "classs": 9,
         "name": "Golem Ânima",
         "description": "No final de cada turno, destrua este lacaio se ele for o seu único.",
-        "popularity": 190
+        "popularity": 189
     },
     {
         "id": 2037,
@@ -7602,7 +7602,7 @@
         "race": 17,
         "name": "Robô de Cura Vintage",
         "description": "Grito de Guerra: Restaure 8 de Vida do seu herói.",
-        "popularity": 8520
+        "popularity": 8473
     },
     {
         "id": 2038,
@@ -7649,7 +7649,7 @@
         "classs": 5,
         "name": "Boxeador da Sombra",
         "description": "Sempre que um personagem for curado, cause 1 de dano a um inimigo aleatório.",
-        "popularity": 621
+        "popularity": 620
     },
     {
         "id": 2041,
@@ -7678,7 +7678,7 @@
         "health": 3,
         "name": "Mística de Kezan",
         "description": "Grito de Guerra: Assuma o controle de um Segredo aleatório do inimigo.",
-        "popularity": 1673
+        "popularity": 1664
     },
     {
         "id": 2043,
@@ -7709,7 +7709,7 @@
         "race": 17,
         "name": "Ovelha Explosiva",
         "description": "Último Suspiro: Cause 2 de dano a todos os lacaios.",
-        "popularity": 1445
+        "popularity": 1440
     },
     {
         "id": 2046,
@@ -7725,7 +7725,7 @@
         "race": 17,
         "name": "Yeti Mecânico",
         "description": "Último Suspiro: Concede uma Peça Sobressalente a cada jogador.",
-        "popularity": 3235
+        "popularity": 3232
     },
     {
         "id": 2047,
@@ -7741,7 +7741,7 @@
         "race": 17,
         "name": "Tanque de Força MÁX",
         "description": "Escudo Divino",
-        "popularity": 917
+        "popularity": 915
     },
     {
         "id": 2048,
@@ -7757,7 +7757,7 @@
         "classs": 11,
         "name": "Druida da Presa",
         "description": "Grito de Guerra: Se você tiver uma Fera, este lacaio torna-se 7/7.",
-        "popularity": 314
+        "popularity": 312
     },
     {
         "id": 2049,
@@ -7772,7 +7772,7 @@
         "health": 3,
         "name": "Espreitador Guelblin",
         "description": "Furtividade",
-        "popularity": 558
+        "popularity": 560
     },
     {
         "id": 2050,
@@ -7788,7 +7788,7 @@
         "race": 17,
         "name": "Gnomo de Corda",
         "description": "Último Suspiro: Adicione um card Peça Sobressalente à sua mão.",
-        "popularity": 3985
+        "popularity": 3967
     },
     {
         "id": 2051,
@@ -7805,7 +7805,7 @@
         "classs": 5,
         "name": "Robô de Reparos Aprimorado",
         "description": "Grito de Guerra: Conceda +4 de Vida a um Mecanoide aliado.",
-        "popularity": 225
+        "popularity": 224
     },
     {
         "id": 2052,
@@ -7821,7 +7821,7 @@
         "health": 4,
         "name": "Máquina Voadora",
         "description": "Fúria dos Ventos",
-        "popularity": 325
+        "popularity": 326
     },
     {
         "id": 2053,
@@ -7837,7 +7837,7 @@
         "race": 17,
         "name": "Azucrinatron",
         "description": "Provocar Escudo Divino",
-        "popularity": 5513
+        "popularity": 5493
     },
     {
         "id": 2054,
@@ -7870,7 +7870,7 @@
         "health": 3,
         "name": "Atirador Bondebico",
         "description": "Seu Poder Heroico pode alvejar lacaios.",
-        "popularity": 318
+        "popularity": 319
     },
     {
         "id": 2056,
@@ -7901,7 +7901,7 @@
         "health": 4,
         "name": "Iluminador",
         "description": "Se você controlar um Segredo no final do seu turno, restaure 4 de Vida do seu herói.",
-        "popularity": 450
+        "popularity": 446
     },
     {
         "id": 2058,
@@ -7963,7 +7963,7 @@
         "race": 17,
         "name": "Boneco-alvo",
         "description": "Provocar",
-        "popularity": 535
+        "popularity": 534
     },
     {
         "id": 2062,
@@ -7979,7 +7979,7 @@
         "race": 17,
         "name": "Jarbas",
         "description": "Ao final dos respectivos turnos, cada jogador compra até ter 3 cards.",
-        "popularity": 1082
+        "popularity": 1080
     },
     {
         "id": 2063,
@@ -8010,7 +8010,7 @@
         "race": 17,
         "name": "Retalhador Guiado",
         "description": "Último Suspiro: Evoque um lacaio aleatório com 2 de Custo.",
-        "popularity": 12742
+        "popularity": 12670
     },
     {
         "id": 2065,
@@ -8025,7 +8025,7 @@
         "health": 3,
         "name": "Exorcistinha",
         "description": "Provocar Grito de Guerra: Receba +1/+1 para cada lacaio inimigo com Último Suspiro.",
-        "popularity": 322
+        "popularity": 323
     },
     {
         "id": 2066,
@@ -8040,7 +8040,7 @@
         "health": 4,
         "name": "Infantaria de Gnomeregan",
         "description": "Investida Provocar",
-        "popularity": 342
+        "popularity": 341
     },
     {
         "id": 2067,
@@ -8055,7 +8055,7 @@
         "health": 3,
         "name": "Taca-bomba",
         "description": "Grito de Guerra: Cause 4 de dano a um lacaio inimigo aleatório.",
-        "popularity": 985
+        "popularity": 984
     },
     {
         "id": 2068,
@@ -8072,7 +8072,7 @@
         "race": 15,
         "name": "Observador Flutuante",
         "description": "Sempre que seu herói receber dano no seu turno, receba +2/+2.",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 2069,
@@ -8103,7 +8103,7 @@
         "health": 3,
         "name": "Técnico da Vila da Gambiarra",
         "description": "Grito de Guerra: Se você tiver um Mecanoide, receba +1/+1 e adicione uma Peça Sobressalente à sua mão.",
-        "popularity": 2915
+        "popularity": 2907
     },
     {
         "id": 2071,
@@ -8119,7 +8119,7 @@
         "race": 17,
         "name": "Micromáquina",
         "description": "No início de cada turno, receba +1 de Ataque.",
-        "popularity": 1723
+        "popularity": 1722
     },
     {
         "id": 2072,
@@ -8134,7 +8134,7 @@
         "health": 3,
         "name": "Hobgoblin",
         "description": "Sempre que você jogar um lacaio com 1 de Ataque, conceda-lhe +2/+2.",
-        "popularity": 558
+        "popularity": 556
     },
     {
         "id": 2073,
@@ -8150,7 +8150,7 @@
         "race": 17,
         "name": "Golem Celeste Guiado",
         "description": "Último Suspiro: Evoque um lacaio aleatório com 4 de Custo.",
-        "popularity": 1769
+        "popularity": 1771
     },
     {
         "id": 2074,
@@ -8166,7 +8166,7 @@
         "race": 17,
         "name": "Sucatatron",
         "description": "Sempre que um Mecanoide aliado morrer, receba +2/+2.",
-        "popularity": 242
+        "popularity": 241
     },
     {
         "id": 2082,
@@ -8183,7 +8183,7 @@
         "race": 17,
         "name": "Velho Retalhador do Sneed",
         "description": "Último Suspiro: Evoque um lacaio Lendário aleatório.",
-        "popularity": 1666
+        "popularity": 1668
     },
     {
         "id": 2086,
@@ -8199,7 +8199,7 @@
         "health": 6,
         "name": "Troggzor, o Aterrador",
         "description": "Sempre que o seu oponente lançar um feitiço, evoque um Trogg Pedraqueixo Parrudo.",
-        "popularity": 543
+        "popularity": 545
     },
     {
         "id": 2075,
@@ -8215,7 +8215,7 @@
         "race": 17,
         "name": "Mecanoide Aprimorador",
         "description": "Grito de Guerra: Conceda Fúria dos Ventos, Provocar ou Escudo Divino aos seus outros lacaios. (aleatoriamente)",
-        "popularity": 1325
+        "popularity": 1321
     },
     {
         "id": 2076,
@@ -8230,7 +8230,7 @@
         "health": 2,
         "name": "Recombobulador",
         "description": "Grito de Guerra: Transforme um lacaio aliado em um lacaio aleatório com o mesmo Custo.",
-        "popularity": 702
+        "popularity": 703
     },
     {
         "id": 2077,
@@ -8245,7 +8245,7 @@
         "attack": 4,
         "name": "Minimago",
         "description": "Furtividade +1 de Dano Mágico",
-        "popularity": 127
+        "popularity": 129
     },
     {
         "id": 2078,
@@ -8261,7 +8261,7 @@
         "health": 7,
         "name": "Dr. Cabum",
         "description": "Grito de Guerra:: Evoque duas 1/1 Robombas. ATENÇÃO: Os Robôs podem explodir.",
-        "popularity": 13101
+        "popularity": 13011
     },
     {
         "id": 2079,
@@ -8311,7 +8311,7 @@
         "race": 17,
         "name": "Ceifador de Inimigos 4000",
         "description": "Também causa dano aos lacaios adjacentes ao alvo atacado.",
-        "popularity": 438
+        "popularity": 439
     },
     {
         "id": 2083,
@@ -8327,7 +8327,7 @@
         "health": 7,
         "name": "Tocha",
         "description": "Grito de Guerra e Último Suspiro: Adicione um card Peça Sobressalente à sua mão.",
-        "popularity": 484
+        "popularity": 483
     },
     {
         "id": 2084,
@@ -8344,7 +8344,7 @@
         "race": 17,
         "name": "Mecangenheiro Termaplugue",
         "description": "Sempre que um lacaio inimigo morrer, evoque um Gnomo Leproso.",
-        "popularity": 230
+        "popularity": 231
     },
     {
         "id": 2085,
@@ -8360,7 +8360,7 @@
         "health": 6,
         "name": "Gasganete",
         "description": "Sempre que você lançar um feitiço com custo 1 de mana, adicione um Mecanoide aleatório à sua mão.",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2087,
@@ -8409,7 +8409,7 @@
         "race": 17,
         "name": "Gigante de Corda",
         "description": "Custa (1) a menos para cada card na mão do seu oponente.",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2234,
@@ -8425,7 +8425,7 @@
         "classs": 8,
         "name": "Interrompe-feitiços Nanico",
         "description": "Lacaios adjacentes não podem ser alvo de feitiços nem de Poderes Heroicos.",
-        "popularity": 106
+        "popularity": 104
     },
     {
         "id": 2249,
@@ -8442,7 +8442,7 @@
         "race": 17,
         "name": "Cospe-Fuligem",
         "description": "+1 de Dano Mágico",
-        "popularity": 361
+        "popularity": 362
     },
     {
         "id": 2279,
@@ -8457,7 +8457,7 @@
         "health": 3,
         "name": "Freguês Carrancudo",
         "description": "Sempre que este lacaio sobreviver a dano, evoque outro Freguês Carrancudo.",
-        "popularity": 1457
+        "popularity": 1480
     },
     {
         "id": 2274,
@@ -8471,7 +8471,7 @@
         "classs": 2,
         "name": "Vigília Solene",
         "description": "Compre 2 cards. Custa (1) a menos para cada lacaio morto neste turno.",
-        "popularity": 507
+        "popularity": 530
     },
     {
         "id": 2275,
@@ -8487,7 +8487,7 @@
         "classs": 8,
         "name": "Ardilante",
         "description": "Depois de lançar um feitiço, cause 2 de dano dividido aleatoriamente entre todos os inimigos.",
-        "popularity": 1553
+        "popularity": 1576
     },
     {
         "id": 2284,
@@ -8501,7 +8501,7 @@
         "classs": 8,
         "name": "Sopro do Dragão",
         "description": "Causa 4 de dano. Custa (1) a menos para cada lacaio morto neste turno.",
-        "popularity": 277
+        "popularity": 279
     },
     {
         "id": 2286,
@@ -8518,7 +8518,7 @@
         "race": 24,
         "name": "Dragonete Crepuscular",
         "description": "Grito de Guerra: Se você tiver um Dragão na mão, receba +2 pontos de vida.",
-        "popularity": 739
+        "popularity": 749
     },
     {
         "id": 2301,
@@ -8532,7 +8532,7 @@
         "classs": 9,
         "name": "Ira Demoníaca",
         "description": "Cause 2 de dano a todos os lacaios, menos aos Demônios.",
-        "popularity": 564
+        "popularity": 581
     },
     {
         "id": 2288,
@@ -8549,7 +8549,7 @@
         "race": 15,
         "name": "Chefe da Gangue dos Diabretes",
         "description": "Sempre que este lacaio receber dano, evoque um Diabrete 1/1.",
-        "popularity": 1937
+        "popularity": 1979
     },
     {
         "id": 2304,
@@ -8563,7 +8563,7 @@
         "classs": 4,
         "name": "Formação de Quadrilha",
         "description": "Escolha um lacaio. Embaralhe 3 cópias dele no seu deck.",
-        "popularity": 614
+        "popularity": 613
     },
     {
         "id": 2291,
@@ -8579,7 +8579,7 @@
         "classs": 4,
         "name": "Ferro Negro Bisbilhoteiro",
         "description": "Grito de Guerra: Cause 2 de dano a todos os lacaios inimigos ilesos.",
-        "popularity": 330
+        "popularity": 357
     },
     {
         "id": 2295,
@@ -8595,7 +8595,7 @@
         "health": 8,
         "name": "Vagaroso Vulcânico",
         "description": "Provocar Custa (1) a menos para cada lacaio morto neste turno.",
-        "popularity": 208
+        "popularity": 209
     },
     {
         "id": 2292,
@@ -8611,7 +8611,7 @@
         "classs": 11,
         "name": "Druida da Chama",
         "description": "Escolha Um - Transforme num lacaio 5/2; ou num lacaio 2/5.",
-        "popularity": 388
+        "popularity": 400
     },
     {
         "id": 2289,
@@ -8625,7 +8625,7 @@
         "classs": 7,
         "name": "Choque de Lava",
         "description": "Cause 2 de dano. Desbloqueie Cristais de Mana Sobrecarregados.",
-        "popularity": 764
+        "popularity": 767
     },
     {
         "id": 2290,
@@ -8641,7 +8641,7 @@
         "classs": 7,
         "name": "Flamiguarda Destruidor",
         "description": "Grito de Guerra: Receba 1-4 de Ataque. Sobrecarga: (1)",
-        "popularity": 661
+        "popularity": 662
     },
     {
         "id": 2260,
@@ -8655,7 +8655,7 @@
         "classs": 3,
         "name": "Disparo Veloz",
         "description": "Cause 3 de dano. Se sua mão estiver vazia, compre um card.",
-        "popularity": 1662
+        "popularity": 1684
     },
     {
         "id": 2263,
@@ -8686,7 +8686,7 @@
         "cost": 2,
         "name": "Revanche",
         "description": "Cause 1 de dano a todos os lacaios. Se você tiver 12 pontos de vida ou menos, em vez disso, cause 3 de dano.",
-        "popularity": 461
+        "popularity": 486
     },
     {
         "id": 2297,
@@ -8702,7 +8702,7 @@
         "classs": 1,
         "name": "Atirador de Machados",
         "description": "Sempre que este lacaio receber dano, cause 2 de dano ao herói inimigo.",
-        "popularity": 229
+        "popularity": 230
     },
     {
         "id": 2298,
@@ -8716,7 +8716,7 @@
         "classs": 5,
         "name": "Ressuscitar",
         "description": "Evoque um lacaio aliado aleatório morto neste jogo.",
-        "popularity": 505
+        "popularity": 508
     },
     {
         "id": 2299,
@@ -8733,7 +8733,7 @@
         "race": 24,
         "name": "Consorte Dragônica",
         "description": "Grito de Guerra: O próximo Dragão que você jogar custa (2) a menos.",
-        "popularity": 543
+        "popularity": 548
     },
     {
         "id": 2278,
@@ -8748,7 +8748,7 @@
         "health": 2,
         "name": "Ovo de Dragão",
         "description": "Sempre que este lacaio receber dano, evoque um Dragonete 2/1.",
-        "popularity": 488
+        "popularity": 490
     },
     {
         "id": 2257,
@@ -8764,7 +8764,7 @@
         "race": 24,
         "name": "Esmagador Draconídeo",
         "description": "Grito de Guerra: Se seu oponente tiver 15 ou menos pontos de vida, receba +3/+3.",
-        "popularity": 599
+        "popularity": 603
     },
     {
         "id": 2258,
@@ -8780,7 +8780,7 @@
         "race": 24,
         "name": "Draco Vulcânico",
         "description": "Custa (1) a menos para cada lacaio morto neste turno.",
-        "popularity": 616
+        "popularity": 618
     },
     {
         "id": 2283,
@@ -8812,7 +8812,7 @@
         "elite": 1,
         "name": "Senescal Executus",
         "description": "Último Suspiro: Substitua seu herói por Ragnaros, o Senhor do Fogo.",
-        "popularity": 296
+        "popularity": 297
     },
     {
         "id": 2308,
@@ -8828,7 +8828,7 @@
         "health": 4,
         "name": "Laceral Mão Negra",
         "description": "Grito de Guerra: Se tiver um Dragão na mão, destrua um lacaio Lendário.",
-        "popularity": 456
+        "popularity": 461
     },
     {
         "id": 2261,
@@ -8845,7 +8845,7 @@
         "race": 24,
         "name": "Nefarian",
         "description": "Grito de Guerra: Adicione 2 feitiços aleatórios à sua mão (da classe do seu oponente).",
-        "popularity": 1344
+        "popularity": 1360
     },
     {
         "id": 2280,
@@ -8862,7 +8862,7 @@
         "race": 24,
         "name": "Cromaggus",
         "description": "Sempre que comprar um card, coloque outra cópia na sua mão.",
-        "popularity": 1590
+        "popularity": 1600
     },
     {
         "id": 2409,
@@ -8878,7 +8878,7 @@
         "faction": 3,
         "name": "Desvirtuador Asa Negra",
         "description": "Grito de Guerra: Se tiver um Dragão na mão, cause 3 de dano.",
-        "popularity": 1849
+        "popularity": 1867
     },
     {
         "id": 847,
@@ -8895,7 +8895,7 @@
         "collectible": 1,
         "name": "Defensora Veraprateada",
         "description": "Sempre que seu herói atacar, restaure 2 de Vida dele.",
-        "popularity": 9183
+        "popularity": 9219
     },
     {
         "id": 530,
@@ -8942,7 +8942,7 @@
         "elite": 1,
         "name": "Repugnaz",
         "description": "Grito de Guerra: Feitiços inimigos custam (5) a mais no próximo turno.",
-        "popularity": 12757
+        "popularity": 12672
     },
     {
         "id": 2539,
@@ -8956,7 +8956,7 @@
         "classs": 8,
         "name": "Lança de Fogo",
         "description": "Cause 8 de dano a um lacaio.",
-        "popularity": 186
+        "popularity": 189
     },
     {
         "id": 2541,
@@ -8970,7 +8970,7 @@
         "classs": 8,
         "name": "Efígie",
         "description": "Segredo: Quando um lacaio aliado morrer, evoque outro lacaio aleatório com o mesmo Custo.",
-        "popularity": 522
+        "popularity": 524
     },
     {
         "id": 2545,
@@ -8986,7 +8986,7 @@
         "classs": 8,
         "name": "Herói Caído",
         "description": "Seu Poder Heroico causa 1 de dano extra.",
-        "popularity": 293
+        "popularity": 294
     },
     {
         "id": 2572,
@@ -9000,7 +9000,7 @@
         "classs": 8,
         "name": "Impacto Arcano",
         "description": "Cause 2 de dano a um lacaio. Este feitiço recebe bônus duplo de Dano Mágico.",
-        "popularity": 425
+        "popularity": 446
     },
     {
         "id": 2542,
@@ -9014,7 +9014,7 @@
         "classs": 8,
         "name": "Polimorfia: Javali",
         "description": "Transforme um lacaio em um Javali 4/2 com Investida.",
-        "popularity": 163
+        "popularity": 162
     },
     {
         "id": 2549,
@@ -9030,7 +9030,7 @@
         "classs": 8,
         "name": "Aspirante de Dalaran",
         "description": "Inspirar: Receba +1 de Dano Mágico.",
-        "popularity": 171
+        "popularity": 172
     },
     {
         "id": 2571,
@@ -9046,7 +9046,7 @@
         "health": 4,
         "name": "Lança-feitiços",
         "description": "Grito de Guerra: Adicione um feitiço aleatório na mão de cada jogador.",
-        "popularity": 368
+        "popularity": 380
     },
     {
         "id": 2544,
@@ -9063,7 +9063,7 @@
         "race": 24,
         "name": "Draco de Gelarra",
         "description": "Você pode usar o seu Poder Heroico quantas vezes quiser.",
-        "popularity": 175
+        "popularity": 176
     },
     {
         "id": 2546,
@@ -9080,7 +9080,7 @@
         "elite": 1,
         "name": "Rhonin",
         "description": "Último Suspiro: Adicione 3 cópias de Mísseis Arcanos à sua mão.",
-        "popularity": 326
+        "popularity": 325
     },
     {
         "id": 2552,
@@ -9096,7 +9096,7 @@
         "health": 3,
         "name": "Tratador de Carneiros",
         "description": "Grito de Guerra: Se você tiver uma Fera, evoque uma Fera aleatória.",
-        "popularity": 395
+        "popularity": 410
     },
     {
         "id": 2555,
@@ -9112,7 +9112,7 @@
         "classs": 5,
         "name": "Campeã Sagrada",
         "description": "Sempre que um personagem for curado, receba +2 de Ataque.",
-        "popularity": 466
+        "popularity": 469
     },
     {
         "id": 2551,
@@ -9128,7 +9128,7 @@
         "classs": 5,
         "name": "Cria das Sombras",
         "description": "Inspirar: Cause 4 de dano a cada herói.",
-        "popularity": 114
+        "popularity": 113
     },
     {
         "id": 2568,
@@ -9142,7 +9142,7 @@
         "classs": 5,
         "name": "Palavra de Poder: Glória",
         "description": "Escolha um lacaio. Sempre que ele atacar, restaure 4 de Vida do seu herói.",
-        "popularity": 188
+        "popularity": 190
     },
     {
         "id": 2566,
@@ -9158,7 +9158,7 @@
         "classs": 5,
         "name": "Demônio das Sombras",
         "description": "Sempre que comprar um card, reduza seu custo em (1).",
-        "popularity": 87
+        "popularity": 88
     },
     {
         "id": 2563,
@@ -9172,7 +9172,7 @@
         "classs": 5,
         "name": "Converter",
         "description": "Coloque uma cópia de um lacaio inimigo na sua mão.",
-        "popularity": 113
+        "popularity": 112
     },
     {
         "id": 2564,
@@ -9202,7 +9202,7 @@
         "race": 24,
         "name": "Guardião do Crepúsculo",
         "description": "Grito de Guerra: Se você tiver um Dragão na mão, receba +1 de Ataque e Provocar.",
-        "popularity": 1203
+        "popularity": 1221
     },
     {
         "id": 2556,
@@ -9219,7 +9219,7 @@
         "elite": 1,
         "name": "Confessora Albamecha",
         "description": "Inspirar: Evoque um lacaio Lendário aleatório.",
-        "popularity": 295
+        "popularity": 297
     },
     {
         "id": 2822,
@@ -9252,7 +9252,7 @@
         "classs": 9,
         "race": 15,
         "name": "Demonarca Temível",
-        "popularity": 103
+        "popularity": 105
     },
     {
         "id": 2777,
@@ -9269,7 +9269,7 @@
         "race": 15,
         "name": "Cavaleirinho do Mal",
         "description": "Sempre que você descartar um card, receba +1/+1.",
-        "popularity": 51
+        "popularity": 54
     },
     {
         "id": 2628,
@@ -9283,7 +9283,7 @@
         "classs": 9,
         "name": "Punho de Jaraxxus",
         "description": "Ao jogar ou descartar este card, cause 4 de dano a um inimigo aleatório.",
-        "popularity": 90
+        "popularity": 91
     },
     {
         "id": 2537,
@@ -9345,7 +9345,7 @@
         "race": 15,
         "name": "Guardião Colérico",
         "description": "Sempre que este lacaio receber dano, cause a mesma quantidade de dano ao seu herói.",
-        "popularity": 162
+        "popularity": 163
     },
     {
         "id": 2621,
@@ -9378,7 +9378,7 @@
         "classs": 4,
         "name": "Cavalgante Shado-Pan",
         "description": "Combo: Receba +3 de Ataque.",
-        "popularity": 100
+        "popularity": 101
     },
     {
         "id": 2715,
@@ -9395,7 +9395,7 @@
         "race": 23,
         "name": "Bucaneiro",
         "description": "Sempre que você equipar uma arma, conceda +1 Ataque a ela.",
-        "popularity": 317
+        "popularity": 318
     },
     {
         "id": 2767,
@@ -9411,7 +9411,7 @@
         "classs": 4,
         "name": "Valente da Cidade Baixa",
         "description": "Combo: Cause 1 de dano.",
-        "popularity": 114
+        "popularity": 117
     },
     {
         "id": 2766,
@@ -9427,7 +9427,7 @@
         "classs": 4,
         "name": "Punguista",
         "description": "Sempre que este lacaio atacar um herói, coloque a Moeda na sua mão.",
-        "popularity": 116
+        "popularity": 113
     },
     {
         "id": 2768,
@@ -9457,7 +9457,7 @@
         "classs": 4,
         "name": "Roubar",
         "description": "Adicione 2 cards de classe aleatórios à sua mão (da classe do seu oponente).",
-        "popularity": 203
+        "popularity": 202
     },
     {
         "id": 2763,
@@ -9473,7 +9473,7 @@
         "durability": 3,
         "name": "Lâmina Envenenada",
         "description": "Seu Poder Heroico concede a esta arma +1 de Ataque em vez de substituí-la.",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 2587,
@@ -9487,7 +9487,7 @@
         "classs": 4,
         "name": "Debaixo da Terra",
         "description": "Embaralhe 3 Emboscadas no deck do seu oponente. Quando ele comprar, você evoca um Nerubiano 4/4.",
-        "popularity": 170
+        "popularity": 174
     },
     {
         "id": 2586,
@@ -9504,7 +9504,7 @@
         "elite": 1,
         "name": "Anub'arak",
         "description": "Último Suspiro: Devolva este card à sua mão e evoque um Nerubiano 4/4.",
-        "popularity": 120
+        "popularity": 115
     },
     {
         "id": 2792,
@@ -9518,7 +9518,7 @@
         "collectible": 1,
         "name": "Raízes Vivas",
         "description": "Escolha um - Causar 2 de dano ou evocar dois Brotos 1/1.",
-        "popularity": 1074
+        "popularity": 1108
     },
     {
         "id": 2782,
@@ -9534,7 +9534,7 @@
         "classs": 11,
         "name": "Aspirante de Darnassus",
         "description": "Grito de Guerra: Receba um Cristal de Mana vazio. Último Suspiro: Perca um Cristal de Mana.",
-        "popularity": 1075
+        "popularity": 1079
     },
     {
         "id": 2780,
@@ -9551,7 +9551,7 @@
         "race": 20,
         "name": "Combatente Selvagem",
         "description": "Inspirar: Conceda +2 de Ataque ao seu herói neste turno.",
-        "popularity": 473
+        "popularity": 478
     },
     {
         "id": 2786,
@@ -9567,7 +9567,7 @@
         "classs": 11,
         "name": "Andarilha da Selva",
         "description": "Grito de Guerra: Conceda +3 de Vida a uma Fera aliada.",
-        "popularity": 150
+        "popularity": 152
     },
     {
         "id": 2788,
@@ -9599,7 +9599,7 @@
         "classs": 11,
         "name": "Druida do Sabre",
         "description": "Escolha um - Transformar-se para receber Investida ou +1/+1 e Furtividade.",
-        "popularity": 442
+        "popularity": 453
     },
     {
         "id": 2785,
@@ -9627,7 +9627,7 @@
         "classs": 11,
         "name": "Húmus",
         "description": "Destrua um lacaio. Adicione um lacaio aleatório à mão do seu oponente.",
-        "popularity": 135
+        "popularity": 150
     },
     {
         "id": 2796,
@@ -9660,7 +9660,7 @@
         "classs": 7,
         "name": "Morsano Totêmico",
         "description": "Grito de Guerra: Evoca QUALQUER totem aleatório.",
-        "popularity": 917
+        "popularity": 976
     },
     {
         "id": 2613,
@@ -9676,7 +9676,7 @@
         "classs": 7,
         "name": "Entalhadora de Totens",
         "description": "Grito de Guerra: Receba +1/+1 para cada Totem aliado.",
-        "popularity": 232
+        "popularity": 234
     },
     {
         "id": 2612,
@@ -9690,7 +9690,7 @@
         "classs": 7,
         "name": "Onda Curativa",
         "description": "Restaure 7 de Vida. Revele um lacaio em cada deck. Se o seu custar mais, em vez disso, restaure 14.",
-        "popularity": 437
+        "popularity": 439
     },
     {
         "id": 2615,
@@ -9706,7 +9706,7 @@
         "classs": 7,
         "name": "Valente do Penhasco do Trovão",
         "description": "Inspirar: Conceda +2 de Ataque aos seus Totens.",
-        "popularity": 526
+        "popularity": 538
     },
     {
         "id": 2617,
@@ -9736,7 +9736,7 @@
         "classs": 7,
         "name": "Destruição Elemental",
         "description": "Cause 4-5 de dano a todos os lacaios. Sobrecarga: (5)",
-        "popularity": 323
+        "popularity": 336
     },
     {
         "id": 2610,
@@ -9753,7 +9753,7 @@
         "race": 21,
         "name": "Golem Totêmico",
         "description": "Sobrecarga: (1)",
-        "popularity": 1190
+        "popularity": 1266
     },
     {
         "id": 2514,
@@ -9767,7 +9767,7 @@
         "classs": 7,
         "name": "Conhecimento Ancestral",
         "description": "Compre 2 cards. Sobrecarga: (2)",
-        "popularity": 628
+        "popularity": 668
     },
     {
         "id": 2618,
@@ -9784,7 +9784,7 @@
         "elite": 1,
         "name": "O Chamabruma",
         "description": "Grito de Guerra: Conceda +1/+1 a todos os lacaios na sua mão e no seu deck.",
-        "popularity": 216
+        "popularity": 217
     },
     {
         "id": 2582,
@@ -9798,7 +9798,7 @@
         "classs": 5,
         "name": "Cura Célere",
         "description": "Restaure 5 de Vida.",
-        "popularity": 576
+        "popularity": 619
     },
     {
         "id": 2638,
@@ -9812,7 +9812,7 @@
         "classs": 3,
         "name": "Tirambaço",
         "description": "Cause 2 de dano a um lacaio e aos lacaios adjacentes.",
-        "popularity": 233
+        "popularity": 236
     },
     {
         "id": 2639,
@@ -9845,7 +9845,7 @@
         "race": 20,
         "name": "Elekk do Rei",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, compre-o.",
-        "popularity": 544
+        "popularity": 561
     },
     {
         "id": 2642,
@@ -9861,7 +9861,7 @@
         "classs": 3,
         "name": "Arqueira Valente",
         "description": "Inspirar: Se a sua mão estiver vazia, cause 2 de dano ao herói inimigo.",
-        "popularity": 62
+        "popularity": 63
     },
     {
         "id": 2641,
@@ -9875,7 +9875,7 @@
         "classs": 3,
         "name": "Armadilha de Urso",
         "description": "Segredo: Depois que o seu herói for atacado, evoque um Urso 3/3 com Provocar.",
-        "popularity": 663
+        "popularity": 673
     },
     {
         "id": 2484,
@@ -9889,7 +9889,7 @@
         "classs": 3,
         "name": "Largar o Dedo",
         "description": "Cada vez que você lançar um feitiço neste turno, adicione um card de Caçador aleatório à sua mão.",
-        "popularity": 137
+        "popularity": 142
     },
     {
         "id": 2483,
@@ -9903,7 +9903,7 @@
         "classs": 3,
         "name": "Bola de Aranhas",
         "description": "Evoque três Teceteias 1/1.",
-        "popularity": 156
+        "popularity": 157
     },
     {
         "id": 2633,
@@ -9921,7 +9921,7 @@
         "health": 2,
         "name": "Muriácida",
         "description": "Sempre que outro lacaio receber dano, destrua-o.",
-        "popularity": 41
+        "popularity": 43
     },
     {
         "id": 2634,
@@ -9953,7 +9953,7 @@
         "classs": 1,
         "name": "Trombar",
         "description": "Cause 3 de dano. Receba 3 de Armadura.",
-        "popularity": 892
+        "popularity": 932
     },
     {
         "id": 2756,
@@ -9969,7 +9969,7 @@
         "durability": 2,
         "name": "Defensora do Rei",
         "description": "Grito de Guerra: Se você tiver um lacaio com Provocar, receba +1 de Durabilidade.",
-        "popularity": 116
+        "popularity": 121
     },
     {
         "id": 2711,
@@ -10001,7 +10001,7 @@
         "classs": 1,
         "name": "Magnatauro Alfa",
         "description": "Também causa dano aos lacaios adjacentes ao alvo atacado.",
-        "popularity": 11
+        "popularity": 10
     },
     {
         "id": 2754,
@@ -10015,7 +10015,7 @@
         "cost": 2,
         "name": "Fortalecer",
         "description": "Concede +2/+2 aos seus lacaios com Provocar.",
-        "popularity": 179
+        "popularity": 178
     },
     {
         "id": 2733,
@@ -10031,7 +10031,7 @@
         "classs": 1,
         "name": "Parceiro de Pugilato",
         "description": "Provocar Grito de Guerra: Conceda Provocar a  um lacaio.",
-        "popularity": 190
+        "popularity": 191
     },
     {
         "id": 2757,
@@ -10048,7 +10048,7 @@
         "elite": 1,
         "name": "Capitão Celeste Kragg",
         "description": "Investida  Custa (1) a menos para cada Pirata aliado.",
-        "popularity": 132
+        "popularity": 138
     },
     {
         "id": 2758,
@@ -10064,7 +10064,7 @@
         "classs": 1,
         "name": "Campeã de Alexstrasza",
         "description": "Grito de Guerra: Se você tiver um Dragão na mão, receba +1 de Ataque e Investida.",
-        "popularity": 174
+        "popularity": 175
     },
     {
         "id": 2760,
@@ -10081,7 +10081,7 @@
         "elite": 1,
         "name": "Varian Wrynn",
         "description": "Grito de Guerra: Compre 3 cards. Coloque os lacaios que você comprou diretamente no campo de batalha.",
-        "popularity": 302
+        "popularity": 306
     },
     {
         "id": 2648,
@@ -10095,7 +10095,7 @@
         "classs": 2,
         "name": "Espírito Competitivo",
         "description": "Segredo: Quando seu turno começar, conceda +1/+1 aos seus lacaios.",
-        "popularity": 908
+        "popularity": 902
     },
     {
         "id": 2717,
@@ -10109,7 +10109,7 @@
         "classs": 2,
         "name": "Selo dos Campeões",
         "description": "Conceda  +3 de Ataque e Escudo Divino a um lacaio.",
-        "popularity": 398
+        "popularity": 408
     },
     {
         "id": 2515,
@@ -10125,7 +10125,7 @@
         "classs": 2,
         "name": "Treinador de Cavalos",
         "description": "Seus Recrutas do Punho de Prata têm +1 de Ataque.",
-        "popularity": 317
+        "popularity": 319
     },
     {
         "id": 2655,
@@ -10142,7 +10142,7 @@
         "race": 14,
         "name": "Cavaleiro Murloc",
         "description": "Inspirar: Evoque um Murloc aleatório.",
-        "popularity": 981
+        "popularity": 986
     },
     {
         "id": 2720,
@@ -10158,7 +10158,7 @@
         "durability": 2,
         "name": "Lança Argêntea",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, +1 de Durabilidade.",
-        "popularity": 107
+        "popularity": 108
     },
     {
         "id": 2654,
@@ -10172,7 +10172,7 @@
         "classs": 2,
         "name": "Entrada no Coliseu",
         "description": "Destrua todos os lacaios, menos o lacaio com maior Ataque de cada jogador.",
-        "popularity": 90
+        "popularity": 93
     },
     {
         "id": 2726,
@@ -10188,7 +10188,7 @@
         "classs": 2,
         "name": "Desafiante Misterioso",
         "description": "Grito de Guerra: Coloque um Segredo de cada do seu deck no campo de batalha.",
-        "popularity": 753
+        "popularity": 748
     },
     {
         "id": 2517,
@@ -10203,7 +10203,7 @@
         "health": 3,
         "name": "Comandante da Guarnição",
         "description": "Você pode usar o Poder Heroico duas vezes por turno.",
-        "popularity": 363
+        "popularity": 357
     },
     {
         "id": 2727,
@@ -10220,7 +10220,7 @@
         "elite": 1,
         "name": "Eadric, o Puro",
         "description": "Grito de Guerra: Mude o Ataque de todos os lacaios inimigos para 1.",
-        "popularity": 138
+        "popularity": 142
     },
     {
         "id": 2486,
@@ -10235,7 +10235,7 @@
         "health": 2,
         "name": "Escudeiro Humilde",
         "description": "Inspirar: Receba +1 de Ataque.",
-        "popularity": 247
+        "popularity": 251
     },
     {
         "id": 2533,
@@ -10250,7 +10250,7 @@
         "health": 3,
         "name": "Cavalgante de Falcodrago",
         "description": "Inspirar: Receba Fúria dos Ventos neste turno.",
-        "popularity": 155
+        "popularity": 156
     },
     {
         "id": 2577,
@@ -10265,7 +10265,7 @@
         "health": 2,
         "name": "Carregador de Lança",
         "description": "Grito de Guerra: Conceda +2 de Ataque a um lacaio aliado.",
-        "popularity": 231
+        "popularity": 234
     },
     {
         "id": 2488,
@@ -10280,7 +10280,7 @@
         "health": 6,
         "name": "Dama do Lago",
         "description": "Seu Poder Heroico custa (1).",
-        "popularity": 401
+        "popularity": 402
     },
     {
         "id": 2576,
@@ -10295,7 +10295,7 @@
         "health": 3,
         "name": "Sabotador",
         "description": "Grito de Guerra: O Poder Heroico do seu oponente custa (5) a mais no próximo turno.",
-        "popularity": 150
+        "popularity": 153
     },
     {
         "id": 2490,
@@ -10310,7 +10310,7 @@
         "health": 1,
         "name": "Cavalgante Argênteo",
         "description": "Investida Escudo Divino",
-        "popularity": 1071
+        "popularity": 1110
     },
     {
         "id": 2491,
@@ -10340,7 +10340,7 @@
         "health": 2,
         "name": "Tenente da Ossaguarda",
         "description": "Inspirar: Receba +1 de Vida.",
-        "popularity": 265
+        "popularity": 269
     },
     {
         "id": 2497,
@@ -10356,7 +10356,7 @@
         "race": 20,
         "name": "Campeão de Mukla",
         "description": "Inspirar: Conceda +1/+1 aos seus outros lacaios.",
-        "popularity": 619
+        "popularity": 626
     },
     {
         "id": 2575,
@@ -10371,7 +10371,7 @@
         "health": 8,
         "name": "Socorrista de Torneio",
         "description": "Inspirar: Restaure 2 de Vida do seu herói.",
-        "popularity": 397
+        "popularity": 403
     },
     {
         "id": 2594,
@@ -10385,7 +10385,7 @@
         "attack": 5,
         "health": 2,
         "name": "Raiva de Gelo",
-        "popularity": 40
+        "popularity": 39
     },
     {
         "id": 2532,
@@ -10400,7 +10400,7 @@
         "health": 6,
         "name": "Nevold Gelado",
         "description": "+1 de Dano Mágico",
-        "popularity": 84
+        "popularity": 85
     },
     {
         "id": 2580,
@@ -10415,7 +10415,7 @@
         "health": 3,
         "name": "Malabarista de Chamas",
         "description": "Grito de Guerra: Cause 1 de dano a um inimigo aleatório.",
-        "popularity": 491
+        "popularity": 599
     },
     {
         "id": 2579,
@@ -10430,7 +10430,7 @@
         "health": 2,
         "name": "Cavaleiro Silencioso",
         "description": "Furtividade Escudo Divino",
-        "popularity": 150
+        "popularity": 151
     },
     {
         "id": 2500,
@@ -10446,7 +10446,7 @@
         "race": 17,
         "name": "Cavaleiro de Corda",
         "description": "Grito de Guerra: Conceda +1/+1 a um Mecanoide aliado.",
-        "popularity": 294
+        "popularity": 291
     },
     {
         "id": 2499,
@@ -10461,7 +10461,7 @@
         "health": 1,
         "name": "Participante do Torneio",
         "description": "Provocar",
-        "popularity": 97
+        "popularity": 98
     },
     {
         "id": 2573,
@@ -10491,7 +10491,7 @@
         "health": 5,
         "name": "Cavalga-kodo",
         "description": "Inspirar: Evoque um Kodo de Guerra 3/5.",
-        "popularity": 236
+        "popularity": 237
     },
     {
         "id": 2503,
@@ -10506,7 +10506,7 @@
         "health": 3,
         "name": "Regente do Punho de Prata",
         "description": "Inspirar: Evoque um Recruta do Punho de Prata 1/1.",
-        "popularity": 487
+        "popularity": 484
     },
     {
         "id": 2521,
@@ -10520,7 +10520,7 @@
         "attack": 5,
         "health": 6,
         "name": "Lutadora do Fosso",
-        "popularity": 162
+        "popularity": 164
     },
     {
         "id": 2522,
@@ -10566,7 +10566,7 @@
         "classs": 2,
         "name": "Morsano Justador",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, restaure 7 de Vida do seu herói.",
-        "popularity": 300
+        "popularity": 301
     },
     {
         "id": 2502,
@@ -10581,7 +10581,7 @@
         "health": 4,
         "name": "Kvaldir Ferido",
         "description": "Grito de Guerra: Cause 3 de dano a este lacaio.",
-        "popularity": 197
+        "popularity": 203
     },
     {
         "id": 2259,
@@ -10612,7 +10612,7 @@
         "race": 20,
         "name": "Cavalo de Guerra",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, ganhe Investida.",
-        "popularity": 132
+        "popularity": 133
     },
     {
         "id": 2505,
@@ -10657,7 +10657,7 @@
         "health": 5,
         "name": "Vendedor de Salgadinho",
         "description": "Grito de Guerra: Restaure 4 de Vida de todos os heróis.",
-        "popularity": 379
+        "popularity": 389
     },
     {
         "id": 2507,
@@ -10672,7 +10672,7 @@
         "health": 6,
         "name": "Mestre Justador",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, receba Provocar e Escudo Divino.",
-        "popularity": 223
+        "popularity": 227
     },
     {
         "id": 2509,
@@ -10687,7 +10687,7 @@
         "health": 4,
         "name": "Recrutador",
         "description": "Inspirar: Adicione um Escudeiro 2/2 à sua mão.",
-        "popularity": 42
+        "popularity": 43
     },
     {
         "id": 2752,
@@ -10702,7 +10702,7 @@
         "health": 4,
         "name": "Gaiato Maligno",
         "description": "Provocar",
-        "popularity": 295
+        "popularity": 291
     },
     {
         "id": 2581,
@@ -10733,7 +10733,7 @@
         "classs": 5,
         "name": "Agente do Repouso das Serpes",
         "description": "Grito de Guerra: Se você tiver um Dragão na mão, receba +1 de Ataque e Provocar.",
-        "popularity": 589
+        "popularity": 602
     },
     {
         "id": 2493,
@@ -10748,7 +10748,7 @@
         "health": 2,
         "name": "Mestre de Cerimônias",
         "description": "Grito de Guerra: Se você tiver um lacaio com Dano Mágico, ganhe +2/+2.",
-        "popularity": 54
+        "popularity": 53
     },
     {
         "id": 2510,
@@ -10763,7 +10763,7 @@
         "health": 5,
         "name": "Grã-Cruzada",
         "description": "Grito de Guerra: Adicione um card de Paladino aleatório à sua mão.",
-        "popularity": 130
+        "popularity": 132
     },
     {
         "id": 2511,
@@ -10778,7 +10778,7 @@
         "health": 4,
         "name": "Saqueador Kvaldir",
         "description": "Inspirar: Receba +2/+2.",
-        "popularity": 333
+        "popularity": 336
     },
     {
         "id": 2512,
@@ -10793,7 +10793,7 @@
         "health": 8,
         "name": "Gigante de Gelo",
         "description": "Custa (1) a menos para cada vez que você usou seu Poder Heroico neste jogo.",
-        "popularity": 276
+        "popularity": 277
     },
     {
         "id": 2518,
@@ -10808,7 +10808,7 @@
         "health": 4,
         "name": "Queridinho do Público",
         "description": "Sempre que você jogar um card com Grito de Guerra, receba +1/+1.",
-        "popularity": 70
+        "popularity": 69
     },
     {
         "id": 2724,
@@ -10824,7 +10824,7 @@
         "elite": 1,
         "name": "Gormok, o Empalador",
         "description": "Grito de Guerra: Se você possuir pelo menos outros 4 lacaios, cause 4 de dano.",
-        "popularity": 316
+        "popularity": 339
     },
     {
         "id": 2682,
@@ -10841,7 +10841,7 @@
         "race": 24,
         "name": "Gargagelo",
         "description": "Provocar Último Suspiro: Se tiver um Dragão na mão, cause 3 de dano a todos os lacaios.",
-        "popularity": 627
+        "popularity": 643
     },
     {
         "id": 2595,
@@ -10857,7 +10857,7 @@
         "elite": 1,
         "name": "Bolf Marrabroquel",
         "description": "Sempre que seu herói receber dano, este lacaio recebe no lugar dele.",
-        "popularity": 89
+        "popularity": 92
     },
     {
         "id": 2725,
@@ -10873,7 +10873,7 @@
         "elite": 1,
         "name": "Uivagelo",
         "description": "Investida Não pode atacar heróis.",
-        "popularity": 82
+        "popularity": 85
     },
     {
         "id": 2683,
@@ -10889,7 +10889,7 @@
         "elite": 1,
         "name": "Campeão do Nexus Saraad",
         "description": "Inspirar: Adicione um feitiço aleatório à sua mão.",
-        "popularity": 519
+        "popularity": 520
     },
     {
         "id": 2681,
@@ -10905,7 +10905,7 @@
         "elite": 1,
         "name": "O Cavaleiro Esqueleto",
         "description": "Último Suspiro: Revele um lacaio em cada deck. Se o seu custar mais, devolva este card à sua mão.",
-        "popularity": 47
+        "popularity": 48
     },
     {
         "id": 2748,
@@ -10921,7 +10921,7 @@
         "elite": 1,
         "name": "Fiola Ruinaluz",
         "description": "Sempre que você alvejar este lacaio com um feitiço, ganhe Escudo Divino.",
-        "popularity": 171
+        "popularity": 170
     },
     {
         "id": 2723,
@@ -10969,7 +10969,7 @@
         "elite": 1,
         "name": "Justicar Veras",
         "description": "Grito de Guerra: Substitui seu Poder Heroico inicial por um melhor.",
-        "popularity": 1886
+        "popularity": 1967
     },
     {
         "id": 2818,
@@ -10984,7 +10984,7 @@
         "health": 2,
         "name": "Justadora de Geringontzan",
         "description": "Grito de Guerra: Revele um lacaio em cada deck. Se o seu custar mais, ganhe +1/+1.",
-        "popularity": 302
+        "popularity": 309
     },
     {
         "id": 13879,
@@ -10999,7 +10999,7 @@
         "race": 14,
         "collectible": 1,
         "name": "Micropina Murloc",
-        "popularity": 278
+        "popularity": 283
     },
     {
         "id": 2874,
@@ -11013,7 +11013,7 @@
         "collectible": 1,
         "name": "Tocha Esquecida",
         "description": "Causa 3 de dano. Embaralhe no seu deck uma \"Tocha Voraz\", que causa 6 de dano.",
-        "popularity": 643
+        "popularity": 679
     },
     {
         "id": 2875,
@@ -11029,7 +11029,7 @@
         "health": 3,
         "name": "Conjurador Etéreo",
         "description": "Grito de Guerra: Descubra um feitiço.",
-        "popularity": 455
+        "popularity": 480
     },
     {
         "id": 2878,
@@ -11045,7 +11045,7 @@
         "collectible": 1,
         "name": "Curador de Museu",
         "description": "Grito de Guerra: Descubra um card com Último Suspiro.",
-        "popularity": 378
+        "popularity": 403
     },
     {
         "id": 2879,
@@ -11059,7 +11059,7 @@
         "collectible": 1,
         "name": "Maldição de Rafaam",
         "description": "Conceda ao oponente um card \"Amaldiçoado!\". Enquanto o possuir, ele receberá 2 de dano a cada turno dele.",
-        "popularity": 46
+        "popularity": 47
     },
     {
         "id": 2881,
@@ -11075,7 +11075,7 @@
         "health": 7,
         "name": "Destruidor Obsidiano",
         "description": "No final do seu turno, evoque um Escaravelho 1/1 com Provocar.",
-        "popularity": 86
+        "popularity": 89
     },
     {
         "id": 2882,
@@ -11092,7 +11092,7 @@
         "race": 20,
         "name": "Cobra do Fosso",
         "description": "Destrua qualquer lacaio atingido por este lacaio.",
-        "popularity": 66
+        "popularity": 67
     },
     {
         "id": 2883,
@@ -11108,7 +11108,7 @@
         "elite": 1,
         "name": "Reno Jackson",
         "description": "Grito de Guerra: Se não tiver nenhum card repetido no seu deck, cure a vida toda do seu herói.",
-        "popularity": 1290
+        "popularity": 1337
     },
     {
         "id": 2884,
@@ -11124,7 +11124,7 @@
         "health": 4,
         "name": "Saqueador de Tumbas",
         "description": "Último Suspiro: Adicione uma Moeda à sua mão.",
-        "popularity": 332
+        "popularity": 381
     },
     {
         "id": 2888,
@@ -11140,7 +11140,7 @@
         "attack": 2,
         "name": "Elemental Tonitruante",
         "description": "Depois de jogar um lacaio com Grito de Guerra, cause 2 de dano a um inimigo aleatório.",
-        "popularity": 106
+        "popularity": 107
     },
     {
         "id": 2889,
@@ -11156,7 +11156,7 @@
         "collectible": 1,
         "name": "Guardiã de Uldaman",
         "description": "Grito de Guerra: Mude o Ataque e a Vida de um lacaio para 3.",
-        "popularity": 743
+        "popularity": 778
     },
     {
         "id": 2890,
@@ -11172,7 +11172,7 @@
         "collectible": 1,
         "name": "Trogg de Túnel",
         "description": "Sempre que você usar Sobrecarga, receba +1 de Ataque por Cristal de Mana bloqueado.",
-        "popularity": 596
+        "popularity": 672
     },
     {
         "id": 2891,
@@ -11188,7 +11188,7 @@
         "health": 4,
         "name": "Raptor Desenterrado",
         "description": "Grito de Guerra: Escolha um lacaio aliado. Receba uma cópia do Último Suspiro dele.",
-        "popularity": 297
+        "popularity": 316
     },
     {
         "id": 2892,
@@ -11236,7 +11236,7 @@
         "race": 20,
         "name": "Macaco Feroz",
         "description": "Provocar",
-        "popularity": 276
+        "popularity": 292
     },
     {
         "id": 2895,
@@ -11252,7 +11252,7 @@
         "collectible": 1,
         "name": "Ambulante das Trevas",
         "description": "Grito de Guerra: Descubra um card com  1 de custo.",
-        "popularity": 963
+        "popularity": 1008
     },
     {
         "id": 2898,
@@ -11266,7 +11266,7 @@
         "collectible": 1,
         "name": "Murloucura",
         "description": "Evoque 7 Murlocs mortos nesta partida.",
-        "popularity": 262
+        "popularity": 264
     },
     {
         "id": 2899,
@@ -11296,7 +11296,7 @@
         "race": 20,
         "name": "Escaravelho Adornado",
         "description": "Grito de Guerra: Descubra um card com 3 de custo.",
-        "popularity": 858
+        "popularity": 872
     },
     {
         "id": 2910,
@@ -11311,7 +11311,7 @@
         "health": 5,
         "name": "Bruxa do Mar Naga",
         "description": "Seus cards custam (5).",
-        "popularity": 70
+        "popularity": 73
     },
     {
         "id": 2911,
@@ -11327,7 +11327,7 @@
         "race": 17,
         "name": "Gorila-robô A-3",
         "description": "Grito de Guerra: Se você controlar outro Mecanoide, Descubra um Mecanoide.",
-        "popularity": 199
+        "popularity": 194
     },
     {
         "id": 2918,
@@ -11343,7 +11343,7 @@
         "race": 20,
         "name": "Saparrão",
         "description": "Último Suspiro: Cause 1 de dano a um inimigo aleatório.",
-        "popularity": 250
+        "popularity": 284
     },
     {
         "id": 2919,
@@ -11359,7 +11359,7 @@
         "race": 20,
         "name": "Aranha da Tumba",
         "description": "Grito de Guerra: Descubra uma Fera.",
-        "popularity": 336
+        "popularity": 329
     },
     {
         "id": 2922,
@@ -11376,7 +11376,7 @@
         "race": 20,
         "name": "Raptor Montado",
         "description": "Último Suspiro: Evoque um lacaio aleatório com 1 de custo.",
-        "popularity": 298
+        "popularity": 305
     },
     {
         "id": 2923,
@@ -11393,7 +11393,7 @@
         "classs": 11,
         "name": "Luniscante da Selva",
         "description": "Ambos os jogadores recebem +2 de Dano Mágico.",
-        "popularity": 29
+        "popularity": 30
     },
     {
         "id": 2925,
@@ -11408,7 +11408,7 @@
         "health": 6,
         "name": "Djinnis dos Zéfiros",
         "description": "Depois de lançar um feitiço em um lacaio aliado, lance uma cópia do feitiço neste card.",
-        "popularity": 117
+        "popularity": 118
     },
     {
         "id": 2933,
@@ -11423,7 +11423,7 @@
         "health": 4,
         "name": "Sentinela Anubisath",
         "description": "Último Suspiro: Conceda +3/+3 a um lacaio aliado aleatório.",
-        "popularity": 154
+        "popularity": 160
     },
     {
         "id": 2945,
@@ -11438,7 +11438,7 @@
         "health": 8,
         "name": "Demossauro Fossilizado",
         "description": "Grito de Guerra: Se você controlar uma Fera, receba Provocar.",
-        "popularity": 52
+        "popularity": 51
     },
     {
         "id": 2948,
@@ -11455,7 +11455,7 @@
         "race": 14,
         "name": "Dom Finlei Mrrggltone",
         "description": "Grito de Guerra: Descubra um Poder Heroico novo.",
-        "popularity": 1031
+        "popularity": 1086
     },
     {
         "id": 2949,
@@ -11471,7 +11471,7 @@
         "health": 4,
         "name": "Brann Barbabronze",
         "description": "Seus Gritos de Guerra são ativados duas vezes.",
-        "popularity": 1653
+        "popularity": 1752
     },
     {
         "id": 2951,
@@ -11487,7 +11487,7 @@
         "health": 5,
         "name": "Elise Mirestela",
         "description": "Grito de Guerra: Embaralhe o \"Mapa do Macaco Dourado\" no seu deck.",
-        "popularity": 610
+        "popularity": 638
     },
     {
         "id": 2958,
@@ -11502,7 +11502,7 @@
         "health": 6,
         "name": "Pedra Evocadora",
         "description": "Sempre que lançar um feitiço, evoque um lacaio aleatório com o mesmo custo.",
-        "popularity": 281
+        "popularity": 291
     },
     {
         "id": 2961,
@@ -11517,7 +11517,7 @@
         "health": 6,
         "name": "Nanicos Vacilantes",
         "description": "Último Suspiro: Evoque três Nanicos 2/2.",
-        "popularity": 70
+        "popularity": 73
     },
     {
         "id": 2964,
@@ -11533,7 +11533,7 @@
         "health": 8,
         "name": "Arquiladrão Rafaam",
         "description": "Grito de Guerra: Descubra um Artefato poderoso.",
-        "popularity": 278
+        "popularity": 291
     },
     {
         "id": 3015,
@@ -11547,7 +11547,7 @@
         "classs": 5,
         "name": "Sepultar",
         "description": "Escolha um lacaio inimigo. Embaralhe-o no seu deck.",
-        "popularity": 673
+        "popularity": 742
     },
     {
         "id": 3001,
@@ -11561,7 +11561,7 @@
         "classs": 3,
         "name": "Chapéu de Explorador",
         "description": "Conceda +1/+1 a um lacaio e \"Último Suspiro: Adicione um Chapéu de Explorador à sua mão.\"",
-        "popularity": 116
+        "popularity": 115
     },
     {
         "id": 9107,
@@ -11591,7 +11591,7 @@
         "health": 4,
         "name": "Vulto Antigo",
         "description": "Grito de Guerra: Embaralhe no seu deck uma \"Maldição Antiga\" que lhe causa 7 de dano ao ser comprada.",
-        "popularity": 66
+        "popularity": 65
     },
     {
         "id": 2999,
@@ -11605,7 +11605,7 @@
         "classs": 5,
         "name": "Mal Desencavado",
         "description": "Cause 3 de dano a todos os lacaios. Embaralhe este card no deck do seu oponente.",
-        "popularity": 248
+        "popularity": 299
     },
     {
         "id": 3007,
@@ -11619,7 +11619,7 @@
         "classs": 7,
         "name": "Retoque de Murloc",
         "description": "Conceda aos seus lacaios +2/+2. Custa (1) a menos por cada Murloc sob seu controle.",
-        "popularity": 97
+        "popularity": 95
     },
     {
         "id": 13335,
@@ -11633,7 +11633,7 @@
         "classs": 11,
         "name": "Ídolo Corvídeo",
         "description": "Escolha um - Descubra um lacaio ou Descubra um feitiço.",
-        "popularity": 219
+        "popularity": 242
     },
     {
         "id": 13334,
@@ -11649,7 +11649,7 @@
         "classs": 9,
         "name": "Caçadora do Relicário",
         "description": "Grito de Guerra: Se você possuir outros 6 lacaios, receba +4/+4.",
-        "popularity": 85
+        "popularity": 86
     },
     {
         "id": 35025,
@@ -11665,7 +11665,7 @@
         "classs": 1,
         "name": "Lâmina Amaldiçoada",
         "description": "Dobra o dano causado ao seu herói.",
-        "popularity": 48
+        "popularity": 50
     },
     {
         "id": 36111,
@@ -11681,7 +11681,7 @@
         "classs": 8,
         "name": "Armadura Animada",
         "description": "Seu herói só pode receber 1 de dano por vez.",
-        "popularity": 117
+        "popularity": 115
     },
     {
         "id": 38227,
@@ -11698,7 +11698,7 @@
         "race": 14,
         "name": "Inquisidor Pinavil",
         "description": "Grito de Guerra: Seu Poder Heroico se torna \"Evoque um Murloc 1/1\".",
-        "popularity": 30
+        "popularity": 40
     },
     {
         "id": 38262,
@@ -11712,7 +11712,7 @@
         "classs": 7,
         "name": "Fusão Primeva",
         "description": "Conceda +1/+1 a um lacaio para cada um dos seus Totens.",
-        "popularity": 11
+        "popularity": 19
     },
     {
         "id": 38263,
@@ -11728,7 +11728,7 @@
         "classs": 7,
         "name": "Sem-rosto Envolto em Chamas",
         "description": "Sobrecarga: (2)",
-        "popularity": 155
+        "popularity": 230
     },
     {
         "id": 38265,
@@ -11744,7 +11744,7 @@
         "classs": 7,
         "name": "Sentinela Eterna",
         "description": "Grito de Guerra: Desbloqueie seus Cristais de Mana Sobrecarregados.",
-        "popularity": 137
+        "popularity": 185
     },
     {
         "id": 38266,
@@ -11758,7 +11758,7 @@
         "classs": 7,
         "name": "Evoluir",
         "description": "Transforme seus lacaios em lacaios aleatórios que custam (1) a mais.",
-        "popularity": 68
+        "popularity": 82
     },
     {
         "id": 38267,
@@ -11774,7 +11774,7 @@
         "classs": 7,
         "name": "Criatura das Profundezas",
         "description": "[x]Provocar Custa (1) a menos para cada Totem que você tenha evocado na partida.",
-        "popularity": 125
+        "popularity": 186
     },
     {
         "id": 38270,
@@ -11790,7 +11790,7 @@
         "classs": 7,
         "name": "Martelo do Crepúsculo",
         "description": "Último Suspiro: Evoque um Elemental 4/2.",
-        "popularity": 42
+        "popularity": 49
     },
     {
         "id": 38279,
@@ -11821,7 +11821,7 @@
         "health": 5,
         "name": "Enxameador Silitídeo",
         "description": "Só pode atacar se o seu Herói tiver atacado neste turno.",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38312,
@@ -11837,7 +11837,7 @@
         "elite": 1,
         "name": "Y'Shaarj, Raiva Incontida",
         "description": "No final do seu turno, coloque um lacaio do seu deck no campo de batalha.",
-        "popularity": 36
+        "popularity": 41
     },
     {
         "id": 38318,
@@ -11854,7 +11854,7 @@
         "elite": 1,
         "name": "Fandral Guenelmo",
         "description": "Seus cards do tipo Escolha um têm os dois efeitos combinados.",
-        "popularity": 116
+        "popularity": 143
     },
     {
         "id": 38329,
@@ -11868,7 +11868,7 @@
         "classs": 3,
         "name": "Infestar",
         "description": "Conceda \"Último Suspiro: Adicione uma Fera aleatória à sua mão\" aos seus lacaios.",
-        "popularity": 38
+        "popularity": 45
     },
     {
         "id": 38334,
@@ -11882,7 +11882,7 @@
         "classs": 11,
         "name": "Raiva Feral",
         "description": "Escolha um - Conceda +4 de Ataque ao seu herói neste turno; ou receba 8 de Armadura.",
-        "popularity": 50
+        "popularity": 58
     },
     {
         "id": 38337,
@@ -11896,7 +11896,7 @@
         "classs": 11,
         "name": "Marca de Y'Shaarj",
         "description": "Conceda +2/+2 a um lacaio. Se for uma Fera, compre  um card.",
-        "popularity": 45
+        "popularity": 60
     },
     {
         "id": 38340,
@@ -11912,7 +11912,7 @@
         "classs": 11,
         "name": "Anciente Proibido",
         "description": "Grito de Guerra: Gaste todo o seu Mana. Receba +1/+1 para cada cristal de mana gasto.",
-        "popularity": 15
+        "popularity": 20
     },
     {
         "id": 38377,
@@ -11926,7 +11926,7 @@
         "classs": 3,
         "name": "À Caçada",
         "description": "Cause 1 de dano. Evoque um Mastim 1/1.",
-        "popularity": 36
+        "popularity": 53
     },
     {
         "id": 38391,
@@ -11942,7 +11942,7 @@
         "classs": 4,
         "name": "Sectário da Lâmina",
         "description": "Combo: Receba +1/+1.",
-        "popularity": 28
+        "popularity": 30
     },
     {
         "id": 38393,
@@ -11956,7 +11956,7 @@
         "classs": 4,
         "name": "Jornada às Profundezas",
         "description": "Descubra um card com Último Suspiro.",
-        "popularity": 83
+        "popularity": 104
     },
     {
         "id": 38395,
@@ -11970,7 +11970,7 @@
         "classs": 4,
         "name": "Chá de Cardo",
         "description": "Compre um card. Adicione 2 cópias extras dele à sua mão.",
-        "popularity": 22
+        "popularity": 24
     },
     {
         "id": 38403,
@@ -11987,7 +11987,7 @@
         "elite": 1,
         "name": "Xaril, Mente Envenenada",
         "description": "Grito de Guerra e Último Suspiro: Adicione um card de Toxina aleatório à sua mão.",
-        "popularity": 124
+        "popularity": 172
     },
     {
         "id": 38407,
@@ -12001,7 +12001,7 @@
         "classs": 8,
         "name": "Estilhaçar",
         "description": "Destrua um lacaio Congelado.",
-        "popularity": 30
+        "popularity": 34
     },
     {
         "id": 38408,
@@ -12032,7 +12032,7 @@
         "classs": 8,
         "name": "Clamafogo do Crepúsculo",
         "description": "Grito de Guerra: Cause 1 de dano a todos os lacaios inimigos.",
-        "popularity": 27
+        "popularity": 30
     },
     {
         "id": 38412,
@@ -12048,7 +12048,7 @@
         "classs": 8,
         "name": "Chamafrio Demente",
         "description": "Depois de lançar um feitiço, Congele um inimigo aleatório.",
-        "popularity": 22
+        "popularity": 26
     },
     {
         "id": 38413,
@@ -12062,7 +12062,7 @@
         "classs": 8,
         "name": "Chama Proibida",
         "description": "Gaste todo o seu Mana. Cause a mesma quantidade de dano a um lacaio.",
-        "popularity": 40
+        "popularity": 55
     },
     {
         "id": 38414,
@@ -12092,7 +12092,7 @@
         "classs": 8,
         "name": "Tomo do Cabalista",
         "description": "Adicione 3 feitiços de Mago aleatórios à sua mão.",
-        "popularity": 92
+        "popularity": 120
     },
     {
         "id": 38426,
@@ -12106,7 +12106,7 @@
         "classs": 5,
         "name": "Palavra de Poder: Tentáculos",
         "description": "Conceda +2/+6 a um lacaio.",
-        "popularity": 10
+        "popularity": 14
     },
     {
         "id": 38429,
@@ -12122,7 +12122,7 @@
         "classs": 5,
         "name": "Cerzetrevas do Crepúsculo",
         "description": "Grito de Guerra: Se o seu C'Thun tiver pelo menos 10 de Ataque, restaure 10 de Vida do seu Herói.",
-        "popularity": 76
+        "popularity": 94
     },
     {
         "id": 38433,
@@ -12136,7 +12136,7 @@
         "classs": 5,
         "name": "Palavra Sombria: Horror",
         "description": "Destrua todos os lacaios com 2 ou menos de Ataque.",
-        "popularity": 31
+        "popularity": 34
     },
     {
         "id": 38434,
@@ -12150,7 +12150,7 @@
         "classs": 5,
         "name": "Criação Proibida",
         "description": "Gaste todo o seu Mana. Evoque um lacaio aleatório que custa essa quantidade de Mana.",
-        "popularity": 54
+        "popularity": 71
     },
     {
         "id": 38436,
@@ -12165,7 +12165,7 @@
         "health": 6,
         "name": "Orador Sombrio",
         "description": "Grito de Guerra: Troque de atributos com um lacaio aliado.",
-        "popularity": 4
+        "popularity": 6
     },
     {
         "id": 38439,
@@ -12179,7 +12179,7 @@
         "classs": 5,
         "name": "Aceite a Sombra",
         "description": "Neste turno, seus efeitos de cura causam dano.",
-        "popularity": 29
+        "popularity": 48
     },
     {
         "id": 38447,
@@ -12195,7 +12195,7 @@
         "classs": 9,
         "name": "Literata da Vila Sombria",
         "description": "Grito de Guerra: Descarte um card aleatório. Último Suspiro: Compre um card.",
-        "popularity": 5
+        "popularity": 10
     },
     {
         "id": 38452,
@@ -12211,7 +12211,7 @@
         "collectible": 1,
         "name": "Conselheiro da Vila Sombria",
         "description": "Depois de evocar um lacaio, receba +1 de Ataque.",
-        "popularity": 73
+        "popularity": 115
     },
     {
         "id": 38454,
@@ -12225,7 +12225,7 @@
         "classs": 9,
         "name": "Ritual Proibido",
         "description": "Gaste todo o seu Mana. Evoque a mesma quantidade de Tentáculos 1/1.",
-        "popularity": 86
+        "popularity": 136
     },
     {
         "id": 38456,
@@ -12239,7 +12239,7 @@
         "classs": 9,
         "name": "Loucura Contagiosa",
         "description": "Cause 9 de dano dividido aleatoriamente entre TODOS os personagens.",
-        "popularity": 18
+        "popularity": 17
     },
     {
         "id": 38461,
@@ -12253,7 +12253,7 @@
         "classs": 9,
         "name": "Renunciar às Trevas",
         "description": "Substitua seu Poder Heroico e cards de Bruxo pelos de outra classe. Os cards custam (1) a menos.",
-        "popularity": 16
+        "popularity": 22
     },
     {
         "id": 38463,
@@ -12270,7 +12270,7 @@
         "classs": 8,
         "name": "Anômalus",
         "description": "Último Suspiro: Cause 8 de dano a todos os lacaios.",
-        "popularity": 8
+        "popularity": 7
     },
     {
         "id": 38464,
@@ -12287,7 +12287,7 @@
         "classs": 9,
         "name": "Cho'gall",
         "description": "Grito de Guerra: O próximo feitiço que você lançar neste turno custará Vida em vez de Mana.",
-        "popularity": 14
+        "popularity": 19
     },
     {
         "id": 38468,
@@ -12304,7 +12304,7 @@
         "race": 20,
         "name": "Mukla, Tirano do Vale",
         "description": "Grito de Guerra: Adicione 2 Bananas à sua mão.",
-        "popularity": 18
+        "popularity": 20
     },
     {
         "id": 38475,
@@ -12320,7 +12320,7 @@
         "health": 1,
         "name": "Metamorfo Zerus",
         "description": "A cada turno que este card estiver em sua mão, transforme-o em um lacaio aleatório.",
-        "popularity": 90
+        "popularity": 97
     },
     {
         "id": 38488,
@@ -12336,7 +12336,7 @@
         "elite": 1,
         "name": "Imperador Gêmeo Vek'lor",
         "description": "Provocar  Grito de Guerra: Se o seu C'Thun tiver pelo menos 10 de Ataque, evoque outro Imperador.",
-        "popularity": 359
+        "popularity": 451
     },
     {
         "id": 38496,
@@ -12352,7 +12352,7 @@
         "elite": 1,
         "name": "N'Zoth, o Corruptor",
         "description": "Grito de Guerra: Evoque seus lacaios com Último Suspiro que morreram na partida.",
-        "popularity": 244
+        "popularity": 335
     },
     {
         "id": 38505,
@@ -12368,7 +12368,7 @@
         "elite": 1,
         "name": "Yogg-Saron, Fim da Esperança",
         "description": "Grito de Guerra: Lance um feitiço aleatório para cada feitiço que você tiver lançado nesta partida (alvos escolhidos aleatoriamente).",
-        "popularity": 134
+        "popularity": 188
     },
     {
         "id": 38517,
@@ -12383,7 +12383,7 @@
         "health": 4,
         "name": "Profeta Nerubiano",
         "description": "No começo do seu turno, reduza o Custo deste card em (1).",
-        "popularity": 47
+        "popularity": 54
     },
     {
         "id": 38521,
@@ -12397,7 +12397,7 @@
         "attack": 10,
         "health": 10,
         "name": "Beemote Sem-rosto",
-        "popularity": 1
+        "popularity": 3
     },
     {
         "id": 38522,
@@ -12411,7 +12411,7 @@
         "attack": 6,
         "health": 10,
         "name": "Horror Ancestral",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38526,
@@ -12427,7 +12427,7 @@
         "race": 17,
         "name": "Psicotron",
         "description": "Provocar Escudo Divino",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38528,
@@ -12443,7 +12443,7 @@
         "race": 17,
         "name": "Robô de Cura Corrompido",
         "description": "Último Suspiro: Restaure 8 de Vida do Herói inimigo.",
-        "popularity": 50
+        "popularity": 68
     },
     {
         "id": 38530,
@@ -12459,7 +12459,7 @@
         "classs": 1,
         "name": "Carniçal Agressivo",
         "description": "Grito de Guerra: Cause 1 de dano a todos os outros lacaios.",
-        "popularity": 81
+        "popularity": 179
     },
     {
         "id": 38531,
@@ -12474,7 +12474,7 @@
         "health": 5,
         "name": "Berserker Aberrante",
         "description": "Enfurecer: +2 de Ataque.",
-        "popularity": 15
+        "popularity": 16
     },
     {
         "id": 38532,
@@ -12505,7 +12505,7 @@
         "race": 20,
         "name": "Falcodrago Grotesco",
         "description": "Fúria dos Ventos",
-        "popularity": 4
+        "popularity": 5
     },
     {
         "id": 38534,
@@ -12520,7 +12520,7 @@
         "health": 8,
         "name": "Rastejante do Brejo",
         "description": "Provocar",
-        "popularity": 22
+        "popularity": 36
     },
     {
         "id": 38538,
@@ -12536,7 +12536,7 @@
         "race": 14,
         "name": "Caçamaré Pinabile",
         "description": "Grito de Guerra: Evoque uma Gosma 1/1 com Provocar.",
-        "popularity": 96
+        "popularity": 141
     },
     {
         "id": 38541,
@@ -12551,7 +12551,7 @@
         "health": 1,
         "name": "Iniciado Fanático",
         "description": "Último Suspiro: Conceda +1/+1 a um lacaio aliado aleatório.",
-        "popularity": 26
+        "popularity": 27
     },
     {
         "id": 38545,
@@ -12567,7 +12567,7 @@
         "race": 14,
         "name": "Vidente Corrompido",
         "description": "Grito de Guerra: Cause 2 de dano a todos os lacaios, menos Murlocs.",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38547,
@@ -12582,7 +12582,7 @@
         "health": 1,
         "name": "Discípulo de C'Thun",
         "description": "Grito de Guerra: Cause 2 de dano. Conceda +2/+2 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 415
+        "popularity": 526
     },
     {
         "id": 38567,
@@ -12597,7 +12597,7 @@
         "health": 9,
         "name": "Sangue do Ancião",
         "description": "Se você controlar dois desse lacaio no final do seu turno, combine-os e crie \"O Ancião\".",
-        "popularity": 6
+        "popularity": 7
     },
     {
         "id": 38569,
@@ -12612,7 +12612,7 @@
         "health": 1,
         "name": "Trôpego Sem-rosto",
         "description": "Provocar Grito de Guerra: Copie o Ataque e a Vida de um lacaio aliado.",
-        "popularity": 26
+        "popularity": 34
     },
     {
         "id": 38578,
@@ -12626,7 +12626,7 @@
         "classs": 4,
         "name": "Golpe Sombrio",
         "description": "Cause 5 de dano a um personagem sem ferimentos.",
-        "popularity": 96
+        "popularity": 153
     },
     {
         "id": 38584,
@@ -12643,7 +12643,7 @@
         "classs": 3,
         "name": "Morcego Abrasador",
         "description": "Último Suspiro: Cause 1 de dano a um inimigo aleatório.",
-        "popularity": 100
+        "popularity": 139
     },
     {
         "id": 38621,
@@ -12659,7 +12659,7 @@
         "classs": 11,
         "name": "Tece-Âmbar Klaxxi",
         "description": "Grito de Guerra: Se o seu C'Thun tiver pelo menos 10 de Ataque, receba +5 de Vida.",
-        "popularity": 150
+        "popularity": 175
     },
     {
         "id": 38655,
@@ -12673,7 +12673,7 @@
         "classs": 11,
         "name": "Fogos-fátuos dos Deuses Antigos",
         "description": "Escolha um - Evoque sete Fogos-fátuos 1/1; ou Conceda +2/+2 aos seus lacaios.",
-        "popularity": 11
+        "popularity": 15
     },
     {
         "id": 38666,
@@ -12687,7 +12687,7 @@
         "cost": 0,
         "name": "Cura Proibida",
         "description": "Gaste todo o seu Mana. Restaure o dobro dessa quantidade de Vida.",
-        "popularity": 77
+        "popularity": 112
     },
     {
         "id": 38669,
@@ -12702,7 +12702,7 @@
         "health": 7,
         "name": "Agoureiro Confirmado",
         "description": "No início do seu turno, ajuste o Ataque deste lacaio para 7.",
-        "popularity": 9
+        "popularity": 10
     },
     {
         "id": 38718,
@@ -12718,7 +12718,7 @@
         "classs": 11,
         "name": "Guardião do Charco",
         "description": "[x]Escolha um - Evoque um Visgo 2/2; ou Receba um Cristal de Mana vazio.",
-        "popularity": 160
+        "popularity": 194
     },
     {
         "id": 38724,
@@ -12732,7 +12732,7 @@
         "classs": 7,
         "name": "Racha-tempesta",
         "description": "Cause 4 de dano a um lacaio. Sobrecarga: (1)",
-        "popularity": 36
+        "popularity": 43
     },
     {
         "id": 38725,
@@ -12748,7 +12748,7 @@
         "classs": 8,
         "name": "Evocador Sem-rosto",
         "description": "Grito de Guerra: Evoque um lacaio aleatório com 3 de custo.",
-        "popularity": 96
+        "popularity": 127
     },
     {
         "id": 38722,
@@ -12765,7 +12765,7 @@
         "classs": 7,
         "name": "Hallazeal, o Elevado",
         "description": "Sempre que seus feitiços causarem dano, restaure a mesma quantidade de Vida do seu herói.",
-        "popularity": 65
+        "popularity": 67
     },
     {
         "id": 38727,
@@ -12779,7 +12779,7 @@
         "classs": 3,
         "name": "Chamado da Selva",
         "description": "Evoque os três Companheiros Animais.",
-        "popularity": 100
+        "popularity": 133
     },
     {
         "id": 38734,
@@ -12796,7 +12796,7 @@
         "race": 20,
         "name": "Lobo Infestado",
         "description": "Último Suspiro: Evoque duas Aranhas 1/1.",
-        "popularity": 104
+        "popularity": 133
     },
     {
         "id": 38738,
@@ -12812,7 +12812,7 @@
         "classs": 1,
         "name": "Valente Casco Sangrento",
         "description": "Provocar Enfurecer: +3 de Ataque.",
-        "popularity": 80
+        "popularity": 154
     },
     {
         "id": 38739,
@@ -12829,7 +12829,7 @@
         "elite": 1,
         "name": "Malkorok",
         "description": "Grito de Guerra: Equipe uma arma aleatória.",
-        "popularity": 22
+        "popularity": 32
     },
     {
         "id": 38740,
@@ -12845,7 +12845,7 @@
         "classs": 2,
         "name": "Heroína Altruísta",
         "description": "Último Suspiro: Conceda Escudo Divino a um lacaio aliado aleatório.",
-        "popularity": 76
+        "popularity": 110
     },
     {
         "id": 38745,
@@ -12861,7 +12861,7 @@
         "classs": 2,
         "name": "Lâmina da União",
         "description": "Grito de Guerra: Conceda +1/+1 aos seus lacaios com Escudo Divino.",
-        "popularity": 52
+        "popularity": 79
     },
     {
         "id": 38749,
@@ -12875,7 +12875,7 @@
         "classs": 2,
         "name": "Força Divina",
         "description": "Conceda +1/+2 a um lacaio.",
-        "popularity": 16
+        "popularity": 18
     },
     {
         "id": 38758,
@@ -12892,7 +12892,7 @@
         "elite": 1,
         "name": "Ragnaros, Senhor da Luz",
         "description": "No final do seu turno, restaure 8 de Vida de um personagem aliado ferido.",
-        "popularity": 74
+        "popularity": 100
     },
     {
         "id": 38764,
@@ -12908,7 +12908,7 @@
         "classs": 5,
         "name": "Alquimista da Vila Sombria",
         "description": "Grito de Guerra: Restaure 5 de Vida.",
-        "popularity": 78
+        "popularity": 122
     },
     {
         "id": 38770,
@@ -12922,7 +12922,7 @@
         "classs": 9,
         "name": "RUÍNA!",
         "description": "Destrua todos os lacaios. Compre um card para cada lacaio destruído.",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38774,
@@ -12938,7 +12938,7 @@
         "classs": 9,
         "name": "Aldeão Possuído",
         "description": "Último Suspiro: Evoque uma Ferassombra 1/1.",
-        "popularity": 79
+        "popularity": 129
     },
     {
         "id": 38781,
@@ -12953,7 +12953,7 @@
         "health": 1,
         "name": "Worgen Distorcido",
         "description": "Furtividade",
-        "popularity": 35
+        "popularity": 39
     },
     {
         "id": 38782,
@@ -12967,7 +12967,7 @@
         "attack": 1,
         "health": 5,
         "name": "Furiante Am'gam",
-        "popularity": 2
+        "popularity": 3
     },
     {
         "id": 38784,
@@ -12982,7 +12982,7 @@
         "health": 3,
         "name": "Tauren Infestado",
         "description": "Provocar Último Suspiro: Evoque um Visgo 2/2.",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38792,
@@ -12997,7 +12997,7 @@
         "health": 4,
         "name": "Devorador de Segredos",
         "description": "Grito de Guerra: Destrua todos os Segredos do inimigo. Receba +1/+1 para cada segredo.",
-        "popularity": 27
+        "popularity": 33
     },
     {
         "id": 38795,
@@ -13012,7 +13012,7 @@
         "health": 9,
         "name": "Arauto da Ruína",
         "description": "Grito de Guerra: Conceda +2/+2 ao seu C'Thun (onde quer que ele esteja). Se ele estiver morto, embaralhe-o no seu deck.",
-        "popularity": 211
+        "popularity": 263
     },
     {
         "id": 38797,
@@ -13027,7 +13027,7 @@
         "health": 2,
         "name": "Cria de N'Zoth",
         "description": "Último Suspiro: Conceda +1/+1 aos seus lacaios.",
-        "popularity": 73
+        "popularity": 76
     },
     {
         "id": 38825,
@@ -13044,7 +13044,7 @@
         "race": 23,
         "name": "Cara de Lula dos Mares do Sul",
         "description": "Último Suspiro: Conceda +2 de Ataque à sua arma.",
-        "popularity": 50
+        "popularity": 57
     },
     {
         "id": 38832,
@@ -13060,7 +13060,7 @@
         "race": 24,
         "name": "Pesadelo Escamoso",
         "description": "No início do seu turno, dobre o Ataque deste lacaio.",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 38833,
@@ -13075,7 +13075,7 @@
         "health": 1,
         "name": "Evocador do Crepúsculo",
         "description": "Último Suspiro: Evoque um Destruidor Sem-rosto 5/5.",
-        "popularity": 80
+        "popularity": 105
     },
     {
         "id": 38843,
@@ -13089,7 +13089,7 @@
         "classs": 2,
         "name": "Enfrente as Trevas",
         "description": "Evoque cinco Recrutas do Punho de Prata 1/1.",
-        "popularity": 31
+        "popularity": 39
     },
     {
         "id": 38848,
@@ -13103,7 +13103,7 @@
         "classs": 1,
         "name": "Guerreiros Sangrentos",
         "description": "Acrescente uma cópia de cada lacaio aliado ferido na sua mão.",
-        "popularity": 29
+        "popularity": 32
     },
     {
         "id": 38857,
@@ -13119,7 +13119,7 @@
         "quality": 5,
         "name": "C'Thun",
         "description": "Grito de Guerra: Cause dano igual ao ataque deste Lacaio dividido aleatoriamente entre todos os inimigos.",
-        "popularity": 548
+        "popularity": 674
     },
     {
         "id": 38859,
@@ -13134,7 +13134,7 @@
         "health": 3,
         "name": "Aliciante do Mal",
         "description": "Grito de Guerra: Conceda +2/+2 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 480
+        "popularity": 588
     },
     {
         "id": 38861,
@@ -13150,7 +13150,7 @@
         "classs": 4,
         "name": "Lâmina de C'Thun",
         "description": "Grito de Guerra: Destrua um lacaio. Adicione o Ataque e a Vida dele a C'Thun (onde quer que ele esteja).",
-        "popularity": 51
+        "popularity": 58
     },
     {
         "id": 38863,
@@ -13165,7 +13165,7 @@
         "health": 2,
         "name": "Escolhida de C'Thun",
         "description": "Escudo Divino Grito de Guerra: Conceda +2/+2 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 337
+        "popularity": 436
     },
     {
         "id": 38864,
@@ -13180,7 +13180,7 @@
         "health": 4,
         "name": "Geomante do Crepúsculo",
         "description": "Provocar Grito de Guerra: Conceda Provocar ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 92
+        "popularity": 113
     },
     {
         "id": 38868,
@@ -13195,7 +13195,7 @@
         "health": 4,
         "name": "Ancião do Crepúsculo",
         "description": "No final do seu turno, conceda +1/+1 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 413
+        "popularity": 496
     },
     {
         "id": 38873,
@@ -13210,7 +13210,7 @@
         "health": 6,
         "name": "Arauto Ancestral",
         "description": "No início do seu turno, ponha um lacaio de custo 10 do seu deck na sua mão.",
-        "popularity": 42
+        "popularity": 40
     },
     {
         "id": 38876,
@@ -13226,7 +13226,7 @@
         "classs": 4,
         "name": "Lança-sombras",
         "description": "Grito de Guerra: Escolha um lacaio aliado. Acrescente uma cópia 1/1 dele que custa (1) à sua mão.",
-        "popularity": 88
+        "popularity": 108
     },
     {
         "id": 38875,
@@ -13258,7 +13258,7 @@
         "classs": 11,
         "name": "Arakkoa Sombrio",
         "description": "Provocar Grito de Guerra: Conceda +3/+3 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 169
+        "popularity": 203
     },
     {
         "id": 38888,
@@ -13273,7 +13273,7 @@
         "health": 4,
         "name": "Boticário do Culto",
         "description": "Grito de Guerra: Para cada lacaio inimigo, restaure 2 de Vida do seu herói.",
-        "popularity": 66
+        "popularity": 85
     },
     {
         "id": 38895,
@@ -13305,7 +13305,7 @@
         "classs": 1,
         "name": "Carrega-escudo Anciã",
         "description": "Grito de Guerra: Se o seu C'Thun tiver pelo menos 10 de Ataque, receba 10 de Armadura.",
-        "popularity": 95
+        "popularity": 120
     },
     {
         "id": 38898,
@@ -13321,7 +13321,7 @@
         "collectible": 1,
         "name": "Arauto das Almas",
         "description": "Sempre que um lacaio aliado morrer, conceda +1/+1 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 33
+        "popularity": 56
     },
     {
         "id": 38900,
@@ -13337,7 +13337,7 @@
         "classs": 8,
         "name": "Feiticeira do Culto",
         "description": "Dano Mágico +1 Depois que você lançar um feitiço, conceda +1/+1 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 56
+        "popularity": 85
     },
     {
         "id": 38909,
@@ -13354,7 +13354,7 @@
         "race": 20,
         "name": "Verme da Areia Gigante",
         "description": "Sempre que este card atacar e matar um lacaio, ele poderá atacar novamente.",
-        "popularity": 14
+        "popularity": 15
     },
     {
         "id": 38910,
@@ -13372,7 +13372,7 @@
         "race": 20,
         "name": "Princesa Huhuran",
         "description": "Grito de Guerra: Ative o efeito Último Suspiro de um lacaio aliado.",
-        "popularity": 88
+        "popularity": 105
     },
     {
         "id": 38911,
@@ -13388,7 +13388,7 @@
         "classs": 2,
         "name": "Chefa da Vila Sombria",
         "description": "Sempre que você evocar um lacaio com 1 de Vida, conceda Escudo Divino a ele.",
-        "popularity": 69
+        "popularity": 96
     },
     {
         "id": 38913,
@@ -13402,7 +13402,7 @@
         "classs": 2,
         "name": "Uma Luz nas Trevas",
         "description": "Descubra um lacaio. Conceda +1/+1 a ele.",
-        "popularity": 23
+        "popularity": 29
     },
     {
         "id": 38914,
@@ -13419,7 +13419,7 @@
         "race": 23,
         "name": "Imediato de N'Zoth",
         "description": "Grito de Guerra: Equipe um Gancho Enferrujado 1/3.",
-        "popularity": 42
+        "popularity": 68
     },
     {
         "id": 38916,
@@ -13436,7 +13436,7 @@
         "race": 20,
         "name": "Urso Dominado",
         "description": "Depois que você evocar um lacaio, conceda-lhe +1/+1.",
-        "popularity": 25
+        "popularity": 28
     },
     {
         "id": 38918,
@@ -13450,7 +13450,7 @@
         "classs": 1,
         "name": "Sangue Vira Icor",
         "description": "Cause 1 de dano a um lacaio. Se ele sobreviver, evoque um Visgo 2/2.",
-        "popularity": 53
+        "popularity": 120
     },
     {
         "id": 38920,
@@ -13467,7 +13467,7 @@
         "race": 23,
         "name": "Sectária da Vela Sangrenta",
         "description": "Grito de Guerra: Se você controlar um Pirata, sua arma recebe +1/+1.",
-        "popularity": 38
+        "popularity": 59
     },
     {
         "id": 38922,
@@ -13501,7 +13501,7 @@
         "elite": 1,
         "name": "Asa da Morte, Lorde-Dragão",
         "description": "Último Suspiro: Coloque todos os Dragões da sua mão no campo de batalha.",
-        "popularity": 65
+        "popularity": 79
     },
     {
         "id": 38944,
@@ -13517,7 +13517,7 @@
         "elite": 1,
         "name": "Hogger, Ruína de Elwynn",
         "description": "Sempre que este lacaio receber dano, evoque um Gnoll 2/2 com Provocar.",
-        "popularity": 30
+        "popularity": 45
     },
     {
         "id": 38957,
@@ -13548,7 +13548,7 @@
         "health": 6,
         "name": "Adorador Enlouquecido",
         "description": "Provocar. Sempre que este lacaio receber dano, conceda +1/+1 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 197
+        "popularity": 245
     },
     {
         "id": 38960,
@@ -13564,7 +13564,7 @@
         "race": 23,
         "name": "Pirata Aguanegra",
         "description": "Suas armas custam (2) a menos.",
-        "popularity": 21
+        "popularity": 30
     },
     {
         "id": 38961,
@@ -13579,7 +13579,7 @@
         "health": 2,
         "name": "Acumulador Poluído",
         "description": "Último Suspiro: Compre um card.",
-        "popularity": 37
+        "popularity": 44
     },
     {
         "id": 38985,
@@ -13595,7 +13595,7 @@
         "classs": 3,
         "race": 20,
         "name": "Verme Carniceiro",
-        "popularity": 14
+        "popularity": 27
     },
     {
         "id": 39002,
@@ -13625,7 +13625,7 @@
         "health": 4,
         "name": "Tentáculo Trêmulo",
         "description": "Provocar",
-        "popularity": 13
+        "popularity": 19
     },
     {
         "id": 39008,
@@ -13641,7 +13641,7 @@
         "classs": 7,
         "name": "Mestre da Evolução",
         "description": "Grito de Guerra: Transforme um lacaio aliado em um lacaio aleatório que custa (1) a mais.",
-        "popularity": 131
+        "popularity": 175
     },
     {
         "id": 39026,
@@ -13657,7 +13657,7 @@
         "classs": 4,
         "name": "Camelô da Cidade Baixa",
         "description": "Último Suspiro: Adicione um card de classe aleatório à sua mão (da classe do seu oponente).",
-        "popularity": 105
+        "popularity": 129
     },
     {
         "id": 39033,
@@ -13673,7 +13673,7 @@
         "classs": 5,
         "name": "Acólita Encapuzada",
         "description": "Sempre que um personagem for curado, conceda +1/+1 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 80
+        "popularity": 101
     },
     {
         "id": 39034,
@@ -13689,7 +13689,7 @@
         "classs": 5,
         "name": "Vulto Cambiante",
         "description": "Último Suspiro: Copie um card do deck do seu oponente e coloque-o na sua mão.",
-        "popularity": 61
+        "popularity": 97
     },
     {
         "id": 39041,
@@ -13704,7 +13704,7 @@
         "health": 3,
         "name": "Horror Ciclópico",
         "description": "Provocar. Grito de Guerra: Receba +1 de Vida para cada lacaio inimigo.",
-        "popularity": 45
+        "popularity": 55
     },
     {
         "id": 39046,
@@ -13720,7 +13720,7 @@
         "health": 4,
         "name": "Nat, o Pescador Sombrio",
         "description": "No início do turno do seu oponente, ele tem 50% de chance de comprar um card extra.",
-        "popularity": 12
+        "popularity": 17
     },
     {
         "id": 39118,
@@ -13735,7 +13735,7 @@
         "health": 6,
         "name": "Sectário de Skeram",
         "description": "Grito de Guerra: Conceda +2/+2 ao seu C'Thun (onde quer que ele esteja).",
-        "popularity": 111
+        "popularity": 120
     },
     {
         "id": 39119,
@@ -13751,6 +13751,6 @@
         "health": 9,
         "name": "Soggoth, o Rastejante",
         "description": "Provocar Não pode ser alvo de feitiços nem de Poderes Heroicos.",
-        "popularity": 26
+        "popularity": 33
     }
 ]

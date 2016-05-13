@@ -16,10 +16,12 @@ define(['app', 'services/apiServices'], function (app) {
         }
         
         function loadData() {
+            $scope.dataLoaded = false;
             apiServices.getData($scope.selectedLanguage.abv)
                 .success(function (result) {
                     var minionsAllData = _.filter(result, { 'type': 4 });
                     $scope.minions = _.map(minionsAllData, function (o) { return _.pick(o, ['id', 'image', 'name']); });
+                    $scope.dataLoaded = true;
                 })
                 .error(function (error) {
                     $scope.error = error;

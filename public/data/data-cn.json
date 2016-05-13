@@ -15,7 +15,7 @@
         "collectible": 1,
         "name": "艾德温·范克里夫",
         "description": "连击：在本回合中，使用此牌前每打出一张其他牌，便获得+2/+2。",
-        "popularity": 2159
+        "popularity": 2198
     },
     {
         "id": 391,
@@ -32,7 +32,7 @@
         "collectible": 1,
         "name": "毁灭之刃",
         "description": "战吼：造成1点伤害。连击：改为造成2点伤害。",
-        "popularity": 1607
+        "popularity": 1611
     },
     {
         "id": 999,
@@ -48,7 +48,7 @@
         "collectible": 1,
         "name": "血帆袭击者",
         "description": "战吼：获得等同于你的武器攻击力的攻击力。",
-        "popularity": 3421
+        "popularity": 3440
     },
     {
         "id": 749,
@@ -65,7 +65,7 @@
         "collectible": 1,
         "name": "血法师萨尔诺斯",
         "description": "法术伤害+1，亡语：抽一张牌。",
-        "popularity": 10323
+        "popularity": 10378
     },
     {
         "id": 179,
@@ -80,7 +80,7 @@
         "faction": 3,
         "collectible": 1,
         "name": "小精灵",
-        "popularity": 1054
+        "popularity": 1060
     },
     {
         "id": 1009,
@@ -97,7 +97,7 @@
         "collectible": 1,
         "name": "战歌指挥官",
         "description": "你的具有冲锋的随从获得+1攻击力。",
-        "popularity": 2874
+        "popularity": 2871
     },
     {
         "id": 635,
@@ -113,7 +113,7 @@
         "collectible": 1,
         "name": "森金持盾卫士",
         "description": "嘲讽",
-        "popularity": 13564
+        "popularity": 13595
     },
     {
         "id": 830,
@@ -144,7 +144,7 @@
         "collectible": 1,
         "name": "机械幼龙技工",
         "description": "战吼：召唤一个2/1的机械幼龙。",
-        "popularity": 1841
+        "popularity": 1845
     },
     {
         "id": 700,
@@ -160,7 +160,7 @@
         "collectible": 1,
         "name": "魔古山守望者",
         "description": "嘲讽",
-        "popularity": 2246
+        "popularity": 2241
     },
     {
         "id": 443,
@@ -176,7 +176,7 @@
         "race": 20,
         "name": "鱼人杀手蟹",
         "description": "战吼：消灭一个鱼人，并获得+2/+2。",
-        "popularity": 713
+        "popularity": 716
     },
     {
         "id": 1091,
@@ -191,7 +191,7 @@
         "collectible": 1,
         "name": "误导",
         "description": "奥秘：当一个角色攻击你的英雄时，改为该角色攻击另一个随机角色。",
-        "popularity": 1480
+        "popularity": 1481
     },
     {
         "id": 1133,
@@ -208,7 +208,7 @@
         "collectible": 1,
         "name": "耐心的刺客",
         "description": "潜行。消灭任何受到该随从伤害的随从。",
-        "popularity": 393
+        "popularity": 389
     },
     {
         "id": 1029,
@@ -223,7 +223,7 @@
         "collectible": 1,
         "name": "紫罗兰教师",
         "description": "每当你施放一个法术，召唤一个1/1的紫罗兰学徒。",
-        "popularity": 3407
+        "popularity": 3426
     },
     {
         "id": 538,
@@ -240,7 +240,7 @@
         "collectible": 1,
         "name": "阿拉希武器匠",
         "description": "战吼：装备一把2/2的武器。",
-        "popularity": 2311
+        "popularity": 2323
     },
     {
         "id": 1659,
@@ -255,7 +255,7 @@
         "health": 3,
         "name": "苦痛侍僧",
         "description": "每当该随从受到伤害时，抽一张牌。",
-        "popularity": 11700
+        "popularity": 11841
     },
     {
         "id": 841,
@@ -270,7 +270,7 @@
         "collectible": 1,
         "name": "神圣新星",
         "description": "对所有敌人造成2点伤害，为所有友方角色恢复2点生命值。",
-        "popularity": 9402
+        "popularity": 9458
     },
     {
         "id": 1026,
@@ -284,7 +284,7 @@
         "collectible": 1,
         "name": "命令怒吼",
         "description": "在本回合中，你的随从的生命值无法被降到1点以下。抽一张牌。",
-        "popularity": 1018
+        "popularity": 1016
     },
     {
         "id": 774,
@@ -301,7 +301,7 @@
         "attack": 2,
         "name": "无羁元素",
         "description": "每当你使用一张具有过载的牌，便获得+1/+1。",
-        "popularity": 2947
+        "popularity": 2954
     },
     {
         "id": 70,
@@ -316,7 +316,7 @@
         "collectible": 1,
         "name": "力量祝福",
         "description": "使一个随从获得+3攻击力。",
-        "popularity": 2949
+        "popularity": 2967
     },
     {
         "id": 943,
@@ -331,7 +331,7 @@
         "collectible": 1,
         "name": "王者祝福",
         "description": "使一个随从获得+4/+4。（+4攻击力/+4生命值）",
-        "popularity": 5470
+        "popularity": 5478
     },
     {
         "id": 77,
@@ -346,7 +346,7 @@
         "collectible": 1,
         "name": "变形术",
         "description": "使一个随从变形成为1/1的绵羊。",
-        "popularity": 7869
+        "popularity": 7906
     },
     {
         "id": 348,
@@ -362,7 +362,7 @@
         "collectible": 1,
         "name": "黑铁矮人",
         "description": "战吼：本回合中，使一个随从获得+2攻击力。",
-        "popularity": 6744
+        "popularity": 6754
     },
     {
         "id": 344,
@@ -377,7 +377,7 @@
         "collectible": 1,
         "name": "冲锋",
         "description": "使一个友方随从获得+2攻击力和冲锋。",
-        "popularity": 1179
+        "popularity": 1187
     },
     {
         "id": 1371,
@@ -393,7 +393,7 @@
         "race": 20,
         "name": "狂奔科多兽",
         "description": "战吼：随机消灭一个攻击力小于或等于2的敌方随从。",
-        "popularity": 3677
+        "popularity": 3703
     },
     {
         "id": 854,
@@ -408,7 +408,7 @@
         "collectible": 1,
         "name": "谦逊",
         "description": "使一个随从的攻击力变为1。",
-        "popularity": 1793
+        "popularity": 1810
     },
     {
         "id": 526,
@@ -424,7 +424,7 @@
         "collectible": 1,
         "name": "格鲁尔",
         "description": "在每个回合结束时，获得+1/+1。",
-        "popularity": 787
+        "popularity": 789
     },
     {
         "id": 213,
@@ -455,7 +455,7 @@
         "collectible": 1,
         "name": "狼人渗透者",
         "description": "潜行",
-        "popularity": 3041
+        "popularity": 3057
     },
     {
         "id": 662,
@@ -470,7 +470,7 @@
         "collectible": 1,
         "name": "寒冰箭",
         "description": "对一个角色造成3点伤害，并使其冻结。",
-        "popularity": 11887
+        "popularity": 11932
     },
     {
         "id": 1008,
@@ -488,7 +488,7 @@
         "collectible": 1,
         "name": "火舌图腾",
         "description": "相邻的随从获得+2攻击力。",
-        "popularity": 6799
+        "popularity": 6864
     },
     {
         "id": 345,
@@ -503,7 +503,7 @@
         "collectible": 1,
         "name": "刺杀",
         "description": "消灭一个敌方随从。",
-        "popularity": 2723
+        "popularity": 2725
     },
     {
         "id": 157,
@@ -519,7 +519,7 @@
         "collectible": 1,
         "name": "竞技场主宰",
         "description": "嘲讽",
-        "popularity": 3195
+        "popularity": 3201
     },
     {
         "id": 1109,
@@ -535,7 +535,7 @@
         "collectible": 1,
         "name": "负伤剑圣",
         "description": "战吼：对自身造成4点伤害。",
-        "popularity": 4451
+        "popularity": 4462
     },
     {
         "id": 1100,
@@ -550,7 +550,7 @@
         "collectible": 1,
         "name": "灵魂虹吸",
         "description": "消灭一个随从，为你的英雄恢复3点生命值。",
-        "popularity": 4026
+        "popularity": 4049
     },
     {
         "id": 594,
@@ -565,7 +565,7 @@
         "collectible": 1,
         "name": "圣疗术",
         "description": "恢复8点生命值，抽三张牌。",
-        "popularity": 3844
+        "popularity": 3852
     },
     {
         "id": 34,
@@ -581,7 +581,7 @@
         "collectible": 1,
         "name": "银月城卫兵",
         "description": "圣盾",
-        "popularity": 1650
+        "popularity": 1651
     },
     {
         "id": 1099,
@@ -596,7 +596,7 @@
         "collectible": 1,
         "name": "心灵视界",
         "description": "随机复制你的对手手牌中的一张牌，将其置入你的手牌。",
-        "popularity": 1921
+        "popularity": 1923
     },
     {
         "id": 1687,
@@ -611,7 +611,7 @@
         "health": 5,
         "race": 20,
         "name": "熔火恶犬",
-        "popularity": 1419
+        "popularity": 1423
     },
     {
         "id": 510,
@@ -628,7 +628,7 @@
         "collectible": 1,
         "name": "暗鳞先知",
         "description": "所有其他鱼人获得+1攻击力。",
-        "popularity": 2307
+        "popularity": 2312
     },
     {
         "id": 629,
@@ -643,7 +643,7 @@
         "collectible": 1,
         "name": "闪电风暴",
         "description": "对所有敌方随从造成2到3点伤害，过载：（2）",
-        "popularity": 6436
+        "popularity": 6497
     },
     {
         "id": 797,
@@ -660,7 +660,7 @@
         "collectible": 1,
         "name": "光明之泉",
         "description": "在你的回合开始时，随机为一个受伤的友方角色恢复3点生命值。",
-        "popularity": 2162
+        "popularity": 2167
     },
     {
         "id": 453,
@@ -677,7 +677,7 @@
         "collectible": 1,
         "name": "寒光先知",
         "description": "战吼：使所有其他鱼人获得+2生命值。",
-        "popularity": 1893
+        "popularity": 1900
     },
     {
         "id": 810,
@@ -694,7 +694,7 @@
         "collectible": 1,
         "name": "血吼",
         "description": "攻击随从不会消耗耐久度，改为降低1点攻击力。",
-        "popularity": 2283
+        "popularity": 2330
     },
     {
         "id": 818,
@@ -709,7 +709,7 @@
         "collectible": 1,
         "name": "视界术",
         "description": "抽一张牌，该牌的法力值消耗减少（3）点。",
-        "popularity": 489
+        "popularity": 491
     },
     {
         "id": 90,
@@ -724,7 +724,7 @@
         "health": 5,
         "collectible": 1,
         "name": "冰风雪人",
-        "popularity": 10089
+        "popularity": 10119
     },
     {
         "id": 467,
@@ -739,7 +739,7 @@
         "cost": 0,
         "name": "月火术",
         "description": "造成1点伤害。",
-        "popularity": 872
+        "popularity": 877
     },
     {
         "id": 1064,
@@ -754,7 +754,7 @@
         "collectible": 1,
         "name": "剑刃乱舞",
         "description": "摧毁你的武器，对所有敌方随从造成等同于其攻击力的伤害。",
-        "popularity": 4859
+        "popularity": 4839
     },
     {
         "id": 1366,
@@ -768,7 +768,7 @@
         "classs": 5,
         "name": "群体驱散",
         "description": "沉默所有敌方随从，抽一张牌。",
-        "popularity": 1375
+        "popularity": 1379
     },
     {
         "id": 801,
@@ -784,7 +784,7 @@
         "collectible": 1,
         "name": "疯狂的炼金师",
         "description": "战吼：使一个随从的攻击力和生命值互换。",
-        "popularity": 1666
+        "popularity": 1674
     },
     {
         "id": 220,
@@ -799,7 +799,7 @@
         "collectible": 1,
         "name": "暗影狂乱",
         "description": "直到回合结束，获得一个攻击力小于或等于3的敌方随从的控制权。",
-        "popularity": 3230
+        "popularity": 3238
     },
     {
         "id": 756,
@@ -814,7 +814,7 @@
         "collectible": 1,
         "name": "生而平等",
         "description": "将所有随从的生命值变为1。",
-        "popularity": 6254
+        "popularity": 6286
     },
     {
         "id": 437,
@@ -828,7 +828,7 @@
         "classs": 3,
         "name": "动物伙伴",
         "description": "随机召唤一个野兽伙伴。",
-        "popularity": 7535
+        "popularity": 7573
     },
     {
         "id": 86,
@@ -842,7 +842,7 @@
         "collectible": 1,
         "name": "星辰坠落",
         "description": "抉择：对一个随从造成5点伤害；或者对所有敌方随从造成2点伤害。",
-        "popularity": 3037
+        "popularity": 3044
     },
     {
         "id": 430,
@@ -857,7 +857,7 @@
         "collectible": 1,
         "name": "冰锥术",
         "description": "冻结一个随从和其相邻的随从，并对它们造成1点伤害。",
-        "popularity": 3056
+        "popularity": 3064
     },
     {
         "id": 767,
@@ -872,7 +872,7 @@
         "collectible": 1,
         "name": "大地震击",
         "description": "沉默一个随从，然后对其造成1点伤害。",
-        "popularity": 5978
+        "popularity": 5981
     },
     {
         "id": 890,
@@ -890,7 +890,7 @@
         "collectible": 1,
         "name": "提里奥·弗丁",
         "description": "圣盾，嘲讽，亡语：装备一把5/3的灰烬使者。",
-        "popularity": 4712
+        "popularity": 4736
     },
     {
         "id": 1182,
@@ -907,7 +907,7 @@
         "race": 20,
         "name": "铁鬃灰熊",
         "description": "嘲讽",
-        "popularity": 5572
+        "popularity": 5594
     },
     {
         "id": 708,
@@ -922,7 +922,7 @@
         "collectible": 1,
         "name": "裂颅之击",
         "description": "对敌方英雄造成2点伤害；连击：在下个回合将其移回你的手牌。",
-        "popularity": 834
+        "popularity": 837
     },
     {
         "id": 877,
@@ -937,7 +937,7 @@
         "collectible": 1,
         "name": "奥术射击",
         "description": "造成2点伤害。",
-        "popularity": 3138
+        "popularity": 3159
     },
     {
         "id": 1221,
@@ -954,7 +954,7 @@
         "race": 15,
         "name": "虚空恐魔",
         "description": "战吼：消灭该随从两侧的随从，并获得他们的攻击力和生命值。",
-        "popularity": 2141
+        "popularity": 2137
     },
     {
         "id": 1092,
@@ -969,7 +969,7 @@
         "collectible": 1,
         "name": "死亡缠绕",
         "description": "对一个随从造成1点伤害，如果死亡缠绕将其杀死，抽一张牌。",
-        "popularity": 6400
+        "popularity": 6431
     },
     {
         "id": 785,
@@ -984,7 +984,7 @@
         "collectible": 1,
         "name": "斩杀",
         "description": "消灭一个受伤的敌方随从。",
-        "popularity": 6847
+        "popularity": 6951
     },
     {
         "id": 1171,
@@ -999,7 +999,7 @@
         "collectible": 1,
         "name": "嗜血",
         "description": "在本回合中，使你的随从获得+3攻击力。",
-        "popularity": 3597
+        "popularity": 3636
     },
     {
         "id": 287,
@@ -1015,7 +1015,7 @@
         "collectible": 1,
         "name": "劫持者",
         "description": "连击：将一个随从移回其拥有者的手牌。",
-        "popularity": 251
+        "popularity": 252
     },
     {
         "id": 736,
@@ -1033,7 +1033,7 @@
         "collectible": 1,
         "name": "老瞎眼",
         "description": "冲锋，在战场上每有一个其他鱼人便获得+1攻击力。",
-        "popularity": 2089
+        "popularity": 2086
     },
     {
         "id": 1796,
@@ -1064,7 +1064,7 @@
         "collectible": 1,
         "name": "背刺",
         "description": "对一个未受伤的随从造成2点伤害。",
-        "popularity": 6996
+        "popularity": 7058
     },
     {
         "id": 1063,
@@ -1081,7 +1081,7 @@
         "collectible": 1,
         "name": "鱼人领军",
         "description": "所有其他鱼人获得+2/+1。",
-        "popularity": 2126
+        "popularity": 2135
     },
     {
         "id": 365,
@@ -1096,7 +1096,7 @@
         "collectible": 1,
         "name": "暗影步",
         "description": "将一个友方随从移回你的手牌，它的法力值消耗减少（2）点。",
-        "popularity": 3046
+        "popularity": 3057
     },
     {
         "id": 404,
@@ -1111,7 +1111,7 @@
         "collectible": 1,
         "name": "先祖之魂",
         "description": "使一个随从获得“亡语：再次召唤该随从。”",
-        "popularity": 1393
+        "popularity": 1394
     },
     {
         "id": 763,
@@ -1127,7 +1127,7 @@
         "collectible": 1,
         "name": "阿古斯防御者",
         "description": "战吼：使相邻的随从获得+1/+1和嘲讽。",
-        "popularity": 21484
+        "popularity": 21548
     },
     {
         "id": 421,
@@ -1143,7 +1143,7 @@
         "durability": 4,
         "collectible": 1,
         "name": "刺客之刃",
-        "popularity": 2834
+        "popularity": 2838
     },
     {
         "id": 1657,
@@ -1158,7 +1158,7 @@
         "health": 2,
         "name": "王牌猎人",
         "description": "战吼：消灭一个攻击力大于或等于7的随从。",
-        "popularity": 13129
+        "popularity": 13101
     },
     {
         "id": 1167,
@@ -1175,7 +1175,7 @@
         "collectible": 1,
         "name": "奥尔多卫士",
         "description": "战吼：使一个敌方随从的攻击力变为1。",
-        "popularity": 5989
+        "popularity": 6021
     },
     {
         "id": 457,
@@ -1190,7 +1190,7 @@
         "collectible": 1,
         "name": "暴风雪",
         "description": "对所有敌方随从造成2点伤害，并使其冻结。",
-        "popularity": 4996
+        "popularity": 5009
     },
     {
         "id": 1243,
@@ -1204,7 +1204,7 @@
         "classs": 3,
         "name": "关门放狗",
         "description": "战场上每有一个敌方随从，便召唤一个1/1并具有冲锋的猎犬。",
-        "popularity": 6751
+        "popularity": 6780
     },
     {
         "id": 461,
@@ -1219,7 +1219,7 @@
         "collectible": 1,
         "name": "闷棍",
         "description": "将一个敌方随从移回你的对手的手牌。",
-        "popularity": 4893
+        "popularity": 4944
     },
     {
         "id": 308,
@@ -1235,7 +1235,7 @@
         "collectible": 1,
         "name": "侏儒发明家",
         "description": "战吼：抽一张牌。",
-        "popularity": 5402
+        "popularity": 5419
     },
     {
         "id": 8,
@@ -1250,7 +1250,7 @@
         "collectible": 1,
         "name": "精神控制",
         "description": "获得一个敌方随从的控制权。",
-        "popularity": 5170
+        "popularity": 5180
     },
     {
         "id": 134,
@@ -1281,7 +1281,7 @@
         "cost": 1,
         "name": "冰枪术",
         "description": "使一个角色冻结，如果它已经被冻结，则改为对其造成4点伤害。",
-        "popularity": 3670
+        "popularity": 3683
     },
     {
         "id": 906,
@@ -1297,7 +1297,7 @@
         "collectible": 1,
         "name": "酸性沼泽软泥怪",
         "description": "战吼：摧毁对手的武器。",
-        "popularity": 11391
+        "popularity": 11452
     },
     {
         "id": 1522,
@@ -1328,7 +1328,7 @@
         "race": 20,
         "name": "长鬃草原狮",
         "description": "亡语：召唤两个2/2的土狼。",
-        "popularity": 4883
+        "popularity": 4899
     },
     {
         "id": 985,
@@ -1345,7 +1345,7 @@
         "race": 20,
         "name": "恐狼前锋",
         "description": "相邻的随从获得+1攻击力。",
-        "popularity": 6762
+        "popularity": 6819
     },
     {
         "id": 1373,
@@ -1375,7 +1375,7 @@
         "collectible": 1,
         "name": "叫嚣的中士",
         "description": "战吼：本回合中，使一个随从获得+2攻击力。",
-        "popularity": 9846
+        "popularity": 9916
     },
     {
         "id": 1721,
@@ -1391,7 +1391,7 @@
         "elite": 1,
         "name": "希尔瓦娜斯·风行者",
         "description": "亡语：随机获得一个敌方随从的控制权。",
-        "popularity": 13182
+        "popularity": 13355
     },
     {
         "id": 285,
@@ -1408,7 +1408,7 @@
         "collectible": 1,
         "name": "严酷的监工",
         "description": "战吼：对一个随从造成1点伤害，并使其获得+2攻击力。",
-        "popularity": 5436
+        "popularity": 5459
     },
     {
         "id": 505,
@@ -1423,7 +1423,7 @@
         "collectible": 1,
         "name": "闪电箭",
         "description": "造成3点伤害，过载：（1）",
-        "popularity": 4989
+        "popularity": 5035
     },
     {
         "id": 601,
@@ -1440,7 +1440,7 @@
         "collectible": 1,
         "name": "丛林守护者",
         "description": "抉择：造成2点伤害；或者沉默一个随从。",
-        "popularity": 7105
+        "popularity": 7091
     },
     {
         "id": 292,
@@ -1455,7 +1455,7 @@
         "collectible": 1,
         "name": "多重射击",
         "description": "对两个随机敌方随从造成3点伤害。",
-        "popularity": 2732
+        "popularity": 2740
     },
     {
         "id": 37,
@@ -1471,7 +1471,7 @@
         "collectible": 1,
         "name": "小个子召唤师",
         "description": "你每个回合使用的第一张随从牌的法力值消耗减少（1）点。",
-        "popularity": 1136
+        "popularity": 1137
     },
     {
         "id": 754,
@@ -1487,7 +1487,7 @@
         "collectible": 1,
         "name": "破法者",
         "description": "战吼：沉默一个随从。",
-        "popularity": 7261
+        "popularity": 7314
     },
     {
         "id": 459,
@@ -1502,7 +1502,7 @@
         "collectible": 1,
         "name": "致命药膏",
         "description": "使你的武器获得+2攻击力。",
-        "popularity": 6668
+        "popularity": 6711
     },
     {
         "id": 667,
@@ -1517,7 +1517,7 @@
         "collectible": 1,
         "name": "刀扇",
         "description": "对所有敌方随从造成1点伤害，抽一张牌。",
-        "popularity": 4677
+        "popularity": 4730
     },
     {
         "id": 866,
@@ -1533,7 +1533,7 @@
         "collectible": 1,
         "name": "持盾卫士",
         "description": "嘲讽",
-        "popularity": 3076
+        "popularity": 3068
     },
     {
         "id": 860,
@@ -1548,7 +1548,7 @@
         "collectible": 1,
         "name": "感知恶魔",
         "description": "从你的牌库中随机将两张恶魔牌置入你的手牌。",
-        "popularity": 994
+        "popularity": 996
     },
     {
         "id": 1023,
@@ -1563,7 +1563,7 @@
         "collectible": 1,
         "name": "盾牌格挡",
         "description": "获得5点护甲值。 抽一张牌。",
-        "popularity": 4920
+        "popularity": 4972
     },
     {
         "id": 920,
@@ -1579,7 +1579,7 @@
         "collectible": 1,
         "name": "知识古树",
         "description": "抉择：抽一张牌；或者恢复5点生命值。",
-        "popularity": 5404
+        "popularity": 5388
     },
     {
         "id": 1370,
@@ -1594,7 +1594,7 @@
         "health": 7,
         "race": 20,
         "name": "绿洲钳嘴龟",
-        "popularity": 1658
+        "popularity": 1663
     },
     {
         "id": 41,
@@ -1610,7 +1610,7 @@
         "collectible": 1,
         "name": "霜狼步兵",
         "description": "嘲讽",
-        "popularity": 1821
+        "popularity": 1820
     },
     {
         "id": 1014,
@@ -1625,7 +1625,7 @@
         "collectible": 1,
         "name": "狂野炎术师",
         "description": "每当你施放一个法术，对所有随从造成1点伤害。",
-        "popularity": 6866
+        "popularity": 6947
     },
     {
         "id": 257,
@@ -1641,7 +1641,7 @@
         "collectible": 1,
         "name": "剃刀猎手",
         "description": "战吼：召唤一个1/1的野猪。",
-        "popularity": 2915
+        "popularity": 2922
     },
     {
         "id": 859,
@@ -1656,7 +1656,7 @@
         "collectible": 1,
         "name": "扭曲虚空",
         "description": "消灭所有随从。",
-        "popularity": 968
+        "popularity": 984
     },
     {
         "id": 436,
@@ -1674,7 +1674,7 @@
         "race": 24,
         "name": "玛里苟斯",
         "description": "法术伤害+5",
-        "popularity": 2547
+        "popularity": 2560
     },
     {
         "id": 855,
@@ -1690,7 +1690,7 @@
         "collectible": 1,
         "name": "米尔豪斯·法力风暴",
         "description": "战吼：下个回合敌方法术的法力值消耗为（0）点。",
-        "popularity": 509
+        "popularity": 508
     },
     {
         "id": 376,
@@ -1705,7 +1705,7 @@
         "collectible": 1,
         "name": "心灵之火",
         "description": "使一个随从的攻击力等同于其生命值。",
-        "popularity": 2898
+        "popularity": 2903
     },
     {
         "id": 381,
@@ -1720,7 +1720,7 @@
         "collectible": 1,
         "name": "丛林之魂",
         "description": "使你的所有随从获得“亡语：召唤一个2/2的树人。”",
-        "popularity": 1074
+        "popularity": 1072
     },
     {
         "id": 997,
@@ -1736,7 +1736,7 @@
         "collectible": 1,
         "name": "血帆海盗",
         "description": "战吼：使对手的武器失去1点耐久度。",
-        "popularity": 936
+        "popularity": 938
     },
     {
         "id": 570,
@@ -1753,7 +1753,7 @@
         "collectible": 1,
         "name": "工匠大师欧沃斯巴克",
         "description": "战吼：使另一个随机随从变形成为一个5/5的恐龙或一个1/1的松鼠。",
-        "popularity": 2084
+        "popularity": 2086
     },
     {
         "id": 192,
@@ -1768,7 +1768,7 @@
         "collectible": 1,
         "name": "寒冰屏障",
         "description": "奥秘：当你的英雄将要承受致命伤害时，防止这些伤害，并使其在本回合中获得免疫。",
-        "popularity": 3364
+        "popularity": 3369
     },
     {
         "id": 75,
@@ -1783,7 +1783,7 @@
         "collectible": 1,
         "name": "绝命乱斗",
         "description": "随机选择一个随从，消灭除了该随从外的所有其他随从。",
-        "popularity": 3417
+        "popularity": 3467
     },
     {
         "id": 196,
@@ -1797,7 +1797,7 @@
         "collectible": 1,
         "name": "消失",
         "description": "将所有随从移回其拥有者的手牌。",
-        "popularity": 973
+        "popularity": 972
     },
     {
         "id": 1693,
@@ -1814,7 +1814,7 @@
         "race": 20,
         "name": "穆克拉",
         "description": "战吼：使你的对手获得两个香蕉。",
-        "popularity": 1501
+        "popularity": 1502
     },
     {
         "id": 912,
@@ -1831,7 +1831,7 @@
         "collectible": 1,
         "name": "哈里森·琼斯",
         "description": "战吼：摧毁对手的武器，并抽数量等同于其耐久度的牌。",
-        "popularity": 3493
+        "popularity": 3549
     },
     {
         "id": 712,
@@ -1862,7 +1862,7 @@
         "collectible": 1,
         "name": "法力浮龙",
         "description": "每当你施放一个法术，便获得+1攻击力。",
-        "popularity": 6829
+        "popularity": 6862
     },
     {
         "id": 481,
@@ -1877,7 +1877,7 @@
         "collectible": 1,
         "name": "野蛮之击",
         "description": "对一个随从造成等同于你的英雄攻击力的伤害。",
-        "popularity": 333
+        "popularity": 334
     },
     {
         "id": 811,
@@ -1893,7 +1893,7 @@
         "collectible": 1,
         "name": "诅咒教派领袖",
         "description": "每当你的其他随从死亡时，抽一张牌。",
-        "popularity": 3525
+        "popularity": 3537
     },
     {
         "id": 61,
@@ -1909,7 +1909,7 @@
         "collectible": 1,
         "name": "恶毒铁匠",
         "description": "激怒：你的武器获得+2攻击力。",
-        "popularity": 1863
+        "popularity": 1864
     },
     {
         "id": 608,
@@ -1925,7 +1925,7 @@
         "collectible": 1,
         "name": "破碎残阳祭司",
         "description": "战吼：使一个友方随从获得+1/+1。",
-        "popularity": 11032
+        "popularity": 11057
     },
     {
         "id": 462,
@@ -1940,7 +1940,7 @@
         "collectible": 1,
         "name": "以眼还眼",
         "description": "奥秘：当你的英雄受到伤害时，对敌方英雄造成等量伤害。",
-        "popularity": 544
+        "popularity": 545
     },
     {
         "id": 825,
@@ -1957,7 +1957,7 @@
         "collectible": 1,
         "name": "碧蓝幼龙",
         "description": "法术伤害+1，战吼：抽一张牌。",
-        "popularity": 21496
+        "popularity": 21650
     },
     {
         "id": 993,
@@ -1973,7 +1973,7 @@
         "collectible": 1,
         "name": "山岭巨人",
         "description": "你每有一张其他手牌，该牌的法力值消耗便减少（1）点。",
-        "popularity": 3075
+        "popularity": 3085
     },
     {
         "id": 28,
@@ -1989,7 +1989,7 @@
         "classs": 1,
         "name": "库卡隆精英卫士",
         "description": "冲锋",
-        "popularity": 3170
+        "popularity": 3207
     },
     {
         "id": 921,
@@ -2006,7 +2006,7 @@
         "race": 20,
         "name": "丛林猎豹",
         "description": "潜行",
-        "popularity": 2419
+        "popularity": 2421
     },
     {
         "id": 336,
@@ -2023,7 +2023,7 @@
         "collectible": 1,
         "name": "迦顿男爵",
         "description": "在你的回合结束时，对所有其他角色造成2点伤害。",
-        "popularity": 2007
+        "popularity": 2028
     },
     {
         "id": 783,
@@ -2041,7 +2041,7 @@
         "collectible": 1,
         "name": "深渊领主",
         "description": "战吼：对你的英雄造成5点伤害。",
-        "popularity": 504
+        "popularity": 505
     },
     {
         "id": 401,
@@ -2057,7 +2057,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "炽炎战斧",
-        "popularity": 7710
+        "popularity": 7814
     },
     {
         "id": 545,
@@ -2072,7 +2072,7 @@
         "collectible": 1,
         "name": "心灵震爆",
         "description": "对敌方英雄造成5点伤害。",
-        "popularity": 2202
+        "popularity": 2207
     },
     {
         "id": 606,
@@ -2090,7 +2090,7 @@
         "collectible": 1,
         "name": "森林狼",
         "description": "你的其他野兽获得+1攻击力。",
-        "popularity": 4024
+        "popularity": 4033
     },
     {
         "id": 456,
@@ -2107,7 +2107,7 @@
         "collectible": 1,
         "name": "绿皮船长",
         "description": "战吼：使你的武器获得+1/+1。",
-        "popularity": 1270
+        "popularity": 1283
     },
     {
         "id": 389,
@@ -2123,7 +2123,7 @@
         "collectible": 1,
         "name": "精灵弓箭手",
         "description": "战吼：造成1点伤害。",
-        "popularity": 3806
+        "popularity": 3805
     },
     {
         "id": 351,
@@ -2138,7 +2138,7 @@
         "collectible": 1,
         "name": "铸剑师",
         "description": "在你的回合结束时，使另一个随机友方随从获得+1攻击力。",
-        "popularity": 1448
+        "popularity": 1447
     },
     {
         "id": 338,
@@ -2156,7 +2156,7 @@
         "collectible": 1,
         "name": "格罗玛什·地狱咆哮",
         "description": "冲锋 激怒：+6攻击力",
-        "popularity": 3780
+        "popularity": 3832
     },
     {
         "id": 211,
@@ -2172,7 +2172,7 @@
         "collectible": 1,
         "name": "海巨人",
         "description": "战场上每有一个其他随从，该牌的法力值消耗便减少（1）点。",
-        "popularity": 2317
+        "popularity": 2354
     },
     {
         "id": 631,
@@ -2190,7 +2190,7 @@
         "collectible": 1,
         "name": "末日守卫",
         "description": "冲锋，战吼：随机弃两张牌。",
-        "popularity": 4268
+        "popularity": 4273
     },
     {
         "id": 32,
@@ -2207,7 +2207,7 @@
         "collectible": 1,
         "name": "风领主奥拉基尔",
         "description": "风怒，冲锋，圣盾，嘲讽",
-        "popularity": 1929
+        "popularity": 1935
     },
     {
         "id": 654,
@@ -2224,7 +2224,7 @@
         "collectible": 1,
         "name": "暴乱狂战士",
         "description": "每当一个随从受到伤害，便获得+1攻击力。",
-        "popularity": 3813
+        "popularity": 3844
     },
     {
         "id": 503,
@@ -2239,7 +2239,7 @@
         "collectible": 1,
         "name": "野性之力",
         "description": "抉择：使你的随从获得+1/+1；或者召唤一个3/2的猎豹。",
-        "popularity": 2982
+        "popularity": 2996
     },
     {
         "id": 950,
@@ -2254,7 +2254,7 @@
         "collectible": 1,
         "name": "地狱烈焰",
         "description": "对所有角色造成3点伤害。",
-        "popularity": 5123
+        "popularity": 5143
     },
     {
         "id": 525,
@@ -2270,7 +2270,7 @@
         "collectible": 1,
         "name": "大法师",
         "description": "法术伤害+1",
-        "popularity": 2030
+        "popularity": 2035
     },
     {
         "id": 445,
@@ -2286,7 +2286,7 @@
         "collectible": 1,
         "name": "鲁莽火箭兵",
         "description": "冲锋",
-        "popularity": 1854
+        "popularity": 1855
     },
     {
         "id": 613,
@@ -2301,7 +2301,7 @@
         "collectible": 1,
         "name": "真言术：盾",
         "description": "使一个随从获得+2生命值。 抽一张牌。",
-        "popularity": 9399
+        "popularity": 9474
     },
     {
         "id": 555,
@@ -2316,7 +2316,7 @@
         "collectible": 1,
         "name": "奥术智慧",
         "description": "抽两张牌。",
-        "popularity": 8657
+        "popularity": 8699
     },
     {
         "id": 95,
@@ -2331,7 +2331,7 @@
         "collectible": 1,
         "name": "滋养",
         "description": "抉择：获得两个法力水晶；或者抽三张牌。",
-        "popularity": 2232
+        "popularity": 2271
     },
     {
         "id": 1688,
@@ -2347,7 +2347,7 @@
         "race": 20,
         "name": "愤怒的小鸡",
         "description": "激怒：+5攻击力。",
-        "popularity": 788
+        "popularity": 792
     },
     {
         "id": 145,
@@ -2362,7 +2362,7 @@
         "collectible": 1,
         "name": "控心术",
         "description": "随机复制对手的牌库中的一张随从牌，并将该随从置入战场。",
-        "popularity": 857
+        "popularity": 858
     },
     {
         "id": 559,
@@ -2379,7 +2379,7 @@
         "collectible": 1,
         "name": "火车王里诺艾",
         "description": "冲锋，战吼：为你的对手召唤两只1/1的雏龙。",
-        "popularity": 7550
+        "popularity": 7609
     },
     {
         "id": 768,
@@ -2395,7 +2395,7 @@
         "collectible": 1,
         "name": "古拉巴什狂暴者",
         "description": "每当该随从受到伤害，便获得+3攻击力。",
-        "popularity": 4345
+        "popularity": 4359
     },
     {
         "id": 178,
@@ -2412,7 +2412,7 @@
         "collectible": 1,
         "name": "风语者",
         "description": "战吼：使一个友方随从获得风怒。",
-        "popularity": 1503
+        "popularity": 1506
     },
     {
         "id": 886,
@@ -2429,7 +2429,7 @@
         "health": 5,
         "name": "光耀之子",
         "description": "该随从的攻击力等同于其生命值。",
-        "popularity": 2376
+        "popularity": 2380
     },
     {
         "id": 512,
@@ -2445,7 +2445,7 @@
         "collectible": 1,
         "name": "冰霜元素",
         "description": "战吼：冻结一个角色。",
-        "popularity": 1815
+        "popularity": 1817
     },
     {
         "id": 30,
@@ -2460,7 +2460,7 @@
         "collectible": 1,
         "name": "思维窃取",
         "description": "复制对手的牌库中的两张牌，并将其置入你的手牌。",
-        "popularity": 5139
+        "popularity": 5147
     },
     {
         "id": 1281,
@@ -2477,7 +2477,7 @@
         "race": 20,
         "name": "食腐土狼",
         "description": "每当一个友方野兽死亡时，便获得+2/+1。",
-        "popularity": 3049
+        "popularity": 3058
     },
     {
         "id": 1117,
@@ -2494,7 +2494,7 @@
         "collectible": 1,
         "name": "军情七处特工",
         "description": "连击：造成2点伤害。",
-        "popularity": 5654
+        "popularity": 5702
     },
     {
         "id": 9,
@@ -2512,7 +2512,7 @@
         "collectible": 1,
         "name": "先知维伦",
         "description": "使你的法术牌和英雄技能的伤害和治疗效果翻倍。",
-        "popularity": 1508
+        "popularity": 1513
     },
     {
         "id": 974,
@@ -2527,7 +2527,7 @@
         "collectible": 1,
         "name": "灵魂之火",
         "description": "造成4点伤害，随机弃一张牌。",
-        "popularity": 5713
+        "popularity": 5723
     },
     {
         "id": 995,
@@ -2543,7 +2543,7 @@
         "collectible": 1,
         "name": "食人魔法师",
         "description": "法术伤害+1",
-        "popularity": 2809
+        "popularity": 2816
     },
     {
         "id": 475,
@@ -2560,7 +2560,7 @@
         "collectible": 1,
         "name": "鱼人招潮者",
         "description": "每当有玩家召唤一个鱼人，便获得+1攻击力。",
-        "popularity": 2211
+        "popularity": 2220
     },
     {
         "id": 493,
@@ -2575,7 +2575,7 @@
         "collectible": 1,
         "name": "自然之力",
         "description": "召唤三个2/2的树人。",
-        "popularity": 4341
+        "popularity": 4323
     },
     {
         "id": 1186,
@@ -2593,7 +2593,7 @@
         "race": 24,
         "name": "伊瑟拉",
         "description": "在你的回合结束时，将一张梦境牌置入你的手牌。",
-        "popularity": 6491
+        "popularity": 6516
     },
     {
         "id": 748,
@@ -2610,7 +2610,7 @@
         "collectible": 1,
         "name": "肯瑞托法师",
         "description": "战吼：在本回合中，你使用的下一个奥秘的法力值消耗为（0）点。",
-        "popularity": 1918
+        "popularity": 1925
     },
     {
         "id": 765,
@@ -2642,7 +2642,7 @@
         "collectible": 1,
         "name": "霜狼督军",
         "description": "战吼：战场上每有一个其他友方随从，便获得+1/+1。",
-        "popularity": 3771
+        "popularity": 3783
     },
     {
         "id": 614,
@@ -2659,7 +2659,7 @@
         "collectible": 1,
         "name": "巫师学徒",
         "description": "你的法术的法力值消耗减少（1）点。",
-        "popularity": 5306
+        "popularity": 5330
     },
     {
         "id": 1365,
@@ -2673,7 +2673,7 @@
         "classs": 5,
         "name": "神圣之火",
         "description": "造成5点伤害。为你的英雄恢复5点生命值。",
-        "popularity": 3985
+        "popularity": 3990
     },
     {
         "id": 715,
@@ -2689,7 +2689,7 @@
         "collectible": 1,
         "name": "法力怨魂",
         "description": "召唤所有随从的法力值消耗增加（1）点。",
-        "popularity": 447
+        "popularity": 449
     },
     {
         "id": 757,
@@ -2705,7 +2705,7 @@
         "collectible": 1,
         "name": "银色侍从",
         "description": "圣盾",
-        "popularity": 9214
+        "popularity": 9310
     },
     {
         "id": 605,
@@ -2721,7 +2721,7 @@
         "collectible": 1,
         "name": "上古看守者",
         "description": "无法攻击。",
-        "popularity": 3857
+        "popularity": 3856
     },
     {
         "id": 284,
@@ -2737,7 +2737,7 @@
         "collectible": 1,
         "name": "工程师学徒",
         "description": "战吼：抽一张牌。",
-        "popularity": 7448
+        "popularity": 7461
     },
     {
         "id": 648,
@@ -2754,7 +2754,7 @@
         "collectible": 1,
         "name": "石牙野猪",
         "description": "冲锋",
-        "popularity": 2769
+        "popularity": 2773
     },
     {
         "id": 149,
@@ -2769,7 +2769,7 @@
         "collectible": 1,
         "name": "先祖治疗",
         "description": "为一个随从恢复所有生命值并使其获得嘲讽。",
-        "popularity": 984
+        "popularity": 986
     },
     {
         "id": 304,
@@ -2785,7 +2785,7 @@
         "durability": 2,
         "collectible": 1,
         "name": "奥金斧",
-        "popularity": 3162
+        "popularity": 3193
     },
     {
         "id": 1155,
@@ -2801,7 +2801,7 @@
         "collectible": 1,
         "name": "暴怒的狼人",
         "description": "激怒：+1攻击力并具有风怒",
-        "popularity": 4292
+        "popularity": 4306
     },
     {
         "id": 1651,
@@ -2816,7 +2816,7 @@
         "health": 3,
         "name": "大地之环先知",
         "description": "战吼：恢复3点生命值。",
-        "popularity": 9021
+        "popularity": 9097
     },
     {
         "id": 363,
@@ -2834,7 +2834,7 @@
         "collectible": 1,
         "name": "奥妮克希亚",
         "description": "战吼：召唤数个1/1的雏龙，直到你的随从数量达到上限。",
-        "popularity": 1034
+        "popularity": 1040
     },
     {
         "id": 573,
@@ -2849,7 +2849,7 @@
         "collectible": 1,
         "name": "毒刃",
         "description": "造成1点伤害，抽一张牌。",
-        "popularity": 3147
+        "popularity": 3174
     },
     {
         "id": 755,
@@ -2865,7 +2865,7 @@
         "collectible": 1,
         "name": "血骑士",
         "description": "战吼：所有随从失去圣盾。每有一个随从失去圣盾，便获得+3/+3。",
-        "popularity": 2319
+        "popularity": 2326
     },
     {
         "id": 279,
@@ -2880,7 +2880,7 @@
         "collectible": 1,
         "name": "神圣惩击",
         "description": "造成2点伤害。",
-        "popularity": 4897
+        "popularity": 4904
     },
     {
         "id": 435,
@@ -2895,7 +2895,7 @@
         "collectible": 1,
         "name": "神圣愤怒",
         "description": "抽一张牌，并造成等同于其法力值消耗的伤害。",
-        "popularity": 455
+        "popularity": 457
     },
     {
         "id": 339,
@@ -2911,7 +2911,7 @@
         "collectible": 1,
         "name": "铁炉堡火枪手",
         "description": "战吼：造成1点伤害。",
-        "popularity": 1068
+        "popularity": 1067
     },
     {
         "id": 739,
@@ -2928,7 +2928,7 @@
         "collectible": 1,
         "name": "蓝腮战士",
         "description": "冲锋",
-        "popularity": 4741
+        "popularity": 4749
     },
     {
         "id": 400,
@@ -2943,7 +2943,7 @@
         "collectible": 1,
         "name": "战斗怒火",
         "description": "每有一个受伤的友方角色，便抽一张牌。",
-        "popularity": 2248
+        "popularity": 2295
     },
     {
         "id": 670,
@@ -2959,7 +2959,7 @@
         "collectible": 1,
         "name": "夜刃刺客",
         "description": "战吼：对敌方英雄造成3点伤害。",
-        "popularity": 1689
+        "popularity": 1686
     },
     {
         "id": 415,
@@ -2975,7 +2975,7 @@
         "collectible": 1,
         "name": "年轻的酒仙",
         "description": "战吼：使一个友方随从从战场上移回你的手牌。",
-        "popularity": 3477
+        "popularity": 3476
     },
     {
         "id": 1656,
@@ -2991,7 +2991,7 @@
         "elite": 1,
         "name": "黑骑士",
         "description": "战吼：消灭一个具有嘲讽的敌方随从。",
-        "popularity": 5948
+        "popularity": 5968
     },
     {
         "id": 1142,
@@ -3006,7 +3006,7 @@
         "collectible": 1,
         "name": "恶魔之火",
         "description": "对一个随从造成2点伤害，如果该随从是友方恶魔，则改为使其获得+2/+2。",
-        "popularity": 2096
+        "popularity": 2095
     },
     {
         "id": 140,
@@ -3021,7 +3021,7 @@
         "collectible": 1,
         "name": "救赎",
         "description": "奥秘：当一个你的随从死亡时，使其回到战场，并具有1点生命值。",
-        "popularity": 2192
+        "popularity": 2188
     },
     {
         "id": 777,
@@ -3039,7 +3039,7 @@
         "collectible": 1,
         "name": "加拉克苏斯大王",
         "description": "战吼：消灭你的英雄，并用加拉克苏斯大王替换他。",
-        "popularity": 3315
+        "popularity": 3323
     },
     {
         "id": 268,
@@ -3054,7 +3054,7 @@
         "collectible": 1,
         "name": "冷血",
         "description": "使一个随从获得+2攻击力；连击：改为获得+4攻击力。",
-        "popularity": 3459
+        "popularity": 3488
     },
     {
         "id": 1655,
@@ -3069,7 +3069,7 @@
         "health": 2,
         "name": "圣光护卫者",
         "description": "每当一个角色获得治疗，便获得+2攻击力。",
-        "popularity": 1384
+        "popularity": 1386
     },
     {
         "id": 1634,
@@ -3084,7 +3084,7 @@
         "health": 1,
         "name": "年轻的女祭司",
         "description": "在你的回合结束时，使另一个随机友方随从获得+1生命值。",
-        "popularity": 2802
+        "popularity": 2804
     },
     {
         "id": 1658,
@@ -3100,7 +3100,7 @@
         "race": 17,
         "name": "报警机器人",
         "description": "在你的回合开始时，随机将你的手牌中的一张随从牌与该随从交换。",
-        "popularity": 761
+        "popularity": 762
     },
     {
         "id": 791,
@@ -3116,7 +3116,7 @@
         "collectible": 1,
         "name": "任务达人",
         "description": "每当你使用一张牌时，便获得+1/+1。",
-        "popularity": 2605
+        "popularity": 2606
     },
     {
         "id": 12,
@@ -3132,7 +3132,7 @@
         "collectible": 1,
         "name": "魔瘾者",
         "description": "在本回合中，每当你施放一个法术，便获得+2攻击力。",
-        "popularity": 1005
+        "popularity": 1009
     },
     {
         "id": 281,
@@ -3148,7 +3148,7 @@
         "collectible": 1,
         "name": "银色指挥官",
         "description": "冲锋 圣盾。",
-        "popularity": 10201
+        "popularity": 10204
     },
     {
         "id": 672,
@@ -3164,7 +3164,7 @@
         "collectible": 1,
         "name": "狗头人地卜师",
         "description": "法术伤害+1",
-        "popularity": 4147
+        "popularity": 4156
     },
     {
         "id": 36,
@@ -3182,7 +3182,7 @@
         "collectible": 1,
         "name": "塞纳留斯",
         "description": "抉择：使你的所有其他随从获得+2/+2；或者召唤两个2/2并具有嘲讽的树人。",
-        "popularity": 2270
+        "popularity": 2281
     },
     {
         "id": 45,
@@ -3213,7 +3213,7 @@
         "collectible": 1,
         "name": "爆炸陷阱",
         "description": "奥秘：当你的英雄受到攻击，对所有敌人造成2点伤害。",
-        "popularity": 5506
+        "popularity": 5522
     },
     {
         "id": 640,
@@ -3229,7 +3229,7 @@
         "collectible": 1,
         "name": "霍格",
         "description": "在你的回合结束时，召唤一个2/2并具有嘲讽的豺狼人。",
-        "popularity": 1794
+        "popularity": 1795
     },
     {
         "id": 1124,
@@ -3244,7 +3244,7 @@
         "collectible": 1,
         "name": "野性成长",
         "description": "获得一个空的法力水晶。",
-        "popularity": 4785
+        "popularity": 4819
     },
     {
         "id": 630,
@@ -3259,7 +3259,7 @@
         "collectible": 1,
         "name": "疾跑",
         "description": "抽四张牌。",
-        "popularity": 2719
+        "popularity": 2714
     },
     {
         "id": 887,
@@ -3275,7 +3275,7 @@
         "classs": 4,
         "name": "伪装大师",
         "description": "战吼：直到你的下个回合，使一个友方随从获得潜行。",
-        "popularity": 501
+        "popularity": 488
     },
     {
         "id": 692,
@@ -3292,7 +3292,7 @@
         "collectible": 1,
         "name": "利爪德鲁伊",
         "description": "抉择：冲锋；或者+2生命值并具有嘲讽。",
-        "popularity": 7239
+        "popularity": 7274
     },
     {
         "id": 237,
@@ -3309,7 +3309,7 @@
         "collectible": 1,
         "name": "奥金尼灵魂祭司",
         "description": "你的恢复生命值的牌和技能改为造成等量的伤害。",
-        "popularity": 4646
+        "popularity": 4688
     },
     {
         "id": 903,
@@ -3324,7 +3324,7 @@
         "collectible": 1,
         "name": "狂野怒火",
         "description": "在本回合中，使一只友方野兽获得+2攻击力并具有免疫。",
-        "popularity": 574
+        "popularity": 575
     },
     {
         "id": 239,
@@ -3339,7 +3339,7 @@
         "collectible": 1,
         "name": "石化武器",
         "description": "在本回合中，使一个友方角色获得+3攻击力。",
-        "popularity": 6659
+        "popularity": 6731
     },
     {
         "id": 1241,
@@ -3356,7 +3356,7 @@
         "race": 20,
         "name": "饥饿的秃鹫",
         "description": "每当你召唤一个野兽，抽一张牌。",
-        "popularity": 3924
+        "popularity": 3929
     },
     {
         "id": 1084,
@@ -3371,7 +3371,7 @@
         "collectible": 1,
         "name": "镜像",
         "description": "召唤两个0/2，并具有嘲讽的随从。",
-        "popularity": 5765
+        "popularity": 5785
     },
     {
         "id": 982,
@@ -3386,7 +3386,7 @@
         "collectible": 1,
         "name": "腐蚀术",
         "description": "选择一个敌方随从，在你的回合开始时，消灭该随从。",
-        "popularity": 891
+        "popularity": 890
     },
     {
         "id": 1158,
@@ -3401,7 +3401,7 @@
         "collectible": 1,
         "name": "伺机待发",
         "description": "在本回合中，你所施放的下一个法术的法力值消耗减少（3）点。",
-        "popularity": 3434
+        "popularity": 3464
     },
     {
         "id": 420,
@@ -3418,7 +3418,7 @@
         "collectible": 1,
         "name": "凯恩·血蹄",
         "description": "亡语：召唤一个4/5的贝恩·血蹄。",
-        "popularity": 6131
+        "popularity": 6183
     },
     {
         "id": 804,
@@ -3433,7 +3433,7 @@
         "collectible": 1,
         "name": "致死打击",
         "description": "造成4点伤害；如果你的生命值小于或等于12点，则改为造成6点伤害。",
-        "popularity": 1336
+        "popularity": 1345
     },
     {
         "id": 896,
@@ -3448,7 +3448,7 @@
         "collectible": 1,
         "name": "照明弹",
         "description": "所有随从失去潜行，摧毁所有敌方奥秘，抽一张牌。",
-        "popularity": 2349
+        "popularity": 2347
     },
     {
         "id": 69,
@@ -3481,7 +3481,7 @@
         "collectible": 1,
         "name": "列王守卫",
         "description": "战吼：为你的英雄恢复6点生命值。",
-        "popularity": 4166
+        "popularity": 4173
     },
     {
         "id": 186,
@@ -3497,7 +3497,7 @@
         "collectible": 1,
         "name": "年迈的酒仙",
         "description": "战吼：使一个友方随从从战场上移回你的手牌。",
-        "popularity": 1790
+        "popularity": 1789
     },
     {
         "id": 641,
@@ -3514,7 +3514,7 @@
         "race": 20,
         "name": "幼龙鹰",
         "description": "风怒",
-        "popularity": 1109
+        "popularity": 1110
     },
     {
         "id": 971,
@@ -3529,7 +3529,7 @@
         "collectible": 1,
         "name": "冰霜震击",
         "description": "对一个敌方角色造成1点伤害，并使其冻结。",
-        "popularity": 703
+        "popularity": 701
     },
     {
         "id": 773,
@@ -3544,7 +3544,7 @@
         "collectible": 1,
         "name": "治疗之触",
         "description": "恢复8点生命值。",
-        "popularity": 2141
+        "popularity": 2142
     },
     {
         "id": 1122,
@@ -3560,7 +3560,7 @@
         "collectible": 1,
         "name": "风险投资公司雇佣兵",
         "description": "你的随从牌的法力值消耗增加（3）点。",
-        "popularity": 2114
+        "popularity": 2118
     },
     {
         "id": 163,
@@ -3589,7 +3589,7 @@
         "collectible": 1,
         "name": "末日灾祸",
         "description": "对一个角色造成2点伤害，如果末日灾祸杀死该角色，随机召唤一个恶魔。",
-        "popularity": 1079
+        "popularity": 1085
     },
     {
         "id": 440,
@@ -3605,7 +3605,7 @@
         "collectible": 1,
         "name": "憎恶",
         "description": "嘲讽，亡语：对所有角色造成2点伤害。",
-        "popularity": 2382
+        "popularity": 2386
     },
     {
         "id": 397,
@@ -3621,7 +3621,7 @@
         "collectible": 1,
         "name": "腐肉食尸鬼",
         "description": "每当一个随从死亡，便获得+1攻击力。",
-        "popularity": 2148
+        "popularity": 2150
     },
     {
         "id": 251,
@@ -3637,7 +3637,7 @@
         "collectible": 1,
         "name": "战利品贮藏者",
         "description": "亡语：抽一张牌。",
-        "popularity": 11219
+        "popularity": 11286
     },
     {
         "id": 282,
@@ -3670,7 +3670,7 @@
         "race": 20,
         "name": "比斯巨兽",
         "description": "亡语：为你的对手召唤1个3/3的芬克·恩霍尔。",
-        "popularity": 719
+        "popularity": 720
     },
     {
         "id": 1090,
@@ -3688,7 +3688,7 @@
         "collectible": 1,
         "name": "烈焰小鬼",
         "description": "战吼：对你的英雄造成3点伤害。",
-        "popularity": 5097
+        "popularity": 5137
     },
     {
         "id": 519,
@@ -3703,7 +3703,7 @@
         "collectible": 1,
         "name": "冰冻陷阱",
         "description": "奥秘：当一个敌方随从进攻时，将其移回其拥有者的手中，并使其法力值消耗增加（2）点。",
-        "popularity": 3751
+        "popularity": 3757
     },
     {
         "id": 724,
@@ -3720,7 +3720,7 @@
         "race": 23,
         "name": "南海船工",
         "description": "当你装备一把武器时，该随从获得冲锋。",
-        "popularity": 2809
+        "popularity": 2833
     },
     {
         "id": 216,
@@ -3736,7 +3736,7 @@
         "collectible": 1,
         "race": 20,
         "name": "血沼迅猛龙",
-        "popularity": 3023
+        "popularity": 3037
     },
     {
         "id": 940,
@@ -3751,7 +3751,7 @@
         "collectible": 1,
         "name": "顺劈斩",
         "description": "对两个随机敌方随从造成2点伤害。",
-        "popularity": 2190
+        "popularity": 2195
     },
     {
         "id": 602,
@@ -3767,7 +3767,7 @@
         "collectible": 1,
         "name": "沼泽爬行者",
         "description": "嘲讽",
-        "popularity": 2298
+        "popularity": 2304
     },
     {
         "id": 823,
@@ -3782,7 +3782,7 @@
         "collectible": 1,
         "name": "星火术",
         "description": "造成5点伤害。 抽一张牌。",
-        "popularity": 2502
+        "popularity": 2507
     },
     {
         "id": 922,
@@ -3798,7 +3798,7 @@
         "collectible": 1,
         "name": "闪金镇步兵",
         "description": "嘲讽",
-        "popularity": 2281
+        "popularity": 2284
     },
     {
         "id": 374,
@@ -3815,7 +3815,7 @@
         "collectible": 1,
         "name": "炎魔之王拉格纳罗斯",
         "description": "无法攻击。在你的回合结束时，对一个随机敌人造成8点伤害。",
-        "popularity": 11375
+        "popularity": 11450
     },
     {
         "id": 1108,
@@ -3830,7 +3830,7 @@
         "collectible": 1,
         "name": "狂暴",
         "description": "使一个受伤的随从获得+3/+3。",
-        "popularity": 1377
+        "popularity": 1386
     },
     {
         "id": 567,
@@ -3863,7 +3863,7 @@
         "quality": 1,
         "name": "荆棘谷猛虎",
         "description": "潜行",
-        "popularity": 2928
+        "popularity": 2932
     },
     {
         "id": 1362,
@@ -3877,7 +3877,7 @@
         "classs": 5,
         "name": "治疗之环",
         "description": "为所有随从恢复4点生命值。",
-        "popularity": 4988
+        "popularity": 5035
     },
     {
         "id": 455,
@@ -3892,7 +3892,7 @@
         "collectible": 1,
         "name": "毒蛇陷阱",
         "description": "奥秘：当你的随从受到攻击时，召唤3条1/1的蛇。",
-        "popularity": 2160
+        "popularity": 2164
     },
     {
         "id": 272,
@@ -3909,7 +3909,7 @@
         "collectible": 1,
         "name": "秘教暗影祭司",
         "description": "战吼：获得一个攻击力小于或等于2的敌方随从的控制权。",
-        "popularity": 4134
+        "popularity": 4184
     },
     {
         "id": 511,
@@ -3924,7 +3924,7 @@
         "collectible": 1,
         "name": "升级！",
         "description": "如果你装备一把武器，使它获得+1/+1。否则，装备一把1/3的武器。",
-        "popularity": 1128
+        "popularity": 1148
     },
     {
         "id": 546,
@@ -3939,7 +3939,7 @@
         "collectible": 1,
         "name": "盾牌猛击",
         "description": "你每有1点护甲值，便对一个随从造成1点伤害。",
-        "popularity": 3414
+        "popularity": 3464
     },
     {
         "id": 51,
@@ -3954,7 +3954,7 @@
         "collectible": 1,
         "name": "风怒",
         "description": "使一个随从获得风怒。",
-        "popularity": 1453
+        "popularity": 1454
     },
     {
         "id": 1147,
@@ -3971,7 +3971,7 @@
         "collectible": 1,
         "name": "纳特·帕格",
         "description": "在你的回合开始时，你有50%的几率额外抽一张牌。",
-        "popularity": 2691
+        "popularity": 2690
     },
     {
         "id": 1003,
@@ -3988,7 +3988,7 @@
         "collectible": 1,
         "name": "驯兽师",
         "description": "战吼：使一个友方野兽获得+2/+2并获得嘲讽。",
-        "popularity": 4789
+        "popularity": 4815
     },
     {
         "id": 395,
@@ -4005,7 +4005,7 @@
         "collectible": 1,
         "name": "水元素",
         "description": "冻结任何受到该随从伤害的角色。",
-        "popularity": 5542
+        "popularity": 5574
     },
     {
         "id": 1662,
@@ -4021,7 +4021,7 @@
         "classs": 3,
         "name": "鹰角弓",
         "description": "每当有一张你的奥秘牌被揭示时，便获得+1耐久度。",
-        "popularity": 5308
+        "popularity": 5330
     },
     {
         "id": 1080,
@@ -4039,7 +4039,7 @@
         "collectible": 1,
         "name": "大法师安东尼达斯",
         "description": "每当你施放一个法术，将一张“火球术”法术牌置入你的手牌。",
-        "popularity": 3818
+        "popularity": 3831
     },
     {
         "id": 296,
@@ -4054,7 +4054,7 @@
         "collectible": 1,
         "name": "杀戮命令",
         "description": "造成3点伤害。如果你控制任何野兽，则改为造成5点伤害。",
-        "popularity": 7235
+        "popularity": 7267
     },
     {
         "id": 513,
@@ -4072,7 +4072,7 @@
         "race": 21,
         "name": "法力之潮图腾",
         "description": "在你的回合结束时，抽一张牌。",
-        "popularity": 4149
+        "popularity": 4193
     },
     {
         "id": 919,
@@ -4087,7 +4087,7 @@
         "collectible": 1,
         "name": "吸取生命",
         "description": "造成2点伤害，为你的英雄恢复2点生命值。",
-        "popularity": 1765
+        "popularity": 1771
     },
     {
         "id": 138,
@@ -4102,7 +4102,7 @@
         "collectible": 1,
         "name": "末日预言者",
         "description": "在你的回合开始时，消灭所有随从。",
-        "popularity": 2924
+        "popularity": 3002
     },
     {
         "id": 582,
@@ -4118,7 +4118,7 @@
         "collectible": 1,
         "name": "暗鳞治愈者",
         "description": "战吼：为所有友方角色恢复2点生命值。",
-        "popularity": 3542
+        "popularity": 3560
     },
     {
         "id": 1368,
@@ -4132,7 +4132,7 @@
         "classs": 5,
         "name": "暗影形态",
         "description": "你的英雄技能变为“造成2点伤害”，如果已经处于暗影形态下：改为“造成3点伤害”。",
-        "popularity": 811
+        "popularity": 810
     },
     {
         "id": 587,
@@ -4147,7 +4147,7 @@
         "collectible": 1,
         "name": "冰霜新星",
         "description": "冻结所有敌方随从。",
-        "popularity": 3768
+        "popularity": 3781
     },
     {
         "id": 195,
@@ -4162,7 +4162,7 @@
         "collectible": 1,
         "name": "镜像实体",
         "description": "奥秘：在你的对手打出一张随从牌后，召唤一个该随从的复制。",
-        "popularity": 4168
+        "popularity": 4163
     },
     {
         "id": 113,
@@ -4177,7 +4177,7 @@
         "collectible": 1,
         "name": "法术反制",
         "description": "奥秘：当你的对手施放法术时，反制该法术。",
-        "popularity": 2601
+        "popularity": 2595
     },
     {
         "id": 1653,
@@ -4191,7 +4191,7 @@
         "attack": 5,
         "health": 1,
         "name": "岩浆暴怒者",
-        "popularity": 389
+        "popularity": 388
     },
     {
         "id": 289,
@@ -4207,7 +4207,7 @@
         "collectible": 1,
         "name": "狼骑兵",
         "description": "冲锋",
-        "popularity": 5039
+        "popularity": 5051
     },
     {
         "id": 858,
@@ -4239,7 +4239,7 @@
         "collectible": 1,
         "name": "怒火中烧",
         "description": "对一个随从造成1点伤害，该随从获得+2攻击力。",
-        "popularity": 2938
+        "popularity": 2965
     },
     {
         "id": 1007,
@@ -4254,7 +4254,7 @@
         "collectible": 1,
         "name": "英勇打击",
         "description": "在本回合中，使你的英雄获得+4攻击力。",
-        "popularity": 1890
+        "popularity": 1907
     },
     {
         "id": 352,
@@ -4271,7 +4271,7 @@
         "collectible": 1,
         "name": "毁灭之锤",
         "description": "风怒，过载：（2）",
-        "popularity": 2658
+        "popularity": 2723
     },
     {
         "id": 1047,
@@ -4286,7 +4286,7 @@
         "collectible": 1,
         "name": "追踪术",
         "description": "检视你的牌库顶的三张牌，将其中一张置入手牌，弃掉其余牌。",
-        "popularity": 2810
+        "popularity": 2814
     },
     {
         "id": 315,
@@ -4301,7 +4301,7 @@
         "collectible": 1,
         "name": "火球术",
         "description": "造成6点伤害。",
-        "popularity": 11696
+        "popularity": 11740
     },
     {
         "id": 1140,
@@ -4317,7 +4317,7 @@
         "collectible": 1,
         "name": "藏宝海湾保镖",
         "description": "嘲讽",
-        "popularity": 1891
+        "popularity": 1897
     },
     {
         "id": 642,
@@ -4333,7 +4333,7 @@
         "collectible": 1,
         "name": "血色十字军战士",
         "description": "圣盾",
-        "popularity": 3846
+        "popularity": 3851
     },
     {
         "id": 132,
@@ -4349,7 +4349,7 @@
         "collectible": 1,
         "name": "巫医",
         "description": "战吼：恢复2点生命值。",
-        "popularity": 2796
+        "popularity": 2804
     },
     {
         "id": 914,
@@ -4364,7 +4364,7 @@
         "collectible": 1,
         "name": "暗影箭",
         "description": "对一个随从造成4点伤害。",
-        "popularity": 2821
+        "popularity": 2856
     },
     {
         "id": 1737,
@@ -4381,7 +4381,7 @@
         "elite": 0,
         "name": "虚灵奥术师",
         "description": "如果在你的回合结束时，你控制任何奥秘，该随从便获得+2/+2。",
-        "popularity": 1187
+        "popularity": 1188
     },
     {
         "id": 621,
@@ -4396,7 +4396,7 @@
         "collectible": 1,
         "name": "寒冰护体",
         "description": "奥秘：当你的英雄受到攻击时，获得8点护甲值。",
-        "popularity": 3265
+        "popularity": 3277
     },
     {
         "id": 846,
@@ -4411,7 +4411,7 @@
         "collectible": 1,
         "name": "力量的代价",
         "description": "使一个友方随从获得+4/+4，在回合结束时，将其消灭。",
-        "popularity": 5863
+        "popularity": 5906
     },
     {
         "id": 592,
@@ -4429,7 +4429,7 @@
         "collectible": 1,
         "name": "魅魔",
         "description": "战吼：随机弃一张牌。",
-        "popularity": 835
+        "popularity": 836
     },
     {
         "id": 1098,
@@ -4461,7 +4461,7 @@
         "collectible": 1,
         "name": "致命射击",
         "description": "随机消灭一个敌方随从。",
-        "popularity": 3109
+        "popularity": 3123
     },
     {
         "id": 1050,
@@ -4476,7 +4476,7 @@
         "collectible": 1,
         "name": "爪击",
         "description": "使你的英雄获得2点护甲值，并在本回合中获得+2攻击力。",
-        "popularity": 2995
+        "popularity": 2999
     },
     {
         "id": 394,
@@ -4491,7 +4491,7 @@
         "collectible": 1,
         "name": "爆炸射击",
         "description": "对一个随从造成5点伤害，并对其相邻的随从造成2点伤害。",
-        "popularity": 1856
+        "popularity": 1857
     },
     {
         "id": 1174,
@@ -4506,7 +4506,7 @@
         "collectible": 1,
         "name": "复仇之怒",
         "description": "造成8点伤害，随机分配到所有敌人身上。",
-        "popularity": 2883
+        "popularity": 2885
     },
     {
         "id": 1022,
@@ -4523,7 +4523,7 @@
         "collectible": 1,
         "name": "银色保卫者",
         "description": "战吼：使一个其他友方随从获得圣盾。",
-        "popularity": 4636
+        "popularity": 4652
     },
     {
         "id": 517,
@@ -4557,7 +4557,7 @@
         "classs": 5,
         "name": "北郡牧师",
         "description": "每当一个随从获得治疗时，抽一张牌。",
-        "popularity": 9164
+        "popularity": 9233
     },
     {
         "id": 658,
@@ -4573,7 +4573,7 @@
         "collectible": 1,
         "name": "麻疯侏儒",
         "description": "亡语：对敌方英雄造成2点伤害。",
-        "popularity": 11554
+        "popularity": 11527
     },
     {
         "id": 189,
@@ -4590,7 +4590,7 @@
         "collectible": 1,
         "name": "火元素",
         "description": "战吼：造成3点伤害。",
-        "popularity": 6316
+        "popularity": 6350
     },
     {
         "id": 814,
@@ -4605,7 +4605,7 @@
         "collectible": 1,
         "name": "狙击",
         "description": "奥秘：在你的对手打出一张随从牌后，对该随从造成4点伤害。",
-        "popularity": 1526
+        "popularity": 1532
     },
     {
         "id": 680,
@@ -4621,7 +4621,7 @@
         "collectible": 1,
         "name": "南海船长",
         "description": "你的其他海盗获得+1/+1。",
-        "popularity": 747
+        "popularity": 757
     },
     {
         "id": 577,
@@ -4653,7 +4653,7 @@
         "collectible": 1,
         "name": "迪菲亚头目",
         "description": "连击：召唤一个2/1的迪菲亚强盗。",
-        "popularity": 2584
+        "popularity": 2588
     },
     {
         "id": 778,
@@ -4670,7 +4670,7 @@
         "race": 17,
         "name": "麦田傀儡",
         "description": "亡语：召唤一个2/1的损坏的傀儡。",
-        "popularity": 16724
+        "popularity": 16743
     },
     {
         "id": 1144,
@@ -4706,7 +4706,7 @@
         "collectible": 1,
         "name": "游学者周卓",
         "description": "每当一个玩家施放一个法术，复制该法术，将其置入另一个玩家的手牌。",
-        "popularity": 883
+        "popularity": 878
     },
     {
         "id": 141,
@@ -4721,7 +4721,7 @@
         "collectible": 1,
         "name": "猎人印记",
         "description": "使一个随从的生命值变为1。",
-        "popularity": 5214
+        "popularity": 5245
     },
     {
         "id": 175,
@@ -4737,7 +4737,7 @@
         "collectible": 1,
         "name": "达拉然法师",
         "description": "法术伤害+1",
-        "popularity": 1732
+        "popularity": 1733
     },
     {
         "id": 1037,
@@ -4754,7 +4754,7 @@
         "collectible": 1,
         "name": "暮光幼龙",
         "description": "战吼：你每有一张手牌，便获得+1生命值。",
-        "popularity": 5027
+        "popularity": 5045
     },
     {
         "id": 1016,
@@ -4771,7 +4771,7 @@
         "collectible": 1,
         "name": "寒光智者",
         "description": "战吼：每个玩家抽两张牌。",
-        "popularity": 3867
+        "popularity": 3881
     },
     {
         "id": 1372,
@@ -4786,7 +4786,7 @@
         "collectible": 1,
         "name": "熔核巨人",
         "description": "你的英雄每受到1点伤害，这张牌的法力值消耗便减少（1）点。",
-        "popularity": 4837
+        "popularity": 4826
     },
     {
         "id": 147,
@@ -4801,7 +4801,7 @@
         "collectible": 1,
         "name": "暗影烈焰",
         "description": "消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。",
-        "popularity": 4433
+        "popularity": 4454
     },
     {
         "id": 564,
@@ -4816,7 +4816,7 @@
         "collectible": 1,
         "name": "奥术飞弹",
         "description": "造成3点伤害，随机分配到所有敌人身上。",
-        "popularity": 5935
+        "popularity": 5966
     },
     {
         "id": 1035,
@@ -4833,7 +4833,7 @@
         "collectible": 1,
         "name": "战争古树",
         "description": "抉择： +5攻击力；或者+5生命值并具有嘲讽。",
-        "popularity": 2947
+        "popularity": 2972
     },
     {
         "id": 753,
@@ -4849,7 +4849,7 @@
         "collectible": 1,
         "name": "暴风城勇士",
         "description": "你的其他随从获得+1/+1。",
-        "popularity": 6327
+        "popularity": 6354
     },
     {
         "id": 64,
@@ -4864,7 +4864,7 @@
         "collectible": 1,
         "name": "横扫",
         "description": "对一个敌人造成4点伤害，并对所有其他敌人造成1点伤害。",
-        "popularity": 8934
+        "popularity": 8978
     },
     {
         "id": 766,
@@ -4879,7 +4879,7 @@
         "collectible": 1,
         "name": "妖术",
         "description": "使一个随从变形成为一个0/1并具有嘲讽的青蛙。",
-        "popularity": 7379
+        "popularity": 7444
     },
     {
         "id": 466,
@@ -4895,7 +4895,7 @@
         "collectible": 1,
         "name": "奥术傀儡",
         "description": "战吼：使你的对手获得一个法力水晶。",
-        "popularity": 4191
+        "popularity": 4172
     },
     {
         "id": 469,
@@ -4913,7 +4913,7 @@
         "collectible": 1,
         "name": "鲜血小鬼",
         "description": "潜行，在你的回合结束时，使另一个随机友方随从获得+1生命值。",
-        "popularity": 2279
+        "popularity": 2287
     },
     {
         "id": 1087,
@@ -4928,7 +4928,7 @@
         "collectible": 1,
         "description": "造成10点伤害。",
         "name": "炎爆术",
-        "popularity": 3631
+        "popularity": 3637
     },
     {
         "id": 191,
@@ -4944,7 +4944,7 @@
         "collectible": 1,
         "race": 14,
         "name": "鱼人袭击者",
-        "popularity": 1934
+        "popularity": 1937
     },
     {
         "id": 366,
@@ -4959,7 +4959,7 @@
         "collectible": 1,
         "name": "扰咒术",
         "description": "奥秘：当一个敌方法术以一个随从为目标时，召唤一个1/3的随从并使其成为新的目标。",
-        "popularity": 891
+        "popularity": 888
     },
     {
         "id": 609,
@@ -4975,7 +4975,7 @@
         "race": 24,
         "name": "精灵龙",
         "description": "无法成为法术或英雄技能的目标。",
-        "popularity": 6514
+        "popularity": 6517
     },
     {
         "id": 710,
@@ -4990,7 +4990,7 @@
         "collectible": 1,
         "name": "影袭",
         "description": "对敌方英雄造成3点伤害。",
-        "popularity": 1349
+        "popularity": 1363
     },
     {
         "id": 447,
@@ -5005,7 +5005,7 @@
         "collectible": 1,
         "name": "魔爆术",
         "description": "对所有敌方随从造成1点伤害。",
-        "popularity": 2694
+        "popularity": 2699
     },
     {
         "id": 1367,
@@ -5019,7 +5019,7 @@
         "classs": 5,
         "name": "暗言术：痛",
         "description": "消灭一个攻击力小于或等于3的随从。",
-        "popularity": 7585
+        "popularity": 7658
     },
     {
         "id": 584,
@@ -5034,7 +5034,7 @@
         "collectible": 1,
         "name": "崇高牺牲",
         "description": "奥秘：当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。",
-        "popularity": 2856
+        "popularity": 2858
     },
     {
         "id": 1019,
@@ -5052,7 +5052,7 @@
         "collectible": 1,
         "name": "恐惧地狱火",
         "description": "战吼：对所有其他角色造成1点伤害。",
-        "popularity": 1644
+        "popularity": 1649
     },
     {
         "id": 233,
@@ -5067,7 +5067,7 @@
         "collectible": 1,
         "name": "自然平衡",
         "description": "消灭一个随从，你的对手抽两张牌。",
-        "popularity": 1476
+        "popularity": 1479
     },
     {
         "id": 836,
@@ -5082,7 +5082,7 @@
         "collectible": 1,
         "name": "愤怒",
         "description": "抉择：对一个随从造成3点伤害；或者造成1点伤害并抽一张牌。",
-        "popularity": 7754
+        "popularity": 7799
     },
     {
         "id": 158,
@@ -5114,7 +5114,7 @@
         "collectible": 1,
         "name": "加基森拍卖师",
         "description": "每当你施放一个法术，抽一张牌。",
-        "popularity": 5202
+        "popularity": 5245
     },
     {
         "id": 990,
@@ -5129,7 +5129,7 @@
         "collectible": 1,
         "name": "隐藏",
         "description": "直到你的下个回合，使所有友方随从获得潜行。",
-        "popularity": 1940
+        "popularity": 1969
     },
     {
         "id": 878,
@@ -5145,7 +5145,7 @@
         "collectible": 1,
         "name": "恐怖海盗",
         "description": "嘲讽，你的武器每有1点攻击力，该牌的法力值消耗便减少（1）点。",
-        "popularity": 2488
+        "popularity": 2500
     },
     {
         "id": 299,
@@ -5160,7 +5160,7 @@
         "collectible": 1,
         "name": "叉状闪电",
         "description": "对两个随机敌方随从造成2点伤害，过载：（2）",
-        "popularity": 1919
+        "popularity": 1922
     },
     {
         "id": 727,
@@ -5175,7 +5175,7 @@
         "collectible": 1,
         "name": "保护之手",
         "description": "使一个随从获得圣盾。",
-        "popularity": 1920
+        "popularity": 1923
     },
     {
         "id": 286,
@@ -5208,7 +5208,7 @@
         "race": 24,
         "name": "诺兹多姆",
         "description": "所有玩家只有15秒的时间来进行他们的回合。",
-        "popularity": 480
+        "popularity": 482
     },
     {
         "id": 1361,
@@ -5222,7 +5222,7 @@
         "classs": 5,
         "name": "神圣之灵",
         "description": "使一个随从的生命值翻倍。",
-        "popularity": 3395
+        "popularity": 3401
     },
     {
         "id": 596,
@@ -5239,7 +5239,7 @@
         "collectible": 1,
         "name": "铸甲师",
         "description": "每当一个友方随从受到伤害，便获得1点护甲值。",
-        "popularity": 4323
+        "popularity": 4371
     },
     {
         "id": 976,
@@ -5256,7 +5256,7 @@
         "collectible": 1,
         "name": "鱼人猎潮者",
         "description": "战吼：召唤一个1/1的鱼人斥候。",
-        "popularity": 3683
+        "popularity": 3696
     },
     {
         "id": 699,
@@ -5274,7 +5274,7 @@
         "collectible": 1,
         "name": "苔原犀牛",
         "description": "你的野兽获得冲锋。",
-        "popularity": 2334
+        "popularity": 2342
     },
     {
         "id": 969,
@@ -5291,7 +5291,7 @@
         "attack": 0,
         "name": "召唤传送门",
         "description": "你的随从牌的法力值消耗减少（2）点，但不能少于（1）点。",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 250,
@@ -5306,7 +5306,7 @@
         "collectible": 1,
         "name": "愤怒之锤",
         "description": "造成3点伤害。 抽一张牌。",
-        "popularity": 4397
+        "popularity": 4403
     },
     {
         "id": 622,
@@ -5322,7 +5322,7 @@
         "collectible": 1,
         "name": "暴风城骑士",
         "description": "冲锋",
-        "popularity": 1789
+        "popularity": 1790
     },
     {
         "id": 762,
@@ -5338,7 +5338,7 @@
         "collectible": 1,
         "name": "疯狂投弹者",
         "description": "战吼：造成3点伤害，随机分配于其他角色身上。",
-        "popularity": 2684
+        "popularity": 2687
     },
     {
         "id": 476,
@@ -5353,7 +5353,7 @@
         "collectible": 1,
         "name": "奉献",
         "description": "对所有敌人造成2点伤害。",
-        "popularity": 9426
+        "popularity": 9457
     },
     {
         "id": 1073,
@@ -5368,7 +5368,7 @@
         "collectible": 1,
         "name": "飞刀杂耍者",
         "description": "每当你召唤一个随从时，对一个随机敌方角色造成1点伤害。",
-        "popularity": 15494
+        "popularity": 15505
     },
     {
         "id": 383,
@@ -5399,7 +5399,7 @@
         "collectible": 1,
         "name": "熔岩爆裂",
         "description": "造成5点伤害，过载：（2）",
-        "popularity": 2171
+        "popularity": 2189
     },
     {
         "id": 734,
@@ -5415,7 +5415,7 @@
         "collectible": 1,
         "name": "精神控制技师",
         "description": "战吼：如果你的对手拥有4个或者更多随从，随机获得其中一个的控制权。",
-        "popularity": 3845
+        "popularity": 3851
     },
     {
         "id": 1686,
@@ -5429,7 +5429,7 @@
         "attack": 6,
         "health": 7,
         "name": "石拳食人魔",
-        "popularity": 4410
+        "popularity": 4426
     },
     {
         "id": 424,
@@ -5445,7 +5445,7 @@
         "collectible": 1,
         "name": "艾露恩的女祭司",
         "description": "战吼：为你的英雄恢复4点生命值。",
-        "popularity": 999
+        "popularity": 1000
     },
     {
         "id": 915,
@@ -5461,7 +5461,7 @@
         "collectible": 1,
         "name": "年迈的法师",
         "description": "战吼：使相邻的随从获得法术伤害+1。",
-        "popularity": 962
+        "popularity": 963
     },
     {
         "id": 151,
@@ -5476,7 +5476,7 @@
         "collectible": 1,
         "name": "自然印记",
         "description": "抉择：使一个随从获得+4攻击力；或者+4生命值并具有嘲讽。",
-        "popularity": 1469
+        "popularity": 1471
     },
     {
         "id": 1363,
@@ -5490,7 +5490,7 @@
         "classs": 5,
         "name": "暗言术：灭",
         "description": "消灭一个攻击力大于或等于5的随从。",
-        "popularity": 9341
+        "popularity": 9418
     },
     {
         "id": 290,
@@ -5507,7 +5507,7 @@
         "race": 20,
         "name": "铁喙猫头鹰",
         "description": "战吼：沉默一个随从。",
-        "popularity": 17161
+        "popularity": 17094
     },
     {
         "id": 904,
@@ -5522,7 +5522,7 @@
         "collectible": 1,
         "name": "刺骨",
         "description": "造成2点伤害；连击：改为造成4点伤害。",
-        "popularity": 6956
+        "popularity": 7006
     },
     {
         "id": 232,
@@ -5553,7 +5553,7 @@
         "collectible": 1,
         "name": "烈日行者",
         "description": "嘲讽 圣盾",
-        "popularity": 6663
+        "popularity": 6672
     },
     {
         "id": 1074,
@@ -5568,7 +5568,7 @@
         "collectible": 1,
         "name": "猛击",
         "description": "对一个随从造成2点伤害，如果它依然存活，则抽一张牌。",
-        "popularity": 3533
+        "popularity": 3607
     },
     {
         "id": 643,
@@ -5585,7 +5585,7 @@
         "collectible": 1,
         "name": "公正之剑",
         "description": "每当你召唤一个随从时，使其获得+1/+1，这把武器失去1点耐久度。",
-        "popularity": 2568
+        "popularity": 2567
     },
     {
         "id": 636,
@@ -5600,7 +5600,7 @@
         "collectible": 1,
         "name": "旋风斩",
         "description": "对所有随从造成1点伤害。",
-        "popularity": 4468
+        "popularity": 4510
     },
     {
         "id": 556,
@@ -5618,7 +5618,7 @@
         "race": 15,
         "name": "伊利丹·怒风",
         "description": "每当你使用一张牌时，召唤一个2/1的埃辛诺斯之焰。",
-        "popularity": 1359
+        "popularity": 1360
     },
     {
         "id": 581,
@@ -5636,7 +5636,7 @@
         "collectible": 1,
         "name": "阿莱克丝塔萨",
         "description": "战吼：使一个英雄的剩余生命值成为15。",
-        "popularity": 6502
+        "popularity": 6532
     },
     {
         "id": 1189,
@@ -5651,7 +5651,7 @@
         "collectible": 1,
         "name": "沉默",
         "description": "沉默一个随从。",
-        "popularity": 1993
+        "popularity": 1997
     },
     {
         "id": 48,
@@ -5669,7 +5669,7 @@
         "collectible": 1,
         "name": "虚空行者",
         "description": "嘲讽",
-        "popularity": 6586
+        "popularity": 6625
     },
     {
         "id": 1004,
@@ -5684,7 +5684,7 @@
         "collectible": 1,
         "name": "烈焰风暴",
         "description": "对所有敌方随从造成4点伤害。",
-        "popularity": 9538
+        "popularity": 9582
     },
     {
         "id": 1369,
@@ -5699,7 +5699,7 @@
         "health": 3,
         "race": 20,
         "name": "淡水鳄",
-        "popularity": 3030
+        "popularity": 3039
     },
     {
         "id": 960,
@@ -5716,7 +5716,7 @@
         "collectible": 1,
         "name": "雷铸战斧",
         "description": "过载：（1）",
-        "popularity": 2809
+        "popularity": 2812
     },
     {
         "id": 1364,
@@ -5732,7 +5732,7 @@
         "health": 6,
         "name": "圣殿执行者",
         "description": "战吼：使一个友方随从获得+3生命值。",
-        "popularity": 2127
+        "popularity": 2126
     },
     {
         "id": 926,
@@ -5748,7 +5748,7 @@
         "collectible": 1,
         "name": "小鬼召唤师",
         "description": "在你的回合结束时，对该随从造成1点伤害，并召唤一个1/1的小鬼。",
-        "popularity": 2528
+        "popularity": 2529
     },
     {
         "id": 742,
@@ -5763,7 +5763,7 @@
         "collectible": 1,
         "name": "野蛮咆哮",
         "description": "在本回合中，使你的所有角色获得+2攻击力。",
-        "popularity": 5595
+        "popularity": 5596
     },
     {
         "id": 254,
@@ -5778,7 +5778,7 @@
         "collectible": 1,
         "name": "激活",
         "description": "仅在本回合中，获得两个法力水晶。",
-        "popularity": 8437
+        "popularity": 8477
     },
     {
         "id": 1141,
@@ -5795,7 +5795,7 @@
         "collectible": 1,
         "name": "土元素",
         "description": "嘲讽，过载：（3）",
-        "popularity": 1640
+        "popularity": 1647
     },
     {
         "id": 531,
@@ -5811,7 +5811,7 @@
         "collectible": 1,
         "name": "无面操纵者",
         "description": "战吼：选择一个随从，成为它的复制。",
-        "popularity": 9140
+        "popularity": 9148
     },
     {
         "id": 679,
@@ -5826,7 +5826,7 @@
         "collectible": 1,
         "name": "神恩术",
         "description": "抽若干数量的牌，直到你的手牌数量等同于你的对手的手牌数量。",
-        "popularity": 2714
+        "popularity": 2735
     },
     {
         "id": 979,
@@ -5843,7 +5843,7 @@
         "race": 17,
         "name": "攻城车",
         "description": "在你的回合开始时，对一个随机敌人造成2点伤害。",
-        "popularity": 1906
+        "popularity": 1902
     },
     {
         "id": 891,
@@ -5859,7 +5859,7 @@
         "collectible": 1,
         "name": "日怒保卫者",
         "description": "战吼：使相邻的随从获得嘲讽。",
-        "popularity": 7578
+        "popularity": 7582
     },
     {
         "id": 618,
@@ -5876,7 +5876,7 @@
         "collectible": 1,
         "name": "尘魔",
         "description": "风怒，过载：（2）",
-        "popularity": 443
+        "popularity": 445
     },
     {
         "id": 291,
@@ -5891,7 +5891,7 @@
         "collectible": 1,
         "name": "圣光术",
         "description": "恢复6点生命值。",
-        "popularity": 2035
+        "popularity": 2036
     },
     {
         "id": 238,
@@ -5906,7 +5906,7 @@
         "collectible": 1,
         "name": "野性狼魂",
         "description": "召唤2个2/3并具有嘲讽的幽灵狼。过载：（2）",
-        "popularity": 5619
+        "popularity": 5690
     },
     {
         "id": 1401,
@@ -5921,7 +5921,7 @@
         "health": 2,
         "name": "团队领袖",
         "description": "你的其他随从获得+1攻击力。",
-        "popularity": 3123
+        "popularity": 3130
     },
     {
         "id": 790,
@@ -5937,7 +5937,7 @@
         "collectible": 1,
         "name": "阿曼尼狂战士",
         "description": "激怒：+3攻击力",
-        "popularity": 5115
+        "popularity": 5124
     },
     {
         "id": 205,
@@ -5954,7 +5954,7 @@
         "collectible": 1,
         "name": "埃隆巴克保护者",
         "description": "嘲讽",
-        "popularity": 2201
+        "popularity": 2204
     },
     {
         "id": 834,
@@ -5971,7 +5971,7 @@
         "collectible": 1,
         "name": "死亡之翼",
         "description": "战吼：消灭所有其他随从，并弃掉你的手牌。",
-        "popularity": 1383
+        "popularity": 1389
     },
     {
         "id": 413,
@@ -5987,7 +5987,7 @@
         "collectible": 1,
         "name": "雷矛特种兵",
         "description": "战吼：造成2点伤害。",
-        "popularity": 1665
+        "popularity": 1668
     },
     {
         "id": 67,
@@ -6004,7 +6004,7 @@
         "race": 20,
         "name": "银背族长",
         "description": "嘲讽",
-        "popularity": 1382
+        "popularity": 1381
     },
     {
         "id": 311,
@@ -6021,7 +6021,7 @@
         "collectible": 1,
         "name": "角斗士的长弓",
         "description": "你的英雄在攻击时具有免疫。",
-        "popularity": 910
+        "popularity": 911
     },
     {
         "id": 1754,
@@ -6053,7 +6053,7 @@
         "classs": 5,
         "name": "黑暗教徒",
         "description": "亡语：使一个随机友方随从获得+3生命值。",
-        "popularity": 2741
+        "popularity": 2740
     },
     {
         "id": 1783,
@@ -6068,7 +6068,7 @@
         "health": 2,
         "name": "疯狂的科学家",
         "description": "亡语：将一个奥秘从你的牌库中置入战场。",
-        "popularity": 6741
+        "popularity": 6697
     },
     {
         "id": 1805,
@@ -6084,7 +6084,7 @@
         "classs": 1,
         "name": "死亡之咬",
         "description": "亡语：对所有随从造成1点伤害。",
-        "popularity": 3840
+        "popularity": 3823
     },
     {
         "id": 1799,
@@ -6099,7 +6099,7 @@
         "health": 5,
         "name": "哀嚎的灵魂",
         "description": "战吼：沉默你的其他随从。",
-        "popularity": 340
+        "popularity": 339
     },
     {
         "id": 1791,
@@ -6116,7 +6116,7 @@
         "race": 20,
         "name": "迈克斯纳",
         "description": "消灭任何受到该随从伤害的随从。",
-        "popularity": 1363
+        "popularity": 1361
     },
     {
         "id": 1810,
@@ -6164,7 +6164,7 @@
         "race": 15,
         "name": "空灵召唤者",
         "description": "亡语：随机将一个恶魔从你的手牌置入战场。",
-        "popularity": 2105
+        "popularity": 2098
     },
     {
         "id": 1915,
@@ -6180,7 +6180,7 @@
         "elite": 1,
         "name": "瑞文戴尔男爵",
         "description": "你的随从的亡语效果将触发两次。",
-        "popularity": 1998
+        "popularity": 1995
     },
     {
         "id": 1802,
@@ -6208,7 +6208,7 @@
         "classs": 8,
         "name": "复制",
         "description": "奥秘：当一个友方随从死亡时，将两个该随从的复制置入你的手牌。",
-        "popularity": 2429
+        "popularity": 2417
     },
     {
         "id": 1786,
@@ -6223,7 +6223,7 @@
         "health": 2,
         "name": "蛛魔之卵",
         "description": "亡语：召唤一个4/4的蛛魔。",
-        "popularity": 5727
+        "popularity": 5702
     },
     {
         "id": 1794,
@@ -6239,7 +6239,7 @@
         "elite": 1,
         "name": "克尔苏加德",
         "description": "在每个回合结束时，召唤所有在本回合中死亡的友方随从。",
-        "popularity": 3867
+        "popularity": 3865
     },
     {
         "id": 1793,
@@ -6254,7 +6254,7 @@
         "health": 5,
         "name": "淤泥喷射者",
         "description": "嘲讽，亡语：召唤一个1/2并具有嘲讽的泥浆怪。",
-        "popularity": 16212
+        "popularity": 16150
     },
     {
         "id": 1790,
@@ -6269,7 +6269,7 @@
         "health": 8,
         "name": "死亡领主",
         "description": "嘲讽，亡语：你的对手将一个随从从其牌库置入战场。",
-        "popularity": 3262
+        "popularity": 3257
     },
     {
         "id": 1804,
@@ -6283,7 +6283,7 @@
         "classs": 2,
         "name": "复仇",
         "description": "奥秘：当你的随从死亡时，使一个随机友方随从获得+3/+2。",
-        "popularity": 1825
+        "popularity": 1817
     },
     {
         "id": 1753,
@@ -6298,7 +6298,7 @@
         "health": 3,
         "name": "肉用僵尸",
         "description": "亡语：为敌方英雄恢复5点生命值。",
-        "popularity": 6557
+        "popularity": 6523
     },
     {
         "id": 1800,
@@ -6330,7 +6330,7 @@
         "race": 20,
         "description": "亡语：随机将一张野兽牌置入你的手牌。",
         "name": "结网蛛",
-        "popularity": 2847
+        "popularity": 2840
     },
     {
         "id": 1858,
@@ -6345,7 +6345,7 @@
         "health": 2,
         "name": "分裂软泥怪",
         "description": "战吼：在回合结束时召唤一个该随从的复制。",
-        "popularity": 1347
+        "popularity": 1340
     },
     {
         "id": 1781,
@@ -6361,7 +6361,7 @@
         "race": 20,
         "name": "鬼灵爬行者",
         "description": "亡语：召唤两个1/1的鬼灵蜘蛛。",
-        "popularity": 10464
+        "popularity": 10415
     },
     {
         "id": 1789,
@@ -6376,7 +6376,7 @@
         "health": 6,
         "name": "鬼灵骑士",
         "description": "无法成为法术或英雄技能的目标。",
-        "popularity": 1556
+        "popularity": 1559
     },
     {
         "id": 1797,
@@ -6407,7 +6407,7 @@
         "health": 2,
         "name": "纳克萨玛斯之影",
         "description": "潜行。在你的回合开始时，获得+1/+1。",
-        "popularity": 2588
+        "popularity": 2576
     },
     {
         "id": 1808,
@@ -6422,7 +6422,7 @@
         "health": 3,
         "name": "蹒跚的食尸鬼",
         "description": "嘲讽，亡语：对所有随从造成1点伤害。",
-        "popularity": 2531
+        "popularity": 2525
     },
     {
         "id": 1809,
@@ -6436,7 +6436,7 @@
         "classs": 7,
         "name": "转生",
         "description": "消灭一个随从，然后将其复活，并恢复所有生命值。",
-        "popularity": 973
+        "popularity": 970
     },
     {
         "id": 1913,
@@ -6451,7 +6451,7 @@
         "health": 4,
         "name": "舞动之剑",
         "description": "亡语：你的对手抽一张牌。",
-        "popularity": 1028
+        "popularity": 1026
     },
     {
         "id": 1927,
@@ -6465,7 +6465,7 @@
         "classs": 8,
         "name": "烈焰轰击",
         "description": "对一个随机敌方随从造成 4 点伤害。",
-        "popularity": 2340
+        "popularity": 2332
     },
     {
         "id": 1928,
@@ -6482,7 +6482,7 @@
         "race": 17,
         "name": "碎雪机器人",
         "description": "冻结任何受到该随从伤害的角色。",
-        "popularity": 2162
+        "popularity": 2153
     },
     {
         "id": 1929,
@@ -6496,7 +6496,7 @@
         "classs": 8,
         "name": "不稳定的传送门",
         "description": "将一张随机随从牌置入你的手牌。该随从的法力值消耗减少（3）点。",
-        "popularity": 2726
+        "popularity": 2716
     },
     {
         "id": 1934,
@@ -6512,7 +6512,7 @@
         "collectible": 1,
         "name": "地精炎术师",
         "description": "战吼：如果你控制任何机械，则造成4点伤害，随机分配到所有敌人身上。",
-        "popularity": 1621
+        "popularity": 1614
     },
     {
         "id": 1941,
@@ -6526,7 +6526,7 @@
         "collectible": 1,
         "name": "麦迪文的残影",
         "description": "复制你的所有随从，并将其置入你的手牌。",
-        "popularity": 1011
+        "popularity": 1010
     },
     {
         "id": 1940,
@@ -6542,7 +6542,7 @@
         "race": 17,
         "name": "机械跃迁者",
         "description": "你的机械的法力值消耗减少（1）点。",
-        "popularity": 3895
+        "popularity": 3883
     },
     {
         "id": 1939,
@@ -6574,7 +6574,7 @@
         "collectible": 1,
         "name": "圣光炸弹",
         "description": "对所有随从造成等同于其攻击力的伤害。",
-        "popularity": 1630
+        "popularity": 1623
     },
     {
         "id": 1937,
@@ -6590,7 +6590,7 @@
         "collectible": 1,
         "name": "暗影投弹手",
         "description": "战吼：对每个英雄造成3点伤害。",
-        "popularity": 180
+        "popularity": 179
     },
     {
         "id": 1935,
@@ -6604,7 +6604,7 @@
         "collectible": 1,
         "name": "维伦的恩泽",
         "description": "使一个随从获得+2/+4并具有法术伤害+1。",
-        "popularity": 2619
+        "popularity": 2615
     },
     {
         "id": 1936,
@@ -6620,7 +6620,7 @@
         "collectible": 1,
         "name": "缩小射线工程师",
         "description": "战吼：在本回合中，使一个随从获得-2攻击力。",
-        "popularity": 1573
+        "popularity": 1568
     },
     {
         "id": 1933,
@@ -6634,7 +6634,7 @@
         "collectible": 1,
         "name": "纳鲁之光",
         "description": "恢复3点生命值。如果该目标仍处于受伤状态，则召唤一个圣光护卫者。",
-        "popularity": 1589
+        "popularity": 1584
     },
     {
         "id": 1932,
@@ -6649,7 +6649,7 @@
         "collectible": 1,
         "name": "齿轮大师",
         "description": "如果你控制任何机械，便获得+2攻击力。",
-        "popularity": 2449
+        "popularity": 2440
     },
     {
         "id": 1931,
@@ -6666,7 +6666,7 @@
         "elite": 1,
         "name": "沃金",
         "description": "战吼：与另一个随从交换生命值。",
-        "popularity": 1142
+        "popularity": 1134
     },
     {
         "id": 2093,
@@ -6680,7 +6680,7 @@
         "classs": 9,
         "name": "暗色炸弹",
         "description": "造成3点伤害。",
-        "popularity": 2954
+        "popularity": 2936
     },
     {
         "id": 1982,
@@ -6696,7 +6696,7 @@
         "race": 17,
         "name": "魔能机甲",
         "description": "每当你的对手使用一张牌时，便弃掉你的牌库顶的三张牌。",
-        "popularity": 589
+        "popularity": 584
     },
     {
         "id": 1992,
@@ -6713,7 +6713,7 @@
         "race": 17,
         "name": "钢铁武道家",
         "description": "在你的回合结束时，使另一个友方机械获得+2/+2。",
-        "popularity": 425
+        "popularity": 424
     },
     {
         "id": 2094,
@@ -6727,7 +6727,7 @@
         "classs": 3,
         "name": "召唤宠物",
         "description": "抽一张牌。如果该牌是野兽牌，则其法力值消耗减少（4）点。",
-        "popularity": 221
+        "popularity": 220
     },
     {
         "id": 2172,
@@ -6744,7 +6744,7 @@
         "race": 15,
         "name": "痛苦女王",
         "description": "每当该随从造成伤害，为你的英雄恢复等量的生命值。",
-        "popularity": 668
+        "popularity": 667
     },
     {
         "id": 1985,
@@ -6758,7 +6758,7 @@
         "cost": 5,
         "name": "恶魔之心",
         "description": "对一个随从造成5点伤害，如果该随从是友方恶魔，则改为使其获得+5/+5。",
-        "popularity": 469
+        "popularity": 470
     },
     {
         "id": 1997,
@@ -6775,7 +6775,7 @@
         "race": 17,
         "name": "邪能火炮",
         "description": "在你的回合结束时，对一个非机械随从造成2点伤害。",
-        "popularity": 173
+        "popularity": 174
     },
     {
         "id": 1986,
@@ -6793,7 +6793,7 @@
         "race": 15,
         "name": "玛尔加尼斯",
         "description": "你的其他恶魔获得+2/+2。 你的英雄获得免疫。",
-        "popularity": 1449
+        "popularity": 1443
     },
     {
         "id": 2095,
@@ -6807,7 +6807,7 @@
         "classs": 4,
         "name": "修补匠的磨刀油",
         "description": "使你的武器获得+3攻击力。连击：使一个随机友方随从获得+3攻击力。",
-        "popularity": 1982
+        "popularity": 1973
     },
     {
         "id": 1988,
@@ -6824,7 +6824,7 @@
         "race": 17,
         "name": "地精自动理发装置",
         "description": "战吼：使你的武器获得+1攻击力。",
-        "popularity": 1001
+        "popularity": 1000
     },
     {
         "id": 1989,
@@ -6902,7 +6902,7 @@
         "cost": 4,
         "name": "先祖召唤",
         "description": "每个玩家从手牌中将一个随机随从置入战场。",
-        "popularity": 210
+        "popularity": 209
     },
     {
         "id": 2096,
@@ -6920,7 +6920,7 @@
         "elite": 0,
         "name": "电镀机械熊仔",
         "description": "嘲讽，抉择： +1攻击力；或者+1生命值。",
-        "popularity": 520
+        "popularity": 521
     },
     {
         "id": 1995,
@@ -6950,7 +6950,7 @@
         "classs": 11,
         "name": "林地树妖",
         "description": "抉择：使每个玩家获得一个法力水晶；或每个玩家抽一张牌。",
-        "popularity": 500
+        "popularity": 502
     },
     {
         "id": 2001,
@@ -6964,7 +6964,7 @@
         "classs": 11,
         "name": "生命之树",
         "description": "为所有角色恢复所有生命值。",
-        "popularity": 311
+        "popularity": 313
     },
     {
         "id": 2002,
@@ -6981,7 +6981,7 @@
         "race": 17,
         "name": "机械野兽",
         "description": "每当该随从受到伤害，将一张零件牌置入你的手牌。",
-        "popularity": 265
+        "popularity": 264
     },
     {
         "id": 2003,
@@ -6999,7 +6999,7 @@
         "race": 20,
         "name": "玛洛恩",
         "description": "亡语：将该随从洗入你的牌库。",
-        "popularity": 302
+        "popularity": 301
     },
     {
         "id": 2004,
@@ -7015,7 +7015,7 @@
         "durability": 2,
         "name": "动力战锤",
         "description": "亡语：使一个随机友方机械获得+2/+2。",
-        "popularity": 835
+        "popularity": 832
     },
     {
         "id": 2005,
@@ -7032,7 +7032,7 @@
         "race": 17,
         "name": "自动漩涡打击装置",
         "description": "风怒",
-        "popularity": 950
+        "popularity": 947
     },
     {
         "id": 2006,
@@ -7046,7 +7046,7 @@
         "classs": 7,
         "name": "连环爆裂",
         "description": "造成3到6点伤害，过载：（1）",
-        "popularity": 1889
+        "popularity": 1877
     },
     {
         "id": 2007,
@@ -7080,7 +7080,7 @@
         "race": 14,
         "name": "沙鳞灵魂行者",
         "description": "每当另一个友方鱼人死亡，便抽一张牌。 过载：（1）",
-        "popularity": 263
+        "popularity": 261
     },
     {
         "id": 2009,
@@ -7094,7 +7094,7 @@
         "classs": 11,
         "name": "黑暗低语者",
         "description": "抉择：召唤5个小精灵；或者使一个随从获得+5/+5并具有嘲讽。",
-        "popularity": 197
+        "popularity": 196
     },
     {
         "id": 2010,
@@ -7111,7 +7111,7 @@
         "health": 7,
         "name": "耐普图隆",
         "description": "战吼：将四张随机鱼人牌置入你的手牌，过载：（3）",
-        "popularity": 689
+        "popularity": 684
     },
     {
         "id": 2011,
@@ -7127,7 +7127,7 @@
         "durability": 2,
         "name": "重型刃弩",
         "description": "战吼：使一个随机友方随从获得+1攻击力。",
-        "popularity": 1653
+        "popularity": 1646
     },
     {
         "id": 2012,
@@ -7142,7 +7142,7 @@
         "attack": 3,
         "health": 4,
         "name": "蜘蛛坦克",
-        "popularity": 3440
+        "popularity": 3434
     },
     {
         "id": 2013,
@@ -7156,7 +7156,7 @@
         "classs": 9,
         "name": "小鬼爆破",
         "description": "对一个随从造成2-4点伤害。每造成1点伤害，便召唤一个1/1的小鬼。",
-        "popularity": 2555
+        "popularity": 2531
     },
     {
         "id": 2014,
@@ -7204,7 +7204,7 @@
         "health": 3,
         "name": "金刚刃牙兽",
         "description": "战吼：使你的其他机械获得+2攻击力。",
-        "popularity": 120
+        "popularity": 119
     },
     {
         "id": 2017,
@@ -7222,7 +7222,7 @@
         "race": 20,
         "name": "加兹瑞拉",
         "description": "每当该随从受到伤害，便获得攻击力翻倍。",
-        "popularity": 269
+        "popularity": 270
     },
     {
         "id": 2018,
@@ -7236,7 +7236,7 @@
         "classs": 1,
         "name": "弹射之刃",
         "description": "对一个随机随从造成1点伤害。重复此效果，直到某个随从死亡。",
-        "popularity": 305
+        "popularity": 304
     },
     {
         "id": 2022,
@@ -7269,7 +7269,7 @@
         "race": 17,
         "name": "战斗机器人",
         "description": "激怒：+1攻击力。",
-        "popularity": 319
+        "popularity": 318
     },
     {
         "id": 2020,
@@ -7299,7 +7299,7 @@
         "health": 5,
         "name": "盾甲侍女",
         "description": "战吼：获得5点护甲值。",
-        "popularity": 1712
+        "popularity": 1705
     },
     {
         "id": 2023,
@@ -7316,7 +7316,7 @@
         "race": 17,
         "name": "废旧螺栓机甲",
         "description": "战吼：使一个友方机械获得+2/+2。",
-        "popularity": 209
+        "popularity": 208
     },
     {
         "id": 2024,
@@ -7350,7 +7350,7 @@
         "faction": 3,
         "name": "黑翼技师",
         "description": "战吼：如果你的手牌中有龙牌，便获得+1/+1。 ",
-        "popularity": 1462
+        "popularity": 1486
     },
     {
         "id": 2025,
@@ -7381,7 +7381,7 @@
         "race": 17,
         "name": "护盾机器人",
         "description": "圣盾",
-        "popularity": 3741
+        "popularity": 3723
     },
     {
         "id": 2027,
@@ -7397,7 +7397,7 @@
         "durability": 3,
         "name": "齿轮光锤",
         "description": "战吼：使一个随机友方随从获得圣盾和嘲讽。",
-        "popularity": 1694
+        "popularity": 1677
     },
     {
         "id": 2028,
@@ -7413,7 +7413,7 @@
         "health": 5,
         "name": "军需官",
         "description": "战吼：使你的白银之手新兵获得+2/+2。",
-        "popularity": 1738
+        "popularity": 1731
     },
     {
         "id": 2029,
@@ -7427,7 +7427,7 @@
         "classs": 2,
         "name": "作战动员",
         "description": "召唤三个1/1的白银之手新兵，装备一把1/4的武器。",
-        "popularity": 3527
+        "popularity": 3509
     },
     {
         "id": 2030,
@@ -7461,7 +7461,7 @@
         "health": 7,
         "name": "伯瓦尔·弗塔根",
         "description": "如果该牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。",
-        "popularity": 354
+        "popularity": 355
     },
     {
         "id": 2032,
@@ -7476,7 +7476,7 @@
         "health": 2,
         "race": 14,
         "name": "淤泥践踏者",
-        "popularity": 733
+        "popularity": 732
     },
     {
         "id": 2033,
@@ -7491,7 +7491,7 @@
         "health": 4,
         "name": "食人魔步兵",
         "description": "50%几率攻击错误的敌人。",
-        "popularity": 868
+        "popularity": 872
     },
     {
         "id": 2034,
@@ -7522,7 +7522,7 @@
         "health": 3,
         "name": "碎石穴居人",
         "description": "每当你的对手施放一个法术，便获得+1攻击力。",
-        "popularity": 541
+        "popularity": 542
     },
     {
         "id": 2306,
@@ -7554,7 +7554,7 @@
         "elite": 1,
         "name": "索瑞森大帝",
         "description": "在你的回合结束时，你所有手牌的法力值消耗减少（1）点。",
-        "popularity": 7843
+        "popularity": 7915
     },
     {
         "id": 2036,
@@ -7569,7 +7569,7 @@
         "health": 5,
         "name": "石腭穴居人壮汉",
         "description": "每当你的对手施放一个法术，获得+2攻击力。",
-        "popularity": 554
+        "popularity": 555
     },
     {
         "id": 2045,
@@ -7586,7 +7586,7 @@
         "classs": 9,
         "name": "心能魔像",
         "description": "在每个回合结束时，如果该随从是你唯一的随从，则消灭该随从。",
-        "popularity": 190
+        "popularity": 189
     },
     {
         "id": 2037,
@@ -7602,7 +7602,7 @@
         "race": 17,
         "name": "老式治疗机器人",
         "description": "战吼：为你的英雄恢复8点生命值。",
-        "popularity": 8520
+        "popularity": 8473
     },
     {
         "id": 2038,
@@ -7649,7 +7649,7 @@
         "classs": 5,
         "name": "暗影打击装甲",
         "description": "每当一个角色获得治疗，便对一个随机敌人造成1点伤害。",
-        "popularity": 621
+        "popularity": 620
     },
     {
         "id": 2041,
@@ -7678,7 +7678,7 @@
         "health": 3,
         "name": "科赞秘术师",
         "description": "战吼：随机获得一个敌方奥秘的控制权。",
-        "popularity": 1673
+        "popularity": 1664
     },
     {
         "id": 2043,
@@ -7709,7 +7709,7 @@
         "race": 17,
         "name": "自爆绵羊",
         "description": "亡语：对所有随从造成2点伤害。",
-        "popularity": 1445
+        "popularity": 1440
     },
     {
         "id": 2046,
@@ -7725,7 +7725,7 @@
         "race": 17,
         "name": "机械雪人",
         "description": "亡语：使每个玩家获得一个零件。",
-        "popularity": 3235
+        "popularity": 3232
     },
     {
         "id": 2047,
@@ -7741,7 +7741,7 @@
         "race": 17,
         "name": "强袭坦克",
         "description": "圣盾",
-        "popularity": 917
+        "popularity": 915
     },
     {
         "id": 2048,
@@ -7757,7 +7757,7 @@
         "classs": 11,
         "name": "尖牙德鲁伊",
         "description": "战吼：如果你控制任何野兽，将该随从变形成为7/7。",
-        "popularity": 314
+        "popularity": 312
     },
     {
         "id": 2049,
@@ -7772,7 +7772,7 @@
         "health": 3,
         "name": "海地精猎手",
         "description": "潜行",
-        "popularity": 558
+        "popularity": 560
     },
     {
         "id": 2050,
@@ -7788,7 +7788,7 @@
         "race": 17,
         "name": "发条侏儒",
         "description": "亡语：将一张零件牌置入你的手牌。",
-        "popularity": 3985
+        "popularity": 3968
     },
     {
         "id": 2051,
@@ -7805,7 +7805,7 @@
         "classs": 5,
         "name": "高级修理机器人",
         "description": "战吼：使一个友方机械获得+4生命值。",
-        "popularity": 225
+        "popularity": 224
     },
     {
         "id": 2052,
@@ -7821,7 +7821,7 @@
         "health": 4,
         "name": "飞行器",
         "description": "风怒",
-        "popularity": 325
+        "popularity": 326
     },
     {
         "id": 2053,
@@ -7837,7 +7837,7 @@
         "race": 17,
         "name": "吵吵机器人",
         "description": "嘲讽，圣盾",
-        "popularity": 5513
+        "popularity": 5493
     },
     {
         "id": 2054,
@@ -7870,7 +7870,7 @@
         "health": 3,
         "name": "热砂港狙击手",
         "description": "你的英雄技能能够以随从为目标。",
-        "popularity": 318
+        "popularity": 319
     },
     {
         "id": 2056,
@@ -7901,7 +7901,7 @@
         "health": 4,
         "name": "明光祭司",
         "description": "如果在你的回合结束时，你控制任何奥秘，则为你的英雄恢复4点生命值。",
-        "popularity": 450
+        "popularity": 446
     },
     {
         "id": 2058,
@@ -7963,7 +7963,7 @@
         "race": 17,
         "name": "活动假人",
         "description": "嘲讽",
-        "popularity": 535
+        "popularity": 534
     },
     {
         "id": 2062,
@@ -7979,7 +7979,7 @@
         "race": 17,
         "name": "基维斯",
         "description": "在每个玩家的回合结束时，该玩家抽若干牌，直至其手牌数量达到3张。",
-        "popularity": 1082
+        "popularity": 1080
     },
     {
         "id": 2063,
@@ -8010,7 +8010,7 @@
         "race": 17,
         "name": "载人收割机",
         "description": "亡语：随机召唤一个法力值消耗为（2）点的随从。",
-        "popularity": 12742
+        "popularity": 12670
     },
     {
         "id": 2065,
@@ -8025,7 +8025,7 @@
         "health": 3,
         "name": "小个子驱魔者",
         "description": "嘲讽，战吼：每有一个具有亡语的敌方随从，便获得+1/+1。",
-        "popularity": 322
+        "popularity": 323
     },
     {
         "id": 2066,
@@ -8040,7 +8040,7 @@
         "health": 4,
         "name": "诺莫瑞根步兵",
         "description": "冲锋，嘲讽",
-        "popularity": 342
+        "popularity": 341
     },
     {
         "id": 2067,
@@ -8055,7 +8055,7 @@
         "health": 3,
         "name": "榴弹投手",
         "description": "战吼：对一个随机敌方随从造成4点伤害。",
-        "popularity": 985
+        "popularity": 984
     },
     {
         "id": 2068,
@@ -8072,7 +8072,7 @@
         "race": 15,
         "name": "漂浮观察者",
         "description": "每当你的英雄在你的回合受到伤害，便获得+2/+2。",
-        "popularity": 828
+        "popularity": 830
     },
     {
         "id": 2069,
@@ -8103,7 +8103,7 @@
         "health": 3,
         "name": "工匠镇技师",
         "description": "战吼：如果你控制一个机械，便获得+1/+1并将一张零件牌置入你的手牌。",
-        "popularity": 2915
+        "popularity": 2907
     },
     {
         "id": 2071,
@@ -8119,7 +8119,7 @@
         "race": 17,
         "name": "微型战斗机甲",
         "description": "在每个回合开始时，获得+1攻击力。",
-        "popularity": 1723
+        "popularity": 1722
     },
     {
         "id": 2072,
@@ -8134,7 +8134,7 @@
         "health": 3,
         "name": "大胖",
         "description": "每当你使用一张攻击力为1的随从牌，便使该牌所召唤的随从获得+2/+2。",
-        "popularity": 558
+        "popularity": 556
     },
     {
         "id": 2073,
@@ -8150,7 +8150,7 @@
         "race": 17,
         "name": "载人飞天魔像",
         "description": "亡语：随机召唤一个法力值消耗为（4）点的随从。",
-        "popularity": 1769
+        "popularity": 1771
     },
     {
         "id": 2074,
@@ -8166,7 +8166,7 @@
         "race": 17,
         "name": "回收机器人",
         "description": "每当一个友方机械死亡，便获得+2/+2。",
-        "popularity": 242
+        "popularity": 241
     },
     {
         "id": 2082,
@@ -8183,7 +8183,7 @@
         "race": 17,
         "name": "斯尼德的伐木机",
         "description": "亡语：随机召唤一个传说随从。",
-        "popularity": 1666
+        "popularity": 1668
     },
     {
         "id": 2086,
@@ -8199,7 +8199,7 @@
         "health": 6,
         "name": "颤地者特罗格佐尔",
         "description": "每当你的对手施放一个法术，召唤一个石腭穴居人壮汉。",
-        "popularity": 543
+        "popularity": 545
     },
     {
         "id": 2075,
@@ -8215,7 +8215,7 @@
         "race": 17,
         "name": "强化机器人",
         "description": "战吼：随机使你的其他随从分别获得风怒，嘲讽，或者圣盾效果中的一种。",
-        "popularity": 1325
+        "popularity": 1321
     },
     {
         "id": 2076,
@@ -8230,7 +8230,7 @@
         "health": 2,
         "name": "侏儒变形师",
         "description": "战吼：将一个友方随从随机变形成为一个法力值消耗相同的随从。",
-        "popularity": 702
+        "popularity": 703
     },
     {
         "id": 2077,
@@ -8245,7 +8245,7 @@
         "attack": 4,
         "name": "小个子法师",
         "description": "潜行，法术伤害+1",
-        "popularity": 127
+        "popularity": 129
     },
     {
         "id": 2078,
@@ -8261,7 +8261,7 @@
         "health": 7,
         "name": "砰砰博士",
         "description": "战吼：召唤两个1/1的砰砰机器人。警告：该机器人随时可能爆炸。",
-        "popularity": 13101
+        "popularity": 13011
     },
     {
         "id": 2079,
@@ -8311,7 +8311,7 @@
         "race": 17,
         "name": "死神4000型",
         "description": "同时对其攻击目标相邻的随从造成伤害。",
-        "popularity": 438
+        "popularity": 439
     },
     {
         "id": 2083,
@@ -8327,7 +8327,7 @@
         "health": 7,
         "name": "托什雷",
         "description": "战吼，亡语：将一张零件牌置入你的手牌。",
-        "popularity": 484
+        "popularity": 483
     },
     {
         "id": 2084,
@@ -8344,7 +8344,7 @@
         "race": 17,
         "name": "瑟玛普拉格",
         "description": "每当一个敌方随从死亡，召唤一个麻疯侏儒。",
-        "popularity": 230
+        "popularity": 231
     },
     {
         "id": 2085,
@@ -8360,7 +8360,7 @@
         "health": 6,
         "name": "加兹鲁维",
         "description": "每当你施放一个法力值消耗为（1）的法术，随机将一张机械牌置入你的手牌。",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2087,
@@ -8409,7 +8409,7 @@
         "race": 17,
         "name": "发条巨人",
         "description": "你的对手每有一张手牌，该牌的法力值消耗便减少（1）点。",
-        "popularity": 365
+        "popularity": 363
     },
     {
         "id": 2234,
@@ -8425,7 +8425,7 @@
         "classs": 8,
         "name": "小个子扰咒师",
         "description": "相邻的随从无法成为法术或英雄技能的目标。",
-        "popularity": 106
+        "popularity": 104
     },
     {
         "id": 2249,
@@ -8442,7 +8442,7 @@
         "race": 17,
         "name": "煤烟喷吐装置",
         "description": "法术伤害+1",
-        "popularity": 361
+        "popularity": 362
     },
     {
         "id": 2279,
@@ -8457,7 +8457,7 @@
         "health": 3,
         "name": "恐怖的奴隶主",
         "description": "每当该随从受到伤害并没有死亡，召唤另一个恐怖的奴隶主。",
-        "popularity": 1457
+        "popularity": 1480
     },
     {
         "id": 2274,
@@ -8471,7 +8471,7 @@
         "classs": 2,
         "name": "严正警戒",
         "description": "抽两张牌。在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。",
-        "popularity": 507
+        "popularity": 530
     },
     {
         "id": 2275,
@@ -8487,7 +8487,7 @@
         "classs": 8,
         "name": "火妖",
         "description": "每当你施放一个法术，便造成2点伤害，随机分配到所有敌人身上。",
-        "popularity": 1553
+        "popularity": 1576
     },
     {
         "id": 2284,
@@ -8501,7 +8501,7 @@
         "classs": 8,
         "name": "龙息术",
         "description": "造成4点伤害。在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。",
-        "popularity": 277
+        "popularity": 279
     },
     {
         "id": 2286,
@@ -8518,7 +8518,7 @@
         "race": 24,
         "name": "暮光雏龙",
         "description": "战吼：如果你的手牌中有龙牌，便获得+2生命值。",
-        "popularity": 739
+        "popularity": 749
     },
     {
         "id": 2301,
@@ -8532,7 +8532,7 @@
         "classs": 9,
         "name": "恶魔之怒",
         "description": "对所有非恶魔随从造成2点伤害。",
-        "popularity": 564
+        "popularity": 581
     },
     {
         "id": 2288,
@@ -8549,7 +8549,7 @@
         "race": 15,
         "name": "小鬼首领",
         "description": "每当该随从受到伤害时，召唤一个1/1的小鬼。",
-        "popularity": 1937
+        "popularity": 1979
     },
     {
         "id": 2304,
@@ -8563,7 +8563,7 @@
         "classs": 4,
         "name": "夜幕奇袭",
         "description": "选择一个随从。将该随从的三个复制洗入你的牌库。",
-        "popularity": 614
+        "popularity": 613
     },
     {
         "id": 2291,
@@ -8579,7 +8579,7 @@
         "classs": 4,
         "name": "黑铁潜藏者",
         "description": "战吼：对所有未受伤的敌方随从造成2点伤害。",
-        "popularity": 330
+        "popularity": 357
     },
     {
         "id": 2295,
@@ -8595,7 +8595,7 @@
         "health": 8,
         "name": "火山邪木",
         "description": "嘲讽 在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。",
-        "popularity": 208
+        "popularity": 209
     },
     {
         "id": 2292,
@@ -8611,7 +8611,7 @@
         "classs": 11,
         "name": "烈焰德鲁伊",
         "description": "抉择：将该随从变形成为5/2；或者将该随从变形成为2/5。",
-        "popularity": 388
+        "popularity": 400
     },
     {
         "id": 2289,
@@ -8625,7 +8625,7 @@
         "classs": 7,
         "name": "熔岩震击",
         "description": "造成2点伤害。 将你所有过载的法力水晶解锁。",
-        "popularity": 764
+        "popularity": 767
     },
     {
         "id": 2290,
@@ -8641,7 +8641,7 @@
         "classs": 7,
         "name": "火焰驱逐者",
         "description": "战吼：获得1-4点攻击力。过载：（1）",
-        "popularity": 661
+        "popularity": 662
     },
     {
         "id": 2260,
@@ -8655,7 +8655,7 @@
         "classs": 3,
         "name": "快速射击",
         "description": "造成3点伤害。 如果你没有其他手牌，则抽一张牌。",
-        "popularity": 1662
+        "popularity": 1684
     },
     {
         "id": 2263,
@@ -8686,7 +8686,7 @@
         "cost": 2,
         "name": "复仇打击",
         "description": "对所有随从造成1点伤害。如果你的生命值小于或等于12点，则改为造成3点伤害。",
-        "popularity": 461
+        "popularity": 486
     },
     {
         "id": 2297,
@@ -8702,7 +8702,7 @@
         "classs": 1,
         "name": "掷斧者",
         "description": "每当该随从受到伤害时，对敌方英雄造成2点伤害。",
-        "popularity": 229
+        "popularity": 230
     },
     {
         "id": 2298,
@@ -8716,7 +8716,7 @@
         "classs": 5,
         "name": "复活术",
         "description": "随机召唤一个在本局对战中死亡的友方随从。",
-        "popularity": 505
+        "popularity": 508
     },
     {
         "id": 2299,
@@ -8733,7 +8733,7 @@
         "race": 24,
         "name": "龙王配偶",
         "description": "战吼：你的下一张龙牌的法力值消耗减少（2）点。",
-        "popularity": 543
+        "popularity": 548
     },
     {
         "id": 2278,
@@ -8748,7 +8748,7 @@
         "health": 2,
         "name": "龙蛋",
         "description": "每当该随从受到伤害时，便召唤一只2/1的雏龙。",
-        "popularity": 488
+        "popularity": 490
     },
     {
         "id": 2257,
@@ -8764,7 +8764,7 @@
         "race": 24,
         "name": "龙人打击者",
         "description": "战吼：如果你的对手的生命值小于或等于15点，便获得+3/+3。",
-        "popularity": 599
+        "popularity": 603
     },
     {
         "id": 2258,
@@ -8780,7 +8780,7 @@
         "race": 24,
         "name": "火山幼龙",
         "description": "在本回合中每有一个随从死亡，该牌的法力值消耗就减少（1）点。",
-        "popularity": 616
+        "popularity": 618
     },
     {
         "id": 2283,
@@ -8812,7 +8812,7 @@
         "elite": 1,
         "name": "管理者埃克索图斯",
         "description": "亡语：用炎魔之王拉格纳罗斯替换你的英雄。",
-        "popularity": 296
+        "popularity": 297
     },
     {
         "id": 2308,
@@ -8828,7 +8828,7 @@
         "health": 4,
         "name": "雷德·黑手",
         "description": "战吼：如果你的手牌中有龙牌，则消灭一个传说随从。",
-        "popularity": 456
+        "popularity": 461
     },
     {
         "id": 2261,
@@ -8845,7 +8845,7 @@
         "race": 24,
         "name": "奈法利安",
         "description": "战吼：随机将两张（你的对手职业的）法术牌置入你的手牌。",
-        "popularity": 1344
+        "popularity": 1360
     },
     {
         "id": 2280,
@@ -8862,7 +8862,7 @@
         "race": 24,
         "name": "克洛玛古斯",
         "description": "每当你抽一张牌时，复制该牌并置入你的手牌。",
-        "popularity": 1590
+        "popularity": 1600
     },
     {
         "id": 2409,
@@ -8878,7 +8878,7 @@
         "faction": 3,
         "name": "黑翼腐蚀者",
         "description": "战吼：如果你的手牌中有龙牌，则造成3点伤害。",
-        "popularity": 1849
+        "popularity": 1867
     },
     {
         "id": 847,
@@ -8895,7 +8895,7 @@
         "collectible": 1,
         "name": "真银圣剑",
         "description": "每当你的英雄进攻，便为其恢复2点生命值。",
-        "popularity": 9183
+        "popularity": 9219
     },
     {
         "id": 530,
@@ -8942,7 +8942,7 @@
         "elite": 1,
         "name": "洛欧塞布",
         "description": "战吼：下个回合敌方法术的法力值消耗增加(5)点。",
-        "popularity": 12757
+        "popularity": 12672
     },
     {
         "id": 2539,
@@ -8956,7 +8956,7 @@
         "classs": 8,
         "name": "炎枪术",
         "description": "对一个随从造成8点伤害。",
-        "popularity": 186
+        "popularity": 189
     },
     {
         "id": 2541,
@@ -8970,7 +8970,7 @@
         "classs": 8,
         "name": "轮回",
         "description": "奥秘：当一个友方随从死亡时，随机召唤一个法力值消耗相同的随从。",
-        "popularity": 522
+        "popularity": 524
     },
     {
         "id": 2545,
@@ -8986,7 +8986,7 @@
         "classs": 8,
         "name": "英雄之魂",
         "description": "你的英雄技能会额外造成1点伤害。",
-        "popularity": 293
+        "popularity": 294
     },
     {
         "id": 2572,
@@ -9000,7 +9000,7 @@
         "classs": 8,
         "name": "奥术冲击",
         "description": "对一个随从造成2点伤害。该法术在受到法术伤害的增益效果时，效果翻倍。",
-        "popularity": 425
+        "popularity": 446
     },
     {
         "id": 2542,
@@ -9014,7 +9014,7 @@
         "classs": 8,
         "name": "变形术：野猪",
         "description": "使一个随从变形成为一个4/2并具有冲锋的野猪。",
-        "popularity": 163
+        "popularity": 162
     },
     {
         "id": 2549,
@@ -9030,7 +9030,7 @@
         "classs": 8,
         "name": "达拉然铁骑士",
         "description": "激励：获得法术伤害+1。",
-        "popularity": 171
+        "popularity": 172
     },
     {
         "id": 2571,
@@ -9046,7 +9046,7 @@
         "health": 4,
         "name": "嗜法者",
         "description": "战吼：随机将一张法术牌置入每个玩家的手牌。",
-        "popularity": 368
+        "popularity": 380
     },
     {
         "id": 2544,
@@ -9063,7 +9063,7 @@
         "race": 24,
         "name": "考达拉幼龙",
         "description": "你可以使用任意次数的英雄技能。",
-        "popularity": 175
+        "popularity": 176
     },
     {
         "id": 2546,
@@ -9080,7 +9080,7 @@
         "elite": 1,
         "name": "罗宁",
         "description": "亡语：将3张奥术飞弹置入你的手牌。",
-        "popularity": 326
+        "popularity": 325
     },
     {
         "id": 2552,
@@ -9096,7 +9096,7 @@
         "health": 3,
         "name": "暴躁的牧羊人",
         "description": "战吼：如果你控制任何野兽，则随机召唤一个野兽。",
-        "popularity": 395
+        "popularity": 410
     },
     {
         "id": 2555,
@@ -9112,7 +9112,7 @@
         "classs": 5,
         "name": "神圣勇士",
         "description": "每当一个角色获得治疗，便获得+2攻击力。",
-        "popularity": 466
+        "popularity": 469
     },
     {
         "id": 2551,
@@ -9128,7 +9128,7 @@
         "classs": 5,
         "name": "暗影子嗣",
         "description": "激励：对每个英雄造成4点伤害。",
-        "popularity": 114
+        "popularity": 113
     },
     {
         "id": 2568,
@@ -9142,7 +9142,7 @@
         "classs": 5,
         "name": "真言术：耀",
         "description": "选择一个随从。每当其进行攻击，为你的英雄恢复4点生命值。",
-        "popularity": 188
+        "popularity": 190
     },
     {
         "id": 2566,
@@ -9158,7 +9158,7 @@
         "classs": 5,
         "name": "暗影魔",
         "description": "每当你抽一张牌时，使其法力值消耗减少（1）点。",
-        "popularity": 87
+        "popularity": 88
     },
     {
         "id": 2563,
@@ -9172,7 +9172,7 @@
         "classs": 5,
         "name": "策反",
         "description": "复制一个敌方随从，并将其置入你的手牌。",
-        "popularity": 113
+        "popularity": 112
     },
     {
         "id": 2564,
@@ -9202,7 +9202,7 @@
         "race": 24,
         "name": "暮光守护者",
         "description": "战吼：如果你的手牌中有龙牌，便获得+1攻击力和嘲讽。",
-        "popularity": 1203
+        "popularity": 1221
     },
     {
         "id": 2556,
@@ -9219,7 +9219,7 @@
         "elite": 1,
         "name": "银色神官帕尔崔丝",
         "description": "激励：随机召唤一个传说随从。",
-        "popularity": 295
+        "popularity": 297
     },
     {
         "id": 2822,
@@ -9252,7 +9252,7 @@
         "classs": 9,
         "race": 15,
         "name": "恐怖末日守卫",
-        "popularity": 103
+        "popularity": 105
     },
     {
         "id": 2777,
@@ -9269,7 +9269,7 @@
         "race": 15,
         "name": "小鬼骑士",
         "description": "每当你弃掉一张牌时，便获得+1/+1。",
-        "popularity": 51
+        "popularity": 54
     },
     {
         "id": 2628,
@@ -9283,7 +9283,7 @@
         "classs": 9,
         "name": "加拉克苏斯之拳",
         "description": "当你使用或弃掉这张牌时，对一个随机敌人造成4点伤害。",
-        "popularity": 90
+        "popularity": 91
     },
     {
         "id": 2537,
@@ -9345,7 +9345,7 @@
         "race": 15,
         "name": "愤怒卫士",
         "description": "每当该随从受到伤害，对你的英雄造成等量的伤害。",
-        "popularity": 162
+        "popularity": 163
     },
     {
         "id": 2621,
@@ -9378,7 +9378,7 @@
         "classs": 4,
         "name": "影踪骁骑兵",
         "description": "连击：获得+3攻击力。",
-        "popularity": 100
+        "popularity": 101
     },
     {
         "id": 2715,
@@ -9395,7 +9395,7 @@
         "race": 23,
         "name": "锈水海盗",
         "description": "每当你装备一把武器，使武器获得+1攻击力。",
-        "popularity": 317
+        "popularity": 319
     },
     {
         "id": 2767,
@@ -9411,7 +9411,7 @@
         "classs": 4,
         "name": "幽暗城勇士",
         "description": "连击：造成1点伤害。",
-        "popularity": 114
+        "popularity": 117
     },
     {
         "id": 2766,
@@ -9427,7 +9427,7 @@
         "classs": 4,
         "name": "窃贼",
         "description": "每当该随从攻击敌方英雄，会将幸运币置入你的手牌。",
-        "popularity": 116
+        "popularity": 113
     },
     {
         "id": 2768,
@@ -9457,7 +9457,7 @@
         "classs": 4,
         "name": "剽窃",
         "description": "随机将两张（你的对手职业的）职业卡牌置入你的手牌。",
-        "popularity": 203
+        "popularity": 202
     },
     {
         "id": 2763,
@@ -9473,7 +9473,7 @@
         "durability": 3,
         "name": "淬毒利刃",
         "description": "你的英雄技能不会取代该武器，改为+1攻击力。",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 2587,
@@ -9487,7 +9487,7 @@
         "classs": 4,
         "name": "危机四伏",
         "description": "将三张伏击牌洗入你的对手的牌库。当你的对手抽到该牌，便为你召唤一个4/4的蛛魔。",
-        "popularity": 170
+        "popularity": 174
     },
     {
         "id": 2586,
@@ -9504,7 +9504,7 @@
         "elite": 1,
         "name": "阿努巴拉克",
         "description": "亡语：将该随从移回你的手牌，召唤一个4/4的蛛魔。",
-        "popularity": 120
+        "popularity": 115
     },
     {
         "id": 2792,
@@ -9518,7 +9518,7 @@
         "collectible": 1,
         "name": "活体根须",
         "description": "抉择：造成2点伤害；或者召唤两个1/1的树苗。",
-        "popularity": 1074
+        "popularity": 1108
     },
     {
         "id": 2782,
@@ -9534,7 +9534,7 @@
         "classs": 11,
         "name": "达纳苏斯豹骑士",
         "description": "战吼：获得一个空的法力水晶。 亡语：失去一个法力水晶。",
-        "popularity": 1075
+        "popularity": 1079
     },
     {
         "id": 2780,
@@ -9551,7 +9551,7 @@
         "race": 20,
         "name": "狂野争斗者",
         "description": "激励：在本回合中，使你的英雄获得+2攻击力。",
-        "popularity": 473
+        "popularity": 478
     },
     {
         "id": 2786,
@@ -9567,7 +9567,7 @@
         "classs": 11,
         "name": "荒野行者",
         "description": "战吼：使一个友方野兽获得+3生命值。",
-        "popularity": 150
+        "popularity": 152
     },
     {
         "id": 2788,
@@ -9599,7 +9599,7 @@
         "classs": 11,
         "name": "刃牙德鲁伊",
         "description": "抉择：变形获得冲锋；或者获得+1/+1并具有潜行。",
-        "popularity": 442
+        "popularity": 453
     },
     {
         "id": 2785,
@@ -9627,7 +9627,7 @@
         "classs": 11,
         "name": "腐根",
         "description": "消灭一个随从。随机将一张随从牌置入对手的手牌。",
-        "popularity": 135
+        "popularity": 150
     },
     {
         "id": 2796,
@@ -9660,7 +9660,7 @@
         "classs": 7,
         "name": "海象人图腾师",
         "description": "战吼：召唤一个随机图腾。",
-        "popularity": 917
+        "popularity": 976
     },
     {
         "id": 2613,
@@ -9676,7 +9676,7 @@
         "classs": 7,
         "name": "德莱尼图腾师",
         "description": "战吼：每有一个友方图腾，便获得+1/+1。",
-        "popularity": 232
+        "popularity": 234
     },
     {
         "id": 2612,
@@ -9690,7 +9690,7 @@
         "classs": 7,
         "name": "治疗波",
         "description": "恢复7点生命值。揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则恢复14点生命值。",
-        "popularity": 437
+        "popularity": 439
     },
     {
         "id": 2615,
@@ -9706,7 +9706,7 @@
         "classs": 7,
         "name": "雷霆崖勇士",
         "description": "激励：使你的图腾获得+2攻击力。",
-        "popularity": 526
+        "popularity": 538
     },
     {
         "id": 2617,
@@ -9736,7 +9736,7 @@
         "classs": 7,
         "name": "元素毁灭",
         "description": "对所有随从造成4到5点伤害，过载：（5）",
-        "popularity": 323
+        "popularity": 336
     },
     {
         "id": 2610,
@@ -9753,7 +9753,7 @@
         "race": 21,
         "name": "图腾魔像",
         "description": "过载：（1）",
-        "popularity": 1190
+        "popularity": 1266
     },
     {
         "id": 2514,
@@ -9767,7 +9767,7 @@
         "classs": 7,
         "name": "先祖知识",
         "description": "抽两张牌。过载：（2）",
-        "popularity": 628
+        "popularity": 668
     },
     {
         "id": 2618,
@@ -9784,7 +9784,7 @@
         "elite": 1,
         "name": "唤雾者伊戈瓦尔",
         "description": "战吼：使你的手牌和牌库里的所有随从获得+1/+1。",
-        "popularity": 216
+        "popularity": 217
     },
     {
         "id": 2582,
@@ -9798,7 +9798,7 @@
         "classs": 5,
         "name": "快速治疗",
         "description": "恢复5点生命值。",
-        "popularity": 576
+        "popularity": 619
     },
     {
         "id": 2638,
@@ -9812,7 +9812,7 @@
         "classs": 3,
         "name": "强风射击",
         "description": "对一个随从及其相邻的随从造成2点伤害。",
-        "popularity": 233
+        "popularity": 236
     },
     {
         "id": 2639,
@@ -9845,7 +9845,7 @@
         "race": 20,
         "name": "皇家雷象",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，抽这张牌。",
-        "popularity": 544
+        "popularity": 561
     },
     {
         "id": 2642,
@@ -9861,7 +9861,7 @@
         "classs": 3,
         "name": "神勇弓箭手",
         "description": "激励：如果你没有其他手牌，则对敌方英雄造成2点伤害。",
-        "popularity": 62
+        "popularity": 63
     },
     {
         "id": 2641,
@@ -9875,7 +9875,7 @@
         "classs": 3,
         "name": "捕熊陷阱",
         "description": "奥秘：在你的英雄受到攻击后，召唤一个3/3并具有嘲讽的灰熊。",
-        "popularity": 663
+        "popularity": 673
     },
     {
         "id": 2484,
@@ -9889,7 +9889,7 @@
         "classs": 3,
         "name": "子弹上膛",
         "description": "在本回合中，每当你施放一个法术，随机将一张猎人职业牌置入你的手牌。",
-        "popularity": 137
+        "popularity": 142
     },
     {
         "id": 2483,
@@ -9903,7 +9903,7 @@
         "classs": 3,
         "name": "天降蛛群",
         "description": "召唤三个1/1的结网蛛。",
-        "popularity": 156
+        "popularity": 157
     },
     {
         "id": 2633,
@@ -9921,7 +9921,7 @@
         "health": 2,
         "name": "酸喉",
         "description": "每当有其他随从受到伤害时，将其消灭。",
-        "popularity": 41
+        "popularity": 43
     },
     {
         "id": 2634,
@@ -9953,7 +9953,7 @@
         "classs": 1,
         "name": "怒袭",
         "description": "造成3点伤害。 获得3点护甲值。",
-        "popularity": 892
+        "popularity": 932
     },
     {
         "id": 2756,
@@ -9969,7 +9969,7 @@
         "durability": 2,
         "name": "国王护卫者",
         "description": "战吼：如果你控制任何具有嘲讽的随从，便获得+1耐久度。",
-        "popularity": 116
+        "popularity": 121
     },
     {
         "id": 2711,
@@ -10001,7 +10001,7 @@
         "classs": 1,
         "name": "猛犸人头领",
         "description": "同时对其攻击目标相邻的随从造成伤害。",
-        "popularity": 11
+        "popularity": 10
     },
     {
         "id": 2754,
@@ -10015,7 +10015,7 @@
         "cost": 2,
         "name": "加固",
         "description": "使你具有嘲讽的随从获得+2/+2。",
-        "popularity": 179
+        "popularity": 178
     },
     {
         "id": 2733,
@@ -10031,7 +10031,7 @@
         "classs": 1,
         "name": "格斗陪练师",
         "description": "嘲讽 战吼：使一个随从获得嘲讽。",
-        "popularity": 190
+        "popularity": 191
     },
     {
         "id": 2757,
@@ -10048,7 +10048,7 @@
         "elite": 1,
         "name": "天空上尉库拉格",
         "description": "冲冲冲冲锋 每有一个友方海盗，该牌的法力值消耗便减少（1）点。",
-        "popularity": 132
+        "popularity": 138
     },
     {
         "id": 2758,
@@ -10064,7 +10064,7 @@
         "classs": 1,
         "name": "阿莱克丝塔萨的勇士",
         "description": "战吼：如果你的手牌中有龙牌，便获得+1攻击力和冲锋。",
-        "popularity": 174
+        "popularity": 175
     },
     {
         "id": 2760,
@@ -10081,7 +10081,7 @@
         "elite": 1,
         "name": "瓦里安·乌瑞恩",
         "description": "战吼：抽三张牌。将抽到的随从牌直接置入战场。",
-        "popularity": 302
+        "popularity": 306
     },
     {
         "id": 2648,
@@ -10095,7 +10095,7 @@
         "classs": 2,
         "name": "争强好胜",
         "description": "奥秘：在你的回合开始时，使你的随从获得+1/+1。",
-        "popularity": 908
+        "popularity": 902
     },
     {
         "id": 2717,
@@ -10109,7 +10109,7 @@
         "classs": 2,
         "name": "英勇圣印",
         "description": "使一个随从获得+3攻击力，并具有圣盾。",
-        "popularity": 398
+        "popularity": 408
     },
     {
         "id": 2515,
@@ -10125,7 +10125,7 @@
         "classs": 2,
         "name": "战马训练师",
         "description": "你的白银之手新兵获得+1攻击力。",
-        "popularity": 317
+        "popularity": 319
     },
     {
         "id": 2655,
@@ -10142,7 +10142,7 @@
         "race": 14,
         "name": "鱼人骑士",
         "description": "激励：随机召唤一个鱼人。",
-        "popularity": 981
+        "popularity": 986
     },
     {
         "id": 2720,
@@ -10158,7 +10158,7 @@
         "durability": 2,
         "name": "白银之枪",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，+1耐久度。",
-        "popularity": 107
+        "popularity": 108
     },
     {
         "id": 2654,
@@ -10172,7 +10172,7 @@
         "classs": 2,
         "name": "精英对决",
         "description": "除了每个玩家攻击力最高的随从之外，消灭其他所有随从。",
-        "popularity": 90
+        "popularity": 93
     },
     {
         "id": 2726,
@@ -10188,7 +10188,7 @@
         "classs": 2,
         "name": "神秘挑战者",
         "description": "战吼：将每种不同的奥秘从你的牌库中置入战场。",
-        "popularity": 753
+        "popularity": 748
     },
     {
         "id": 2517,
@@ -10203,7 +10203,7 @@
         "health": 3,
         "name": "要塞指挥官",
         "description": "每个回合你可以使用两次英雄技能。",
-        "popularity": 363
+        "popularity": 357
     },
     {
         "id": 2727,
@@ -10220,7 +10220,7 @@
         "elite": 1,
         "name": "纯洁者耶德瑞克",
         "description": "战吼：使所有敌方随从的攻击力变为1。",
-        "popularity": 138
+        "popularity": 142
     },
     {
         "id": 2486,
@@ -10235,7 +10235,7 @@
         "health": 2,
         "name": "低阶侍从",
         "description": "激励：获得+1攻击力。",
-        "popularity": 247
+        "popularity": 251
     },
     {
         "id": 2533,
@@ -10250,7 +10250,7 @@
         "health": 3,
         "name": "龙鹰骑士",
         "description": "激励：在本回合中，获得风怒。",
-        "popularity": 155
+        "popularity": 156
     },
     {
         "id": 2577,
@@ -10265,7 +10265,7 @@
         "health": 2,
         "name": "持枪侍从",
         "description": "战吼：使一个友方随从获得+2攻击力。",
-        "popularity": 231
+        "popularity": 234
     },
     {
         "id": 2488,
@@ -10280,7 +10280,7 @@
         "health": 6,
         "name": "湖之仙女",
         "description": "你的英雄技能的法力值消耗为（1）点。",
-        "popularity": 401
+        "popularity": 402
     },
     {
         "id": 2576,
@@ -10295,7 +10295,7 @@
         "health": 3,
         "name": "破坏者",
         "description": "战吼：下个回合敌方英雄技能的法力值消耗增加（5）点。",
-        "popularity": 150
+        "popularity": 153
     },
     {
         "id": 2490,
@@ -10310,7 +10310,7 @@
         "health": 1,
         "name": "银色骑手",
         "description": "冲锋 圣盾",
-        "popularity": 1071
+        "popularity": 1110
     },
     {
         "id": 2491,
@@ -10340,7 +10340,7 @@
         "health": 2,
         "name": "白骨卫士军官",
         "description": "激励：获得+1生命值。",
-        "popularity": 265
+        "popularity": 269
     },
     {
         "id": 2497,
@@ -10356,7 +10356,7 @@
         "race": 20,
         "name": "穆克拉的勇士",
         "description": "激励：使你的其他随从获得+1/+1。",
-        "popularity": 619
+        "popularity": 626
     },
     {
         "id": 2575,
@@ -10371,7 +10371,7 @@
         "health": 8,
         "name": "赛场医师",
         "description": "激励：为你的英雄恢复2点生命值。",
-        "popularity": 397
+        "popularity": 403
     },
     {
         "id": 2594,
@@ -10385,7 +10385,7 @@
         "attack": 5,
         "health": 2,
         "name": "冰霜暴怒者",
-        "popularity": 40
+        "popularity": 39
     },
     {
         "id": 2532,
@@ -10400,7 +10400,7 @@
         "health": 6,
         "name": "雪地狗头人",
         "description": "法术伤害+1",
-        "popularity": 84
+        "popularity": 85
     },
     {
         "id": 2580,
@@ -10415,7 +10415,7 @@
         "health": 3,
         "name": "火焰杂耍者",
         "description": "战吼：对一个随机敌人造成1点伤害。",
-        "popularity": 491
+        "popularity": 599
     },
     {
         "id": 2579,
@@ -10430,7 +10430,7 @@
         "health": 2,
         "name": "沉默的骑士",
         "description": "潜行 圣盾",
-        "popularity": 150
+        "popularity": 151
     },
     {
         "id": 2500,
@@ -10446,7 +10446,7 @@
         "race": 17,
         "name": "发条骑士",
         "description": "战吼：使一个友方机械获得+1/+1。",
-        "popularity": 294
+        "popularity": 291
     },
     {
         "id": 2499,
@@ -10461,7 +10461,7 @@
         "health": 1,
         "name": "赛场观众",
         "description": "嘲讽",
-        "popularity": 97
+        "popularity": 98
     },
     {
         "id": 2573,
@@ -10491,7 +10491,7 @@
         "health": 5,
         "name": "科多兽骑手",
         "description": "激励：召唤一个3/5的作战科多兽。",
-        "popularity": 236
+        "popularity": 237
     },
     {
         "id": 2503,
@@ -10506,7 +10506,7 @@
         "health": 3,
         "name": "白银之手教官",
         "description": "激励：召唤一个1/1的白银之手新兵。",
-        "popularity": 487
+        "popularity": 484
     },
     {
         "id": 2521,
@@ -10520,7 +10520,7 @@
         "attack": 5,
         "health": 6,
         "name": "格斗士",
-        "popularity": 162
+        "popularity": 164
     },
     {
         "id": 2522,
@@ -10566,7 +10566,7 @@
         "classs": 2,
         "name": "海象人龟骑士",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则为你的英雄恢复7点生命值。",
-        "popularity": 300
+        "popularity": 301
     },
     {
         "id": 2502,
@@ -10581,7 +10581,7 @@
         "health": 4,
         "name": "受伤的克瓦迪尔",
         "description": "战吼：对自身造成3点伤害。",
-        "popularity": 197
+        "popularity": 203
     },
     {
         "id": 2259,
@@ -10612,7 +10612,7 @@
         "race": 20,
         "name": "重甲战马",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则获得冲锋。",
-        "popularity": 132
+        "popularity": 133
     },
     {
         "id": 2505,
@@ -10657,7 +10657,7 @@
         "health": 5,
         "name": "零食商贩",
         "description": "战吼：为每个英雄恢复4点生命值。",
-        "popularity": 379
+        "popularity": 389
     },
     {
         "id": 2507,
@@ -10672,7 +10672,7 @@
         "health": 6,
         "name": "大师级枪骑士",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则获得嘲讽和圣盾。",
-        "popularity": 223
+        "popularity": 227
     },
     {
         "id": 2509,
@@ -10687,7 +10687,7 @@
         "health": 4,
         "name": "征募官",
         "description": "激励：将一个2/2的侍从置入你的手牌。",
-        "popularity": 42
+        "popularity": 43
     },
     {
         "id": 2752,
@@ -10702,7 +10702,7 @@
         "health": 4,
         "name": "邪灵拷问者",
         "description": "嘲讽",
-        "popularity": 295
+        "popularity": 291
     },
     {
         "id": 2581,
@@ -10733,7 +10733,7 @@
         "classs": 5,
         "name": "龙眠教官",
         "description": "战吼：如果你的手牌中有龙牌，便获得+1攻击力和嘲讽。",
-        "popularity": 589
+        "popularity": 602
     },
     {
         "id": 2493,
@@ -10748,7 +10748,7 @@
         "health": 2,
         "name": "庆典司仪",
         "description": "战吼：如果你控制任何具有法术伤害的随从，便获得+2/+2。",
-        "popularity": 54
+        "popularity": 53
     },
     {
         "id": 2510,
@@ -10763,7 +10763,7 @@
         "health": 5,
         "name": "十字军统领",
         "description": "战吼：随机将一张圣骑士牌置入你的手牌。",
-        "popularity": 130
+        "popularity": 132
     },
     {
         "id": 2511,
@@ -10778,7 +10778,7 @@
         "health": 4,
         "name": "克瓦迪尔劫掠者",
         "description": "激励：获得+2/+2。",
-        "popularity": 333
+        "popularity": 336
     },
     {
         "id": 2512,
@@ -10793,7 +10793,7 @@
         "health": 8,
         "name": "冰霜巨人",
         "description": "本局对战中，每当你使用一次英雄技能，这张牌的法力值消耗便减少（1）点。",
-        "popularity": 276
+        "popularity": 277
     },
     {
         "id": 2518,
@@ -10808,7 +10808,7 @@
         "health": 4,
         "name": "人气选手",
         "description": "每当你使用一张具有战吼的牌，便获得+1/+1。",
-        "popularity": 70
+        "popularity": 69
     },
     {
         "id": 2724,
@@ -10824,7 +10824,7 @@
         "elite": 1,
         "name": "穿刺者戈莫克",
         "description": "战吼：如果你控制至少四个随从，则造成4点伤害。",
-        "popularity": 316
+        "popularity": 339
     },
     {
         "id": 2682,
@@ -10841,7 +10841,7 @@
         "race": 24,
         "name": "冰喉",
         "description": "嘲讽，亡语：如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
-        "popularity": 627
+        "popularity": 643
     },
     {
         "id": 2595,
@@ -10857,7 +10857,7 @@
         "elite": 1,
         "name": "博尔夫·碎盾",
         "description": "每当你的英雄受到伤害，便会由该随从来承担。",
-        "popularity": 89
+        "popularity": 92
     },
     {
         "id": 2725,
@@ -10873,7 +10873,7 @@
         "elite": 1,
         "name": "冰吼",
         "description": "冲锋 无法攻击英雄。",
-        "popularity": 82
+        "popularity": 85
     },
     {
         "id": 2683,
@@ -10889,7 +10889,7 @@
         "elite": 1,
         "name": "虚灵勇士萨兰德",
         "description": "激励：随机将一张法术牌置入你的手牌。",
-        "popularity": 519
+        "popularity": 520
     },
     {
         "id": 2681,
@@ -10905,7 +10905,7 @@
         "elite": 1,
         "name": "骷髅骑士",
         "description": "亡语：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则将骷髅骑士移回你的手牌。",
-        "popularity": 47
+        "popularity": 48
     },
     {
         "id": 2748,
@@ -10921,7 +10921,7 @@
         "elite": 1,
         "name": "光明邪使菲奥拉",
         "description": "每当你以该随从为目标施放一个法术时，便获得圣盾。",
-        "popularity": 171
+        "popularity": 170
     },
     {
         "id": 2723,
@@ -10969,7 +10969,7 @@
         "elite": 1,
         "name": "裁决者图哈特",
         "description": "战吼：以更强的英雄技能来替换你的初始英雄技能。",
-        "popularity": 1886
+        "popularity": 1967
     },
     {
         "id": 2818,
@@ -10984,7 +10984,7 @@
         "health": 2,
         "name": "加基森枪骑士",
         "description": "战吼：揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则获得+1/+1。",
-        "popularity": 302
+        "popularity": 309
     },
     {
         "id": 13879,
@@ -10999,7 +10999,7 @@
         "race": 14,
         "collectible": 1,
         "name": "鱼人宝宝",
-        "popularity": 278
+        "popularity": 283
     },
     {
         "id": 2874,
@@ -11013,7 +11013,7 @@
         "collectible": 1,
         "name": "老旧的火把",
         "description": "造成3点伤害。将一张可造成6点伤害的“炽烈的火把”洗入你的牌库。",
-        "popularity": 643
+        "popularity": 679
     },
     {
         "id": 2875,
@@ -11029,7 +11029,7 @@
         "health": 3,
         "name": "虚灵巫师",
         "description": "战吼：发现一张法术牌。",
-        "popularity": 455
+        "popularity": 480
     },
     {
         "id": 2878,
@@ -11045,7 +11045,7 @@
         "collectible": 1,
         "name": "博物馆馆长",
         "description": "战吼：发现一张亡语牌。",
-        "popularity": 378
+        "popularity": 403
     },
     {
         "id": 2879,
@@ -11059,7 +11059,7 @@
         "collectible": 1,
         "name": "拉法姆的诅咒",
         "description": "使你的对手获得一张“诅咒！”牌。 在对手的回合开始时，如果它在对手的手牌中，则造成2点伤害。",
-        "popularity": 46
+        "popularity": 47
     },
     {
         "id": 2881,
@@ -11075,7 +11075,7 @@
         "health": 7,
         "name": "黑曜石毁灭者",
         "description": "在你的回合结束时，召唤一个1/1并具有嘲讽的圣甲虫。",
-        "popularity": 86
+        "popularity": 89
     },
     {
         "id": 2882,
@@ -11092,7 +11092,7 @@
         "race": 20,
         "name": "深渊巨蟒",
         "description": "消灭任何受到该随从伤害的随从。",
-        "popularity": 66
+        "popularity": 67
     },
     {
         "id": 2883,
@@ -11108,7 +11108,7 @@
         "elite": 1,
         "name": "雷诺·杰克逊",
         "description": "战吼：如果你的牌库里没有相同的牌，则为你的英雄恢复所有生命值。",
-        "popularity": 1290
+        "popularity": 1337
     },
     {
         "id": 2884,
@@ -11124,7 +11124,7 @@
         "health": 4,
         "name": "盗墓匪贼",
         "description": "亡语：将一个幸运币置入你的手牌。",
-        "popularity": 332
+        "popularity": 381
     },
     {
         "id": 2888,
@@ -11140,7 +11140,7 @@
         "attack": 2,
         "name": "顽石元素",
         "description": "当你召唤一个具有战吼的随从时，对一个随机敌人造成2点伤害。",
-        "popularity": 106
+        "popularity": 107
     },
     {
         "id": 2889,
@@ -11156,7 +11156,7 @@
         "collectible": 1,
         "name": "奥达曼守护者",
         "description": "战吼：使一个随从的攻击力和生命值成为3。",
-        "popularity": 743
+        "popularity": 778
     },
     {
         "id": 2890,
@@ -11172,7 +11172,7 @@
         "collectible": 1,
         "name": "坑道穴居人",
         "description": "当你过载时，每一个被锁的法力水晶会使其获得+1攻击力。",
-        "popularity": 596
+        "popularity": 672
     },
     {
         "id": 2891,
@@ -11188,7 +11188,7 @@
         "health": 4,
         "name": "石化迅猛龙",
         "description": "战吼：选择一个友方随从，将其亡语效果复制到自己身上。",
-        "popularity": 297
+        "popularity": 316
     },
     {
         "id": 2892,
@@ -11236,7 +11236,7 @@
         "race": 20,
         "name": "凶暴猿猴",
         "description": "嘲讽",
-        "popularity": 276
+        "popularity": 292
     },
     {
         "id": 2895,
@@ -11252,7 +11252,7 @@
         "collectible": 1,
         "name": "黑市摊贩",
         "description": "战吼：发现一张 法力值消耗为（1）的卡牌。",
-        "popularity": 963
+        "popularity": 1008
     },
     {
         "id": 2898,
@@ -11266,7 +11266,7 @@
         "collectible": 1,
         "name": "亡者归来",
         "description": "召唤七个在本局对战中死亡的鱼人。",
-        "popularity": 262
+        "popularity": 264
     },
     {
         "id": 2899,
@@ -11296,7 +11296,7 @@
         "race": 20,
         "name": "宝石甲虫",
         "description": "战吼：发现一张 法力值消耗为（3）的卡牌。",
-        "popularity": 858
+        "popularity": 872
     },
     {
         "id": 2910,
@@ -11311,7 +11311,7 @@
         "health": 5,
         "name": "纳迦海巫",
         "description": "你的卡牌法力值消耗为（5）点。",
-        "popularity": 70
+        "popularity": 72
     },
     {
         "id": 2911,
@@ -11327,7 +11327,7 @@
         "race": 17,
         "name": "A3型机械金刚",
         "description": "战吼：如果你控制任何机械，则发现一张机械牌。",
-        "popularity": 199
+        "popularity": 194
     },
     {
         "id": 2918,
@@ -11343,7 +11343,7 @@
         "race": 20,
         "name": "巨型蟾蜍",
         "description": "亡语：对一个随机敌人造成1点伤害。",
-        "popularity": 250
+        "popularity": 284
     },
     {
         "id": 2919,
@@ -11359,7 +11359,7 @@
         "race": 20,
         "name": "墓穴蜘蛛",
         "description": "战吼：发现一张野兽牌。",
-        "popularity": 336
+        "popularity": 329
     },
     {
         "id": 2922,
@@ -11376,7 +11376,7 @@
         "race": 20,
         "name": "骑乘迅猛龙",
         "description": "亡语：随机召唤一个法力值消耗为（1）的随从。",
-        "popularity": 298
+        "popularity": 305
     },
     {
         "id": 2923,
@@ -11393,7 +11393,7 @@
         "classs": 11,
         "name": "丛林枭兽",
         "description": "每个玩家获得 法术伤害+2。",
-        "popularity": 29
+        "popularity": 30
     },
     {
         "id": 2925,
@@ -11408,7 +11408,7 @@
         "health": 6,
         "name": "西风灯神",
         "description": "当你对一个其他友方随从施放法术时，将法术效果复制在此随从身上。",
-        "popularity": 117
+        "popularity": 118
     },
     {
         "id": 2933,
@@ -11423,7 +11423,7 @@
         "health": 4,
         "name": "阿努比萨斯哨兵",
         "description": "亡语：使一个随机友方随从获得+3/+3。",
-        "popularity": 154
+        "popularity": 160
     },
     {
         "id": 2945,
@@ -11438,7 +11438,7 @@
         "health": 8,
         "name": "石化魔暴龙",
         "description": "战吼：如果你控制任何野兽，便获得嘲讽。",
-        "popularity": 52
+        "popularity": 51
     },
     {
         "id": 2948,
@@ -11455,7 +11455,7 @@
         "race": 14,
         "name": "芬利·莫格顿爵士",
         "description": "战吼：发现一个新的基础英雄技能。",
-        "popularity": 1031
+        "popularity": 1086
     },
     {
         "id": 2949,
@@ -11471,7 +11471,7 @@
         "health": 4,
         "name": "布莱恩·铜须",
         "description": "你的战吼会触发两次。",
-        "popularity": 1653
+        "popularity": 1752
     },
     {
         "id": 2951,
@@ -11487,7 +11487,7 @@
         "health": 5,
         "name": "伊莉斯·逐星",
         "description": "战吼：将“黄金猿藏宝图”洗入你的牌库。",
-        "popularity": 610
+        "popularity": 638
     },
     {
         "id": 2958,
@@ -11502,7 +11502,7 @@
         "health": 6,
         "name": "集合石",
         "description": "每当你施放一个法术，召唤一个法力值消耗相同的随机随从。",
-        "popularity": 281
+        "popularity": 291
     },
     {
         "id": 2961,
@@ -11517,7 +11517,7 @@
         "health": 6,
         "name": "摇摆的俾格米",
         "description": "亡语：召唤三个2/2的俾格米。",
-        "popularity": 70
+        "popularity": 73
     },
     {
         "id": 2964,
@@ -11533,7 +11533,7 @@
         "health": 8,
         "name": "虚灵大盗拉法姆",
         "description": "战吼：发现一张强大的神器牌。",
-        "popularity": 278
+        "popularity": 291
     },
     {
         "id": 3015,
@@ -11547,7 +11547,7 @@
         "classs": 5,
         "name": "埋葬",
         "description": "选择一个敌方随从。 将该随从洗入你的牌库。",
-        "popularity": 673
+        "popularity": 742
     },
     {
         "id": 3001,
@@ -11561,7 +11561,7 @@
         "classs": 3,
         "name": "探险帽",
         "description": "使一个随从获得+1/+1，以及亡语：将一个探险帽置入你的手牌。",
-        "popularity": 116
+        "popularity": 115
     },
     {
         "id": 9107,
@@ -11591,7 +11591,7 @@
         "health": 4,
         "name": "远古暗影",
         "description": "战吼：将一张“远古诅咒”牌洗入你的牌库。当你抽到该牌，便会受到7点伤害。",
-        "popularity": 66
+        "popularity": 65
     },
     {
         "id": 2999,
@@ -11605,7 +11605,7 @@
         "classs": 5,
         "name": "极恶之咒",
         "description": "对所有随从造成3点伤害。 将该牌洗入你对手的牌库。",
-        "popularity": 248
+        "popularity": 299
     },
     {
         "id": 3007,
@@ -11619,7 +11619,7 @@
         "classs": 7,
         "name": "鱼人恩典",
         "description": "使你的随从获得+2/+2。 你每控制一个鱼人，该牌的法力值消耗便减少（1）点。",
-        "popularity": 97
+        "popularity": 95
     },
     {
         "id": 13335,
@@ -11633,7 +11633,7 @@
         "classs": 11,
         "name": "乌鸦神像",
         "description": "抉择： 发现一张随从牌；或者发现一张法术牌。",
-        "popularity": 219
+        "popularity": 242
     },
     {
         "id": 13334,
@@ -11649,7 +11649,7 @@
         "classs": 9,
         "name": "遗物搜寻者",
         "description": "战吼：如果你控制至少六个随从，便获得+4/+4。",
-        "popularity": 85
+        "popularity": 86
     },
     {
         "id": 35025,
@@ -11665,7 +11665,7 @@
         "classs": 1,
         "name": "诅咒之刃",
         "description": "你的英雄受到的所有伤害效果翻倍。",
-        "popularity": 48
+        "popularity": 50
     },
     {
         "id": 36111,
@@ -11681,7 +11681,7 @@
         "classs": 8,
         "name": "复活的铠甲",
         "description": "你的英雄每次只会受到1点伤害。",
-        "popularity": 117
+        "popularity": 115
     },
     {
         "id": 38227,
@@ -11698,7 +11698,7 @@
         "race": 14,
         "name": "邪鳍审判者",
         "description": "战吼：你的英雄技能变为“召唤一个1/1的鱼人”。",
-        "popularity": 30
+        "popularity": 40
     },
     {
         "id": 38262,
@@ -11712,7 +11712,7 @@
         "classs": 7,
         "name": "原始融合",
         "description": "你每有一个图腾，就使一个随从获得+1/+1。",
-        "popularity": 11
+        "popularity": 19
     },
     {
         "id": 38263,
@@ -11728,7 +11728,7 @@
         "classs": 7,
         "name": "投火无面者",
         "description": "过载：（2）",
-        "popularity": 155
+        "popularity": 230
     },
     {
         "id": 38265,
@@ -11744,7 +11744,7 @@
         "classs": 7,
         "name": "永恒哨卫",
         "description": "战吼：将你所有过载的法力水晶解锁。",
-        "popularity": 137
+        "popularity": 185
     },
     {
         "id": 38266,
@@ -11758,7 +11758,7 @@
         "classs": 7,
         "name": "进化",
         "description": "将你所有的随从随机变形成为法力值消耗增加（1）点的其他随从。",
-        "popularity": 68
+        "popularity": 82
     },
     {
         "id": 38267,
@@ -11774,7 +11774,7 @@
         "classs": 7,
         "name": "深渊魔物",
         "description": "嘲讽 在本局对战中，你每召唤一个图腾，这张牌的法力值消耗便减少（1）点。",
-        "popularity": 125
+        "popularity": 186
     },
     {
         "id": 38270,
@@ -11790,7 +11790,7 @@
         "classs": 7,
         "name": "暮光神锤",
         "description": "亡语：召唤一个4/2的元素随从。",
-        "popularity": 42
+        "popularity": 49
     },
     {
         "id": 38279,
@@ -11821,7 +11821,7 @@
         "health": 5,
         "name": "异种群居蝎",
         "description": "在本回合中，除非你的英雄进行过攻击，否则无法进行攻击。",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38312,
@@ -11837,7 +11837,7 @@
         "elite": 1,
         "name": "亚煞极",
         "description": "在你的回合结束时，将一个随从从你的牌库置入战场。",
-        "popularity": 36
+        "popularity": 41
     },
     {
         "id": 38318,
@@ -11854,7 +11854,7 @@
         "elite": 1,
         "name": "范达尔·鹿盔",
         "description": "你的抉择卡牌可以同时拥有两种效果。",
-        "popularity": 116
+        "popularity": 143
     },
     {
         "id": 38329,
@@ -11868,7 +11868,7 @@
         "classs": 3,
         "name": "寄生感染",
         "description": "使你的所有随从获得“亡语：随机将一张野兽牌置入你的手牌。”",
-        "popularity": 38
+        "popularity": 45
     },
     {
         "id": 38334,
@@ -11882,7 +11882,7 @@
         "classs": 11,
         "name": "野性之怒",
         "description": "抉择：使你的英雄在本回合中获得+4攻击力；或者获得8点护甲值。",
-        "popularity": 50
+        "popularity": 58
     },
     {
         "id": 38337,
@@ -11896,7 +11896,7 @@
         "classs": 11,
         "name": "亚煞极印记",
         "description": "使一个随从获得+2/+2。 如果该随从是野兽，抽一张牌。",
-        "popularity": 45
+        "popularity": 60
     },
     {
         "id": 38340,
@@ -11912,7 +11912,7 @@
         "classs": 11,
         "name": "禁忌古树",
         "description": "战吼：消耗你所有的法力值，每消耗一点法力值，便获得+1/+1。",
-        "popularity": 15
+        "popularity": 20
     },
     {
         "id": 38377,
@@ -11926,7 +11926,7 @@
         "classs": 3,
         "name": "搜寻猎物",
         "description": "造成1点伤害。 召唤一个1/1的獒犬。",
-        "popularity": 36
+        "popularity": 53
     },
     {
         "id": 38391,
@@ -11942,7 +11942,7 @@
         "classs": 4,
         "name": "执刃教徒",
         "description": "连击：获得+1/+1。",
-        "popularity": 28
+        "popularity": 30
     },
     {
         "id": 38393,
@@ -11956,7 +11956,7 @@
         "classs": 4,
         "name": "深渊探险",
         "description": "发现一张亡语牌。",
-        "popularity": 83
+        "popularity": 104
     },
     {
         "id": 38395,
@@ -11970,7 +11970,7 @@
         "classs": 4,
         "name": "菊花茶",
         "description": "抽一张牌。将两张该牌的复制置入你的手牌。",
-        "popularity": 22
+        "popularity": 24
     },
     {
         "id": 38403,
@@ -11987,7 +11987,7 @@
         "elite": 1,
         "name": "毒心者夏克里尔",
         "description": "战吼，亡语：随机将一张毒素牌置入你的手牌。",
-        "popularity": 124
+        "popularity": 172
     },
     {
         "id": 38407,
@@ -12001,7 +12001,7 @@
         "classs": 8,
         "name": "冰爆",
         "description": "消灭一个被冻结的随从。",
-        "popularity": 30
+        "popularity": 34
     },
     {
         "id": 38408,
@@ -12032,7 +12032,7 @@
         "classs": 8,
         "name": "暮光烈焰召唤者",
         "description": "战吼：对所有敌方随从造成1点伤害。",
-        "popularity": 27
+        "popularity": 30
     },
     {
         "id": 38412,
@@ -12048,7 +12048,7 @@
         "classs": 8,
         "name": "癫狂的唤冰者",
         "description": "在你施放一个法术后，随机冻结一个敌人。",
-        "popularity": 22
+        "popularity": 26
     },
     {
         "id": 38413,
@@ -12062,7 +12062,7 @@
         "classs": 8,
         "name": "禁忌烈焰",
         "description": "消耗你所有的法力值，对一个随从造成等同于所消耗法力值数量的伤害。",
-        "popularity": 40
+        "popularity": 55
     },
     {
         "id": 38414,
@@ -12092,7 +12092,7 @@
         "classs": 8,
         "name": "秘法宝典",
         "description": "随机将三张法师的法术牌置入你的手牌。",
-        "popularity": 92
+        "popularity": 120
     },
     {
         "id": 38426,
@@ -12106,7 +12106,7 @@
         "classs": 5,
         "name": "真言术：触",
         "description": "使一个随从获得+2/+6。",
-        "popularity": 10
+        "popularity": 14
     },
     {
         "id": 38429,
@@ -12122,7 +12122,7 @@
         "classs": 5,
         "name": "暮光暗愈者",
         "description": "战吼：如果你的克苏恩至少具有10点攻击力，便为你的英雄恢复10点生命值。",
-        "popularity": 76
+        "popularity": 94
     },
     {
         "id": 38433,
@@ -12136,7 +12136,7 @@
         "classs": 5,
         "name": "暗言术：骇",
         "description": "消灭所有攻击力小于或等于2的随从。",
-        "popularity": 31
+        "popularity": 34
     },
     {
         "id": 38434,
@@ -12150,7 +12150,7 @@
         "classs": 5,
         "name": "禁忌畸变",
         "description": "消耗你所有的法力值，随机召唤一个法力值消耗相同的随从。",
-        "popularity": 54
+        "popularity": 71
     },
     {
         "id": 38436,
@@ -12165,7 +12165,7 @@
         "health": 6,
         "name": "黑暗低语者",
         "description": "战吼：与另一个友方随从交换属性值。",
-        "popularity": 4
+        "popularity": 6
     },
     {
         "id": 38439,
@@ -12179,7 +12179,7 @@
         "classs": 5,
         "name": "暗影之握",
         "description": "在本回合中，你的治疗效果转而造成等量的伤害。",
-        "popularity": 29
+        "popularity": 48
     },
     {
         "id": 38447,
@@ -12195,7 +12195,7 @@
         "classs": 9,
         "name": "夜色镇图书管理员",
         "description": "战吼： 随机弃一张牌。 亡语： 抽一张牌。",
-        "popularity": 5
+        "popularity": 10
     },
     {
         "id": 38452,
@@ -12211,7 +12211,7 @@
         "collectible": 1,
         "name": "夜色镇议员",
         "description": "在你召唤一个随从后，夜色镇议员获得+1攻击力。",
-        "popularity": 73
+        "popularity": 115
     },
     {
         "id": 38454,
@@ -12225,7 +12225,7 @@
         "classs": 9,
         "name": "禁忌仪式",
         "description": "消耗你所有的法力值，每消耗一点法力值，便召唤一个1/1的触须。",
-        "popularity": 86
+        "popularity": 136
     },
     {
         "id": 38456,
@@ -12239,7 +12239,7 @@
         "classs": 9,
         "name": "狂乱传染",
         "description": "造成9点伤害，随机分配到所有角色身上。",
-        "popularity": 18
+        "popularity": 17
     },
     {
         "id": 38461,
@@ -12253,7 +12253,7 @@
         "classs": 9,
         "name": "弃暗投明",
         "description": "将你的英雄技能和术士职业牌替换成其它职业的。这些牌的法力值消耗减少（1）点。",
-        "popularity": 16
+        "popularity": 22
     },
     {
         "id": 38463,
@@ -12270,7 +12270,7 @@
         "classs": 8,
         "name": "阿诺玛鲁斯",
         "description": "亡语：对所有随从造成8点伤害。",
-        "popularity": 8
+        "popularity": 7
     },
     {
         "id": 38464,
@@ -12287,7 +12287,7 @@
         "classs": 9,
         "name": "古加尔",
         "description": "战吼：在本回合中，你施放的下一个法术不再消耗法力值，转而消耗生命值。",
-        "popularity": 14
+        "popularity": 19
     },
     {
         "id": 38468,
@@ -12304,7 +12304,7 @@
         "race": 20,
         "name": "山谷之王穆克拉",
         "description": "战吼：将两个香蕉置入你的手牌。",
-        "popularity": 18
+        "popularity": 20
     },
     {
         "id": 38475,
@@ -12320,7 +12320,7 @@
         "health": 1,
         "name": "百变泽鲁斯",
         "description": "如果这张牌在你的手牌中，每个回合都会变成一张随机随从牌。",
-        "popularity": 90
+        "popularity": 97
     },
     {
         "id": 38488,
@@ -12336,7 +12336,7 @@
         "elite": 1,
         "name": "维克洛尔大帝",
         "description": "嘲讽，战吼：如果你的克苏恩具有至少10点攻击力，则召唤另一名双子皇帝。",
-        "popularity": 359
+        "popularity": 451
     },
     {
         "id": 38496,
@@ -12352,7 +12352,7 @@
         "elite": 1,
         "name": "恩佐斯",
         "description": "战吼：召唤所有你在本局对战中死亡的，并具有亡语的随从。",
-        "popularity": 244
+        "popularity": 335
     },
     {
         "id": 38505,
@@ -12368,7 +12368,7 @@
         "elite": 1,
         "name": "尤格-萨隆",
         "description": "战吼：在本局对战中，你每施放过一个法术，便随机施放一个法术（随机选取目标）。",
-        "popularity": 134
+        "popularity": 188
     },
     {
         "id": 38517,
@@ -12383,7 +12383,7 @@
         "health": 4,
         "name": "蛛魔先知",
         "description": "在你的回合开始时，该随从牌的法力值消耗减少（1）点。",
-        "popularity": 47
+        "popularity": 53
     },
     {
         "id": 38521,
@@ -12397,7 +12397,7 @@
         "attack": 10,
         "health": 10,
         "name": "无面巨兽",
-        "popularity": 1
+        "popularity": 3
     },
     {
         "id": 38522,
@@ -12411,7 +12411,7 @@
         "attack": 6,
         "health": 10,
         "name": "惊骇恐魔",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38526,
@@ -12427,7 +12427,7 @@
         "race": 17,
         "name": "闹闹机器人",
         "description": "嘲讽 圣盾",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38528,
@@ -12443,7 +12443,7 @@
         "race": 17,
         "name": "腐化治疗机器人",
         "description": "亡语：为敌方英雄恢复8点生命值。",
-        "popularity": 50
+        "popularity": 68
     },
     {
         "id": 38530,
@@ -12459,7 +12459,7 @@
         "classs": 1,
         "name": "暴虐食尸鬼",
         "description": "战吼：对所有其他随从造成1点伤害。",
-        "popularity": 81
+        "popularity": 179
     },
     {
         "id": 38531,
@@ -12474,7 +12474,7 @@
         "health": 5,
         "name": "畸变狂战士",
         "description": "激怒：+2攻击力。",
-        "popularity": 15
+        "popularity": 16
     },
     {
         "id": 38532,
@@ -12505,7 +12505,7 @@
         "race": 20,
         "name": "畸变的龙鹰",
         "description": "风怒",
-        "popularity": 4
+        "popularity": 5
     },
     {
         "id": 38534,
@@ -12520,7 +12520,7 @@
         "health": 8,
         "name": "毒沼爬行者",
         "description": "嘲讽",
-        "popularity": 22
+        "popularity": 36
     },
     {
         "id": 38538,
@@ -12536,7 +12536,7 @@
         "race": 14,
         "name": "怒鳍猎潮者",
         "description": "战吼：召唤一个1/1并具有嘲讽的软泥怪。",
-        "popularity": 96
+        "popularity": 141
     },
     {
         "id": 38541,
@@ -12551,7 +12551,7 @@
         "health": 1,
         "name": "狂热的新兵",
         "description": "亡语：使一个随机友方随从获得+1/+1。",
-        "popularity": 26
+        "popularity": 27
     },
     {
         "id": 38545,
@@ -12567,7 +12567,7 @@
         "race": 14,
         "name": "腐化先知",
         "description": "战吼：对所有非鱼人随从造成2点伤害。",
-        "popularity": 13
+        "popularity": 15
     },
     {
         "id": 38547,
@@ -12582,7 +12582,7 @@
         "health": 1,
         "name": "克苏恩的信徒",
         "description": "战吼：造成2点伤害。使你的克苏恩获得+2/+2（无论它在手牌、牌库或是战场）。",
-        "popularity": 415
+        "popularity": 526
     },
     {
         "id": 38567,
@@ -12597,7 +12597,7 @@
         "health": 9,
         "name": "远古造物之血",
         "description": "在你的回合结束时，如果你控制两个远古造物之血，则将其融合成远古造物。",
-        "popularity": 6
+        "popularity": 7
     },
     {
         "id": 38569,
@@ -12612,7 +12612,7 @@
         "health": 1,
         "name": "无面蹒跚者",
         "description": "嘲讽 战吼：复制一个友方随从的攻击力和生命值。",
-        "popularity": 26
+        "popularity": 34
     },
     {
         "id": 38578,
@@ -12626,7 +12626,7 @@
         "classs": 4,
         "name": "暗影打击",
         "description": "对一个未受伤的角色造成5点伤害。",
-        "popularity": 96
+        "popularity": 153
     },
     {
         "id": 38584,
@@ -12643,7 +12643,7 @@
         "classs": 3,
         "name": "炽炎蝙蝠",
         "description": "亡语：对一个随机敌人造成1点伤害。",
-        "popularity": 100
+        "popularity": 139
     },
     {
         "id": 38621,
@@ -12659,7 +12659,7 @@
         "classs": 11,
         "name": "卡拉克西织珀者",
         "description": "战吼：如果你的克苏恩至少具有10点攻击力，便获得+5生命值。",
-        "popularity": 150
+        "popularity": 175
     },
     {
         "id": 38655,
@@ -12673,7 +12673,7 @@
         "classs": 11,
         "name": "上古之神的小精灵",
         "description": "抉择：召唤七个1/1的小精灵；或者使你的所有随从获得+2/+2。",
-        "popularity": 11
+        "popularity": 15
     },
     {
         "id": 38666,
@@ -12687,7 +12687,7 @@
         "cost": 0,
         "name": "禁忌治疗",
         "description": "消耗你所有的法力值，恢复等同于所消耗法力值数量两倍的生命值。",
-        "popularity": 77
+        "popularity": 112
     },
     {
         "id": 38669,
@@ -12702,7 +12702,7 @@
         "health": 7,
         "name": "末日践行者",
         "description": "在你的回合开始时，使该随从的攻击力变为7。",
-        "popularity": 9
+        "popularity": 10
     },
     {
         "id": 38718,
@@ -12718,7 +12718,7 @@
         "classs": 11,
         "name": "泥潭守护者",
         "description": "抉择：召唤一个2/2的泥浆怪；或者获得一个空的法力水晶。",
-        "popularity": 160
+        "popularity": 194
     },
     {
         "id": 38724,
@@ -12732,7 +12732,7 @@
         "classs": 7,
         "name": "雷暴术",
         "description": "对一个随从造成4点伤害，过载：（1）",
-        "popularity": 36
+        "popularity": 43
     },
     {
         "id": 38725,
@@ -12748,7 +12748,7 @@
         "classs": 8,
         "name": "无面召唤者",
         "description": "战吼：随机召唤一个法力值消耗为（3）点的随从。",
-        "popularity": 96
+        "popularity": 127
     },
     {
         "id": 38722,
@@ -12765,7 +12765,7 @@
         "classs": 7,
         "name": "升腾者海纳泽尔",
         "description": "每当你的法术造成伤害时，为你的英雄恢复等量的生命值。",
-        "popularity": 65
+        "popularity": 67
     },
     {
         "id": 38727,
@@ -12779,7 +12779,7 @@
         "classs": 3,
         "name": "兽群呼唤",
         "description": "召唤所有三种动物伙伴。",
-        "popularity": 100
+        "popularity": 133
     },
     {
         "id": 38734,
@@ -12796,7 +12796,7 @@
         "race": 20,
         "name": "寄生恶狼",
         "description": "亡语：召唤两个1/1的蜘蛛。",
-        "popularity": 104
+        "popularity": 133
     },
     {
         "id": 38738,
@@ -12812,7 +12812,7 @@
         "classs": 1,
         "name": "血蹄勇士",
         "description": "嘲讽 激怒：+3攻击力。",
-        "popularity": 80
+        "popularity": 154
     },
     {
         "id": 38739,
@@ -12829,7 +12829,7 @@
         "elite": 1,
         "name": "马尔考罗克",
         "description": "战吼：随机装备一把武器。",
-        "popularity": 22
+        "popularity": 32
     },
     {
         "id": 38740,
@@ -12845,7 +12845,7 @@
         "classs": 2,
         "name": "无私的英雄",
         "description": "亡语：使一个随机友方随从获得圣盾。",
-        "popularity": 76
+        "popularity": 110
     },
     {
         "id": 38745,
@@ -12861,7 +12861,7 @@
         "classs": 2,
         "name": "集结之刃",
         "description": "战吼：使你具有圣盾的随从获得+1/+1。",
-        "popularity": 52
+        "popularity": 79
     },
     {
         "id": 38749,
@@ -12875,7 +12875,7 @@
         "classs": 2,
         "name": "神圣之力",
         "description": "使一个随从获得+1/+2。",
-        "popularity": 16
+        "popularity": 18
     },
     {
         "id": 38758,
@@ -12892,7 +12892,7 @@
         "elite": 1,
         "name": "光耀之主拉格纳罗斯",
         "description": "在你的回合结束时，为一个受伤的友方角色恢复8点生命值。",
-        "popularity": 74
+        "popularity": 100
     },
     {
         "id": 38764,
@@ -12908,7 +12908,7 @@
         "classs": 5,
         "name": "夜色镇炼金师",
         "description": "战吼：恢复5点生命值。",
-        "popularity": 78
+        "popularity": 122
     },
     {
         "id": 38770,
@@ -12922,7 +12922,7 @@
         "classs": 9,
         "name": "末日降临",
         "description": "消灭所有随从。每消灭一个随从，便抽一张牌。",
-        "popularity": 8
+        "popularity": 9
     },
     {
         "id": 38774,
@@ -12938,7 +12938,7 @@
         "classs": 9,
         "name": "着魔村民",
         "description": "亡语：召唤一个1/1的暗影兽。",
-        "popularity": 79
+        "popularity": 129
     },
     {
         "id": 38781,
@@ -12953,7 +12953,7 @@
         "health": 1,
         "name": "扭曲的狼人",
         "description": "潜行",
-        "popularity": 35
+        "popularity": 39
     },
     {
         "id": 38782,
@@ -12967,7 +12967,7 @@
         "attack": 1,
         "health": 5,
         "name": "怨影狂怒者",
-        "popularity": 2
+        "popularity": 3
     },
     {
         "id": 38784,
@@ -12982,7 +12982,7 @@
         "health": 3,
         "name": "被感染的牛头人",
         "description": "嘲讽 亡语：召唤一个2/2的泥浆怪。",
-        "popularity": 55
+        "popularity": 70
     },
     {
         "id": 38792,
@@ -12997,7 +12997,7 @@
         "health": 4,
         "name": "奥秘吞噬者",
         "description": "战吼：摧毁所有敌方奥秘。每摧毁一个，便获得+1/+1。",
-        "popularity": 27
+        "popularity": 33
     },
     {
         "id": 38795,
@@ -13012,7 +13012,7 @@
         "health": 9,
         "name": "厄运召唤者",
         "description": "战吼：使你的克苏恩获得+2/+2（无论它在手牌、牌库或是战场）。如果克苏恩死亡，将其洗入你的牌库。",
-        "popularity": 211
+        "popularity": 265
     },
     {
         "id": 38797,
@@ -13027,7 +13027,7 @@
         "health": 2,
         "name": "恩佐斯的子嗣",
         "description": "亡语：使你的所有随从获得+1/+1。",
-        "popularity": 73
+        "popularity": 76
     },
     {
         "id": 38825,
@@ -13044,7 +13044,7 @@
         "race": 23,
         "name": "南海畸变船长",
         "description": "亡语：使你的武器获得+2攻击力。",
-        "popularity": 50
+        "popularity": 57
     },
     {
         "id": 38832,
@@ -13060,7 +13060,7 @@
         "race": 24,
         "name": "梦魇之龙",
         "description": "在你的回合开始时，该随从的攻击力翻倍。",
-        "popularity": 35
+        "popularity": 36
     },
     {
         "id": 38833,
@@ -13075,7 +13075,7 @@
         "health": 1,
         "name": "暮光召唤师",
         "description": "亡语：召唤一个5/5的无面破坏者。",
-        "popularity": 80
+        "popularity": 105
     },
     {
         "id": 38843,
@@ -13089,7 +13089,7 @@
         "classs": 2,
         "name": "惩黑除恶",
         "description": "召唤五个1/1的白银之手新兵。",
-        "popularity": 31
+        "popularity": 39
     },
     {
         "id": 38848,
@@ -13103,7 +13103,7 @@
         "classs": 1,
         "name": "苦战傀儡",
         "description": "复制所有受伤的友方随从，并将其置入你的手牌。",
-        "popularity": 29
+        "popularity": 32
     },
     {
         "id": 38857,
@@ -13119,7 +13119,7 @@
         "quality": 5,
         "name": "克苏恩",
         "description": "战吼：造成等同于该随从攻击力的伤害，随机分配到所有敌人身上。",
-        "popularity": 548
+        "popularity": 674
     },
     {
         "id": 38859,
@@ -13134,7 +13134,7 @@
         "health": 3,
         "name": "邪灵召唤师",
         "description": "战吼：使你的克苏恩获得+2/+2（无论它在手牌、牌库或是战场）。",
-        "popularity": 480
+        "popularity": 588
     },
     {
         "id": 38861,
@@ -13150,7 +13150,7 @@
         "classs": 4,
         "name": "克苏恩之刃",
         "description": "战吼：消灭一个随从。你的克苏恩会获得其攻击力和生命值（无论它在手牌、牌库或是战场）。",
-        "popularity": 51
+        "popularity": 58
     },
     {
         "id": 38863,
@@ -13165,7 +13165,7 @@
         "health": 2,
         "name": "克苏恩的侍从",
         "description": "圣盾，战吼：使你的克苏恩获得+2/+2（无论它在手牌、牌库或是战场）。",
-        "popularity": 337
+        "popularity": 436
     },
     {
         "id": 38864,
@@ -13180,7 +13180,7 @@
         "health": 4,
         "name": "暮光地卜师",
         "description": "嘲讽，战吼：使你的克苏恩获得嘲讽（无论它在手牌、牌库或是战场）。",
-        "popularity": 92
+        "popularity": 113
     },
     {
         "id": 38868,
@@ -13195,7 +13195,7 @@
         "health": 4,
         "name": "暮光尊者",
         "description": "在你的回合结束时，使你的克苏恩获得+1/+1（无论它在手牌、牌库或是战场）。",
-        "popularity": 413
+        "popularity": 496
     },
     {
         "id": 38873,
@@ -13210,7 +13210,7 @@
         "health": 6,
         "name": "上古之神先驱",
         "description": "在你的回合开始时，将一个法力值消耗为（10）点的随从从你的牌库置入你的手牌。",
-        "popularity": 42
+        "popularity": 40
     },
     {
         "id": 38876,
@@ -13226,7 +13226,7 @@
         "classs": 4,
         "name": "暗影施法者",
         "description": "战吼：复制一个友方随从，并将其置入你的手牌。该随从为1/1，且法力值消耗为（1）点。",
-        "popularity": 88
+        "popularity": 108
     },
     {
         "id": 38875,
@@ -13258,7 +13258,7 @@
         "classs": 11,
         "name": "黑暗鸦人",
         "description": "嘲讽，战吼：使你的克苏恩获得+3/+3（无论它在手牌、牌库或是战场）。",
-        "popularity": 169
+        "popularity": 203
     },
     {
         "id": 38888,
@@ -13273,7 +13273,7 @@
         "health": 4,
         "name": "邪教药剂师",
         "description": "战吼：每有一个敌方随从，便为你的英雄恢复2点生命值。",
-        "popularity": 66
+        "popularity": 85
     },
     {
         "id": 38895,
@@ -13305,7 +13305,7 @@
         "classs": 1,
         "name": "上古之神护卫",
         "description": "战吼：如果你的克苏恩具有至少10点攻击力，则获得10点护甲值。",
-        "popularity": 95
+        "popularity": 120
     },
     {
         "id": 38898,
@@ -13321,7 +13321,7 @@
         "collectible": 1,
         "name": "渡魂者",
         "description": "每当一个友方随从死亡时，使你的克苏恩获得+1/+1（无论它在手牌、牌库或是战场）。",
-        "popularity": 33
+        "popularity": 56
     },
     {
         "id": 38900,
@@ -13337,7 +13337,7 @@
         "classs": 8,
         "name": "邪教女巫",
         "description": "法术伤害+1 在你施放一个法术后，使你的克苏恩获得+1/+1（无论它在手牌、牌库或是战场）。",
-        "popularity": 56
+        "popularity": 85
     },
     {
         "id": 38909,
@@ -13354,7 +13354,7 @@
         "race": 20,
         "name": "巨型沙虫",
         "description": "每当该随从攻击并消灭一个随从，便可再次攻击。",
-        "popularity": 14
+        "popularity": 15
     },
     {
         "id": 38910,
@@ -13372,7 +13372,7 @@
         "race": 20,
         "name": "哈霍兰公主",
         "description": "战吼：触发一个友方随从的亡语效果。",
-        "popularity": 88
+        "popularity": 105
     },
     {
         "id": 38911,
@@ -13388,7 +13388,7 @@
         "classs": 2,
         "name": "夜色镇执法官",
         "description": "每当你召唤一个生命值为1的随从，便使其获得圣盾。",
-        "popularity": 69
+        "popularity": 96
     },
     {
         "id": 38913,
@@ -13402,7 +13402,7 @@
         "classs": 2,
         "name": "黑暗曙光",
         "description": "发现一张随从牌。 使其获得+1/+1。",
-        "popularity": 23
+        "popularity": 29
     },
     {
         "id": 38914,
@@ -13419,7 +13419,7 @@
         "race": 23,
         "name": "恩佐斯的副官",
         "description": "战吼：装备一把1/3的锈蚀铁钩。",
-        "popularity": 42
+        "popularity": 68
     },
     {
         "id": 38916,
@@ -13436,7 +13436,7 @@
         "race": 20,
         "name": "腐化灰熊",
         "description": "在你召唤一个随从后，使其获得+1/+1。",
-        "popularity": 25
+        "popularity": 28
     },
     {
         "id": 38918,
@@ -13450,7 +13450,7 @@
         "classs": 1,
         "name": "化血为脓",
         "description": "对一个随从造成1点伤害，如果它依然存活，则召唤一个2/2的泥浆怪。",
-        "popularity": 53
+        "popularity": 120
     },
     {
         "id": 38920,
@@ -13467,7 +13467,7 @@
         "race": 23,
         "name": "血帆教徒",
         "description": "战吼：如果你控制任何海盗，你的武器便获得+1/+1。",
-        "popularity": 38
+        "popularity": 59
     },
     {
         "id": 38922,
@@ -13501,7 +13501,7 @@
         "elite": 1,
         "name": "黑龙领主死亡之翼",
         "description": "亡语：将你手牌中所有的龙牌置入战场。",
-        "popularity": 65
+        "popularity": 79
     },
     {
         "id": 38944,
@@ -13517,7 +13517,7 @@
         "elite": 1,
         "name": "艾尔文灾星霍格",
         "description": "每当该随从受到伤害时，召唤一个2/2并具有嘲讽的豺狼人。",
-        "popularity": 30
+        "popularity": 45
     },
     {
         "id": 38957,
@@ -13548,7 +13548,7 @@
         "health": 6,
         "name": "疯狂的信徒",
         "description": "嘲讽。每当该随从受到伤害时，使你的克苏恩获得+1/+1（无论它在手牌、牌库或是战场）。",
-        "popularity": 197
+        "popularity": 245
     },
     {
         "id": 38960,
@@ -13564,7 +13564,7 @@
         "race": 23,
         "name": "黑水海盗",
         "description": "你的武器法力值消耗减少（2）点。",
-        "popularity": 21
+        "popularity": 30
     },
     {
         "id": 38961,
@@ -13579,7 +13579,7 @@
         "health": 2,
         "name": "被感染的贮藏者",
         "description": "亡语：抽一张牌。",
-        "popularity": 37
+        "popularity": 44
     },
     {
         "id": 38985,
@@ -13595,7 +13595,7 @@
         "classs": 3,
         "race": 20,
         "name": "腐肉虫",
-        "popularity": 14
+        "popularity": 27
     },
     {
         "id": 39002,
@@ -13625,7 +13625,7 @@
         "health": 4,
         "name": "裂地触须",
         "description": "嘲讽",
-        "popularity": 13
+        "popularity": 19
     },
     {
         "id": 39008,
@@ -13641,7 +13641,7 @@
         "classs": 7,
         "name": "进化之主",
         "description": "战吼：将一个友方随从随机变形成为一个法力值消耗增加（1）点的随从。",
-        "popularity": 131
+        "popularity": 175
     },
     {
         "id": 39026,
@@ -13657,7 +13657,7 @@
         "classs": 4,
         "name": "幽暗城商贩",
         "description": "亡语：随机将一张（你的对手职业的）职业卡牌加入你的手牌。",
-        "popularity": 105
+        "popularity": 129
     },
     {
         "id": 39033,
@@ -13673,7 +13673,7 @@
         "classs": 5,
         "name": "兜帽侍僧",
         "description": "每当一个角色获得治疗时，使你的克苏恩获得+1/+1（无论它在手牌、牌库或是战场）。",
-        "popularity": 80
+        "popularity": 101
     },
     {
         "id": 39034,
@@ -13689,7 +13689,7 @@
         "classs": 5,
         "name": "变幻之影",
         "description": "亡语：复制对手牌库中的一张牌，并将其置入你的手牌。",
-        "popularity": 61
+        "popularity": 97
     },
     {
         "id": 39041,
@@ -13704,7 +13704,7 @@
         "health": 3,
         "name": "巨型独眼怪",
         "description": "嘲讽，战吼：每有一个敌方随从，便获得+1生命值。",
-        "popularity": 45
+        "popularity": 55
     },
     {
         "id": 39046,
@@ -13720,7 +13720,7 @@
         "health": 4,
         "name": "阴暗渔夫纳特",
         "description": "你的对手在回合开始时，有50%的几率额外抽一张牌。",
-        "popularity": 12
+        "popularity": 17
     },
     {
         "id": 39118,
@@ -13735,7 +13735,7 @@
         "health": 6,
         "name": "斯克拉姆狂热者",
         "description": "战吼：使你的克苏恩获得+2/+2（无论它在手牌、牌库或是战场）。",
-        "popularity": 111
+        "popularity": 120
     },
     {
         "id": 39119,
@@ -13751,6 +13751,6 @@
         "health": 9,
         "name": "深渊滑行者索苟斯",
         "description": "嘲讽 无法成为法术或英雄技能的目标。",
-        "popularity": 26
+        "popularity": 33
     }
 ]
