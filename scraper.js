@@ -1,14 +1,17 @@
-var cheerio = require('cheerio');
+var cheerio = require('cheerio'),
+    _ = require('lodash');
 
-exports.getSoundsJSON = function (html, callbackScraper) {
+exports.getSounds = function (html, callbackScraper) {
 
     var obj = {
         sounds: []
     };
 
     var $ = cheerio.load(html);
-    
+
     var id = 0;
+
+    obj.name = $('.heading-size-1').first().text();
     $('#sounds').find('audio').each(function (i) {
         id += 1;
         obj.sounds.push({
@@ -34,24 +37,25 @@ exports.getSoundsJSON = function (html, callbackScraper) {
     });
 
 
-    callbackScraper(JSON.stringify(obj, null, 4));
+    callbackScraper(obj);
 };
 
+exports.getAllMinions = function (html, callbackScraper) {
+    var $ = cheerio.load(html),
+        rawScript = $('script:contains(\'var hearthstoneCards\')').text(),
+        regex = /\[(.*?)\];/,
+        resultRegex = regex.exec(rawScript),
+        data,
+        minions;
 
-exports.getAllDataJSON = function (html, callbackScraper) {
-    var $ = cheerio.load(html);
-    var rawScript = $('script:contains(\'var hearthstoneCards\')').text();
-    var regex = /\[(.*?)\];/;
-    var resultRegex = regex.exec(rawScript);    
-    var data;
-    
     if (typeof resultRegex !== 'undefined' && resultRegex !== null) {
         data = JSON.parse(resultRegex[0]
             .slice(0, -1) // Remove last ';'
             .replace(new RegExp('popularity', 'g'), '"popularity"') // Replace popularity to "popularity" (JSON format)
         );
+        minions = _.map(_.filter(data, { 'type': 4 }), function (o) {
+            return _.pick(o, ['id', 'image']);
+        });
     }
-
-
-    callbackScraper(JSON.stringify(data, null, 4));
+    callbackScraper(minions);
 };

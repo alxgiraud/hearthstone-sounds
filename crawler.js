@@ -15,7 +15,7 @@ exports.getHtml = function (options, onResult, subdomain) {
     });
 
     req.on('error', function (err) {
-        onResult(500, err, subdomain);
+        onResult(500, err);
     });
 
     req.end();

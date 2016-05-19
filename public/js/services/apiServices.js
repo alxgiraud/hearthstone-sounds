@@ -5,14 +5,11 @@ define(['app'], function (app) {
         var urlBase = '/api';
 
         return {
-            getUserLanguage: function () {
-                return $http.get(urlBase + '/language');
+            getMinions: function (language) {
+                return $http.get(urlBase + '/minions/' + language);
             },
-            getData: function (language) {
-                return $http.get('../data/data-' + language + '.json');
-            },
-            getCard: function (id, language) {
-                return $http.get(urlBase + '/card/' + id + '/' + language);
+            getSounds: function (id, language) {
+                return $http.get(urlBase + '/sounds/' + id + '/' + language);
             }
         };
     }]);

@@ -1,6 +1,7 @@
 var express = require('express'),
     fs = require('fs'),
     morgan = require('morgan'),
+    _ = require('lodash'),
 
     crawler = require('./crawler'),
     scraper = require('./scraper'),
@@ -14,70 +15,90 @@ app.set('view engine', 'html');
 app.use(express.static(__dirname + '/public'));
 app.use(morgan('dev'));
 
-
-app.get('/api/language', function (req, res) {
-    var language = req.acceptsLanguages('es', 'zh', 'de', 'fr', 'it', 'ko', 'pt', 'ru', 'cn');
-
-    if (language === 'zh') {
-        language = 'cn';
-    }
-
-    if (!language) {
-        language = 'www';
-    }
-
-    res.send(language)
+app.get('/api/minions/:sub', function (req, res) {
+    var data = JSON.parse(fs.readFileSync('data/data.json', 'utf8'));
+    res.send(_.flatMap(data, item =>
+        _(item.values)
+        .filter({ sub: req.params.sub })
+        .map(v => ({ id: item.id, image: item.image, name: v.name }))
+        .value()
+    ));
 });
 
-
-app.get('/api/card/:id/:sub', function (req, res) {
-    function callbackCrawler(statusCode, result) {
-        res.statusCode = statusCode;
-
-        if (statusCode !== 200) {
-            res.send(result);
-        } else {
-            scraper.getSoundsJSON(result, function (json) {
-                res.send(json);
-            });
-        }
-    }
-
-    config.setSubdomain(req.params.sub);
-    config.path = '/card=' + req.params.id;
-
-    crawler.getHtml(config, callbackCrawler);
-
+app.get('/api/sounds/:id/:sub', function (req, res) {
+    var data = JSON.parse(fs.readFileSync('data/data.json', 'utf8'));
+    var minion = _.head(_.filter(data, { id: parseInt(req.params.id, 10) }));
+    res.send(_.head(_.filter(minion.values, { sub: req.params.sub })));    
 });
+
 
 app.get('/refresh', function (req, res) {
+    var data = [];
 
-    function callbackCrawler(statusCode, result, subdomain) {
-        completedRequests += 1;
-        if (completedRequests >= subdomains.length) {
-            res.send('Refresh completed');
-        }
-        res.statusCode = statusCode;
+    var helper = {
 
-        if (statusCode !== 200) {
-            completedRequests = subdomain.length;
-        } else {
-            scraper.getAllDataJSON(result, function (json) {
-                fs.writeFile('./public/data/data-' + subdomain + '.json', json);
+        callbackCardCrawler: function (statusCode, result) {
+            if (statusCode !== 200) {
+                res.send('Refresh Failed: callbackIdCrawler (' + statusCode + ')');
+            }
+            scraper.getAllMinions(result, function (res) {
+                i = 0;
+                helper.getMinion(i, res);
             });
-        }
-    }
+        },
 
-    var subdomains = ['www', 'fr', 'de', 'es', 'it', 'pt', 'ru', 'ko', 'cn'];
-    var completedRequests = 0;
+        getMinion: function (i, data) {
+            if (i >= data.length) {
+                fs.writeFile('data-debug/data.json', JSON.stringify(data));
+
+                console.log('Refresh completed: ' + i + ' minions inserted');
+                res.send('Refresh completed: ' + i + ' minions inserted');
+            } else {
+                var minion = data[i];
+                data[i].values = [];
+                config.path = '/card=' + minion.id;
+
+                var subdomains = ['www', 'fr', 'de', 'es', 'it', 'pt', 'ru', 'ko', 'cn'];
+                var completedRequests = 0;
+
+                for (var j = 0; j < subdomains.length; j += 1) {
+                    config.setSubdomain(subdomains[j]);
+                    crawler.getHtml(config, function (statusCode, result, subdomain) {
+
+                        res.statusCode = statusCode;
+
+                        if (statusCode !== 200) {
+                            res.send('Error: getMinion (' + i + ')');
+
+                        } else {
+                            scraper.getSounds(result, function (soundsObject) {
+                                data[i].values.push({
+                                    sub: subdomain,
+                                    name: soundsObject.name,
+                                    sounds: soundsObject.sounds
+                                });
+
+                                completedRequests += 1;
+                                if (completedRequests >= subdomains.length) {
+                                    console.log('All sounds added for minion: ' + data[i].id);
+                                    i += 1;
+                                    helper.getMinion(i, data);
+                                }
+                            });
+                        }
+                    }, subdomains[j]);
+                }
+            }
+        }
+    };
 
     config.path = '/cards';
+    config.setSubdomain('www');
+    crawler.getHtml(config, helper.callbackCardCrawler);
 
-    for (var i = 0; i < subdomains.length; i += 1) {
-        config.setSubdomain(subdomains[i]);
-        crawler.getHtml(config, callbackCrawler, subdomains[i]);
-    }
 });
+
+
 
 var port = process.env.PORT || 8080;
 app.listen(port, function () {

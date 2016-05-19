@@ -6,7 +6,7 @@
     <!-- Search bar with random and language buttons -->
     <div class="row" id="search-bar">
         <div class="col-xs-6 col-md-7">
-            <input type="text" ng-model="selectedMinion" placeholder="Search the sounds..." uib-typeahead="minion as minion.name for minion in minions | filter:{name:$viewValue} | limitTo:10" class="form-control" typeahead-show-hint="true" typeahead-min-length="0" typeahead-editable="false" typeahead-on-select="onSelectMinion($model)" ng-disabled="!dataLoaded">
+            <input type="text" ng-model="selectedMinion" placeholder="Search the sounds..." uib-typeahead="minion as minion.name for minion in minions | filter:{name:$viewValue} | limitTo:10" class="form-control" typeahead-show-hint="true" typeahead-min-length="0" typeahead-editable="false" typeahead-on-select="onSelectMinion($model.id)" ng-disabled="!dataLoaded">
         </div>
         <div class="col-xs-6 col-md-5">
             <button type="button" class="btn btn-default pull-left" ng-click="onClickRandom()" ng-disabled="loaderSound || !dataLoaded">
@@ -15,11 +15,11 @@
 
             <div class="btn-group" uib-dropdown>
                 <button type="button" class="btn btn-default" uib-dropdown-toggle ng-disabled="loaderSound">
-                    <img ng-src="../img/flag-{{ selectedLanguage.abv }}.png" alt="flag country" /> <span class="hidden-language">{{ selectedLanguage.label }}</span> <span class="caret"></span>
+                    <img ng-src="../img/flag-{{ selectedLanguage.sub }}.png" alt="flag country" /> <span class="hidden-language">{{ selectedLanguage.label }}</span> <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu" uib-dropdown-menu role="menu" aria-labelledby="single-button">
                     <li role="menuitem" ng-repeat="language in languages">
-                        <a href ng-click="onSelectLanguage(language)"> <img ng-src="../img/flag-{{ language.abv }}.png" /> {{ language.label }}</a>
+                        <a href ng-click="onSelectLanguage(language)"> <img ng-src="../img/flag-{{ language.sub }}.png" /> {{ language.label }}</a>
                     </li>
                 </ul>
             </div>

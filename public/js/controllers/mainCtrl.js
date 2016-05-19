@@ -1,92 +1,118 @@
 /*global define, angular, _, audiojs*/
 define(['app', 'services/apiServices'], function (app) {
     'use strict';
-    app.controller('MainCtrl', ['$scope', 'apiServices', 'ngAudio', function ($scope, apiServices, ngAudio) {
+    app.controller('MainCtrl', ['$scope', '$window', 'apiServices', 'ngAudio', function ($scope, $window, apiServices, ngAudio) {
                 
         function init() {
-            apiServices.getUserLanguage()
-                .success(function (userLanguage) {
-                    var language = _.head(_.filter($scope.languages, { abv: userLanguage }));
-                    $scope.selectedLanguage = (typeof language !== 'undefined') ? language : $scope.languages[0];
-                    loadData();
+            $scope.selectedLanguage = getUserLanguage();
+            loadMinions();
+        }
+        
+        function getUserLanguage() {
+            var navigatorLanguage = $window.navigator.language || $window.navigator.userLanguage,
+                sub;
+            console.log(navigatorLanguage)
+
+            if (!navigatorLanguage.lastIndexOf('fr', 0)) {
+                sub = 'fr';
+            } else if (!navigatorLanguage.lastIndexOf('de', 0)) {
+                sub = 'de';
+            } else if (!navigatorLanguage.lastIndexOf('es', 0)) {
+                sub = 'es';
+            } else if (!navigatorLanguage.lastIndexOf('it', 0)) {
+                sub = 'it';
+            } else if (!navigatorLanguage.lastIndexOf('pt', 0)) {
+                sub = 'pt'
+            } else if (!navigatorLanguage.lastIndexOf('ru', 0)) {
+                sub = 'ru'
+            } else if (!navigatorLanguage.lastIndexOf('zh', 0)) {
+                sub = 'cn'
+            } else if (navigatorLanguage === 'ko') {
+                sub = 'ko';
+            } else {
+                sub = 'www';
+            }
+            return _.head(_.filter($scope.languages, { sub: sub }));
+        }
+        
+        function loadMinions() {
+            $scope.dataLoaded = false;
+            apiServices.getMinions($scope.selectedLanguage.sub)
+                .success(function (minions) {
+                    $scope.minions = minions;
+                    $scope.dataLoaded = true;
+                
+                    if (typeof $scope.selectedMinion !== 'undefined') {
+                        $scope.selectedMinion = _.head(_.filter(minions, { id: $scope.selectedMinion.id }));
+                        $scope.onSelectMinion($scope.selectedMinion.id);
+                    }
+                
                 })
                 .error(function (error) {
                     $scope.error = error;
                 });
         }
         
-        function loadData() {
-            $scope.dataLoaded = false;
-            apiServices.getData($scope.selectedLanguage.abv)
-                .success(function (result) {
-                    var minionsAllData = _.filter(result, { 'type': 4 });
-                    $scope.minions = _.map(minionsAllData, function (o) { return _.pick(o, ['id', 'image', 'name']); });
-                    $scope.dataLoaded = true;
-                })
-                .error(function (error) {
-                    $scope.error = error;
-                });
+        function setPathImage() {
+            switch ($scope.selectedLanguage.sub) {
+                case 'pt':
+                    $scope.pathPicsLanguage = 'ptbr';
+                    break;
+                case 'cn':
+                    $scope.pathPicsLanguage = 'zhcn';
+                    break;
+                case 'ko':
+                case 'www':
+                    $scope.pathPicsLanguage = 'enus';
+                    break;
+                default:
+                    $scope.pathPicsLanguage = $scope.selectedLanguage.sub + $scope.selectedLanguage.sub;
+            }
         }
         
         $scope.audio = [];
         
         $scope.languages = [
-            { label: 'English', abv: 'www' },
-            { label: 'Français', abv: 'fr' },
-            { label: 'Deutsch', abv: 'de' },
-            { label: 'Español', abv: 'es' },
-            { label: 'Italiano', abv: 'it' },
-            { label: 'Português Brasileiro', abv: 'pt' },
-            { label: 'Русский', abv: 'ru' },
-            { label: '한국어', abv: 'ko' },
-            { label: '简体中文', abv: 'cn' }
+            { label: 'English', sub: 'www' },
+            { label: 'Français', sub: 'fr' },
+            { label: 'Deutsch', sub: 'de' },
+            { label: 'Español', sub: 'es' },
+            { label: 'Italiano', sub: 'it' },
+            { label: 'Português Brasileiro', sub: 'pt' },
+            { label: 'Русский', sub: 'ru' },
+            { label: '한국어', sub: 'ko' },
+            { label: '简体中文', sub: 'cn' }
         ];
         
         $scope.onSelectLanguage = function (language) {
             $scope.selectedLanguage = language;
-            loadData();
+            loadMinions();
         };
         
-        $scope.onSelectMinion = function ($model) {
+        $scope.onSelectMinion = function (id) {
             $scope.loaderSound = true;
-            
-            if ($model.hasOwnProperty('id')) {
-                apiServices.getCard($model.id, $scope.selectedLanguage.abv)
-                    .success(function (result) {
-                        $scope.loaderSound = false;
-                        $scope.sounds = result.sounds;
-                        
-                        _.forEach(result.sounds, function (sound) {
-                            _.forEach(_.filter(sound.sources, { extension: '.mp3' }), function (mp3) {
-                                $scope.audio[sound.id] = ngAudio.load(mp3.src);
-                            });
+            apiServices.getSounds(id, $scope.selectedLanguage.sub)
+                .success(function (result) {
+                    $scope.loaderSound = false;
+                    $scope.sounds = result.sounds;
+
+                    setPathImage();
+
+                    _.forEach(result.sounds, function (sound) {
+                        _.forEach(_.filter(sound.sources, { extension: '.mp3' }), function (mp3) {
+                            $scope.audio[sound.id] = ngAudio.load(mp3.src);
                         });
-                    
-                        switch ($scope.selectedLanguage.abv) {
-                        case 'pt':
-                            $scope.pathPicsLanguage = 'ptbr';
-                            break;
-                        case 'cn':
-                            $scope.pathPicsLanguage = 'zhcn';
-                            break;
-                        case 'ko':
-                        case 'www':
-                            $scope.pathPicsLanguage = 'enus';
-                            break;
-                        default:
-                            $scope.pathPicsLanguage = $scope.selectedLanguage.abv + $scope.selectedLanguage.abv;
-                        }
-                    })
-                    .error(function (error) {
-                        $scope.error = error;
                     });
-            }
+                })
+                .error(function (error) {
+                    $scope.error = error;
+                });
         };
         
         $scope.onClickRandom = function () {
             var randomMinion = _.sample($scope.minions);
             $scope.selectedMinion = randomMinion;
-            $scope.onSelectMinion(randomMinion);
+            $scope.onSelectMinion(randomMinion.id);
         };
                 
         $scope.stop = function (id) {
