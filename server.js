@@ -12,9 +12,9 @@ app.use(express.static(__dirname + '/public'));
 app.use(morgan('dev'));
 
 app.get('/api/minions/:sub', function (req, res) {
-    var data = JSON.parse(fs.readFileSync('data/data.json', 'utf8'));
-    if (data.length > 0) {
-        res.send(_.flatMap(data, item =>
+    var data = fs.readFileSync('data/data.json', 'utf8');
+    try {
+         res.send(_.flatMap(JSON.parse(data), item =>
             _(item.values)
             .filter({
                 sub: req.params.sub
@@ -26,8 +26,10 @@ app.get('/api/minions/:sub', function (req, res) {
             }))
             .value()
         ));
-    } else {
-        res.status(500).send('Something broke!');
+    }
+    catch (e) {
+        console.error(e);
+        res.status(500).send('Something broke! There\'s something wrong with these minions!')
     }
 });
 
