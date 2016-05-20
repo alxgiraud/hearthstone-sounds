@@ -11,7 +11,6 @@ define(['app', 'services/apiServices'], function (app) {
         function getUserLanguage() {
             var navigatorLanguage = $window.navigator.language || $window.navigator.userLanguage,
                 sub;
-            console.log(navigatorLanguage)
 
             if (!navigatorLanguage.lastIndexOf('fr', 0)) {
                 sub = 'fr';

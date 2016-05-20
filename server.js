@@ -88,14 +88,13 @@ app.get('/refresh', function (req, res) {
                                     name: soundsObject.name,
                                     sounds: soundsObject.sounds
                                 });
-                                console.log('[' + data[i].id + '] Add: ' + soundsObject.name + ' (' + subdomain + ')');
-                                fs.appendFile('data/logs.txt', '[' + data[i].id + '] Add: ' + soundsObject.name + ' (' + subdomain + ')\r\n');
 
                                 completedRequests += 1;
                                 if (completedRequests >= subdomains.length) {
-                                    console.log('----- All sounds added for minion: ' + data[i].id);
-                                    fs.appendFile('data/logs.txt', '----- All sounds added for minion: ' + data[i].id + '\r\n');
+                                    console.log('All sounds added for minion: ' + data[i].id);
+                                    fs.appendFile('data/logs.txt', 'All sounds added for minion: ' + data[i].id + '\r\n');
                                     i += 1;
+                                    
                                     helper.getMinion(i, data);
                                 }
                             });
@@ -108,7 +107,10 @@ app.get('/refresh', function (req, res) {
 
     config.path = '/cards';
     config.setSubdomain('www');
-    fs.writeFile('data/logs.txt', '----- Refresh logs ' + new Date().toDateString() + ' ' + new Date().toTimeString() + ' -----\r\n');
+    
+    fs.writeFile('data/logs.txt', '----- Refresh logs -----\r\n');
+    fs.appendFile('data/logs.txt', new Date().toDateString() + ' ' + new Date().toTimeString() + '\r\n');
+    
     crawler.getHtml(config, helper.callbackCardCrawler);
 
 });
