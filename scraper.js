@@ -40,7 +40,7 @@ exports.getSounds = function (html, callbackScraper) {
     callbackScraper(obj);
 };
 
-exports.getAllMinions = function (html, callbackScraper) {
+exports.getMinions = function (html, callbackScraper) {
     var $ = cheerio.load(html),
         rawScript = $('script:contains(\'var hearthstoneCards\')').text(),
         regex = /\[(.*?)\];/,

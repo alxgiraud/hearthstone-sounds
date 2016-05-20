@@ -110,8 +110,10 @@ define(['app', 'services/apiServices'], function (app) {
         
         $scope.onClickRandom = function () {
             var randomMinion = _.sample($scope.minions);
-            $scope.selectedMinion = randomMinion;
-            $scope.onSelectMinion(randomMinion.id);
+            if (typeof randomMinion !== 'undefined') {
+                $scope.selectedMinion = randomMinion;
+                $scope.onSelectMinion(randomMinion.id);
+            }
         };
                 
         $scope.stop = function (id) {
