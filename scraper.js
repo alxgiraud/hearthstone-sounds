@@ -53,9 +53,9 @@ exports.getAllMinions = function (html, callbackScraper) {
             .slice(0, -1) // Remove last ';'
             .replace(new RegExp('popularity', 'g'), '"popularity"') // Replace popularity to "popularity" (JSON format)
         );
-        minions = _.take(_.map(_.filter(data, { 'type': 4 }), function (o) {
+        minions = _.map(_.filter(data, { 'type': 4 }), function (o) {
             return _.pick(o, ['id', 'image']);
-        }), 3);
+        });
     }
     callbackScraper(minions);
 };
