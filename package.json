@@ -1,16 +1,16 @@
 {
-    "name": "hearthstone-sounds",
-    "version": "0.0.1",
-    "description": "Hearhtstone's sounds finder",
-    "main": "server.js",
-    "author": "A. Giraud",
-    "dependencies": {
-        "express": "latest",
-        "cheerio": "latest",
-        "morgan": "latest"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/alxgiraud/hearthstone-sounds.git"
-    }
+  "name": "hearthstone-sounds",
+  "version": "0.0.1",
+  "description": "Hearhtstone's sounds finder",
+  "main": "server.js",
+  "author": "A. Giraud",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.12.0",
+    "morgan": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alxgiraud/hearthstone-sounds.git"
+  }
 }
