@@ -53,10 +53,10 @@
                                 {{ sound.event }}
                             </div>
                             <div class="col-md-10">
-                                <button ng-click="audio[sound.id].play()" class="btn btn-default">
+                                <button ng-click="audio[sound.id].play()" class="btn btn-default" ng-disabled="!audio[sound.id].canPlay">
                                     <i class="fa fa-play" aria-hidden="true"></i> <span class="hidden-xs">Play</span>
                                 </button>
-                                <button ng-click="stop(sound.id)" class="btn btn-danger player-button">
+                                <button ng-click="stop(sound.id)" class="btn btn-danger player-button" ng-disabled="!audio[sound.id].canPlay">
                                     <i class="fa fa-stop" aria-hidden="true"></i> <span class="hidden-xs">Stop</span>
                                 </button>
                                 <div class="btn-group" uib-dropdown>
